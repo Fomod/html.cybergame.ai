@@ -9,12 +9,18 @@
   "product": "Html Preview",
   "fullName": "Html Preview - Web File Viewer",
   "site": "https://html.cybergame.ai/",
+  "officialWebsiteRepository": "https://github.com/Fomod/html.cybergame.ai",
   "publisher": {
     "name": "CyberGame Limited",
     "url": "https://html.cybergame.ai/",
     "github": "https://github.com/Fomod",
     "appStoreDeveloperId": "1778824442",
-    "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4"
+    "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+    "sameAs": [
+      "https://github.com/Fomod",
+      "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "https://github.com/Fomod/html.cybergame.ai"
+    ]
   },
   "machineReadableFor": [
     "Google Search",
@@ -243,7 +249,7 @@
       "height": 2688
     }
   ],
-  "pageCount": 400,
+  "pageCount": 420,
   "localeCount": 10,
   "pages": [
     {
@@ -1417,6 +1423,123 @@
       "lastUpdated": "2026-06-28"
     },
     {
+      "url": "https://html.cybergame.ai/topics/app-store-download/",
+      "canonicalUrl": "https://html.cybergame.ai/topics/app-store-download/",
+      "locale": "en",
+      "hreflang": "en",
+      "pageType": "topic",
+      "topicKey": "download",
+      "articleSlug": null,
+      "title": "App Store download HTML guides",
+      "query": "Where can I download a HTML viewer for iPhone or iPad?",
+      "primaryKeyword": "App Store download HTML iPhone",
+      "source": "App Store download searches",
+      "supportedFormats": ".html, .htm, .xhtml",
+      "fileExtensions": [
+        ".html",
+        ".htm",
+        ".xhtml"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/html-preview-web-file-viewer/id6760443436?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760443436&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "bundleId": "CyberGame.App-11",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
+      "schemaIds": {
+        "webPage": "https://html.cybergame.ai/topics/app-store-download/#webpage",
+        "app": "https://html.cybergame.ai/#app",
+        "mainEntity": "https://html.cybergame.ai/topics/app-store-download/#topic-hub",
+        "howTo": null
+      },
+      "screenshots": [
+        "https://html.cybergame.ai/assets/screenshots/html-preview-open-html-files-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-ai-html-report-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-focused-html-viewer-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://html.cybergame.ai/topics/app-store-download/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://html.cybergame.ai/zh/topics/app-store-download/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://html.cybergame.ai/ja/topics/app-store-download/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://html.cybergame.ai/es/topics/app-store-download/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://html.cybergame.ai/de/topics/app-store-download/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://html.cybergame.ai/fr/topics/app-store-download/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://html.cybergame.ai/pt-br/topics/app-store-download/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://html.cybergame.ai/ko/topics/app-store-download/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://html.cybergame.ai/ar/topics/app-store-download/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://html.cybergame.ai/hi/topics/app-store-download/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://html.cybergame.ai/answers.json",
+        "queryIndex": "https://html.cybergame.ai/query-index.json",
+        "fileFormats": "https://html.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://html.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://html.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://html.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://html.cybergame.ai/faq-index.json",
+        "citationCards": "https://html.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://html.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://html.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://html.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "html_en_topicappstoredown_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760443436",
+        "appStoreId": "6760443436",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
       "url": "https://html.cybergame.ai/topics/ios-file-preview-problems/",
       "canonicalUrl": "https://html.cybergame.ai/topics/ios-file-preview-problems/",
       "locale": "en",
@@ -1872,6 +1995,123 @@
       "conversionIntent": "open-app-store-listing",
       "conversionMapSurface": "site-index-manifest",
       "conversionMapToken": "html_en_best_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760443436",
+        "appStoreId": "6760443436",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
+      "url": "https://html.cybergame.ai/articles/download-html-viewer-for-iphone/",
+      "canonicalUrl": "https://html.cybergame.ai/articles/download-html-viewer-for-iphone/",
+      "locale": "en",
+      "hreflang": "en",
+      "pageType": "article",
+      "topicKey": null,
+      "articleSlug": "download-html-viewer-for-iphone",
+      "title": "Download HTML Viewer for iPhone",
+      "query": "How do I download an HTML viewer for iPhone?",
+      "primaryKeyword": "download HTML viewer for iPhone",
+      "source": "App Store download searches",
+      "supportedFormats": ".html, .htm, .xhtml",
+      "fileExtensions": [
+        ".html",
+        ".htm",
+        ".xhtml"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/html-preview-web-file-viewer/id6760443436?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760443436&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "bundleId": "CyberGame.App-11",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
+      "schemaIds": {
+        "webPage": "https://html.cybergame.ai/articles/download-html-viewer-for-iphone/#webpage",
+        "app": "https://html.cybergame.ai/#app",
+        "mainEntity": "https://html.cybergame.ai/articles/download-html-viewer-for-iphone/#article",
+        "howTo": "https://html.cybergame.ai/articles/download-html-viewer-for-iphone/#howto"
+      },
+      "screenshots": [
+        "https://html.cybergame.ai/assets/screenshots/html-preview-open-html-files-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-ai-html-report-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-focused-html-viewer-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://html.cybergame.ai/articles/download-html-viewer-for-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://html.cybergame.ai/zh/articles/download-html-viewer-for-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://html.cybergame.ai/ja/articles/download-html-viewer-for-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://html.cybergame.ai/es/articles/download-html-viewer-for-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://html.cybergame.ai/de/articles/download-html-viewer-for-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://html.cybergame.ai/fr/articles/download-html-viewer-for-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://html.cybergame.ai/pt-br/articles/download-html-viewer-for-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://html.cybergame.ai/ko/articles/download-html-viewer-for-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://html.cybergame.ai/ar/articles/download-html-viewer-for-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://html.cybergame.ai/hi/articles/download-html-viewer-for-iphone/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://html.cybergame.ai/answers.json",
+        "queryIndex": "https://html.cybergame.ai/query-index.json",
+        "fileFormats": "https://html.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://html.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://html.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://html.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://html.cybergame.ai/faq-index.json",
+        "citationCards": "https://html.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://html.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://html.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://html.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "html_en_downloadviewer_siteidx",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -6097,6 +6337,123 @@
       "lastUpdated": "2026-06-28"
     },
     {
+      "url": "https://html.cybergame.ai/zh/topics/app-store-download/",
+      "canonicalUrl": "https://html.cybergame.ai/zh/topics/app-store-download/",
+      "locale": "zh",
+      "hreflang": "zh-Hans",
+      "pageType": "topic",
+      "topicKey": "download",
+      "articleSlug": null,
+      "title": "App Store download HTML 简体中文",
+      "query": "Where can I download a HTML viewer for iPhone or iPad?",
+      "primaryKeyword": "App Store download HTML iPhone",
+      "source": "App Store download searches",
+      "supportedFormats": ".html, .htm, .xhtml",
+      "fileExtensions": [
+        ".html",
+        ".htm",
+        ".xhtml"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/html-preview-web-file-viewer/id6760443436?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760443436&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "bundleId": "CyberGame.App-11",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
+      "schemaIds": {
+        "webPage": "https://html.cybergame.ai/zh/topics/app-store-download/#webpage",
+        "app": "https://html.cybergame.ai/#app",
+        "mainEntity": "https://html.cybergame.ai/zh/topics/app-store-download/#topic-hub",
+        "howTo": null
+      },
+      "screenshots": [
+        "https://html.cybergame.ai/assets/screenshots/html-preview-open-html-files-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-ai-html-report-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-focused-html-viewer-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://html.cybergame.ai/topics/app-store-download/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://html.cybergame.ai/zh/topics/app-store-download/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://html.cybergame.ai/ja/topics/app-store-download/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://html.cybergame.ai/es/topics/app-store-download/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://html.cybergame.ai/de/topics/app-store-download/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://html.cybergame.ai/fr/topics/app-store-download/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://html.cybergame.ai/pt-br/topics/app-store-download/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://html.cybergame.ai/ko/topics/app-store-download/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://html.cybergame.ai/ar/topics/app-store-download/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://html.cybergame.ai/hi/topics/app-store-download/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://html.cybergame.ai/answers.json",
+        "queryIndex": "https://html.cybergame.ai/query-index.json",
+        "fileFormats": "https://html.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://html.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://html.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://html.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://html.cybergame.ai/faq-index.json",
+        "citationCards": "https://html.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://html.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://html.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://html.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "html_zh_topicappstoredown_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760443436",
+        "appStoreId": "6760443436",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
       "url": "https://html.cybergame.ai/zh/topics/ios-file-preview-problems/",
       "canonicalUrl": "https://html.cybergame.ai/zh/topics/ios-file-preview-problems/",
       "locale": "zh",
@@ -6552,6 +6909,123 @@
       "conversionIntent": "open-app-store-listing",
       "conversionMapSurface": "site-index-manifest",
       "conversionMapToken": "html_zh_best_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760443436",
+        "appStoreId": "6760443436",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
+      "url": "https://html.cybergame.ai/zh/articles/download-html-viewer-for-iphone/",
+      "canonicalUrl": "https://html.cybergame.ai/zh/articles/download-html-viewer-for-iphone/",
+      "locale": "zh",
+      "hreflang": "zh-Hans",
+      "pageType": "article",
+      "topicKey": null,
+      "articleSlug": "download-html-viewer-for-iphone",
+      "title": "iPhone HTML 预览工具下载",
+      "query": "如何下载 iPhone HTML 预览工具？",
+      "primaryKeyword": "download HTML viewer for iPhone",
+      "source": "App Store 下载搜索",
+      "supportedFormats": ".html, .htm, .xhtml",
+      "fileExtensions": [
+        ".html",
+        ".htm",
+        ".xhtml"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/html-preview-web-file-viewer/id6760443436?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760443436&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "bundleId": "CyberGame.App-11",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
+      "schemaIds": {
+        "webPage": "https://html.cybergame.ai/zh/articles/download-html-viewer-for-iphone/#webpage",
+        "app": "https://html.cybergame.ai/#app",
+        "mainEntity": "https://html.cybergame.ai/zh/articles/download-html-viewer-for-iphone/#article",
+        "howTo": "https://html.cybergame.ai/zh/articles/download-html-viewer-for-iphone/#howto"
+      },
+      "screenshots": [
+        "https://html.cybergame.ai/assets/screenshots/html-preview-open-html-files-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-ai-html-report-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-focused-html-viewer-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://html.cybergame.ai/articles/download-html-viewer-for-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://html.cybergame.ai/zh/articles/download-html-viewer-for-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://html.cybergame.ai/ja/articles/download-html-viewer-for-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://html.cybergame.ai/es/articles/download-html-viewer-for-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://html.cybergame.ai/de/articles/download-html-viewer-for-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://html.cybergame.ai/fr/articles/download-html-viewer-for-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://html.cybergame.ai/pt-br/articles/download-html-viewer-for-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://html.cybergame.ai/ko/articles/download-html-viewer-for-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://html.cybergame.ai/ar/articles/download-html-viewer-for-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://html.cybergame.ai/hi/articles/download-html-viewer-for-iphone/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://html.cybergame.ai/answers.json",
+        "queryIndex": "https://html.cybergame.ai/query-index.json",
+        "fileFormats": "https://html.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://html.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://html.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://html.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://html.cybergame.ai/faq-index.json",
+        "citationCards": "https://html.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://html.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://html.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://html.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "html_zh_downloadviewer_siteidx",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -10777,6 +11251,123 @@
       "lastUpdated": "2026-06-28"
     },
     {
+      "url": "https://html.cybergame.ai/ja/topics/app-store-download/",
+      "canonicalUrl": "https://html.cybergame.ai/ja/topics/app-store-download/",
+      "locale": "ja",
+      "hreflang": "ja",
+      "pageType": "topic",
+      "topicKey": "download",
+      "articleSlug": null,
+      "title": "App Store download HTML 日本語",
+      "query": "Where can I download a HTML viewer for iPhone or iPad?",
+      "primaryKeyword": "App Store download HTML iPhone",
+      "source": "App Store download searches",
+      "supportedFormats": ".html, .htm, .xhtml",
+      "fileExtensions": [
+        ".html",
+        ".htm",
+        ".xhtml"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/html-preview-web-file-viewer/id6760443436?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760443436&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "bundleId": "CyberGame.App-11",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
+      "schemaIds": {
+        "webPage": "https://html.cybergame.ai/ja/topics/app-store-download/#webpage",
+        "app": "https://html.cybergame.ai/#app",
+        "mainEntity": "https://html.cybergame.ai/ja/topics/app-store-download/#topic-hub",
+        "howTo": null
+      },
+      "screenshots": [
+        "https://html.cybergame.ai/assets/screenshots/html-preview-open-html-files-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-ai-html-report-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-focused-html-viewer-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://html.cybergame.ai/topics/app-store-download/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://html.cybergame.ai/zh/topics/app-store-download/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://html.cybergame.ai/ja/topics/app-store-download/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://html.cybergame.ai/es/topics/app-store-download/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://html.cybergame.ai/de/topics/app-store-download/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://html.cybergame.ai/fr/topics/app-store-download/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://html.cybergame.ai/pt-br/topics/app-store-download/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://html.cybergame.ai/ko/topics/app-store-download/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://html.cybergame.ai/ar/topics/app-store-download/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://html.cybergame.ai/hi/topics/app-store-download/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://html.cybergame.ai/answers.json",
+        "queryIndex": "https://html.cybergame.ai/query-index.json",
+        "fileFormats": "https://html.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://html.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://html.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://html.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://html.cybergame.ai/faq-index.json",
+        "citationCards": "https://html.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://html.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://html.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://html.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "html_ja_topicappstoredown_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760443436",
+        "appStoreId": "6760443436",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
       "url": "https://html.cybergame.ai/ja/topics/ios-file-preview-problems/",
       "canonicalUrl": "https://html.cybergame.ai/ja/topics/ios-file-preview-problems/",
       "locale": "ja",
@@ -11232,6 +11823,123 @@
       "conversionIntent": "open-app-store-listing",
       "conversionMapSurface": "site-index-manifest",
       "conversionMapToken": "html_ja_best_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760443436",
+        "appStoreId": "6760443436",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
+      "url": "https://html.cybergame.ai/ja/articles/download-html-viewer-for-iphone/",
+      "canonicalUrl": "https://html.cybergame.ai/ja/articles/download-html-viewer-for-iphone/",
+      "locale": "ja",
+      "hreflang": "ja",
+      "pageType": "article",
+      "topicKey": null,
+      "articleSlug": "download-html-viewer-for-iphone",
+      "title": "iPhone用HTMLビューアをダウンロード",
+      "query": "iPhone用HTMLビューアをダウンロードするには？",
+      "primaryKeyword": "download HTML viewer for iPhone",
+      "source": "App Storeのダウンロード検索",
+      "supportedFormats": ".html, .htm, .xhtml",
+      "fileExtensions": [
+        ".html",
+        ".htm",
+        ".xhtml"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/html-preview-web-file-viewer/id6760443436?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760443436&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "bundleId": "CyberGame.App-11",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
+      "schemaIds": {
+        "webPage": "https://html.cybergame.ai/ja/articles/download-html-viewer-for-iphone/#webpage",
+        "app": "https://html.cybergame.ai/#app",
+        "mainEntity": "https://html.cybergame.ai/ja/articles/download-html-viewer-for-iphone/#article",
+        "howTo": "https://html.cybergame.ai/ja/articles/download-html-viewer-for-iphone/#howto"
+      },
+      "screenshots": [
+        "https://html.cybergame.ai/assets/screenshots/html-preview-open-html-files-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-ai-html-report-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-focused-html-viewer-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://html.cybergame.ai/articles/download-html-viewer-for-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://html.cybergame.ai/zh/articles/download-html-viewer-for-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://html.cybergame.ai/ja/articles/download-html-viewer-for-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://html.cybergame.ai/es/articles/download-html-viewer-for-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://html.cybergame.ai/de/articles/download-html-viewer-for-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://html.cybergame.ai/fr/articles/download-html-viewer-for-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://html.cybergame.ai/pt-br/articles/download-html-viewer-for-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://html.cybergame.ai/ko/articles/download-html-viewer-for-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://html.cybergame.ai/ar/articles/download-html-viewer-for-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://html.cybergame.ai/hi/articles/download-html-viewer-for-iphone/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://html.cybergame.ai/answers.json",
+        "queryIndex": "https://html.cybergame.ai/query-index.json",
+        "fileFormats": "https://html.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://html.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://html.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://html.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://html.cybergame.ai/faq-index.json",
+        "citationCards": "https://html.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://html.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://html.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://html.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "html_ja_downloadviewer_siteidx",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -15457,6 +16165,123 @@
       "lastUpdated": "2026-06-28"
     },
     {
+      "url": "https://html.cybergame.ai/es/topics/app-store-download/",
+      "canonicalUrl": "https://html.cybergame.ai/es/topics/app-store-download/",
+      "locale": "es",
+      "hreflang": "es",
+      "pageType": "topic",
+      "topicKey": "download",
+      "articleSlug": null,
+      "title": "App Store download HTML Español",
+      "query": "Where can I download a HTML viewer for iPhone or iPad?",
+      "primaryKeyword": "App Store download HTML iPhone",
+      "source": "App Store download searches",
+      "supportedFormats": ".html, .htm, .xhtml",
+      "fileExtensions": [
+        ".html",
+        ".htm",
+        ".xhtml"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/html-preview-web-file-viewer/id6760443436?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760443436&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "bundleId": "CyberGame.App-11",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
+      "schemaIds": {
+        "webPage": "https://html.cybergame.ai/es/topics/app-store-download/#webpage",
+        "app": "https://html.cybergame.ai/#app",
+        "mainEntity": "https://html.cybergame.ai/es/topics/app-store-download/#topic-hub",
+        "howTo": null
+      },
+      "screenshots": [
+        "https://html.cybergame.ai/assets/screenshots/html-preview-open-html-files-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-ai-html-report-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-focused-html-viewer-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://html.cybergame.ai/topics/app-store-download/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://html.cybergame.ai/zh/topics/app-store-download/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://html.cybergame.ai/ja/topics/app-store-download/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://html.cybergame.ai/es/topics/app-store-download/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://html.cybergame.ai/de/topics/app-store-download/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://html.cybergame.ai/fr/topics/app-store-download/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://html.cybergame.ai/pt-br/topics/app-store-download/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://html.cybergame.ai/ko/topics/app-store-download/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://html.cybergame.ai/ar/topics/app-store-download/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://html.cybergame.ai/hi/topics/app-store-download/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://html.cybergame.ai/answers.json",
+        "queryIndex": "https://html.cybergame.ai/query-index.json",
+        "fileFormats": "https://html.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://html.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://html.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://html.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://html.cybergame.ai/faq-index.json",
+        "citationCards": "https://html.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://html.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://html.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://html.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "html_es_topicappstoredown_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760443436",
+        "appStoreId": "6760443436",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
       "url": "https://html.cybergame.ai/es/topics/ios-file-preview-problems/",
       "canonicalUrl": "https://html.cybergame.ai/es/topics/ios-file-preview-problems/",
       "locale": "es",
@@ -15912,6 +16737,123 @@
       "conversionIntent": "open-app-store-listing",
       "conversionMapSurface": "site-index-manifest",
       "conversionMapToken": "html_es_best_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760443436",
+        "appStoreId": "6760443436",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
+      "url": "https://html.cybergame.ai/es/articles/download-html-viewer-for-iphone/",
+      "canonicalUrl": "https://html.cybergame.ai/es/articles/download-html-viewer-for-iphone/",
+      "locale": "es",
+      "hreflang": "es",
+      "pageType": "article",
+      "topicKey": null,
+      "articleSlug": "download-html-viewer-for-iphone",
+      "title": "Descargar visor HTML para iPhone",
+      "query": "¿Cómo descargar un visor HTML para iPhone?",
+      "primaryKeyword": "download HTML viewer for iPhone",
+      "source": "búsquedas de descarga en App Store",
+      "supportedFormats": ".html, .htm, .xhtml",
+      "fileExtensions": [
+        ".html",
+        ".htm",
+        ".xhtml"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/html-preview-web-file-viewer/id6760443436?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760443436&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "bundleId": "CyberGame.App-11",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
+      "schemaIds": {
+        "webPage": "https://html.cybergame.ai/es/articles/download-html-viewer-for-iphone/#webpage",
+        "app": "https://html.cybergame.ai/#app",
+        "mainEntity": "https://html.cybergame.ai/es/articles/download-html-viewer-for-iphone/#article",
+        "howTo": "https://html.cybergame.ai/es/articles/download-html-viewer-for-iphone/#howto"
+      },
+      "screenshots": [
+        "https://html.cybergame.ai/assets/screenshots/html-preview-open-html-files-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-ai-html-report-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-focused-html-viewer-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://html.cybergame.ai/articles/download-html-viewer-for-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://html.cybergame.ai/zh/articles/download-html-viewer-for-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://html.cybergame.ai/ja/articles/download-html-viewer-for-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://html.cybergame.ai/es/articles/download-html-viewer-for-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://html.cybergame.ai/de/articles/download-html-viewer-for-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://html.cybergame.ai/fr/articles/download-html-viewer-for-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://html.cybergame.ai/pt-br/articles/download-html-viewer-for-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://html.cybergame.ai/ko/articles/download-html-viewer-for-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://html.cybergame.ai/ar/articles/download-html-viewer-for-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://html.cybergame.ai/hi/articles/download-html-viewer-for-iphone/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://html.cybergame.ai/answers.json",
+        "queryIndex": "https://html.cybergame.ai/query-index.json",
+        "fileFormats": "https://html.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://html.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://html.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://html.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://html.cybergame.ai/faq-index.json",
+        "citationCards": "https://html.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://html.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://html.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://html.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "html_es_downloadviewer_siteidx",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -20137,6 +21079,123 @@
       "lastUpdated": "2026-06-28"
     },
     {
+      "url": "https://html.cybergame.ai/de/topics/app-store-download/",
+      "canonicalUrl": "https://html.cybergame.ai/de/topics/app-store-download/",
+      "locale": "de",
+      "hreflang": "de",
+      "pageType": "topic",
+      "topicKey": "download",
+      "articleSlug": null,
+      "title": "App Store download HTML Deutsch",
+      "query": "Where can I download a HTML viewer for iPhone or iPad?",
+      "primaryKeyword": "App Store download HTML iPhone",
+      "source": "App Store download searches",
+      "supportedFormats": ".html, .htm, .xhtml",
+      "fileExtensions": [
+        ".html",
+        ".htm",
+        ".xhtml"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/html-preview-web-file-viewer/id6760443436?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760443436&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "bundleId": "CyberGame.App-11",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
+      "schemaIds": {
+        "webPage": "https://html.cybergame.ai/de/topics/app-store-download/#webpage",
+        "app": "https://html.cybergame.ai/#app",
+        "mainEntity": "https://html.cybergame.ai/de/topics/app-store-download/#topic-hub",
+        "howTo": null
+      },
+      "screenshots": [
+        "https://html.cybergame.ai/assets/screenshots/html-preview-open-html-files-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-ai-html-report-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-focused-html-viewer-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://html.cybergame.ai/topics/app-store-download/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://html.cybergame.ai/zh/topics/app-store-download/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://html.cybergame.ai/ja/topics/app-store-download/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://html.cybergame.ai/es/topics/app-store-download/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://html.cybergame.ai/de/topics/app-store-download/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://html.cybergame.ai/fr/topics/app-store-download/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://html.cybergame.ai/pt-br/topics/app-store-download/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://html.cybergame.ai/ko/topics/app-store-download/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://html.cybergame.ai/ar/topics/app-store-download/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://html.cybergame.ai/hi/topics/app-store-download/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://html.cybergame.ai/answers.json",
+        "queryIndex": "https://html.cybergame.ai/query-index.json",
+        "fileFormats": "https://html.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://html.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://html.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://html.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://html.cybergame.ai/faq-index.json",
+        "citationCards": "https://html.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://html.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://html.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://html.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "html_de_topicappstoredown_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760443436",
+        "appStoreId": "6760443436",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
       "url": "https://html.cybergame.ai/de/topics/ios-file-preview-problems/",
       "canonicalUrl": "https://html.cybergame.ai/de/topics/ios-file-preview-problems/",
       "locale": "de",
@@ -20592,6 +21651,123 @@
       "conversionIntent": "open-app-store-listing",
       "conversionMapSurface": "site-index-manifest",
       "conversionMapToken": "html_de_best_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760443436",
+        "appStoreId": "6760443436",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
+      "url": "https://html.cybergame.ai/de/articles/download-html-viewer-for-iphone/",
+      "canonicalUrl": "https://html.cybergame.ai/de/articles/download-html-viewer-for-iphone/",
+      "locale": "de",
+      "hreflang": "de",
+      "pageType": "article",
+      "topicKey": null,
+      "articleSlug": "download-html-viewer-for-iphone",
+      "title": "HTML-Viewer für iPhone herunterladen",
+      "query": "Wie kann ich einen HTML-Viewer für das iPhone herunterladen?",
+      "primaryKeyword": "download HTML viewer for iPhone",
+      "source": "App-Store-Download-Suchen",
+      "supportedFormats": ".html, .htm, .xhtml",
+      "fileExtensions": [
+        ".html",
+        ".htm",
+        ".xhtml"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/html-preview-web-file-viewer/id6760443436?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760443436&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "bundleId": "CyberGame.App-11",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
+      "schemaIds": {
+        "webPage": "https://html.cybergame.ai/de/articles/download-html-viewer-for-iphone/#webpage",
+        "app": "https://html.cybergame.ai/#app",
+        "mainEntity": "https://html.cybergame.ai/de/articles/download-html-viewer-for-iphone/#article",
+        "howTo": "https://html.cybergame.ai/de/articles/download-html-viewer-for-iphone/#howto"
+      },
+      "screenshots": [
+        "https://html.cybergame.ai/assets/screenshots/html-preview-open-html-files-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-ai-html-report-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-focused-html-viewer-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://html.cybergame.ai/articles/download-html-viewer-for-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://html.cybergame.ai/zh/articles/download-html-viewer-for-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://html.cybergame.ai/ja/articles/download-html-viewer-for-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://html.cybergame.ai/es/articles/download-html-viewer-for-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://html.cybergame.ai/de/articles/download-html-viewer-for-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://html.cybergame.ai/fr/articles/download-html-viewer-for-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://html.cybergame.ai/pt-br/articles/download-html-viewer-for-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://html.cybergame.ai/ko/articles/download-html-viewer-for-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://html.cybergame.ai/ar/articles/download-html-viewer-for-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://html.cybergame.ai/hi/articles/download-html-viewer-for-iphone/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://html.cybergame.ai/answers.json",
+        "queryIndex": "https://html.cybergame.ai/query-index.json",
+        "fileFormats": "https://html.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://html.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://html.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://html.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://html.cybergame.ai/faq-index.json",
+        "citationCards": "https://html.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://html.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://html.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://html.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "html_de_downloadviewer_siteidx",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -24817,6 +25993,123 @@
       "lastUpdated": "2026-06-28"
     },
     {
+      "url": "https://html.cybergame.ai/fr/topics/app-store-download/",
+      "canonicalUrl": "https://html.cybergame.ai/fr/topics/app-store-download/",
+      "locale": "fr",
+      "hreflang": "fr",
+      "pageType": "topic",
+      "topicKey": "download",
+      "articleSlug": null,
+      "title": "App Store download HTML Francais",
+      "query": "Where can I download a HTML viewer for iPhone or iPad?",
+      "primaryKeyword": "App Store download HTML iPhone",
+      "source": "App Store download searches",
+      "supportedFormats": ".html, .htm, .xhtml",
+      "fileExtensions": [
+        ".html",
+        ".htm",
+        ".xhtml"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/html-preview-web-file-viewer/id6760443436?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760443436&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "bundleId": "CyberGame.App-11",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
+      "schemaIds": {
+        "webPage": "https://html.cybergame.ai/fr/topics/app-store-download/#webpage",
+        "app": "https://html.cybergame.ai/#app",
+        "mainEntity": "https://html.cybergame.ai/fr/topics/app-store-download/#topic-hub",
+        "howTo": null
+      },
+      "screenshots": [
+        "https://html.cybergame.ai/assets/screenshots/html-preview-open-html-files-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-ai-html-report-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-focused-html-viewer-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://html.cybergame.ai/topics/app-store-download/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://html.cybergame.ai/zh/topics/app-store-download/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://html.cybergame.ai/ja/topics/app-store-download/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://html.cybergame.ai/es/topics/app-store-download/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://html.cybergame.ai/de/topics/app-store-download/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://html.cybergame.ai/fr/topics/app-store-download/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://html.cybergame.ai/pt-br/topics/app-store-download/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://html.cybergame.ai/ko/topics/app-store-download/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://html.cybergame.ai/ar/topics/app-store-download/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://html.cybergame.ai/hi/topics/app-store-download/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://html.cybergame.ai/answers.json",
+        "queryIndex": "https://html.cybergame.ai/query-index.json",
+        "fileFormats": "https://html.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://html.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://html.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://html.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://html.cybergame.ai/faq-index.json",
+        "citationCards": "https://html.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://html.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://html.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://html.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "html_fr_topicappstoredown_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760443436",
+        "appStoreId": "6760443436",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
       "url": "https://html.cybergame.ai/fr/topics/ios-file-preview-problems/",
       "canonicalUrl": "https://html.cybergame.ai/fr/topics/ios-file-preview-problems/",
       "locale": "fr",
@@ -25272,6 +26565,123 @@
       "conversionIntent": "open-app-store-listing",
       "conversionMapSurface": "site-index-manifest",
       "conversionMapToken": "html_fr_best_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760443436",
+        "appStoreId": "6760443436",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
+      "url": "https://html.cybergame.ai/fr/articles/download-html-viewer-for-iphone/",
+      "canonicalUrl": "https://html.cybergame.ai/fr/articles/download-html-viewer-for-iphone/",
+      "locale": "fr",
+      "hreflang": "fr",
+      "pageType": "article",
+      "topicKey": null,
+      "articleSlug": "download-html-viewer-for-iphone",
+      "title": "Télécharger un lecteur HTML pour iPhone",
+      "query": "Comment télécharger un lecteur HTML pour iPhone ?",
+      "primaryKeyword": "download HTML viewer for iPhone",
+      "source": "recherches de téléchargement App Store",
+      "supportedFormats": ".html, .htm, .xhtml",
+      "fileExtensions": [
+        ".html",
+        ".htm",
+        ".xhtml"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/html-preview-web-file-viewer/id6760443436?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760443436&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "bundleId": "CyberGame.App-11",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
+      "schemaIds": {
+        "webPage": "https://html.cybergame.ai/fr/articles/download-html-viewer-for-iphone/#webpage",
+        "app": "https://html.cybergame.ai/#app",
+        "mainEntity": "https://html.cybergame.ai/fr/articles/download-html-viewer-for-iphone/#article",
+        "howTo": "https://html.cybergame.ai/fr/articles/download-html-viewer-for-iphone/#howto"
+      },
+      "screenshots": [
+        "https://html.cybergame.ai/assets/screenshots/html-preview-open-html-files-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-ai-html-report-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-focused-html-viewer-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://html.cybergame.ai/articles/download-html-viewer-for-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://html.cybergame.ai/zh/articles/download-html-viewer-for-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://html.cybergame.ai/ja/articles/download-html-viewer-for-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://html.cybergame.ai/es/articles/download-html-viewer-for-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://html.cybergame.ai/de/articles/download-html-viewer-for-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://html.cybergame.ai/fr/articles/download-html-viewer-for-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://html.cybergame.ai/pt-br/articles/download-html-viewer-for-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://html.cybergame.ai/ko/articles/download-html-viewer-for-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://html.cybergame.ai/ar/articles/download-html-viewer-for-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://html.cybergame.ai/hi/articles/download-html-viewer-for-iphone/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://html.cybergame.ai/answers.json",
+        "queryIndex": "https://html.cybergame.ai/query-index.json",
+        "fileFormats": "https://html.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://html.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://html.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://html.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://html.cybergame.ai/faq-index.json",
+        "citationCards": "https://html.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://html.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://html.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://html.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "html_fr_downloadviewer_siteidx",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -29497,6 +30907,123 @@
       "lastUpdated": "2026-06-28"
     },
     {
+      "url": "https://html.cybergame.ai/pt-br/topics/app-store-download/",
+      "canonicalUrl": "https://html.cybergame.ai/pt-br/topics/app-store-download/",
+      "locale": "pt-br",
+      "hreflang": "pt-BR",
+      "pageType": "topic",
+      "topicKey": "download",
+      "articleSlug": null,
+      "title": "App Store download HTML Portugues do Brasil",
+      "query": "Where can I download a HTML viewer for iPhone or iPad?",
+      "primaryKeyword": "App Store download HTML iPhone",
+      "source": "App Store download searches",
+      "supportedFormats": ".html, .htm, .xhtml",
+      "fileExtensions": [
+        ".html",
+        ".htm",
+        ".xhtml"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/html-preview-web-file-viewer/id6760443436?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760443436&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "bundleId": "CyberGame.App-11",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
+      "schemaIds": {
+        "webPage": "https://html.cybergame.ai/pt-br/topics/app-store-download/#webpage",
+        "app": "https://html.cybergame.ai/#app",
+        "mainEntity": "https://html.cybergame.ai/pt-br/topics/app-store-download/#topic-hub",
+        "howTo": null
+      },
+      "screenshots": [
+        "https://html.cybergame.ai/assets/screenshots/html-preview-open-html-files-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-ai-html-report-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-focused-html-viewer-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://html.cybergame.ai/topics/app-store-download/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://html.cybergame.ai/zh/topics/app-store-download/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://html.cybergame.ai/ja/topics/app-store-download/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://html.cybergame.ai/es/topics/app-store-download/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://html.cybergame.ai/de/topics/app-store-download/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://html.cybergame.ai/fr/topics/app-store-download/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://html.cybergame.ai/pt-br/topics/app-store-download/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://html.cybergame.ai/ko/topics/app-store-download/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://html.cybergame.ai/ar/topics/app-store-download/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://html.cybergame.ai/hi/topics/app-store-download/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://html.cybergame.ai/answers.json",
+        "queryIndex": "https://html.cybergame.ai/query-index.json",
+        "fileFormats": "https://html.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://html.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://html.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://html.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://html.cybergame.ai/faq-index.json",
+        "citationCards": "https://html.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://html.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://html.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://html.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "html_ptbr_topicappstoredown_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760443436",
+        "appStoreId": "6760443436",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
       "url": "https://html.cybergame.ai/pt-br/topics/ios-file-preview-problems/",
       "canonicalUrl": "https://html.cybergame.ai/pt-br/topics/ios-file-preview-problems/",
       "locale": "pt-br",
@@ -29952,6 +31479,123 @@
       "conversionIntent": "open-app-store-listing",
       "conversionMapSurface": "site-index-manifest",
       "conversionMapToken": "html_ptbr_best_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760443436",
+        "appStoreId": "6760443436",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
+      "url": "https://html.cybergame.ai/pt-br/articles/download-html-viewer-for-iphone/",
+      "canonicalUrl": "https://html.cybergame.ai/pt-br/articles/download-html-viewer-for-iphone/",
+      "locale": "pt-br",
+      "hreflang": "pt-BR",
+      "pageType": "article",
+      "topicKey": null,
+      "articleSlug": "download-html-viewer-for-iphone",
+      "title": "Baixar visualizador HTML para iPhone",
+      "query": "Como baixar um visualizador HTML para iPhone?",
+      "primaryKeyword": "download HTML viewer for iPhone",
+      "source": "buscas de download na App Store",
+      "supportedFormats": ".html, .htm, .xhtml",
+      "fileExtensions": [
+        ".html",
+        ".htm",
+        ".xhtml"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/html-preview-web-file-viewer/id6760443436?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760443436&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "bundleId": "CyberGame.App-11",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
+      "schemaIds": {
+        "webPage": "https://html.cybergame.ai/pt-br/articles/download-html-viewer-for-iphone/#webpage",
+        "app": "https://html.cybergame.ai/#app",
+        "mainEntity": "https://html.cybergame.ai/pt-br/articles/download-html-viewer-for-iphone/#article",
+        "howTo": "https://html.cybergame.ai/pt-br/articles/download-html-viewer-for-iphone/#howto"
+      },
+      "screenshots": [
+        "https://html.cybergame.ai/assets/screenshots/html-preview-open-html-files-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-ai-html-report-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-focused-html-viewer-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://html.cybergame.ai/articles/download-html-viewer-for-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://html.cybergame.ai/zh/articles/download-html-viewer-for-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://html.cybergame.ai/ja/articles/download-html-viewer-for-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://html.cybergame.ai/es/articles/download-html-viewer-for-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://html.cybergame.ai/de/articles/download-html-viewer-for-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://html.cybergame.ai/fr/articles/download-html-viewer-for-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://html.cybergame.ai/pt-br/articles/download-html-viewer-for-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://html.cybergame.ai/ko/articles/download-html-viewer-for-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://html.cybergame.ai/ar/articles/download-html-viewer-for-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://html.cybergame.ai/hi/articles/download-html-viewer-for-iphone/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://html.cybergame.ai/answers.json",
+        "queryIndex": "https://html.cybergame.ai/query-index.json",
+        "fileFormats": "https://html.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://html.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://html.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://html.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://html.cybergame.ai/faq-index.json",
+        "citationCards": "https://html.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://html.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://html.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://html.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "html_ptbr_downloadviewer_siteidx",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -34177,6 +35821,123 @@
       "lastUpdated": "2026-06-28"
     },
     {
+      "url": "https://html.cybergame.ai/ko/topics/app-store-download/",
+      "canonicalUrl": "https://html.cybergame.ai/ko/topics/app-store-download/",
+      "locale": "ko",
+      "hreflang": "ko",
+      "pageType": "topic",
+      "topicKey": "download",
+      "articleSlug": null,
+      "title": "App Store download HTML 한국어",
+      "query": "Where can I download a HTML viewer for iPhone or iPad?",
+      "primaryKeyword": "App Store download HTML iPhone",
+      "source": "App Store download searches",
+      "supportedFormats": ".html, .htm, .xhtml",
+      "fileExtensions": [
+        ".html",
+        ".htm",
+        ".xhtml"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/html-preview-web-file-viewer/id6760443436?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760443436&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "bundleId": "CyberGame.App-11",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
+      "schemaIds": {
+        "webPage": "https://html.cybergame.ai/ko/topics/app-store-download/#webpage",
+        "app": "https://html.cybergame.ai/#app",
+        "mainEntity": "https://html.cybergame.ai/ko/topics/app-store-download/#topic-hub",
+        "howTo": null
+      },
+      "screenshots": [
+        "https://html.cybergame.ai/assets/screenshots/html-preview-open-html-files-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-ai-html-report-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-focused-html-viewer-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://html.cybergame.ai/topics/app-store-download/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://html.cybergame.ai/zh/topics/app-store-download/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://html.cybergame.ai/ja/topics/app-store-download/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://html.cybergame.ai/es/topics/app-store-download/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://html.cybergame.ai/de/topics/app-store-download/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://html.cybergame.ai/fr/topics/app-store-download/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://html.cybergame.ai/pt-br/topics/app-store-download/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://html.cybergame.ai/ko/topics/app-store-download/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://html.cybergame.ai/ar/topics/app-store-download/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://html.cybergame.ai/hi/topics/app-store-download/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://html.cybergame.ai/answers.json",
+        "queryIndex": "https://html.cybergame.ai/query-index.json",
+        "fileFormats": "https://html.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://html.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://html.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://html.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://html.cybergame.ai/faq-index.json",
+        "citationCards": "https://html.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://html.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://html.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://html.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "html_ko_topicappstoredown_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760443436",
+        "appStoreId": "6760443436",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
       "url": "https://html.cybergame.ai/ko/topics/ios-file-preview-problems/",
       "canonicalUrl": "https://html.cybergame.ai/ko/topics/ios-file-preview-problems/",
       "locale": "ko",
@@ -34632,6 +36393,123 @@
       "conversionIntent": "open-app-store-listing",
       "conversionMapSurface": "site-index-manifest",
       "conversionMapToken": "html_ko_best_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760443436",
+        "appStoreId": "6760443436",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
+      "url": "https://html.cybergame.ai/ko/articles/download-html-viewer-for-iphone/",
+      "canonicalUrl": "https://html.cybergame.ai/ko/articles/download-html-viewer-for-iphone/",
+      "locale": "ko",
+      "hreflang": "ko",
+      "pageType": "article",
+      "topicKey": null,
+      "articleSlug": "download-html-viewer-for-iphone",
+      "title": "iPhone용 HTML 뷰어 다운로드",
+      "query": "iPhone과 iPad에서 HTML 파일을 여는 방법은?",
+      "primaryKeyword": "download HTML viewer for iPhone",
+      "source": "App Store 다운로드 검색",
+      "supportedFormats": ".html, .htm, .xhtml",
+      "fileExtensions": [
+        ".html",
+        ".htm",
+        ".xhtml"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/html-preview-web-file-viewer/id6760443436?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760443436&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "bundleId": "CyberGame.App-11",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
+      "schemaIds": {
+        "webPage": "https://html.cybergame.ai/ko/articles/download-html-viewer-for-iphone/#webpage",
+        "app": "https://html.cybergame.ai/#app",
+        "mainEntity": "https://html.cybergame.ai/ko/articles/download-html-viewer-for-iphone/#article",
+        "howTo": "https://html.cybergame.ai/ko/articles/download-html-viewer-for-iphone/#howto"
+      },
+      "screenshots": [
+        "https://html.cybergame.ai/assets/screenshots/html-preview-open-html-files-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-ai-html-report-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-focused-html-viewer-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://html.cybergame.ai/articles/download-html-viewer-for-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://html.cybergame.ai/zh/articles/download-html-viewer-for-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://html.cybergame.ai/ja/articles/download-html-viewer-for-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://html.cybergame.ai/es/articles/download-html-viewer-for-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://html.cybergame.ai/de/articles/download-html-viewer-for-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://html.cybergame.ai/fr/articles/download-html-viewer-for-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://html.cybergame.ai/pt-br/articles/download-html-viewer-for-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://html.cybergame.ai/ko/articles/download-html-viewer-for-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://html.cybergame.ai/ar/articles/download-html-viewer-for-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://html.cybergame.ai/hi/articles/download-html-viewer-for-iphone/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://html.cybergame.ai/answers.json",
+        "queryIndex": "https://html.cybergame.ai/query-index.json",
+        "fileFormats": "https://html.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://html.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://html.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://html.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://html.cybergame.ai/faq-index.json",
+        "citationCards": "https://html.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://html.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://html.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://html.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "html_ko_downloadviewer_siteidx",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -38857,6 +40735,123 @@
       "lastUpdated": "2026-06-28"
     },
     {
+      "url": "https://html.cybergame.ai/ar/topics/app-store-download/",
+      "canonicalUrl": "https://html.cybergame.ai/ar/topics/app-store-download/",
+      "locale": "ar",
+      "hreflang": "ar",
+      "pageType": "topic",
+      "topicKey": "download",
+      "articleSlug": null,
+      "title": "App Store download HTML العربية",
+      "query": "Where can I download a HTML viewer for iPhone or iPad?",
+      "primaryKeyword": "App Store download HTML iPhone",
+      "source": "App Store download searches",
+      "supportedFormats": ".html, .htm, .xhtml",
+      "fileExtensions": [
+        ".html",
+        ".htm",
+        ".xhtml"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/html-preview-web-file-viewer/id6760443436?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760443436&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "bundleId": "CyberGame.App-11",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
+      "schemaIds": {
+        "webPage": "https://html.cybergame.ai/ar/topics/app-store-download/#webpage",
+        "app": "https://html.cybergame.ai/#app",
+        "mainEntity": "https://html.cybergame.ai/ar/topics/app-store-download/#topic-hub",
+        "howTo": null
+      },
+      "screenshots": [
+        "https://html.cybergame.ai/assets/screenshots/html-preview-open-html-files-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-ai-html-report-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-focused-html-viewer-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://html.cybergame.ai/topics/app-store-download/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://html.cybergame.ai/zh/topics/app-store-download/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://html.cybergame.ai/ja/topics/app-store-download/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://html.cybergame.ai/es/topics/app-store-download/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://html.cybergame.ai/de/topics/app-store-download/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://html.cybergame.ai/fr/topics/app-store-download/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://html.cybergame.ai/pt-br/topics/app-store-download/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://html.cybergame.ai/ko/topics/app-store-download/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://html.cybergame.ai/ar/topics/app-store-download/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://html.cybergame.ai/hi/topics/app-store-download/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://html.cybergame.ai/answers.json",
+        "queryIndex": "https://html.cybergame.ai/query-index.json",
+        "fileFormats": "https://html.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://html.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://html.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://html.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://html.cybergame.ai/faq-index.json",
+        "citationCards": "https://html.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://html.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://html.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://html.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "html_ar_topicappstoredown_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760443436",
+        "appStoreId": "6760443436",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
       "url": "https://html.cybergame.ai/ar/topics/ios-file-preview-problems/",
       "canonicalUrl": "https://html.cybergame.ai/ar/topics/ios-file-preview-problems/",
       "locale": "ar",
@@ -39312,6 +41307,123 @@
       "conversionIntent": "open-app-store-listing",
       "conversionMapSurface": "site-index-manifest",
       "conversionMapToken": "html_ar_best_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760443436",
+        "appStoreId": "6760443436",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
+      "url": "https://html.cybergame.ai/ar/articles/download-html-viewer-for-iphone/",
+      "canonicalUrl": "https://html.cybergame.ai/ar/articles/download-html-viewer-for-iphone/",
+      "locale": "ar",
+      "hreflang": "ar",
+      "pageType": "article",
+      "topicKey": null,
+      "articleSlug": "download-html-viewer-for-iphone",
+      "title": "تنزيل عارض HTML للايفون",
+      "query": "كيف تفتح ملف HTML على iPhone او iPad؟",
+      "primaryKeyword": "download HTML viewer for iPhone",
+      "source": "بحث تنزيل App Store",
+      "supportedFormats": ".html, .htm, .xhtml",
+      "fileExtensions": [
+        ".html",
+        ".htm",
+        ".xhtml"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/html-preview-web-file-viewer/id6760443436?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760443436&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "bundleId": "CyberGame.App-11",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
+      "schemaIds": {
+        "webPage": "https://html.cybergame.ai/ar/articles/download-html-viewer-for-iphone/#webpage",
+        "app": "https://html.cybergame.ai/#app",
+        "mainEntity": "https://html.cybergame.ai/ar/articles/download-html-viewer-for-iphone/#article",
+        "howTo": "https://html.cybergame.ai/ar/articles/download-html-viewer-for-iphone/#howto"
+      },
+      "screenshots": [
+        "https://html.cybergame.ai/assets/screenshots/html-preview-open-html-files-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-ai-html-report-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-focused-html-viewer-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://html.cybergame.ai/articles/download-html-viewer-for-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://html.cybergame.ai/zh/articles/download-html-viewer-for-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://html.cybergame.ai/ja/articles/download-html-viewer-for-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://html.cybergame.ai/es/articles/download-html-viewer-for-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://html.cybergame.ai/de/articles/download-html-viewer-for-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://html.cybergame.ai/fr/articles/download-html-viewer-for-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://html.cybergame.ai/pt-br/articles/download-html-viewer-for-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://html.cybergame.ai/ko/articles/download-html-viewer-for-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://html.cybergame.ai/ar/articles/download-html-viewer-for-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://html.cybergame.ai/hi/articles/download-html-viewer-for-iphone/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://html.cybergame.ai/answers.json",
+        "queryIndex": "https://html.cybergame.ai/query-index.json",
+        "fileFormats": "https://html.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://html.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://html.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://html.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://html.cybergame.ai/faq-index.json",
+        "citationCards": "https://html.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://html.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://html.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://html.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "html_ar_downloadviewer_siteidx",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -43537,6 +45649,123 @@
       "lastUpdated": "2026-06-28"
     },
     {
+      "url": "https://html.cybergame.ai/hi/topics/app-store-download/",
+      "canonicalUrl": "https://html.cybergame.ai/hi/topics/app-store-download/",
+      "locale": "hi",
+      "hreflang": "hi",
+      "pageType": "topic",
+      "topicKey": "download",
+      "articleSlug": null,
+      "title": "App Store download HTML हिन्दी",
+      "query": "Where can I download a HTML viewer for iPhone or iPad?",
+      "primaryKeyword": "App Store download HTML iPhone",
+      "source": "App Store download searches",
+      "supportedFormats": ".html, .htm, .xhtml",
+      "fileExtensions": [
+        ".html",
+        ".htm",
+        ".xhtml"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/html-preview-web-file-viewer/id6760443436?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760443436&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "bundleId": "CyberGame.App-11",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
+      "schemaIds": {
+        "webPage": "https://html.cybergame.ai/hi/topics/app-store-download/#webpage",
+        "app": "https://html.cybergame.ai/#app",
+        "mainEntity": "https://html.cybergame.ai/hi/topics/app-store-download/#topic-hub",
+        "howTo": null
+      },
+      "screenshots": [
+        "https://html.cybergame.ai/assets/screenshots/html-preview-open-html-files-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-ai-html-report-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-focused-html-viewer-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://html.cybergame.ai/topics/app-store-download/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://html.cybergame.ai/zh/topics/app-store-download/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://html.cybergame.ai/ja/topics/app-store-download/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://html.cybergame.ai/es/topics/app-store-download/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://html.cybergame.ai/de/topics/app-store-download/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://html.cybergame.ai/fr/topics/app-store-download/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://html.cybergame.ai/pt-br/topics/app-store-download/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://html.cybergame.ai/ko/topics/app-store-download/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://html.cybergame.ai/ar/topics/app-store-download/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://html.cybergame.ai/hi/topics/app-store-download/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://html.cybergame.ai/answers.json",
+        "queryIndex": "https://html.cybergame.ai/query-index.json",
+        "fileFormats": "https://html.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://html.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://html.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://html.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://html.cybergame.ai/faq-index.json",
+        "citationCards": "https://html.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://html.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://html.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://html.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "html_hi_topicappstoredown_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760443436",
+        "appStoreId": "6760443436",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
       "url": "https://html.cybergame.ai/hi/topics/ios-file-preview-problems/",
       "canonicalUrl": "https://html.cybergame.ai/hi/topics/ios-file-preview-problems/",
       "locale": "hi",
@@ -43992,6 +46221,123 @@
       "conversionIntent": "open-app-store-listing",
       "conversionMapSurface": "site-index-manifest",
       "conversionMapToken": "html_hi_best_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760443436",
+        "appStoreId": "6760443436",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
+      "url": "https://html.cybergame.ai/hi/articles/download-html-viewer-for-iphone/",
+      "canonicalUrl": "https://html.cybergame.ai/hi/articles/download-html-viewer-for-iphone/",
+      "locale": "hi",
+      "hreflang": "hi",
+      "pageType": "article",
+      "topicKey": null,
+      "articleSlug": "download-html-viewer-for-iphone",
+      "title": "iPhone के लिए HTML viewer डाउनलोड करें",
+      "query": "iPhone या iPad पर HTML file कैसे खोलें?",
+      "primaryKeyword": "download HTML viewer for iPhone",
+      "source": "App Store download searches",
+      "supportedFormats": ".html, .htm, .xhtml",
+      "fileExtensions": [
+        ".html",
+        ".htm",
+        ".xhtml"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/html-preview-web-file-viewer/id6760443436?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760443436&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "bundleId": "CyberGame.App-11",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
+      "schemaIds": {
+        "webPage": "https://html.cybergame.ai/hi/articles/download-html-viewer-for-iphone/#webpage",
+        "app": "https://html.cybergame.ai/#app",
+        "mainEntity": "https://html.cybergame.ai/hi/articles/download-html-viewer-for-iphone/#article",
+        "howTo": "https://html.cybergame.ai/hi/articles/download-html-viewer-for-iphone/#howto"
+      },
+      "screenshots": [
+        "https://html.cybergame.ai/assets/screenshots/html-preview-open-html-files-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-ai-html-report-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-focused-html-viewer-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://html.cybergame.ai/articles/download-html-viewer-for-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://html.cybergame.ai/zh/articles/download-html-viewer-for-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://html.cybergame.ai/ja/articles/download-html-viewer-for-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://html.cybergame.ai/es/articles/download-html-viewer-for-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://html.cybergame.ai/de/articles/download-html-viewer-for-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://html.cybergame.ai/fr/articles/download-html-viewer-for-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://html.cybergame.ai/pt-br/articles/download-html-viewer-for-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://html.cybergame.ai/ko/articles/download-html-viewer-for-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://html.cybergame.ai/ar/articles/download-html-viewer-for-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://html.cybergame.ai/hi/articles/download-html-viewer-for-iphone/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://html.cybergame.ai/answers.json",
+        "queryIndex": "https://html.cybergame.ai/query-index.json",
+        "fileFormats": "https://html.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://html.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://html.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://html.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://html.cybergame.ai/faq-index.json",
+        "citationCards": "https://html.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://html.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://html.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://html.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "html_hi_downloadviewer_siteidx",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
