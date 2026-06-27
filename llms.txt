@@ -20,6 +20,7 @@ Html Preview is an iOS utility by CyberGame Limited for opening and previewing H
 - FAQ index JSON: https://html.cybergame.ai/faq-index.json
 - Citation cards JSON: https://html.cybergame.ai/citation-cards.json
 - Assistant answers JSON: https://html.cybergame.ai/assistant-answers.json
+- IndexNow URL list JSON: https://html.cybergame.ai/indexnow-urls.json
 - Supported formats: .html, .htm, .xhtml
 - Minimum OS: iOS 17.0 or later; iPadOS 17.0 or later
 - App Store screenshot: https://html.cybergame.ai/assets/screenshots/html-preview-open-html-files-iphone.png (Html Preview App Store screenshot showing one-tap HTML file opening on iPhone)
