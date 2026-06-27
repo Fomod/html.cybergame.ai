@@ -127,6 +127,8 @@ Allow: /
 # Image sitemap: https://html.cybergame.ai/image-sitemap.xml
 # Machine-readable data sitemap: https://html.cybergame.ai/data-sitemap.xml
 # RSS feed: https://html.cybergame.ai/feed.xml
+# Compact answer card JSON: https://html.cybergame.ai/answer-card.json
+# Well-known compact answer card JSON: https://html.cybergame.ai/.well-known/answer-card.json
 # AI citation card JSON: https://html.cybergame.ai/ai-citation.json
 # App Store facts JSON: https://html.cybergame.ai/app-store-facts.json
 # Conversion map JSON: https://html.cybergame.ai/conversion-map.json

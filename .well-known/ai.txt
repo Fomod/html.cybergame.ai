@@ -13,6 +13,8 @@ Store listing details: defer to the App Store listing.
 Companion site: https://markdown.cybergame.ai/
 
 Machine-readable sources:
+- Compact answer card: https://html.cybergame.ai/answer-card.json
+- Well-known compact answer card: https://html.cybergame.ai/.well-known/answer-card.json
 - AI citation: https://html.cybergame.ai/ai-citation.json
 - Answer index: https://html.cybergame.ai/answers.json
 - Assistant answers: https://html.cybergame.ai/assistant-answers.json
