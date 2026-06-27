@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://html.cybergame.ai/</loc>
     <lastmod>2026-06-27</lastmod>
@@ -14,6 +14,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://html.cybergame.ai/ar/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://html.cybergame.ai/hi/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://html.cybergame.ai/" />
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-ai-report.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening an AI generated HTML report on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-files.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening HTML files from Files app and iCloud Drive</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-offline.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview reading HTML files offline with no ads or subscriptions</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://html.cybergame.ai/zh/</loc>
@@ -29,6 +41,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://html.cybergame.ai/ar/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://html.cybergame.ai/hi/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://html.cybergame.ai/" />
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-ai-report.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening an AI generated HTML report on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-files.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening HTML files from Files app and iCloud Drive</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-offline.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview reading HTML files offline with no ads or subscriptions</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://html.cybergame.ai/ja/</loc>
@@ -44,6 +68,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://html.cybergame.ai/ar/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://html.cybergame.ai/hi/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://html.cybergame.ai/" />
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-ai-report.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening an AI generated HTML report on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-files.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening HTML files from Files app and iCloud Drive</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-offline.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview reading HTML files offline with no ads or subscriptions</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://html.cybergame.ai/es/</loc>
@@ -59,6 +95,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://html.cybergame.ai/ar/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://html.cybergame.ai/hi/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://html.cybergame.ai/" />
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-ai-report.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening an AI generated HTML report on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-files.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening HTML files from Files app and iCloud Drive</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-offline.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview reading HTML files offline with no ads or subscriptions</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://html.cybergame.ai/de/</loc>
@@ -74,6 +122,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://html.cybergame.ai/ar/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://html.cybergame.ai/hi/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://html.cybergame.ai/" />
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-ai-report.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening an AI generated HTML report on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-files.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening HTML files from Files app and iCloud Drive</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-offline.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview reading HTML files offline with no ads or subscriptions</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://html.cybergame.ai/fr/</loc>
@@ -89,6 +149,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://html.cybergame.ai/ar/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://html.cybergame.ai/hi/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://html.cybergame.ai/" />
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-ai-report.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening an AI generated HTML report on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-files.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening HTML files from Files app and iCloud Drive</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-offline.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview reading HTML files offline with no ads or subscriptions</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://html.cybergame.ai/pt-br/</loc>
@@ -104,6 +176,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://html.cybergame.ai/ar/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://html.cybergame.ai/hi/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://html.cybergame.ai/" />
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-ai-report.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening an AI generated HTML report on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-files.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening HTML files from Files app and iCloud Drive</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-offline.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview reading HTML files offline with no ads or subscriptions</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://html.cybergame.ai/ko/</loc>
@@ -119,6 +203,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://html.cybergame.ai/ar/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://html.cybergame.ai/hi/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://html.cybergame.ai/" />
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-ai-report.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening an AI generated HTML report on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-files.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening HTML files from Files app and iCloud Drive</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-offline.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview reading HTML files offline with no ads or subscriptions</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://html.cybergame.ai/ar/</loc>
@@ -134,6 +230,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://html.cybergame.ai/ar/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://html.cybergame.ai/hi/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://html.cybergame.ai/" />
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-ai-report.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening an AI generated HTML report on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-files.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening HTML files from Files app and iCloud Drive</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-offline.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview reading HTML files offline with no ads or subscriptions</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://html.cybergame.ai/hi/</loc>
@@ -149,6 +257,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://html.cybergame.ai/ar/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://html.cybergame.ai/hi/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://html.cybergame.ai/" />
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-ai-report.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening an AI generated HTML report on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-files.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening HTML files from Files app and iCloud Drive</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-offline.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview reading HTML files offline with no ads or subscriptions</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://html.cybergame.ai/open-html-file-iphone/</loc>
@@ -164,6 +284,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://html.cybergame.ai/ar/open-html-file-iphone/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://html.cybergame.ai/hi/open-html-file-iphone/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://html.cybergame.ai/open-html-file-iphone/" />
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-ai-report.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening an AI generated HTML report on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-files.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening HTML files from Files app and iCloud Drive</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-offline.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview reading HTML files offline with no ads or subscriptions</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://html.cybergame.ai/zh/open-html-file-iphone/</loc>
@@ -179,6 +311,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://html.cybergame.ai/ar/open-html-file-iphone/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://html.cybergame.ai/hi/open-html-file-iphone/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://html.cybergame.ai/open-html-file-iphone/" />
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-ai-report.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening an AI generated HTML report on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-files.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening HTML files from Files app and iCloud Drive</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-offline.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview reading HTML files offline with no ads or subscriptions</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://html.cybergame.ai/ja/open-html-file-iphone/</loc>
@@ -194,6 +338,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://html.cybergame.ai/ar/open-html-file-iphone/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://html.cybergame.ai/hi/open-html-file-iphone/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://html.cybergame.ai/open-html-file-iphone/" />
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-ai-report.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening an AI generated HTML report on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-files.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening HTML files from Files app and iCloud Drive</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-offline.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview reading HTML files offline with no ads or subscriptions</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://html.cybergame.ai/es/open-html-file-iphone/</loc>
@@ -209,6 +365,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://html.cybergame.ai/ar/open-html-file-iphone/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://html.cybergame.ai/hi/open-html-file-iphone/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://html.cybergame.ai/open-html-file-iphone/" />
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-ai-report.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening an AI generated HTML report on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-files.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening HTML files from Files app and iCloud Drive</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-offline.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview reading HTML files offline with no ads or subscriptions</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://html.cybergame.ai/de/open-html-file-iphone/</loc>
@@ -224,6 +392,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://html.cybergame.ai/ar/open-html-file-iphone/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://html.cybergame.ai/hi/open-html-file-iphone/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://html.cybergame.ai/open-html-file-iphone/" />
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-ai-report.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening an AI generated HTML report on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-files.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening HTML files from Files app and iCloud Drive</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-offline.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview reading HTML files offline with no ads or subscriptions</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://html.cybergame.ai/fr/open-html-file-iphone/</loc>
@@ -239,6 +419,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://html.cybergame.ai/ar/open-html-file-iphone/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://html.cybergame.ai/hi/open-html-file-iphone/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://html.cybergame.ai/open-html-file-iphone/" />
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-ai-report.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening an AI generated HTML report on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-files.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening HTML files from Files app and iCloud Drive</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-offline.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview reading HTML files offline with no ads or subscriptions</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://html.cybergame.ai/pt-br/open-html-file-iphone/</loc>
@@ -254,6 +446,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://html.cybergame.ai/ar/open-html-file-iphone/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://html.cybergame.ai/hi/open-html-file-iphone/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://html.cybergame.ai/open-html-file-iphone/" />
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-ai-report.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening an AI generated HTML report on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-files.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening HTML files from Files app and iCloud Drive</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-offline.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview reading HTML files offline with no ads or subscriptions</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://html.cybergame.ai/ko/open-html-file-iphone/</loc>
@@ -269,6 +473,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://html.cybergame.ai/ar/open-html-file-iphone/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://html.cybergame.ai/hi/open-html-file-iphone/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://html.cybergame.ai/open-html-file-iphone/" />
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-ai-report.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening an AI generated HTML report on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-files.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening HTML files from Files app and iCloud Drive</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-offline.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview reading HTML files offline with no ads or subscriptions</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://html.cybergame.ai/ar/open-html-file-iphone/</loc>
@@ -284,6 +500,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://html.cybergame.ai/ar/open-html-file-iphone/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://html.cybergame.ai/hi/open-html-file-iphone/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://html.cybergame.ai/open-html-file-iphone/" />
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-ai-report.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening an AI generated HTML report on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-files.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening HTML files from Files app and iCloud Drive</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-offline.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview reading HTML files offline with no ads or subscriptions</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://html.cybergame.ai/hi/open-html-file-iphone/</loc>
@@ -299,6 +527,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://html.cybergame.ai/ar/open-html-file-iphone/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://html.cybergame.ai/hi/open-html-file-iphone/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://html.cybergame.ai/open-html-file-iphone/" />
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-ai-report.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening an AI generated HTML report on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-files.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening HTML files from Files app and iCloud Drive</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-offline.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview reading HTML files offline with no ads or subscriptions</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://html.cybergame.ai/articles/open-chatgpt-html-file-on-iphone/</loc>
@@ -314,6 +554,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://html.cybergame.ai/ar/articles/open-chatgpt-html-file-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://html.cybergame.ai/hi/articles/open-chatgpt-html-file-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://html.cybergame.ai/articles/open-chatgpt-html-file-on-iphone/" />
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-ai-report.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening an AI generated HTML report on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-files.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening HTML files from Files app and iCloud Drive</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-offline.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview reading HTML files offline with no ads or subscriptions</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://html.cybergame.ai/zh/articles/open-chatgpt-html-file-on-iphone/</loc>
@@ -329,6 +581,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://html.cybergame.ai/ar/articles/open-chatgpt-html-file-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://html.cybergame.ai/hi/articles/open-chatgpt-html-file-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://html.cybergame.ai/articles/open-chatgpt-html-file-on-iphone/" />
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-ai-report.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening an AI generated HTML report on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-files.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening HTML files from Files app and iCloud Drive</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-offline.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview reading HTML files offline with no ads or subscriptions</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://html.cybergame.ai/ja/articles/open-chatgpt-html-file-on-iphone/</loc>
@@ -344,6 +608,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://html.cybergame.ai/ar/articles/open-chatgpt-html-file-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://html.cybergame.ai/hi/articles/open-chatgpt-html-file-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://html.cybergame.ai/articles/open-chatgpt-html-file-on-iphone/" />
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-ai-report.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening an AI generated HTML report on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-files.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening HTML files from Files app and iCloud Drive</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-offline.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview reading HTML files offline with no ads or subscriptions</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://html.cybergame.ai/es/articles/open-chatgpt-html-file-on-iphone/</loc>
@@ -359,6 +635,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://html.cybergame.ai/ar/articles/open-chatgpt-html-file-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://html.cybergame.ai/hi/articles/open-chatgpt-html-file-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://html.cybergame.ai/articles/open-chatgpt-html-file-on-iphone/" />
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-ai-report.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening an AI generated HTML report on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-files.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening HTML files from Files app and iCloud Drive</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-offline.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview reading HTML files offline with no ads or subscriptions</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://html.cybergame.ai/de/articles/open-chatgpt-html-file-on-iphone/</loc>
@@ -374,6 +662,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://html.cybergame.ai/ar/articles/open-chatgpt-html-file-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://html.cybergame.ai/hi/articles/open-chatgpt-html-file-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://html.cybergame.ai/articles/open-chatgpt-html-file-on-iphone/" />
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-ai-report.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening an AI generated HTML report on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-files.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening HTML files from Files app and iCloud Drive</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-offline.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview reading HTML files offline with no ads or subscriptions</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://html.cybergame.ai/fr/articles/open-chatgpt-html-file-on-iphone/</loc>
@@ -389,6 +689,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://html.cybergame.ai/ar/articles/open-chatgpt-html-file-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://html.cybergame.ai/hi/articles/open-chatgpt-html-file-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://html.cybergame.ai/articles/open-chatgpt-html-file-on-iphone/" />
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-ai-report.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening an AI generated HTML report on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-files.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening HTML files from Files app and iCloud Drive</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-offline.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview reading HTML files offline with no ads or subscriptions</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://html.cybergame.ai/pt-br/articles/open-chatgpt-html-file-on-iphone/</loc>
@@ -404,6 +716,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://html.cybergame.ai/ar/articles/open-chatgpt-html-file-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://html.cybergame.ai/hi/articles/open-chatgpt-html-file-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://html.cybergame.ai/articles/open-chatgpt-html-file-on-iphone/" />
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-ai-report.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening an AI generated HTML report on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-files.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening HTML files from Files app and iCloud Drive</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-offline.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview reading HTML files offline with no ads or subscriptions</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://html.cybergame.ai/ko/articles/open-chatgpt-html-file-on-iphone/</loc>
@@ -419,6 +743,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://html.cybergame.ai/ar/articles/open-chatgpt-html-file-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://html.cybergame.ai/hi/articles/open-chatgpt-html-file-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://html.cybergame.ai/articles/open-chatgpt-html-file-on-iphone/" />
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-ai-report.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening an AI generated HTML report on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-files.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening HTML files from Files app and iCloud Drive</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-offline.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview reading HTML files offline with no ads or subscriptions</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://html.cybergame.ai/ar/articles/open-chatgpt-html-file-on-iphone/</loc>
@@ -434,6 +770,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://html.cybergame.ai/ar/articles/open-chatgpt-html-file-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://html.cybergame.ai/hi/articles/open-chatgpt-html-file-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://html.cybergame.ai/articles/open-chatgpt-html-file-on-iphone/" />
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-ai-report.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening an AI generated HTML report on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-files.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening HTML files from Files app and iCloud Drive</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-offline.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview reading HTML files offline with no ads or subscriptions</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://html.cybergame.ai/hi/articles/open-chatgpt-html-file-on-iphone/</loc>
@@ -449,6 +797,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://html.cybergame.ai/ar/articles/open-chatgpt-html-file-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://html.cybergame.ai/hi/articles/open-chatgpt-html-file-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://html.cybergame.ai/articles/open-chatgpt-html-file-on-iphone/" />
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-ai-report.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening an AI generated HTML report on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-files.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening HTML files from Files app and iCloud Drive</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-offline.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview reading HTML files offline with no ads or subscriptions</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://html.cybergame.ai/articles/best-html-viewer-for-iphone-ipad/</loc>
@@ -464,6 +824,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://html.cybergame.ai/ar/articles/best-html-viewer-for-iphone-ipad/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://html.cybergame.ai/hi/articles/best-html-viewer-for-iphone-ipad/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://html.cybergame.ai/articles/best-html-viewer-for-iphone-ipad/" />
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-ai-report.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening an AI generated HTML report on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-files.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening HTML files from Files app and iCloud Drive</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-offline.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview reading HTML files offline with no ads or subscriptions</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://html.cybergame.ai/zh/articles/best-html-viewer-for-iphone-ipad/</loc>
@@ -479,6 +851,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://html.cybergame.ai/ar/articles/best-html-viewer-for-iphone-ipad/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://html.cybergame.ai/hi/articles/best-html-viewer-for-iphone-ipad/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://html.cybergame.ai/articles/best-html-viewer-for-iphone-ipad/" />
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-ai-report.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening an AI generated HTML report on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-files.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening HTML files from Files app and iCloud Drive</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-offline.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview reading HTML files offline with no ads or subscriptions</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://html.cybergame.ai/ja/articles/best-html-viewer-for-iphone-ipad/</loc>
@@ -494,6 +878,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://html.cybergame.ai/ar/articles/best-html-viewer-for-iphone-ipad/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://html.cybergame.ai/hi/articles/best-html-viewer-for-iphone-ipad/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://html.cybergame.ai/articles/best-html-viewer-for-iphone-ipad/" />
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-ai-report.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening an AI generated HTML report on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-files.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening HTML files from Files app and iCloud Drive</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-offline.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview reading HTML files offline with no ads or subscriptions</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://html.cybergame.ai/es/articles/best-html-viewer-for-iphone-ipad/</loc>
@@ -509,6 +905,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://html.cybergame.ai/ar/articles/best-html-viewer-for-iphone-ipad/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://html.cybergame.ai/hi/articles/best-html-viewer-for-iphone-ipad/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://html.cybergame.ai/articles/best-html-viewer-for-iphone-ipad/" />
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-ai-report.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening an AI generated HTML report on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-files.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening HTML files from Files app and iCloud Drive</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-offline.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview reading HTML files offline with no ads or subscriptions</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://html.cybergame.ai/de/articles/best-html-viewer-for-iphone-ipad/</loc>
@@ -524,6 +932,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://html.cybergame.ai/ar/articles/best-html-viewer-for-iphone-ipad/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://html.cybergame.ai/hi/articles/best-html-viewer-for-iphone-ipad/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://html.cybergame.ai/articles/best-html-viewer-for-iphone-ipad/" />
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-ai-report.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening an AI generated HTML report on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-files.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening HTML files from Files app and iCloud Drive</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-offline.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview reading HTML files offline with no ads or subscriptions</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://html.cybergame.ai/fr/articles/best-html-viewer-for-iphone-ipad/</loc>
@@ -539,6 +959,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://html.cybergame.ai/ar/articles/best-html-viewer-for-iphone-ipad/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://html.cybergame.ai/hi/articles/best-html-viewer-for-iphone-ipad/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://html.cybergame.ai/articles/best-html-viewer-for-iphone-ipad/" />
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-ai-report.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening an AI generated HTML report on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-files.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening HTML files from Files app and iCloud Drive</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-offline.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview reading HTML files offline with no ads or subscriptions</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://html.cybergame.ai/pt-br/articles/best-html-viewer-for-iphone-ipad/</loc>
@@ -554,6 +986,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://html.cybergame.ai/ar/articles/best-html-viewer-for-iphone-ipad/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://html.cybergame.ai/hi/articles/best-html-viewer-for-iphone-ipad/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://html.cybergame.ai/articles/best-html-viewer-for-iphone-ipad/" />
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-ai-report.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening an AI generated HTML report on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-files.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening HTML files from Files app and iCloud Drive</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-offline.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview reading HTML files offline with no ads or subscriptions</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://html.cybergame.ai/ko/articles/best-html-viewer-for-iphone-ipad/</loc>
@@ -569,6 +1013,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://html.cybergame.ai/ar/articles/best-html-viewer-for-iphone-ipad/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://html.cybergame.ai/hi/articles/best-html-viewer-for-iphone-ipad/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://html.cybergame.ai/articles/best-html-viewer-for-iphone-ipad/" />
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-ai-report.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening an AI generated HTML report on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-files.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening HTML files from Files app and iCloud Drive</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-offline.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview reading HTML files offline with no ads or subscriptions</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://html.cybergame.ai/ar/articles/best-html-viewer-for-iphone-ipad/</loc>
@@ -584,6 +1040,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://html.cybergame.ai/ar/articles/best-html-viewer-for-iphone-ipad/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://html.cybergame.ai/hi/articles/best-html-viewer-for-iphone-ipad/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://html.cybergame.ai/articles/best-html-viewer-for-iphone-ipad/" />
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-ai-report.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening an AI generated HTML report on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-files.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening HTML files from Files app and iCloud Drive</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-offline.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview reading HTML files offline with no ads or subscriptions</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://html.cybergame.ai/hi/articles/best-html-viewer-for-iphone-ipad/</loc>
@@ -599,6 +1067,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://html.cybergame.ai/ar/articles/best-html-viewer-for-iphone-ipad/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://html.cybergame.ai/hi/articles/best-html-viewer-for-iphone-ipad/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://html.cybergame.ai/articles/best-html-viewer-for-iphone-ipad/" />
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-ai-report.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening an AI generated HTML report on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-files.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening HTML files from Files app and iCloud Drive</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-offline.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview reading HTML files offline with no ads or subscriptions</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://html.cybergame.ai/articles/open-html-email-attachment-on-iphone/</loc>
@@ -614,6 +1094,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://html.cybergame.ai/ar/articles/open-html-email-attachment-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://html.cybergame.ai/hi/articles/open-html-email-attachment-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://html.cybergame.ai/articles/open-html-email-attachment-on-iphone/" />
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-ai-report.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening an AI generated HTML report on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-files.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening HTML files from Files app and iCloud Drive</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-offline.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview reading HTML files offline with no ads or subscriptions</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://html.cybergame.ai/zh/articles/open-html-email-attachment-on-iphone/</loc>
@@ -629,6 +1121,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://html.cybergame.ai/ar/articles/open-html-email-attachment-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://html.cybergame.ai/hi/articles/open-html-email-attachment-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://html.cybergame.ai/articles/open-html-email-attachment-on-iphone/" />
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-ai-report.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening an AI generated HTML report on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-files.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening HTML files from Files app and iCloud Drive</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-offline.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview reading HTML files offline with no ads or subscriptions</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://html.cybergame.ai/ja/articles/open-html-email-attachment-on-iphone/</loc>
@@ -644,6 +1148,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://html.cybergame.ai/ar/articles/open-html-email-attachment-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://html.cybergame.ai/hi/articles/open-html-email-attachment-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://html.cybergame.ai/articles/open-html-email-attachment-on-iphone/" />
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-ai-report.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening an AI generated HTML report on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-files.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening HTML files from Files app and iCloud Drive</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-offline.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview reading HTML files offline with no ads or subscriptions</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://html.cybergame.ai/es/articles/open-html-email-attachment-on-iphone/</loc>
@@ -659,6 +1175,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://html.cybergame.ai/ar/articles/open-html-email-attachment-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://html.cybergame.ai/hi/articles/open-html-email-attachment-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://html.cybergame.ai/articles/open-html-email-attachment-on-iphone/" />
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-ai-report.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening an AI generated HTML report on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-files.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening HTML files from Files app and iCloud Drive</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-offline.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview reading HTML files offline with no ads or subscriptions</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://html.cybergame.ai/de/articles/open-html-email-attachment-on-iphone/</loc>
@@ -674,6 +1202,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://html.cybergame.ai/ar/articles/open-html-email-attachment-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://html.cybergame.ai/hi/articles/open-html-email-attachment-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://html.cybergame.ai/articles/open-html-email-attachment-on-iphone/" />
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-ai-report.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening an AI generated HTML report on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-files.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening HTML files from Files app and iCloud Drive</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-offline.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview reading HTML files offline with no ads or subscriptions</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://html.cybergame.ai/fr/articles/open-html-email-attachment-on-iphone/</loc>
@@ -689,6 +1229,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://html.cybergame.ai/ar/articles/open-html-email-attachment-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://html.cybergame.ai/hi/articles/open-html-email-attachment-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://html.cybergame.ai/articles/open-html-email-attachment-on-iphone/" />
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-ai-report.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening an AI generated HTML report on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-files.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening HTML files from Files app and iCloud Drive</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-offline.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview reading HTML files offline with no ads or subscriptions</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://html.cybergame.ai/pt-br/articles/open-html-email-attachment-on-iphone/</loc>
@@ -704,6 +1256,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://html.cybergame.ai/ar/articles/open-html-email-attachment-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://html.cybergame.ai/hi/articles/open-html-email-attachment-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://html.cybergame.ai/articles/open-html-email-attachment-on-iphone/" />
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-ai-report.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening an AI generated HTML report on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-files.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening HTML files from Files app and iCloud Drive</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-offline.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview reading HTML files offline with no ads or subscriptions</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://html.cybergame.ai/ko/articles/open-html-email-attachment-on-iphone/</loc>
@@ -719,6 +1283,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://html.cybergame.ai/ar/articles/open-html-email-attachment-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://html.cybergame.ai/hi/articles/open-html-email-attachment-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://html.cybergame.ai/articles/open-html-email-attachment-on-iphone/" />
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-ai-report.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening an AI generated HTML report on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-files.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening HTML files from Files app and iCloud Drive</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-offline.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview reading HTML files offline with no ads or subscriptions</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://html.cybergame.ai/ar/articles/open-html-email-attachment-on-iphone/</loc>
@@ -734,6 +1310,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://html.cybergame.ai/ar/articles/open-html-email-attachment-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://html.cybergame.ai/hi/articles/open-html-email-attachment-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://html.cybergame.ai/articles/open-html-email-attachment-on-iphone/" />
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-ai-report.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening an AI generated HTML report on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-files.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening HTML files from Files app and iCloud Drive</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-offline.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview reading HTML files offline with no ads or subscriptions</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://html.cybergame.ai/hi/articles/open-html-email-attachment-on-iphone/</loc>
@@ -749,6 +1337,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://html.cybergame.ai/ar/articles/open-html-email-attachment-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://html.cybergame.ai/hi/articles/open-html-email-attachment-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://html.cybergame.ai/articles/open-html-email-attachment-on-iphone/" />
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-ai-report.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening an AI generated HTML report on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-files.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening HTML files from Files app and iCloud Drive</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-offline.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview reading HTML files offline with no ads or subscriptions</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://html.cybergame.ai/articles/open-html-file-from-files-app-on-iphone/</loc>
@@ -764,6 +1364,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://html.cybergame.ai/ar/articles/open-html-file-from-files-app-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://html.cybergame.ai/hi/articles/open-html-file-from-files-app-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://html.cybergame.ai/articles/open-html-file-from-files-app-on-iphone/" />
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-ai-report.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening an AI generated HTML report on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-files.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening HTML files from Files app and iCloud Drive</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-offline.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview reading HTML files offline with no ads or subscriptions</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://html.cybergame.ai/zh/articles/open-html-file-from-files-app-on-iphone/</loc>
@@ -779,6 +1391,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://html.cybergame.ai/ar/articles/open-html-file-from-files-app-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://html.cybergame.ai/hi/articles/open-html-file-from-files-app-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://html.cybergame.ai/articles/open-html-file-from-files-app-on-iphone/" />
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-ai-report.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening an AI generated HTML report on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-files.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening HTML files from Files app and iCloud Drive</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-offline.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview reading HTML files offline with no ads or subscriptions</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://html.cybergame.ai/ja/articles/open-html-file-from-files-app-on-iphone/</loc>
@@ -794,6 +1418,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://html.cybergame.ai/ar/articles/open-html-file-from-files-app-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://html.cybergame.ai/hi/articles/open-html-file-from-files-app-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://html.cybergame.ai/articles/open-html-file-from-files-app-on-iphone/" />
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-ai-report.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening an AI generated HTML report on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-files.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening HTML files from Files app and iCloud Drive</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-offline.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview reading HTML files offline with no ads or subscriptions</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://html.cybergame.ai/es/articles/open-html-file-from-files-app-on-iphone/</loc>
@@ -809,6 +1445,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://html.cybergame.ai/ar/articles/open-html-file-from-files-app-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://html.cybergame.ai/hi/articles/open-html-file-from-files-app-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://html.cybergame.ai/articles/open-html-file-from-files-app-on-iphone/" />
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-ai-report.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening an AI generated HTML report on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-files.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening HTML files from Files app and iCloud Drive</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-offline.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview reading HTML files offline with no ads or subscriptions</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://html.cybergame.ai/de/articles/open-html-file-from-files-app-on-iphone/</loc>
@@ -824,6 +1472,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://html.cybergame.ai/ar/articles/open-html-file-from-files-app-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://html.cybergame.ai/hi/articles/open-html-file-from-files-app-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://html.cybergame.ai/articles/open-html-file-from-files-app-on-iphone/" />
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-ai-report.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening an AI generated HTML report on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-files.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening HTML files from Files app and iCloud Drive</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-offline.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview reading HTML files offline with no ads or subscriptions</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://html.cybergame.ai/fr/articles/open-html-file-from-files-app-on-iphone/</loc>
@@ -839,6 +1499,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://html.cybergame.ai/ar/articles/open-html-file-from-files-app-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://html.cybergame.ai/hi/articles/open-html-file-from-files-app-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://html.cybergame.ai/articles/open-html-file-from-files-app-on-iphone/" />
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-ai-report.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening an AI generated HTML report on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-files.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening HTML files from Files app and iCloud Drive</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-offline.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview reading HTML files offline with no ads or subscriptions</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://html.cybergame.ai/pt-br/articles/open-html-file-from-files-app-on-iphone/</loc>
@@ -854,6 +1526,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://html.cybergame.ai/ar/articles/open-html-file-from-files-app-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://html.cybergame.ai/hi/articles/open-html-file-from-files-app-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://html.cybergame.ai/articles/open-html-file-from-files-app-on-iphone/" />
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-ai-report.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening an AI generated HTML report on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-files.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening HTML files from Files app and iCloud Drive</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-offline.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview reading HTML files offline with no ads or subscriptions</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://html.cybergame.ai/ko/articles/open-html-file-from-files-app-on-iphone/</loc>
@@ -869,6 +1553,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://html.cybergame.ai/ar/articles/open-html-file-from-files-app-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://html.cybergame.ai/hi/articles/open-html-file-from-files-app-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://html.cybergame.ai/articles/open-html-file-from-files-app-on-iphone/" />
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-ai-report.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening an AI generated HTML report on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-files.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening HTML files from Files app and iCloud Drive</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-offline.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview reading HTML files offline with no ads or subscriptions</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://html.cybergame.ai/ar/articles/open-html-file-from-files-app-on-iphone/</loc>
@@ -884,6 +1580,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://html.cybergame.ai/ar/articles/open-html-file-from-files-app-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://html.cybergame.ai/hi/articles/open-html-file-from-files-app-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://html.cybergame.ai/articles/open-html-file-from-files-app-on-iphone/" />
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-ai-report.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening an AI generated HTML report on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-files.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening HTML files from Files app and iCloud Drive</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-offline.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview reading HTML files offline with no ads or subscriptions</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://html.cybergame.ai/hi/articles/open-html-file-from-files-app-on-iphone/</loc>
@@ -899,6 +1607,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://html.cybergame.ai/ar/articles/open-html-file-from-files-app-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://html.cybergame.ai/hi/articles/open-html-file-from-files-app-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://html.cybergame.ai/articles/open-html-file-from-files-app-on-iphone/" />
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-ai-report.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening an AI generated HTML report on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-files.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening HTML files from Files app and iCloud Drive</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-offline.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview reading HTML files offline with no ads or subscriptions</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://html.cybergame.ai/articles/open-html-file-from-safari-downloads-on-iphone/</loc>
@@ -914,6 +1634,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://html.cybergame.ai/ar/articles/open-html-file-from-safari-downloads-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://html.cybergame.ai/hi/articles/open-html-file-from-safari-downloads-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://html.cybergame.ai/articles/open-html-file-from-safari-downloads-on-iphone/" />
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-ai-report.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening an AI generated HTML report on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-files.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening HTML files from Files app and iCloud Drive</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-offline.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview reading HTML files offline with no ads or subscriptions</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://html.cybergame.ai/zh/articles/open-html-file-from-safari-downloads-on-iphone/</loc>
@@ -929,6 +1661,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://html.cybergame.ai/ar/articles/open-html-file-from-safari-downloads-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://html.cybergame.ai/hi/articles/open-html-file-from-safari-downloads-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://html.cybergame.ai/articles/open-html-file-from-safari-downloads-on-iphone/" />
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-ai-report.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening an AI generated HTML report on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-files.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening HTML files from Files app and iCloud Drive</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-offline.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview reading HTML files offline with no ads or subscriptions</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://html.cybergame.ai/ja/articles/open-html-file-from-safari-downloads-on-iphone/</loc>
@@ -944,6 +1688,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://html.cybergame.ai/ar/articles/open-html-file-from-safari-downloads-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://html.cybergame.ai/hi/articles/open-html-file-from-safari-downloads-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://html.cybergame.ai/articles/open-html-file-from-safari-downloads-on-iphone/" />
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-ai-report.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening an AI generated HTML report on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-files.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening HTML files from Files app and iCloud Drive</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-offline.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview reading HTML files offline with no ads or subscriptions</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://html.cybergame.ai/es/articles/open-html-file-from-safari-downloads-on-iphone/</loc>
@@ -959,6 +1715,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://html.cybergame.ai/ar/articles/open-html-file-from-safari-downloads-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://html.cybergame.ai/hi/articles/open-html-file-from-safari-downloads-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://html.cybergame.ai/articles/open-html-file-from-safari-downloads-on-iphone/" />
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-ai-report.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening an AI generated HTML report on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-files.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening HTML files from Files app and iCloud Drive</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-offline.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview reading HTML files offline with no ads or subscriptions</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://html.cybergame.ai/de/articles/open-html-file-from-safari-downloads-on-iphone/</loc>
@@ -974,6 +1742,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://html.cybergame.ai/ar/articles/open-html-file-from-safari-downloads-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://html.cybergame.ai/hi/articles/open-html-file-from-safari-downloads-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://html.cybergame.ai/articles/open-html-file-from-safari-downloads-on-iphone/" />
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-ai-report.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening an AI generated HTML report on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-files.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening HTML files from Files app and iCloud Drive</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-offline.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview reading HTML files offline with no ads or subscriptions</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://html.cybergame.ai/fr/articles/open-html-file-from-safari-downloads-on-iphone/</loc>
@@ -989,6 +1769,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://html.cybergame.ai/ar/articles/open-html-file-from-safari-downloads-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://html.cybergame.ai/hi/articles/open-html-file-from-safari-downloads-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://html.cybergame.ai/articles/open-html-file-from-safari-downloads-on-iphone/" />
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-ai-report.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening an AI generated HTML report on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-files.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening HTML files from Files app and iCloud Drive</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-offline.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview reading HTML files offline with no ads or subscriptions</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://html.cybergame.ai/pt-br/articles/open-html-file-from-safari-downloads-on-iphone/</loc>
@@ -1004,6 +1796,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://html.cybergame.ai/ar/articles/open-html-file-from-safari-downloads-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://html.cybergame.ai/hi/articles/open-html-file-from-safari-downloads-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://html.cybergame.ai/articles/open-html-file-from-safari-downloads-on-iphone/" />
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-ai-report.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening an AI generated HTML report on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-files.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening HTML files from Files app and iCloud Drive</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-offline.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview reading HTML files offline with no ads or subscriptions</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://html.cybergame.ai/ko/articles/open-html-file-from-safari-downloads-on-iphone/</loc>
@@ -1019,6 +1823,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://html.cybergame.ai/ar/articles/open-html-file-from-safari-downloads-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://html.cybergame.ai/hi/articles/open-html-file-from-safari-downloads-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://html.cybergame.ai/articles/open-html-file-from-safari-downloads-on-iphone/" />
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-ai-report.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening an AI generated HTML report on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-files.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening HTML files from Files app and iCloud Drive</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-offline.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview reading HTML files offline with no ads or subscriptions</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://html.cybergame.ai/ar/articles/open-html-file-from-safari-downloads-on-iphone/</loc>
@@ -1034,6 +1850,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://html.cybergame.ai/ar/articles/open-html-file-from-safari-downloads-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://html.cybergame.ai/hi/articles/open-html-file-from-safari-downloads-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://html.cybergame.ai/articles/open-html-file-from-safari-downloads-on-iphone/" />
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-ai-report.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening an AI generated HTML report on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-files.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening HTML files from Files app and iCloud Drive</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-offline.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview reading HTML files offline with no ads or subscriptions</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://html.cybergame.ai/hi/articles/open-html-file-from-safari-downloads-on-iphone/</loc>
@@ -1049,6 +1877,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://html.cybergame.ai/ar/articles/open-html-file-from-safari-downloads-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://html.cybergame.ai/hi/articles/open-html-file-from-safari-downloads-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://html.cybergame.ai/articles/open-html-file-from-safari-downloads-on-iphone/" />
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-ai-report.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening an AI generated HTML report on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-files.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening HTML files from Files app and iCloud Drive</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-offline.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview reading HTML files offline with no ads or subscriptions</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://html.cybergame.ai/articles/open-html-file-from-icloud-drive-on-ipad/</loc>
@@ -1064,6 +1904,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://html.cybergame.ai/ar/articles/open-html-file-from-icloud-drive-on-ipad/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://html.cybergame.ai/hi/articles/open-html-file-from-icloud-drive-on-ipad/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://html.cybergame.ai/articles/open-html-file-from-icloud-drive-on-ipad/" />
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-ai-report.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening an AI generated HTML report on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-files.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening HTML files from Files app and iCloud Drive</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-offline.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview reading HTML files offline with no ads or subscriptions</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://html.cybergame.ai/zh/articles/open-html-file-from-icloud-drive-on-ipad/</loc>
@@ -1079,6 +1931,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://html.cybergame.ai/ar/articles/open-html-file-from-icloud-drive-on-ipad/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://html.cybergame.ai/hi/articles/open-html-file-from-icloud-drive-on-ipad/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://html.cybergame.ai/articles/open-html-file-from-icloud-drive-on-ipad/" />
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-ai-report.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening an AI generated HTML report on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-files.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening HTML files from Files app and iCloud Drive</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-offline.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview reading HTML files offline with no ads or subscriptions</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://html.cybergame.ai/ja/articles/open-html-file-from-icloud-drive-on-ipad/</loc>
@@ -1094,6 +1958,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://html.cybergame.ai/ar/articles/open-html-file-from-icloud-drive-on-ipad/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://html.cybergame.ai/hi/articles/open-html-file-from-icloud-drive-on-ipad/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://html.cybergame.ai/articles/open-html-file-from-icloud-drive-on-ipad/" />
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-ai-report.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening an AI generated HTML report on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-files.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening HTML files from Files app and iCloud Drive</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-offline.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview reading HTML files offline with no ads or subscriptions</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://html.cybergame.ai/es/articles/open-html-file-from-icloud-drive-on-ipad/</loc>
@@ -1109,6 +1985,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://html.cybergame.ai/ar/articles/open-html-file-from-icloud-drive-on-ipad/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://html.cybergame.ai/hi/articles/open-html-file-from-icloud-drive-on-ipad/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://html.cybergame.ai/articles/open-html-file-from-icloud-drive-on-ipad/" />
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-ai-report.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening an AI generated HTML report on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-files.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening HTML files from Files app and iCloud Drive</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-offline.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview reading HTML files offline with no ads or subscriptions</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://html.cybergame.ai/de/articles/open-html-file-from-icloud-drive-on-ipad/</loc>
@@ -1124,6 +2012,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://html.cybergame.ai/ar/articles/open-html-file-from-icloud-drive-on-ipad/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://html.cybergame.ai/hi/articles/open-html-file-from-icloud-drive-on-ipad/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://html.cybergame.ai/articles/open-html-file-from-icloud-drive-on-ipad/" />
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-ai-report.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening an AI generated HTML report on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-files.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening HTML files from Files app and iCloud Drive</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-offline.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview reading HTML files offline with no ads or subscriptions</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://html.cybergame.ai/fr/articles/open-html-file-from-icloud-drive-on-ipad/</loc>
@@ -1139,6 +2039,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://html.cybergame.ai/ar/articles/open-html-file-from-icloud-drive-on-ipad/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://html.cybergame.ai/hi/articles/open-html-file-from-icloud-drive-on-ipad/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://html.cybergame.ai/articles/open-html-file-from-icloud-drive-on-ipad/" />
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-ai-report.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening an AI generated HTML report on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-files.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening HTML files from Files app and iCloud Drive</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-offline.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview reading HTML files offline with no ads or subscriptions</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://html.cybergame.ai/pt-br/articles/open-html-file-from-icloud-drive-on-ipad/</loc>
@@ -1154,6 +2066,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://html.cybergame.ai/ar/articles/open-html-file-from-icloud-drive-on-ipad/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://html.cybergame.ai/hi/articles/open-html-file-from-icloud-drive-on-ipad/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://html.cybergame.ai/articles/open-html-file-from-icloud-drive-on-ipad/" />
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-ai-report.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening an AI generated HTML report on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-files.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening HTML files from Files app and iCloud Drive</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-offline.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview reading HTML files offline with no ads or subscriptions</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://html.cybergame.ai/ko/articles/open-html-file-from-icloud-drive-on-ipad/</loc>
@@ -1169,6 +2093,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://html.cybergame.ai/ar/articles/open-html-file-from-icloud-drive-on-ipad/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://html.cybergame.ai/hi/articles/open-html-file-from-icloud-drive-on-ipad/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://html.cybergame.ai/articles/open-html-file-from-icloud-drive-on-ipad/" />
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-ai-report.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening an AI generated HTML report on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-files.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening HTML files from Files app and iCloud Drive</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-offline.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview reading HTML files offline with no ads or subscriptions</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://html.cybergame.ai/ar/articles/open-html-file-from-icloud-drive-on-ipad/</loc>
@@ -1184,6 +2120,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://html.cybergame.ai/ar/articles/open-html-file-from-icloud-drive-on-ipad/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://html.cybergame.ai/hi/articles/open-html-file-from-icloud-drive-on-ipad/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://html.cybergame.ai/articles/open-html-file-from-icloud-drive-on-ipad/" />
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-ai-report.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening an AI generated HTML report on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-files.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening HTML files from Files app and iCloud Drive</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-offline.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview reading HTML files offline with no ads or subscriptions</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://html.cybergame.ai/hi/articles/open-html-file-from-icloud-drive-on-ipad/</loc>
@@ -1199,6 +2147,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://html.cybergame.ai/ar/articles/open-html-file-from-icloud-drive-on-ipad/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://html.cybergame.ai/hi/articles/open-html-file-from-icloud-drive-on-ipad/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://html.cybergame.ai/articles/open-html-file-from-icloud-drive-on-ipad/" />
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-ai-report.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening an AI generated HTML report on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-files.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening HTML files from Files app and iCloud Drive</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-offline.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview reading HTML files offline with no ads or subscriptions</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://html.cybergame.ai/articles/offline-html-viewer-for-iphone/</loc>
@@ -1214,6 +2174,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://html.cybergame.ai/ar/articles/offline-html-viewer-for-iphone/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://html.cybergame.ai/hi/articles/offline-html-viewer-for-iphone/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://html.cybergame.ai/articles/offline-html-viewer-for-iphone/" />
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-ai-report.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening an AI generated HTML report on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-files.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening HTML files from Files app and iCloud Drive</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-offline.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview reading HTML files offline with no ads or subscriptions</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://html.cybergame.ai/zh/articles/offline-html-viewer-for-iphone/</loc>
@@ -1229,6 +2201,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://html.cybergame.ai/ar/articles/offline-html-viewer-for-iphone/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://html.cybergame.ai/hi/articles/offline-html-viewer-for-iphone/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://html.cybergame.ai/articles/offline-html-viewer-for-iphone/" />
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-ai-report.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening an AI generated HTML report on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-files.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening HTML files from Files app and iCloud Drive</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-offline.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview reading HTML files offline with no ads or subscriptions</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://html.cybergame.ai/ja/articles/offline-html-viewer-for-iphone/</loc>
@@ -1244,6 +2228,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://html.cybergame.ai/ar/articles/offline-html-viewer-for-iphone/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://html.cybergame.ai/hi/articles/offline-html-viewer-for-iphone/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://html.cybergame.ai/articles/offline-html-viewer-for-iphone/" />
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-ai-report.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening an AI generated HTML report on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-files.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening HTML files from Files app and iCloud Drive</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-offline.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview reading HTML files offline with no ads or subscriptions</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://html.cybergame.ai/es/articles/offline-html-viewer-for-iphone/</loc>
@@ -1259,6 +2255,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://html.cybergame.ai/ar/articles/offline-html-viewer-for-iphone/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://html.cybergame.ai/hi/articles/offline-html-viewer-for-iphone/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://html.cybergame.ai/articles/offline-html-viewer-for-iphone/" />
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-ai-report.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening an AI generated HTML report on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-files.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening HTML files from Files app and iCloud Drive</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-offline.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview reading HTML files offline with no ads or subscriptions</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://html.cybergame.ai/de/articles/offline-html-viewer-for-iphone/</loc>
@@ -1274,6 +2282,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://html.cybergame.ai/ar/articles/offline-html-viewer-for-iphone/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://html.cybergame.ai/hi/articles/offline-html-viewer-for-iphone/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://html.cybergame.ai/articles/offline-html-viewer-for-iphone/" />
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-ai-report.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening an AI generated HTML report on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-files.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening HTML files from Files app and iCloud Drive</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-offline.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview reading HTML files offline with no ads or subscriptions</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://html.cybergame.ai/fr/articles/offline-html-viewer-for-iphone/</loc>
@@ -1289,6 +2309,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://html.cybergame.ai/ar/articles/offline-html-viewer-for-iphone/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://html.cybergame.ai/hi/articles/offline-html-viewer-for-iphone/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://html.cybergame.ai/articles/offline-html-viewer-for-iphone/" />
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-ai-report.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening an AI generated HTML report on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-files.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening HTML files from Files app and iCloud Drive</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-offline.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview reading HTML files offline with no ads or subscriptions</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://html.cybergame.ai/pt-br/articles/offline-html-viewer-for-iphone/</loc>
@@ -1304,6 +2336,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://html.cybergame.ai/ar/articles/offline-html-viewer-for-iphone/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://html.cybergame.ai/hi/articles/offline-html-viewer-for-iphone/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://html.cybergame.ai/articles/offline-html-viewer-for-iphone/" />
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-ai-report.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening an AI generated HTML report on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-files.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening HTML files from Files app and iCloud Drive</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-offline.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview reading HTML files offline with no ads or subscriptions</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://html.cybergame.ai/ko/articles/offline-html-viewer-for-iphone/</loc>
@@ -1319,6 +2363,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://html.cybergame.ai/ar/articles/offline-html-viewer-for-iphone/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://html.cybergame.ai/hi/articles/offline-html-viewer-for-iphone/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://html.cybergame.ai/articles/offline-html-viewer-for-iphone/" />
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-ai-report.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening an AI generated HTML report on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-files.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening HTML files from Files app and iCloud Drive</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-offline.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview reading HTML files offline with no ads or subscriptions</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://html.cybergame.ai/ar/articles/offline-html-viewer-for-iphone/</loc>
@@ -1334,6 +2390,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://html.cybergame.ai/ar/articles/offline-html-viewer-for-iphone/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://html.cybergame.ai/hi/articles/offline-html-viewer-for-iphone/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://html.cybergame.ai/articles/offline-html-viewer-for-iphone/" />
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-ai-report.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening an AI generated HTML report on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-files.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening HTML files from Files app and iCloud Drive</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-offline.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview reading HTML files offline with no ads or subscriptions</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://html.cybergame.ai/hi/articles/offline-html-viewer-for-iphone/</loc>
@@ -1349,6 +2417,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://html.cybergame.ai/ar/articles/offline-html-viewer-for-iphone/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://html.cybergame.ai/hi/articles/offline-html-viewer-for-iphone/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://html.cybergame.ai/articles/offline-html-viewer-for-iphone/" />
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-ai-report.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening an AI generated HTML report on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-files.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening HTML files from Files app and iCloud Drive</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-offline.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview reading HTML files offline with no ads or subscriptions</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://html.cybergame.ai/articles/view-ai-generated-html-report-on-ipad/</loc>
@@ -1364,6 +2444,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://html.cybergame.ai/ar/articles/view-ai-generated-html-report-on-ipad/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://html.cybergame.ai/hi/articles/view-ai-generated-html-report-on-ipad/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://html.cybergame.ai/articles/view-ai-generated-html-report-on-ipad/" />
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-ai-report.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening an AI generated HTML report on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-files.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening HTML files from Files app and iCloud Drive</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-offline.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview reading HTML files offline with no ads or subscriptions</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://html.cybergame.ai/zh/articles/view-ai-generated-html-report-on-ipad/</loc>
@@ -1379,6 +2471,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://html.cybergame.ai/ar/articles/view-ai-generated-html-report-on-ipad/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://html.cybergame.ai/hi/articles/view-ai-generated-html-report-on-ipad/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://html.cybergame.ai/articles/view-ai-generated-html-report-on-ipad/" />
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-ai-report.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening an AI generated HTML report on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-files.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening HTML files from Files app and iCloud Drive</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-offline.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview reading HTML files offline with no ads or subscriptions</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://html.cybergame.ai/ja/articles/view-ai-generated-html-report-on-ipad/</loc>
@@ -1394,6 +2498,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://html.cybergame.ai/ar/articles/view-ai-generated-html-report-on-ipad/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://html.cybergame.ai/hi/articles/view-ai-generated-html-report-on-ipad/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://html.cybergame.ai/articles/view-ai-generated-html-report-on-ipad/" />
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-ai-report.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening an AI generated HTML report on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-files.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening HTML files from Files app and iCloud Drive</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-offline.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview reading HTML files offline with no ads or subscriptions</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://html.cybergame.ai/es/articles/view-ai-generated-html-report-on-ipad/</loc>
@@ -1409,6 +2525,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://html.cybergame.ai/ar/articles/view-ai-generated-html-report-on-ipad/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://html.cybergame.ai/hi/articles/view-ai-generated-html-report-on-ipad/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://html.cybergame.ai/articles/view-ai-generated-html-report-on-ipad/" />
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-ai-report.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening an AI generated HTML report on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-files.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening HTML files from Files app and iCloud Drive</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-offline.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview reading HTML files offline with no ads or subscriptions</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://html.cybergame.ai/de/articles/view-ai-generated-html-report-on-ipad/</loc>
@@ -1424,6 +2552,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://html.cybergame.ai/ar/articles/view-ai-generated-html-report-on-ipad/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://html.cybergame.ai/hi/articles/view-ai-generated-html-report-on-ipad/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://html.cybergame.ai/articles/view-ai-generated-html-report-on-ipad/" />
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-ai-report.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening an AI generated HTML report on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-files.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening HTML files from Files app and iCloud Drive</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-offline.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview reading HTML files offline with no ads or subscriptions</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://html.cybergame.ai/fr/articles/view-ai-generated-html-report-on-ipad/</loc>
@@ -1439,6 +2579,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://html.cybergame.ai/ar/articles/view-ai-generated-html-report-on-ipad/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://html.cybergame.ai/hi/articles/view-ai-generated-html-report-on-ipad/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://html.cybergame.ai/articles/view-ai-generated-html-report-on-ipad/" />
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-ai-report.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening an AI generated HTML report on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-files.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening HTML files from Files app and iCloud Drive</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-offline.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview reading HTML files offline with no ads or subscriptions</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://html.cybergame.ai/pt-br/articles/view-ai-generated-html-report-on-ipad/</loc>
@@ -1454,6 +2606,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://html.cybergame.ai/ar/articles/view-ai-generated-html-report-on-ipad/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://html.cybergame.ai/hi/articles/view-ai-generated-html-report-on-ipad/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://html.cybergame.ai/articles/view-ai-generated-html-report-on-ipad/" />
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-ai-report.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening an AI generated HTML report on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-files.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening HTML files from Files app and iCloud Drive</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-offline.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview reading HTML files offline with no ads or subscriptions</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://html.cybergame.ai/ko/articles/view-ai-generated-html-report-on-ipad/</loc>
@@ -1469,6 +2633,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://html.cybergame.ai/ar/articles/view-ai-generated-html-report-on-ipad/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://html.cybergame.ai/hi/articles/view-ai-generated-html-report-on-ipad/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://html.cybergame.ai/articles/view-ai-generated-html-report-on-ipad/" />
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-ai-report.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening an AI generated HTML report on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-files.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening HTML files from Files app and iCloud Drive</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-offline.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview reading HTML files offline with no ads or subscriptions</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://html.cybergame.ai/ar/articles/view-ai-generated-html-report-on-ipad/</loc>
@@ -1484,6 +2660,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://html.cybergame.ai/ar/articles/view-ai-generated-html-report-on-ipad/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://html.cybergame.ai/hi/articles/view-ai-generated-html-report-on-ipad/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://html.cybergame.ai/articles/view-ai-generated-html-report-on-ipad/" />
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-ai-report.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening an AI generated HTML report on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-files.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening HTML files from Files app and iCloud Drive</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-offline.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview reading HTML files offline with no ads or subscriptions</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://html.cybergame.ai/hi/articles/view-ai-generated-html-report-on-ipad/</loc>
@@ -1499,5 +2687,17 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://html.cybergame.ai/ar/articles/view-ai-generated-html-report-on-ipad/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://html.cybergame.ai/hi/articles/view-ai-generated-html-report-on-ipad/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://html.cybergame.ai/articles/view-ai-generated-html-report-on-ipad/" />
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-ai-report.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening an AI generated HTML report on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-files.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview opening HTML files from Files app and iCloud Drive</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/previews/html-preview-offline.svg</image:loc>
+      <image:caption>Html Preview iPhone app preview reading HTML files offline with no ads or subscriptions</image:caption>
+    </image:image>
   </url>
 </urlset>

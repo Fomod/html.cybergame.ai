@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1200" viewBox="0 0 900 1200" role="img" aria-labelledby="title desc">
+  <title id="title">Html Preview offline HTML viewer</title>
+  <desc id="desc">A product preview emphasizing local offline HTML preview with no ads, subscriptions, or uploads.</desc>
+  <rect width="900" height="1200" fill="#f8fafc"/>
+  <rect x="92" y="72" width="716" height="1056" rx="52" fill="#111418"/>
+  <rect x="126" y="122" width="648" height="956" rx="34" fill="#ffffff"/>
+  <rect x="164" y="178" width="572" height="238" rx="30" fill="#fff4ea"/>
+  <path d="M236 310c0-50 41-90 91-90s91 40 91 90" fill="none" stroke="#d96c21" stroke-width="22" stroke-linecap="round"/>
+  <rect x="258" y="304" width="138" height="96" rx="20" fill="#d96c21"/>
+  <circle cx="327" cy="352" r="14" fill="#ffffff"/>
+  <rect x="322" y="352" width="10" height="28" rx="5" fill="#ffffff"/>
+  <text x="468" y="284" fill="#16181d" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="36" font-weight="850">Local preview</text>
+  <text x="468" y="330" fill="#5d6674" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="22">No upload needed</text>
+  <text x="468" y="368" fill="#5d6674" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="22">No ads / No IAP</text>
+  <text x="164" y="508" fill="#16181d" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="44" font-weight="850">Offline HTML viewer</text>
+  <text x="164" y="556" fill="#5d6674" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="24">Read saved pages, AI reports, and attachments.</text>
+  <rect x="164" y="632" width="572" height="58" rx="18" fill="#f1f5f9"/>
+  <rect x="164" y="720" width="572" height="58" rx="18" fill="#f1f5f9"/>
+  <rect x="164" y="808" width="572" height="58" rx="18" fill="#f1f5f9"/>
+  <circle cx="204" cy="661" r="12" fill="#d96c21"/>
+  <circle cx="204" cy="749" r="12" fill="#d96c21"/>
+  <circle cx="204" cy="837" r="12" fill="#d96c21"/>
+  <text x="238" y="669" fill="#16181d" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="22" font-weight="800">Works from iOS Files</text>
+  <text x="238" y="757" fill="#16181d" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="22" font-weight="800">Keeps the file on device</text>
+  <text x="238" y="845" fill="#16181d" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="22" font-weight="800">Focused preview, no clutter</text>
+  <rect x="164" y="942" width="572" height="72" rx="24" fill="#d96c21"/>
+  <text x="300" y="987" fill="#ffffff" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="26" font-weight="850">Download on App Store</text>
+</svg>
