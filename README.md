@@ -2,9 +2,13 @@
 
 Static multilingual SEO site for Html Preview.
 
-Production domain: https://html.cybergame.ai/
+Official website: https://html.cybergame.ai/
 
-App Store link: https://apps.apple.com/app/id6760443436
+App Store: https://apps.apple.com/app/id6760443436
+
+Companion app website: https://markdown.cybergame.ai/
+
+This iOS app has no subscriptions, no in-app purchases, and no ads.
 
 Generated pages:
 
