@@ -1,0 +1,68 @@
+{
+  "id": "https://html.cybergame.ai/",
+  "name": "Html Preview - Web File Viewer",
+  "short_name": "Html Preview",
+  "description": "Open and preview HTML files on iPhone and iPad.",
+  "lang": "en",
+  "start_url": "https://html.cybergame.ai/",
+  "scope": "https://html.cybergame.ai/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f8fafc",
+  "theme_color": "#d96c21",
+  "categories": [
+    "utilities",
+    "productivity"
+  ],
+  "icons": [
+    {
+      "src": "/favicon-48x48.png",
+      "sizes": "48x48",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/assets/screenshots/app-store-screenshot-1.png",
+      "sizes": "1242x2688",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Open any HTML in one tap"
+    },
+    {
+      "src": "/assets/screenshots/app-store-screenshot-2.png",
+      "sizes": "1242x2688",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "AI chatbots make HTML"
+    },
+    {
+      "src": "/assets/screenshots/app-store-screenshot-3.png",
+      "sizes": "1242x2688",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "One feature perfected"
+    }
+  ],
+  "related_applications": [
+    {
+      "platform": "itunes",
+      "id": "6760443436",
+      "url": "https://apps.apple.com/app/id6760443436"
+    }
+  ],
+  "prefer_related_applications": true
+}
