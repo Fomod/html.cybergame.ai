@@ -38,9 +38,11 @@ Allow: /
 # Conversion map JSON: https://html.cybergame.ai/conversion-map.json
 # Query index JSON: https://html.cybergame.ai/query-index.json
 # File formats JSON: https://html.cybergame.ai/file-formats.json
+# Viewer selector JSON: https://html.cybergame.ai/viewer-selector.json
 # Site index JSON: https://html.cybergame.ai/site-index.json
 # How-to index JSON: https://html.cybergame.ai/how-to-index.json
 # Troubleshooting index JSON: https://html.cybergame.ai/troubleshooting-index.json
+# FAQ index JSON: https://html.cybergame.ai/faq-index.json
 # Citation cards JSON: https://html.cybergame.ai/citation-cards.json
 # Assistant answers JSON: https://html.cybergame.ai/assistant-answers.json
 # Answer index JSON: https://html.cybergame.ai/answers.json
