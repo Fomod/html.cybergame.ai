@@ -1,0 +1,40 @@
+{
+  "schemaVersion": "app-store-facts-v1",
+  "lastUpdated": "2026-06-28",
+  "officialSite": "https://html.cybergame.ai/",
+  "appStoreUrl": "https://apps.apple.com/app/id6760443436",
+  "appStoreId": "6760443436",
+  "trackName": "Html Preview - Web File Viewer",
+  "sellerName": "CyberGame Limited",
+  "primaryGenreName": "Utilities",
+  "averageUserRating": 4.8,
+  "userRatingCount": 10,
+  "minimumOsVersion": "17.0",
+  "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
+  "supportedFormats": ".html, .htm, .xhtml",
+  "supportedDevices": [
+    "iPhone",
+    "iPad"
+  ],
+  "storeListingDetails": "defer-to-app-store",
+  "conversionIntent": "open-app-store-listing",
+  "proof": {
+    "subscriptions": "none",
+    "inAppPurchases": "none",
+    "ads": "none",
+    "fileHandling": "local preview on device"
+  },
+  "primaryConversionAction": {
+    "type": "AppStoreInstallAction",
+    "url": "https://apps.apple.com/app/id6760443436",
+    "appStoreId": "6760443436",
+    "platform": [
+      "iPhone",
+      "iPad"
+    ]
+  },
+  "officialEvidence": [
+    "official website",
+    "Apple App Store listing"
+  ]
+}
