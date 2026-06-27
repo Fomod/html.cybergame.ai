@@ -15,6 +15,7 @@ Generated pages:
 - 10 localized landing pages
 - 10 localized how-to guide pages
 - 10 localized article hub pages
+- 10 localized App Store screenshot pages
 - 90 localized topic cluster pages
 - 510 localized SEO article pages
 - sitemap-index.xml for sitemap discovery
