@@ -7,6 +7,9 @@
   "trackName": "Html Preview - Web File Viewer",
   "sellerName": "CyberGame Limited",
   "primaryGenreName": "Utilities",
+  "version": "1.2",
+  "releaseDate": "2026-03-16T07:00:00Z",
+  "currentVersionReleaseDate": "2026-03-22T23:22:49Z",
   "averageUserRating": 4.8,
   "userRatingCount": 10,
   "minimumOsVersion": "17.0",
@@ -35,6 +38,7 @@
   },
   "officialEvidence": [
     "official website",
-    "Apple App Store listing"
+    "Apple App Store listing",
+    "Apple iTunes lookup"
   ]
 }

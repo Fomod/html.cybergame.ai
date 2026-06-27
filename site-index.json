@@ -29,6 +29,9 @@
     "iPhone",
     "iPad"
   ],
+  "appStoreVersion": "1.2",
+  "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+  "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
   "companionSite": "https://markdown.cybergame.ai/",
   "primaryConversionAction": {
     "type": "AppStoreInstallAction",
@@ -238,6 +241,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -347,6 +353,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/open-html-file-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -456,6 +465,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/articles/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -565,6 +577,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/topics/ai-generated-files/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -674,6 +689,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/topics/files-share-sheet/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -783,6 +801,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/topics/cloud-drives/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -892,6 +913,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/topics/file-extensions/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -1001,6 +1025,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/topics/offline-private-preview/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -1110,6 +1137,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/topics/best-viewer/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -1219,6 +1249,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/topics/ios-file-preview-problems/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -1328,6 +1361,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/articles/open-chatgpt-html-file-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -1437,6 +1473,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/articles/open-chatgpt-html-file-on-ipad/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -1546,6 +1585,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/articles/best-html-viewer-for-iphone-ipad/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -1655,6 +1697,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/articles/open-html-email-attachment-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -1764,6 +1809,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/articles/open-gmail-html-attachment-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -1873,6 +1921,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/articles/open-outlook-html-attachment-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -1982,6 +2033,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/articles/open-html-file-from-files-app-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -2091,6 +2145,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/articles/open-html-file-from-safari-downloads-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -2200,6 +2257,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/articles/open-html-file-from-icloud-drive-on-ipad/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -2309,6 +2369,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/articles/offline-html-viewer-for-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -2418,6 +2481,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/articles/open-zipped-html-export-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -2527,6 +2593,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/articles/open-local-html-file-without-safari-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -2636,6 +2705,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/articles/view-ai-generated-html-report-on-ipad/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -2745,6 +2817,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/articles/open-htm-file-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -2854,6 +2929,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/articles/open-xhtml-file-on-ipad/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -2963,6 +3041,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/articles/open-html-file-from-google-drive-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -3072,6 +3153,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/articles/open-html-file-from-dropbox-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -3181,6 +3265,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/articles/open-html-file-from-airdrop-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -3290,6 +3377,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/articles/open-wechat-whatsapp-html-file-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -3399,6 +3489,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/articles/iphone-cant-open-html-file/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -3508,6 +3601,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/articles/html-file-shows-source-code-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -3617,6 +3713,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/articles/files-app-cant-preview-html-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -3726,6 +3825,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/articles/open-claude-artifact-html-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -3835,6 +3937,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/articles/open-chatgpt-html-download-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -3944,6 +4049,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/articles/open-gemini-html-file-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -4053,6 +4161,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/articles/open-notion-html-export-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -4162,6 +4273,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/articles/open-github-html-file-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -4271,6 +4385,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/articles/open-ai-dashboard-html-on-ipad/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -4380,6 +4497,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/zh/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -4489,6 +4609,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/zh/open-html-file-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -4598,6 +4721,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/zh/articles/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -4707,6 +4833,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/zh/topics/ai-generated-files/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -4816,6 +4945,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/zh/topics/files-share-sheet/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -4925,6 +5057,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/zh/topics/cloud-drives/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -5034,6 +5169,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/zh/topics/file-extensions/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -5143,6 +5281,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/zh/topics/offline-private-preview/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -5252,6 +5393,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/zh/topics/best-viewer/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -5361,6 +5505,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/zh/topics/ios-file-preview-problems/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -5470,6 +5617,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/zh/articles/open-chatgpt-html-file-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -5579,6 +5729,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/zh/articles/open-chatgpt-html-file-on-ipad/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -5688,6 +5841,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/zh/articles/best-html-viewer-for-iphone-ipad/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -5797,6 +5953,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/zh/articles/open-html-email-attachment-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -5906,6 +6065,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/zh/articles/open-gmail-html-attachment-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -6015,6 +6177,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/zh/articles/open-outlook-html-attachment-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -6124,6 +6289,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/zh/articles/open-html-file-from-files-app-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -6233,6 +6401,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/zh/articles/open-html-file-from-safari-downloads-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -6342,6 +6513,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/zh/articles/open-html-file-from-icloud-drive-on-ipad/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -6451,6 +6625,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/zh/articles/offline-html-viewer-for-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -6560,6 +6737,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/zh/articles/open-zipped-html-export-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -6669,6 +6849,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/zh/articles/open-local-html-file-without-safari-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -6778,6 +6961,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/zh/articles/view-ai-generated-html-report-on-ipad/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -6887,6 +7073,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/zh/articles/open-htm-file-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -6996,6 +7185,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/zh/articles/open-xhtml-file-on-ipad/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -7105,6 +7297,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/zh/articles/open-html-file-from-google-drive-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -7214,6 +7409,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/zh/articles/open-html-file-from-dropbox-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -7323,6 +7521,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/zh/articles/open-html-file-from-airdrop-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -7432,6 +7633,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/zh/articles/open-wechat-whatsapp-html-file-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -7541,6 +7745,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/zh/articles/iphone-cant-open-html-file/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -7650,6 +7857,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/zh/articles/html-file-shows-source-code-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -7759,6 +7969,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/zh/articles/files-app-cant-preview-html-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -7868,6 +8081,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/zh/articles/open-claude-artifact-html-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -7977,6 +8193,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/zh/articles/open-chatgpt-html-download-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -8086,6 +8305,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/zh/articles/open-gemini-html-file-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -8195,6 +8417,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/zh/articles/open-notion-html-export-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -8304,6 +8529,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/zh/articles/open-github-html-file-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -8413,6 +8641,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/zh/articles/open-ai-dashboard-html-on-ipad/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -8522,6 +8753,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/ja/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -8631,6 +8865,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/ja/open-html-file-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -8740,6 +8977,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/ja/articles/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -8849,6 +9089,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/ja/topics/ai-generated-files/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -8958,6 +9201,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/ja/topics/files-share-sheet/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -9067,6 +9313,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/ja/topics/cloud-drives/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -9176,6 +9425,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/ja/topics/file-extensions/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -9285,6 +9537,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/ja/topics/offline-private-preview/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -9394,6 +9649,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/ja/topics/best-viewer/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -9503,6 +9761,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/ja/topics/ios-file-preview-problems/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -9612,6 +9873,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/ja/articles/open-chatgpt-html-file-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -9721,6 +9985,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/ja/articles/open-chatgpt-html-file-on-ipad/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -9830,6 +10097,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/ja/articles/best-html-viewer-for-iphone-ipad/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -9939,6 +10209,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/ja/articles/open-html-email-attachment-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -10048,6 +10321,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/ja/articles/open-gmail-html-attachment-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -10157,6 +10433,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/ja/articles/open-outlook-html-attachment-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -10266,6 +10545,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/ja/articles/open-html-file-from-files-app-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -10375,6 +10657,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/ja/articles/open-html-file-from-safari-downloads-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -10484,6 +10769,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/ja/articles/open-html-file-from-icloud-drive-on-ipad/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -10593,6 +10881,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/ja/articles/offline-html-viewer-for-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -10702,6 +10993,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/ja/articles/open-zipped-html-export-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -10811,6 +11105,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/ja/articles/open-local-html-file-without-safari-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -10920,6 +11217,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/ja/articles/view-ai-generated-html-report-on-ipad/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -11029,6 +11329,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/ja/articles/open-htm-file-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -11138,6 +11441,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/ja/articles/open-xhtml-file-on-ipad/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -11247,6 +11553,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/ja/articles/open-html-file-from-google-drive-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -11356,6 +11665,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/ja/articles/open-html-file-from-dropbox-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -11465,6 +11777,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/ja/articles/open-html-file-from-airdrop-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -11574,6 +11889,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/ja/articles/open-wechat-whatsapp-html-file-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -11683,6 +12001,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/ja/articles/iphone-cant-open-html-file/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -11792,6 +12113,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/ja/articles/html-file-shows-source-code-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -11901,6 +12225,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/ja/articles/files-app-cant-preview-html-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -12010,6 +12337,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/ja/articles/open-claude-artifact-html-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -12119,6 +12449,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/ja/articles/open-chatgpt-html-download-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -12228,6 +12561,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/ja/articles/open-gemini-html-file-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -12337,6 +12673,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/ja/articles/open-notion-html-export-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -12446,6 +12785,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/ja/articles/open-github-html-file-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -12555,6 +12897,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/ja/articles/open-ai-dashboard-html-on-ipad/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -12664,6 +13009,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/es/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -12773,6 +13121,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/es/open-html-file-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -12882,6 +13233,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/es/articles/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -12991,6 +13345,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/es/topics/ai-generated-files/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -13100,6 +13457,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/es/topics/files-share-sheet/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -13209,6 +13569,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/es/topics/cloud-drives/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -13318,6 +13681,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/es/topics/file-extensions/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -13427,6 +13793,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/es/topics/offline-private-preview/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -13536,6 +13905,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/es/topics/best-viewer/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -13645,6 +14017,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/es/topics/ios-file-preview-problems/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -13754,6 +14129,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/es/articles/open-chatgpt-html-file-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -13863,6 +14241,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/es/articles/open-chatgpt-html-file-on-ipad/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -13972,6 +14353,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/es/articles/best-html-viewer-for-iphone-ipad/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -14081,6 +14465,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/es/articles/open-html-email-attachment-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -14190,6 +14577,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/es/articles/open-gmail-html-attachment-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -14299,6 +14689,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/es/articles/open-outlook-html-attachment-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -14408,6 +14801,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/es/articles/open-html-file-from-files-app-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -14517,6 +14913,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/es/articles/open-html-file-from-safari-downloads-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -14626,6 +15025,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/es/articles/open-html-file-from-icloud-drive-on-ipad/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -14735,6 +15137,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/es/articles/offline-html-viewer-for-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -14844,6 +15249,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/es/articles/open-zipped-html-export-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -14953,6 +15361,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/es/articles/open-local-html-file-without-safari-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -15062,6 +15473,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/es/articles/view-ai-generated-html-report-on-ipad/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -15171,6 +15585,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/es/articles/open-htm-file-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -15280,6 +15697,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/es/articles/open-xhtml-file-on-ipad/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -15389,6 +15809,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/es/articles/open-html-file-from-google-drive-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -15498,6 +15921,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/es/articles/open-html-file-from-dropbox-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -15607,6 +16033,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/es/articles/open-html-file-from-airdrop-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -15716,6 +16145,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/es/articles/open-wechat-whatsapp-html-file-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -15825,6 +16257,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/es/articles/iphone-cant-open-html-file/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -15934,6 +16369,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/es/articles/html-file-shows-source-code-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -16043,6 +16481,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/es/articles/files-app-cant-preview-html-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -16152,6 +16593,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/es/articles/open-claude-artifact-html-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -16261,6 +16705,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/es/articles/open-chatgpt-html-download-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -16370,6 +16817,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/es/articles/open-gemini-html-file-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -16479,6 +16929,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/es/articles/open-notion-html-export-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -16588,6 +17041,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/es/articles/open-github-html-file-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -16697,6 +17153,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/es/articles/open-ai-dashboard-html-on-ipad/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -16806,6 +17265,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/de/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -16915,6 +17377,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/de/open-html-file-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -17024,6 +17489,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/de/articles/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -17133,6 +17601,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/de/topics/ai-generated-files/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -17242,6 +17713,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/de/topics/files-share-sheet/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -17351,6 +17825,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/de/topics/cloud-drives/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -17460,6 +17937,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/de/topics/file-extensions/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -17569,6 +18049,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/de/topics/offline-private-preview/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -17678,6 +18161,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/de/topics/best-viewer/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -17787,6 +18273,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/de/topics/ios-file-preview-problems/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -17896,6 +18385,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/de/articles/open-chatgpt-html-file-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -18005,6 +18497,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/de/articles/open-chatgpt-html-file-on-ipad/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -18114,6 +18609,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/de/articles/best-html-viewer-for-iphone-ipad/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -18223,6 +18721,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/de/articles/open-html-email-attachment-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -18332,6 +18833,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/de/articles/open-gmail-html-attachment-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -18441,6 +18945,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/de/articles/open-outlook-html-attachment-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -18550,6 +19057,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/de/articles/open-html-file-from-files-app-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -18659,6 +19169,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/de/articles/open-html-file-from-safari-downloads-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -18768,6 +19281,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/de/articles/open-html-file-from-icloud-drive-on-ipad/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -18877,6 +19393,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/de/articles/offline-html-viewer-for-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -18986,6 +19505,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/de/articles/open-zipped-html-export-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -19095,6 +19617,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/de/articles/open-local-html-file-without-safari-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -19204,6 +19729,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/de/articles/view-ai-generated-html-report-on-ipad/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -19313,6 +19841,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/de/articles/open-htm-file-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -19422,6 +19953,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/de/articles/open-xhtml-file-on-ipad/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -19531,6 +20065,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/de/articles/open-html-file-from-google-drive-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -19640,6 +20177,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/de/articles/open-html-file-from-dropbox-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -19749,6 +20289,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/de/articles/open-html-file-from-airdrop-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -19858,6 +20401,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/de/articles/open-wechat-whatsapp-html-file-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -19967,6 +20513,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/de/articles/iphone-cant-open-html-file/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -20076,6 +20625,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/de/articles/html-file-shows-source-code-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -20185,6 +20737,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/de/articles/files-app-cant-preview-html-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -20294,6 +20849,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/de/articles/open-claude-artifact-html-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -20403,6 +20961,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/de/articles/open-chatgpt-html-download-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -20512,6 +21073,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/de/articles/open-gemini-html-file-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -20621,6 +21185,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/de/articles/open-notion-html-export-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -20730,6 +21297,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/de/articles/open-github-html-file-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -20839,6 +21409,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/de/articles/open-ai-dashboard-html-on-ipad/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -20948,6 +21521,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/fr/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -21057,6 +21633,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/fr/open-html-file-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -21166,6 +21745,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/fr/articles/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -21275,6 +21857,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/fr/topics/ai-generated-files/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -21384,6 +21969,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/fr/topics/files-share-sheet/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -21493,6 +22081,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/fr/topics/cloud-drives/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -21602,6 +22193,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/fr/topics/file-extensions/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -21711,6 +22305,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/fr/topics/offline-private-preview/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -21820,6 +22417,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/fr/topics/best-viewer/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -21929,6 +22529,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/fr/topics/ios-file-preview-problems/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -22038,6 +22641,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/fr/articles/open-chatgpt-html-file-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -22147,6 +22753,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/fr/articles/open-chatgpt-html-file-on-ipad/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -22256,6 +22865,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/fr/articles/best-html-viewer-for-iphone-ipad/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -22365,6 +22977,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/fr/articles/open-html-email-attachment-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -22474,6 +23089,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/fr/articles/open-gmail-html-attachment-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -22583,6 +23201,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/fr/articles/open-outlook-html-attachment-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -22692,6 +23313,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/fr/articles/open-html-file-from-files-app-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -22801,6 +23425,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/fr/articles/open-html-file-from-safari-downloads-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -22910,6 +23537,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/fr/articles/open-html-file-from-icloud-drive-on-ipad/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -23019,6 +23649,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/fr/articles/offline-html-viewer-for-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -23128,6 +23761,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/fr/articles/open-zipped-html-export-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -23237,6 +23873,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/fr/articles/open-local-html-file-without-safari-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -23346,6 +23985,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/fr/articles/view-ai-generated-html-report-on-ipad/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -23455,6 +24097,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/fr/articles/open-htm-file-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -23564,6 +24209,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/fr/articles/open-xhtml-file-on-ipad/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -23673,6 +24321,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/fr/articles/open-html-file-from-google-drive-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -23782,6 +24433,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/fr/articles/open-html-file-from-dropbox-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -23891,6 +24545,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/fr/articles/open-html-file-from-airdrop-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -24000,6 +24657,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/fr/articles/open-wechat-whatsapp-html-file-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -24109,6 +24769,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/fr/articles/iphone-cant-open-html-file/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -24218,6 +24881,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/fr/articles/html-file-shows-source-code-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -24327,6 +24993,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/fr/articles/files-app-cant-preview-html-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -24436,6 +25105,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/fr/articles/open-claude-artifact-html-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -24545,6 +25217,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/fr/articles/open-chatgpt-html-download-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -24654,6 +25329,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/fr/articles/open-gemini-html-file-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -24763,6 +25441,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/fr/articles/open-notion-html-export-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -24872,6 +25553,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/fr/articles/open-github-html-file-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -24981,6 +25665,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/fr/articles/open-ai-dashboard-html-on-ipad/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -25090,6 +25777,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/pt-br/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -25199,6 +25889,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/pt-br/open-html-file-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -25308,6 +26001,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/pt-br/articles/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -25417,6 +26113,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/pt-br/topics/ai-generated-files/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -25526,6 +26225,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/pt-br/topics/files-share-sheet/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -25635,6 +26337,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/pt-br/topics/cloud-drives/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -25744,6 +26449,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/pt-br/topics/file-extensions/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -25853,6 +26561,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/pt-br/topics/offline-private-preview/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -25962,6 +26673,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/pt-br/topics/best-viewer/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -26071,6 +26785,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/pt-br/topics/ios-file-preview-problems/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -26180,6 +26897,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/pt-br/articles/open-chatgpt-html-file-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -26289,6 +27009,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/pt-br/articles/open-chatgpt-html-file-on-ipad/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -26398,6 +27121,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/pt-br/articles/best-html-viewer-for-iphone-ipad/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -26507,6 +27233,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/pt-br/articles/open-html-email-attachment-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -26616,6 +27345,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/pt-br/articles/open-gmail-html-attachment-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -26725,6 +27457,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/pt-br/articles/open-outlook-html-attachment-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -26834,6 +27569,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/pt-br/articles/open-html-file-from-files-app-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -26943,6 +27681,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/pt-br/articles/open-html-file-from-safari-downloads-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -27052,6 +27793,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/pt-br/articles/open-html-file-from-icloud-drive-on-ipad/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -27161,6 +27905,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/pt-br/articles/offline-html-viewer-for-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -27270,6 +28017,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/pt-br/articles/open-zipped-html-export-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -27379,6 +28129,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/pt-br/articles/open-local-html-file-without-safari-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -27488,6 +28241,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/pt-br/articles/view-ai-generated-html-report-on-ipad/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -27597,6 +28353,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/pt-br/articles/open-htm-file-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -27706,6 +28465,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/pt-br/articles/open-xhtml-file-on-ipad/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -27815,6 +28577,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/pt-br/articles/open-html-file-from-google-drive-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -27924,6 +28689,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/pt-br/articles/open-html-file-from-dropbox-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -28033,6 +28801,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/pt-br/articles/open-html-file-from-airdrop-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -28142,6 +28913,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/pt-br/articles/open-wechat-whatsapp-html-file-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -28251,6 +29025,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/pt-br/articles/iphone-cant-open-html-file/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -28360,6 +29137,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/pt-br/articles/html-file-shows-source-code-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -28469,6 +29249,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/pt-br/articles/files-app-cant-preview-html-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -28578,6 +29361,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/pt-br/articles/open-claude-artifact-html-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -28687,6 +29473,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/pt-br/articles/open-chatgpt-html-download-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -28796,6 +29585,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/pt-br/articles/open-gemini-html-file-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -28905,6 +29697,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/pt-br/articles/open-notion-html-export-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -29014,6 +29809,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/pt-br/articles/open-github-html-file-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -29123,6 +29921,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/pt-br/articles/open-ai-dashboard-html-on-ipad/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -29232,6 +30033,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/ko/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -29341,6 +30145,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/ko/open-html-file-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -29450,6 +30257,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/ko/articles/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -29559,6 +30369,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/ko/topics/ai-generated-files/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -29668,6 +30481,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/ko/topics/files-share-sheet/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -29777,6 +30593,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/ko/topics/cloud-drives/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -29886,6 +30705,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/ko/topics/file-extensions/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -29995,6 +30817,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/ko/topics/offline-private-preview/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -30104,6 +30929,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/ko/topics/best-viewer/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -30213,6 +31041,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/ko/topics/ios-file-preview-problems/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -30322,6 +31153,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/ko/articles/open-chatgpt-html-file-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -30431,6 +31265,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/ko/articles/open-chatgpt-html-file-on-ipad/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -30540,6 +31377,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/ko/articles/best-html-viewer-for-iphone-ipad/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -30649,6 +31489,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/ko/articles/open-html-email-attachment-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -30758,6 +31601,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/ko/articles/open-gmail-html-attachment-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -30867,6 +31713,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/ko/articles/open-outlook-html-attachment-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -30976,6 +31825,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/ko/articles/open-html-file-from-files-app-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -31085,6 +31937,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/ko/articles/open-html-file-from-safari-downloads-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -31194,6 +32049,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/ko/articles/open-html-file-from-icloud-drive-on-ipad/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -31303,6 +32161,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/ko/articles/offline-html-viewer-for-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -31412,6 +32273,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/ko/articles/open-zipped-html-export-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -31521,6 +32385,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/ko/articles/open-local-html-file-without-safari-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -31630,6 +32497,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/ko/articles/view-ai-generated-html-report-on-ipad/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -31739,6 +32609,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/ko/articles/open-htm-file-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -31848,6 +32721,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/ko/articles/open-xhtml-file-on-ipad/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -31957,6 +32833,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/ko/articles/open-html-file-from-google-drive-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -32066,6 +32945,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/ko/articles/open-html-file-from-dropbox-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -32175,6 +33057,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/ko/articles/open-html-file-from-airdrop-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -32284,6 +33169,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/ko/articles/open-wechat-whatsapp-html-file-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -32393,6 +33281,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/ko/articles/iphone-cant-open-html-file/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -32502,6 +33393,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/ko/articles/html-file-shows-source-code-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -32611,6 +33505,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/ko/articles/files-app-cant-preview-html-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -32720,6 +33617,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/ko/articles/open-claude-artifact-html-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -32829,6 +33729,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/ko/articles/open-chatgpt-html-download-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -32938,6 +33841,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/ko/articles/open-gemini-html-file-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -33047,6 +33953,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/ko/articles/open-notion-html-export-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -33156,6 +34065,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/ko/articles/open-github-html-file-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -33265,6 +34177,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/ko/articles/open-ai-dashboard-html-on-ipad/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -33374,6 +34289,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/ar/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -33483,6 +34401,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/ar/open-html-file-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -33592,6 +34513,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/ar/articles/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -33701,6 +34625,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/ar/topics/ai-generated-files/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -33810,6 +34737,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/ar/topics/files-share-sheet/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -33919,6 +34849,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/ar/topics/cloud-drives/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -34028,6 +34961,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/ar/topics/file-extensions/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -34137,6 +35073,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/ar/topics/offline-private-preview/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -34246,6 +35185,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/ar/topics/best-viewer/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -34355,6 +35297,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/ar/topics/ios-file-preview-problems/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -34464,6 +35409,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/ar/articles/open-chatgpt-html-file-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -34573,6 +35521,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/ar/articles/open-chatgpt-html-file-on-ipad/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -34682,6 +35633,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/ar/articles/best-html-viewer-for-iphone-ipad/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -34791,6 +35745,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/ar/articles/open-html-email-attachment-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -34900,6 +35857,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/ar/articles/open-gmail-html-attachment-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -35009,6 +35969,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/ar/articles/open-outlook-html-attachment-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -35118,6 +36081,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/ar/articles/open-html-file-from-files-app-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -35227,6 +36193,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/ar/articles/open-html-file-from-safari-downloads-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -35336,6 +36305,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/ar/articles/open-html-file-from-icloud-drive-on-ipad/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -35445,6 +36417,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/ar/articles/offline-html-viewer-for-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -35554,6 +36529,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/ar/articles/open-zipped-html-export-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -35663,6 +36641,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/ar/articles/open-local-html-file-without-safari-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -35772,6 +36753,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/ar/articles/view-ai-generated-html-report-on-ipad/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -35881,6 +36865,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/ar/articles/open-htm-file-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -35990,6 +36977,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/ar/articles/open-xhtml-file-on-ipad/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -36099,6 +37089,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/ar/articles/open-html-file-from-google-drive-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -36208,6 +37201,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/ar/articles/open-html-file-from-dropbox-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -36317,6 +37313,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/ar/articles/open-html-file-from-airdrop-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -36426,6 +37425,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/ar/articles/open-wechat-whatsapp-html-file-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -36535,6 +37537,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/ar/articles/iphone-cant-open-html-file/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -36644,6 +37649,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/ar/articles/html-file-shows-source-code-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -36753,6 +37761,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/ar/articles/files-app-cant-preview-html-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -36862,6 +37873,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/ar/articles/open-claude-artifact-html-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -36971,6 +37985,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/ar/articles/open-chatgpt-html-download-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -37080,6 +38097,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/ar/articles/open-gemini-html-file-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -37189,6 +38209,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/ar/articles/open-notion-html-export-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -37298,6 +38321,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/ar/articles/open-github-html-file-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -37407,6 +38433,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/ar/articles/open-ai-dashboard-html-on-ipad/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -37516,6 +38545,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/hi/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -37625,6 +38657,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/hi/open-html-file-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -37734,6 +38769,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/hi/articles/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -37843,6 +38881,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/hi/topics/ai-generated-files/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -37952,6 +38993,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/hi/topics/files-share-sheet/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -38061,6 +39105,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/hi/topics/cloud-drives/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -38170,6 +39217,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/hi/topics/file-extensions/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -38279,6 +39329,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/hi/topics/offline-private-preview/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -38388,6 +39441,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/hi/topics/best-viewer/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -38497,6 +39553,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/hi/topics/ios-file-preview-problems/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -38606,6 +39665,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/hi/articles/open-chatgpt-html-file-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -38715,6 +39777,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/hi/articles/open-chatgpt-html-file-on-ipad/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -38824,6 +39889,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/hi/articles/best-html-viewer-for-iphone-ipad/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -38933,6 +40001,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/hi/articles/open-html-email-attachment-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -39042,6 +40113,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/hi/articles/open-gmail-html-attachment-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -39151,6 +40225,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/hi/articles/open-outlook-html-attachment-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -39260,6 +40337,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/hi/articles/open-html-file-from-files-app-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -39369,6 +40449,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/hi/articles/open-html-file-from-safari-downloads-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -39478,6 +40561,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/hi/articles/open-html-file-from-icloud-drive-on-ipad/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -39587,6 +40673,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/hi/articles/offline-html-viewer-for-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -39696,6 +40785,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/hi/articles/open-zipped-html-export-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -39805,6 +40897,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/hi/articles/open-local-html-file-without-safari-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -39914,6 +41009,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/hi/articles/view-ai-generated-html-report-on-ipad/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -40023,6 +41121,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/hi/articles/open-htm-file-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -40132,6 +41233,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/hi/articles/open-xhtml-file-on-ipad/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -40241,6 +41345,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/hi/articles/open-html-file-from-google-drive-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -40350,6 +41457,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/hi/articles/open-html-file-from-dropbox-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -40459,6 +41569,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/hi/articles/open-html-file-from-airdrop-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -40568,6 +41681,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/hi/articles/open-wechat-whatsapp-html-file-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -40677,6 +41793,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/hi/articles/iphone-cant-open-html-file/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -40786,6 +41905,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/hi/articles/html-file-shows-source-code-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -40895,6 +42017,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/hi/articles/files-app-cant-preview-html-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -41004,6 +42129,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/hi/articles/open-claude-artifact-html-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -41113,6 +42241,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/hi/articles/open-chatgpt-html-download-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -41222,6 +42353,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/hi/articles/open-gemini-html-file-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -41331,6 +42465,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/hi/articles/open-notion-html-export-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -41440,6 +42577,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/hi/articles/open-github-html-file-on-iphone/#webpage",
         "app": "https://html.cybergame.ai/#app",
@@ -41549,6 +42689,9 @@
         ".htm",
         ".xhtml"
       ],
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
       "schemaIds": {
         "webPage": "https://html.cybergame.ai/hi/articles/open-ai-dashboard-html-on-ipad/#webpage",
         "app": "https://html.cybergame.ai/#app",
