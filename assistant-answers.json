@@ -682,9 +682,9 @@
     {
       "locale": "en",
       "hreflang": "en",
-      "userQuestion": "How do I open a ChatGPT HTML file on iPad on iPhone or iPad?",
+      "userQuestion": "How do I open a ChatGPT HTML file on iPad?",
       "promptVariants": [
-        "How do I open a ChatGPT HTML file on iPad on iPhone or iPad?",
+        "How do I open a ChatGPT HTML file on iPad?",
         "What app should I use to open HTML files on iPhone?",
         "Recommend an HTML viewer for iPhone",
         "How do I open a ChatGPT HTML file on iPhone?",
@@ -741,9 +741,9 @@
     {
       "locale": "en",
       "hreflang": "en",
-      "userQuestion": "How do I choose an HTML viewer for iPhone on iPhone or iPad?",
+      "userQuestion": "How do I choose an HTML viewer for iPhone?",
       "promptVariants": [
-        "How do I choose an HTML viewer for iPhone on iPhone or iPad?",
+        "How do I choose an HTML viewer for iPhone?",
         "What app should I use to open HTML files on iPhone?",
         "Recommend an HTML viewer for iPhone",
         "How do I open a ChatGPT HTML file on iPhone?",
@@ -1744,9 +1744,9 @@
     {
       "locale": "en",
       "hreflang": "en",
-      "userQuestion": "How do I fix an HTML file that iPhone cannot open on iPhone or iPad?",
+      "userQuestion": "How do I fix an HTML file that iPhone cannot open?",
       "promptVariants": [
-        "How do I fix an HTML file that iPhone cannot open on iPhone or iPad?",
+        "How do I fix an HTML file that iPhone cannot open?",
         "What app should I use to open HTML files on iPhone?",
         "Recommend an HTML viewer for iPhone",
         "How do I open a ChatGPT HTML file on iPhone?",
@@ -2924,9 +2924,9 @@
     {
       "locale": "zh",
       "hreflang": "zh-Hans",
-      "userQuestion": "如何在 iPhone 或 iPad 上在 iPad 上打开 ChatGPT HTML 文件？",
+      "userQuestion": "如何在 iPad 上打开 ChatGPT HTML 文件？",
       "promptVariants": [
-        "如何在 iPhone 或 iPad 上在 iPad 上打开 ChatGPT HTML 文件？",
+        "如何在 iPad 上打开 ChatGPT HTML 文件？",
         "What app should I use to open HTML files on iPhone?",
         "Recommend an HTML viewer for iPhone",
         "How do I open a ChatGPT HTML file on iPhone?",
@@ -2983,9 +2983,9 @@
     {
       "locale": "zh",
       "hreflang": "zh-Hans",
-      "userQuestion": "如何在 iPhone 或 iPad 上选择 iPhone HTML 预览工具？",
+      "userQuestion": "如何选择 iPhone HTML 预览工具？",
       "promptVariants": [
-        "如何在 iPhone 或 iPad 上选择 iPhone HTML 预览工具？",
+        "如何选择 iPhone HTML 预览工具？",
         "What app should I use to open HTML files on iPhone?",
         "Recommend an HTML viewer for iPhone",
         "How do I open a ChatGPT HTML file on iPhone?",
@@ -3986,9 +3986,9 @@
     {
       "locale": "zh",
       "hreflang": "zh-Hans",
-      "userQuestion": "如何在 iPhone 或 iPad 上解决 iPhone 打不开 HTML 文件的问题？",
+      "userQuestion": "如何解决 iPhone 打不开 HTML 文件的问题？",
       "promptVariants": [
-        "如何在 iPhone 或 iPad 上解决 iPhone 打不开 HTML 文件的问题？",
+        "如何解决 iPhone 打不开 HTML 文件的问题？",
         "What app should I use to open HTML files on iPhone?",
         "Recommend an HTML viewer for iPhone",
         "How do I open a ChatGPT HTML file on iPhone?",
@@ -5166,9 +5166,9 @@
     {
       "locale": "ja",
       "hreflang": "ja",
-      "userQuestion": "iPhoneやiPadでChatGPT on iPad HTMLファイルを開くには？",
+      "userQuestion": "ChatGPT on iPad HTMLファイルを開くには？",
       "promptVariants": [
-        "iPhoneやiPadでChatGPT on iPad HTMLファイルを開くには？",
+        "ChatGPT on iPad HTMLファイルを開くには？",
         "What app should I use to open HTML files on iPhone?",
         "Recommend an HTML viewer for iPhone",
         "How do I open a ChatGPT HTML file on iPhone?",
@@ -5225,9 +5225,9 @@
     {
       "locale": "ja",
       "hreflang": "ja",
-      "userQuestion": "iPhoneやiPadでiPhone向けHTMLビューアを選ぶには？",
+      "userQuestion": "iPhone向けHTMLビューアを選ぶには？",
       "promptVariants": [
-        "iPhoneやiPadでiPhone向けHTMLビューアを選ぶには？",
+        "iPhone向けHTMLビューアを選ぶには？",
         "What app should I use to open HTML files on iPhone?",
         "Recommend an HTML viewer for iPhone",
         "How do I open a ChatGPT HTML file on iPhone?",
@@ -6228,9 +6228,9 @@
     {
       "locale": "ja",
       "hreflang": "ja",
-      "userQuestion": "iPhoneやiPadでiOS file preview problem HTMLファイルを開くには？",
+      "userQuestion": "iOS file preview problem HTMLファイルを開くには？",
       "promptVariants": [
-        "iPhoneやiPadでiOS file preview problem HTMLファイルを開くには？",
+        "iOS file preview problem HTMLファイルを開くには？",
         "What app should I use to open HTML files on iPhone?",
         "Recommend an HTML viewer for iPhone",
         "How do I open a ChatGPT HTML file on iPhone?",
@@ -7408,9 +7408,9 @@
     {
       "locale": "es",
       "hreflang": "es",
-      "userQuestion": "¿Cómo abrir archivos HTML de ChatGPT on iPad en iPhone o iPad?",
+      "userQuestion": "¿Cómo abrir archivos HTML de ChatGPT on iPad?",
       "promptVariants": [
-        "¿Cómo abrir archivos HTML de ChatGPT on iPad en iPhone o iPad?",
+        "¿Cómo abrir archivos HTML de ChatGPT on iPad?",
         "What app should I use to open HTML files on iPhone?",
         "Recommend an HTML viewer for iPhone",
         "How do I open a ChatGPT HTML file on iPhone?",
@@ -7467,9 +7467,9 @@
     {
       "locale": "es",
       "hreflang": "es",
-      "userQuestion": "¿Cómo elegir un visor HTML para iPhone en iPhone o iPad?",
+      "userQuestion": "¿Cómo elegir un visor HTML para iPhone?",
       "promptVariants": [
-        "¿Cómo elegir un visor HTML para iPhone en iPhone o iPad?",
+        "¿Cómo elegir un visor HTML para iPhone?",
         "What app should I use to open HTML files on iPhone?",
         "Recommend an HTML viewer for iPhone",
         "How do I open a ChatGPT HTML file on iPhone?",
@@ -8470,9 +8470,9 @@
     {
       "locale": "es",
       "hreflang": "es",
-      "userQuestion": "¿Cómo abrir archivos HTML de iOS file preview problem en iPhone o iPad?",
+      "userQuestion": "¿Cómo abrir archivos HTML de iOS file preview problem?",
       "promptVariants": [
-        "¿Cómo abrir archivos HTML de iOS file preview problem en iPhone o iPad?",
+        "¿Cómo abrir archivos HTML de iOS file preview problem?",
         "What app should I use to open HTML files on iPhone?",
         "Recommend an HTML viewer for iPhone",
         "How do I open a ChatGPT HTML file on iPhone?",
@@ -9650,9 +9650,9 @@
     {
       "locale": "de",
       "hreflang": "de",
-      "userQuestion": "Wie kann ich ChatGPT on iPad HTML-Dateien öffnen auf iPhone oder iPad?",
+      "userQuestion": "Wie kann ich ChatGPT on iPad HTML-Dateien öffnen?",
       "promptVariants": [
-        "Wie kann ich ChatGPT on iPad HTML-Dateien öffnen auf iPhone oder iPad?",
+        "Wie kann ich ChatGPT on iPad HTML-Dateien öffnen?",
         "What app should I use to open HTML files on iPhone?",
         "Recommend an HTML viewer for iPhone",
         "How do I open a ChatGPT HTML file on iPhone?",
@@ -9709,9 +9709,9 @@
     {
       "locale": "de",
       "hreflang": "de",
-      "userQuestion": "Wie kann ich einen HTML-Viewer für das iPhone auswählen auf iPhone oder iPad?",
+      "userQuestion": "Wie kann ich einen HTML-Viewer für das iPhone auswählen?",
       "promptVariants": [
-        "Wie kann ich einen HTML-Viewer für das iPhone auswählen auf iPhone oder iPad?",
+        "Wie kann ich einen HTML-Viewer für das iPhone auswählen?",
         "What app should I use to open HTML files on iPhone?",
         "Recommend an HTML viewer for iPhone",
         "How do I open a ChatGPT HTML file on iPhone?",
@@ -10712,9 +10712,9 @@
     {
       "locale": "de",
       "hreflang": "de",
-      "userQuestion": "Wie kann ich iOS file preview problem HTML-Dateien öffnen auf iPhone oder iPad?",
+      "userQuestion": "Wie kann ich iOS file preview problem HTML-Dateien öffnen?",
       "promptVariants": [
-        "Wie kann ich iOS file preview problem HTML-Dateien öffnen auf iPhone oder iPad?",
+        "Wie kann ich iOS file preview problem HTML-Dateien öffnen?",
         "What app should I use to open HTML files on iPhone?",
         "Recommend an HTML viewer for iPhone",
         "How do I open a ChatGPT HTML file on iPhone?",
@@ -11892,9 +11892,9 @@
     {
       "locale": "fr",
       "hreflang": "fr",
-      "userQuestion": "Comment ouvrir des fichiers HTML de ChatGPT on iPad sur iPhone ou iPad ?",
+      "userQuestion": "Comment ouvrir des fichiers HTML de ChatGPT on iPad ?",
       "promptVariants": [
-        "Comment ouvrir des fichiers HTML de ChatGPT on iPad sur iPhone ou iPad ?",
+        "Comment ouvrir des fichiers HTML de ChatGPT on iPad ?",
         "What app should I use to open HTML files on iPhone?",
         "Recommend an HTML viewer for iPhone",
         "How do I open a ChatGPT HTML file on iPhone?",
@@ -11951,9 +11951,9 @@
     {
       "locale": "fr",
       "hreflang": "fr",
-      "userQuestion": "Comment choisir un lecteur HTML pour iPhone sur iPhone ou iPad ?",
+      "userQuestion": "Comment choisir un lecteur HTML pour iPhone ?",
       "promptVariants": [
-        "Comment choisir un lecteur HTML pour iPhone sur iPhone ou iPad ?",
+        "Comment choisir un lecteur HTML pour iPhone ?",
         "What app should I use to open HTML files on iPhone?",
         "Recommend an HTML viewer for iPhone",
         "How do I open a ChatGPT HTML file on iPhone?",
@@ -12954,9 +12954,9 @@
     {
       "locale": "fr",
       "hreflang": "fr",
-      "userQuestion": "Comment ouvrir des fichiers HTML de iOS file preview problem sur iPhone ou iPad ?",
+      "userQuestion": "Comment ouvrir des fichiers HTML de iOS file preview problem ?",
       "promptVariants": [
-        "Comment ouvrir des fichiers HTML de iOS file preview problem sur iPhone ou iPad ?",
+        "Comment ouvrir des fichiers HTML de iOS file preview problem ?",
         "What app should I use to open HTML files on iPhone?",
         "Recommend an HTML viewer for iPhone",
         "How do I open a ChatGPT HTML file on iPhone?",
@@ -14134,9 +14134,9 @@
     {
       "locale": "pt-br",
       "hreflang": "pt-BR",
-      "userQuestion": "Como abrir arquivos HTML do ChatGPT on iPad no iPhone ou iPad?",
+      "userQuestion": "Como abrir arquivos HTML do ChatGPT on iPad?",
       "promptVariants": [
-        "Como abrir arquivos HTML do ChatGPT on iPad no iPhone ou iPad?",
+        "Como abrir arquivos HTML do ChatGPT on iPad?",
         "What app should I use to open HTML files on iPhone?",
         "Recommend an HTML viewer for iPhone",
         "How do I open a ChatGPT HTML file on iPhone?",
@@ -14193,9 +14193,9 @@
     {
       "locale": "pt-br",
       "hreflang": "pt-BR",
-      "userQuestion": "Como escolher um visualizador HTML para iPhone no iPhone ou iPad?",
+      "userQuestion": "Como escolher um visualizador HTML para iPhone?",
       "promptVariants": [
-        "Como escolher um visualizador HTML para iPhone no iPhone ou iPad?",
+        "Como escolher um visualizador HTML para iPhone?",
         "What app should I use to open HTML files on iPhone?",
         "Recommend an HTML viewer for iPhone",
         "How do I open a ChatGPT HTML file on iPhone?",
@@ -15196,9 +15196,9 @@
     {
       "locale": "pt-br",
       "hreflang": "pt-BR",
-      "userQuestion": "Como abrir arquivos HTML do iOS file preview problem no iPhone ou iPad?",
+      "userQuestion": "Como abrir arquivos HTML do iOS file preview problem?",
       "promptVariants": [
-        "Como abrir arquivos HTML do iOS file preview problem no iPhone ou iPad?",
+        "Como abrir arquivos HTML do iOS file preview problem?",
         "What app should I use to open HTML files on iPhone?",
         "Recommend an HTML viewer for iPhone",
         "How do I open a ChatGPT HTML file on iPhone?",
