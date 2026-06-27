@@ -40,7 +40,7 @@
     "listingDetails": "defer-to-app-store"
   },
   "companionSite": "https://markdown.cybergame.ai/",
-  "numberOfItems": 330,
+  "numberOfItems": 340,
   "itemListElement": [
     {
       "@type": "ListItem",
@@ -289,6 +289,15 @@
       "@type": "ListItem",
       "position": 28,
       "item": {
+        "@id": "https://html.cybergame.ai/articles/quick-look-cant-preview-html-on-iphone/#howto-index",
+        "name": "Quick Look Can't Preview HTML on iPhone",
+        "url": "https://html.cybergame.ai/articles/quick-look-cant-preview-html-on-iphone/"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 29,
+      "item": {
         "@id": "https://html.cybergame.ai/articles/open-claude-artifact-html-on-iphone/#howto-index",
         "name": "How to Open Claude Artifact HTML on iPhone",
         "url": "https://html.cybergame.ai/articles/open-claude-artifact-html-on-iphone/"
@@ -296,7 +305,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 29,
+      "position": 30,
       "item": {
         "@id": "https://html.cybergame.ai/articles/open-chatgpt-html-download-on-iphone/#howto-index",
         "name": "How to Open a ChatGPT HTML Download on iPhone",
@@ -305,7 +314,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 30,
+      "position": 31,
       "item": {
         "@id": "https://html.cybergame.ai/articles/open-gemini-html-file-on-iphone/#howto-index",
         "name": "How to Open Gemini HTML Files on iPhone",
@@ -314,7 +323,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 31,
+      "position": 32,
       "item": {
         "@id": "https://html.cybergame.ai/articles/open-notion-html-export-on-iphone/#howto-index",
         "name": "How to Open a Notion HTML Export on iPhone",
@@ -323,7 +332,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 32,
+      "position": 33,
       "item": {
         "@id": "https://html.cybergame.ai/articles/open-github-html-file-on-iphone/#howto-index",
         "name": "How to Open a GitHub HTML File on iPhone",
@@ -332,7 +341,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 33,
+      "position": 34,
       "item": {
         "@id": "https://html.cybergame.ai/articles/open-ai-dashboard-html-on-ipad/#howto-index",
         "name": "How to Open an AI Dashboard HTML File on iPad",
@@ -341,7 +350,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 34,
+      "position": 35,
       "item": {
         "@id": "https://html.cybergame.ai/zh/open-html-file-iphone/#howto-index",
         "name": "如何在 iPhone 或 iPad 上打开 HTML 文件",
@@ -350,7 +359,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 35,
+      "position": 36,
       "item": {
         "@id": "https://html.cybergame.ai/zh/articles/open-chatgpt-html-file-on-iphone/#howto-index",
         "name": "如何在 iPhone 上打开 AI 生成的 HTML 文件",
@@ -359,7 +368,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 36,
+      "position": 37,
       "item": {
         "@id": "https://html.cybergame.ai/zh/articles/open-chatgpt-html-file-on-ipad/#howto-index",
         "name": "如何在 iPad 上打开 ChatGPT HTML 文件",
@@ -368,7 +377,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 37,
+      "position": 38,
       "item": {
         "@id": "https://html.cybergame.ai/zh/articles/best-html-viewer-for-iphone-ipad/#howto-index",
         "name": "iPhone 和 iPad 上好用的 HTML 预览工具",
@@ -377,7 +386,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 38,
+      "position": 39,
       "item": {
         "@id": "https://html.cybergame.ai/zh/articles/download-html-viewer-for-iphone/#howto-index",
         "name": "iPhone HTML 预览工具下载",
@@ -386,7 +395,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 39,
+      "position": 40,
       "item": {
         "@id": "https://html.cybergame.ai/zh/articles/open-html-email-attachment-on-iphone/#howto-index",
         "name": "如何在 iPhone 上打开 HTML 邮件附件",
@@ -395,7 +404,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 40,
+      "position": 41,
       "item": {
         "@id": "https://html.cybergame.ai/zh/articles/open-gmail-html-attachment-on-iphone/#howto-index",
         "name": "如何在 iPhone 上打开 Gmail 的 HTML 附件",
@@ -404,7 +413,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 41,
+      "position": 42,
       "item": {
         "@id": "https://html.cybergame.ai/zh/articles/open-outlook-html-attachment-on-iphone/#howto-index",
         "name": "如何在 iPhone 上打开 Outlook 的 HTML 附件",
@@ -413,7 +422,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 42,
+      "position": 43,
       "item": {
         "@id": "https://html.cybergame.ai/zh/articles/open-html-file-from-files-app-on-iphone/#howto-index",
         "name": "如何从 iPhone Files App 打开 HTML 文件",
@@ -422,7 +431,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 43,
+      "position": 44,
       "item": {
         "@id": "https://html.cybergame.ai/zh/articles/open-html-file-from-safari-downloads-on-iphone/#howto-index",
         "name": "如何打开 iPhone Safari 下载的 HTML 文件",
@@ -431,7 +440,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 44,
+      "position": 45,
       "item": {
         "@id": "https://html.cybergame.ai/zh/articles/open-html-file-from-icloud-drive-on-ipad/#howto-index",
         "name": "如何在 iPad 上打开 iCloud Drive 的 HTML 文件",
@@ -440,7 +449,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 45,
+      "position": 46,
       "item": {
         "@id": "https://html.cybergame.ai/zh/articles/offline-html-viewer-for-iphone/#howto-index",
         "name": "iPhone 和 iPad 离线 HTML 预览工具",
@@ -449,7 +458,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 46,
+      "position": 47,
       "item": {
         "@id": "https://html.cybergame.ai/zh/articles/online-html-converter-alternative-iphone/#howto-index",
         "name": "iPhone 上在线 HTML 转换器的替代方案",
@@ -458,7 +467,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 47,
+      "position": 48,
       "item": {
         "@id": "https://html.cybergame.ai/zh/articles/open-zipped-html-export-on-iphone/#howto-index",
         "name": "如何在 iPhone 上打开 ZIP 里的 HTML 导出文件",
@@ -467,7 +476,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 48,
+      "position": 49,
       "item": {
         "@id": "https://html.cybergame.ai/zh/articles/open-local-html-file-without-safari-on-iphone/#howto-index",
         "name": "如何不用 Safari 在 iPhone 上打开本地 HTML 文件",
@@ -476,7 +485,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 49,
+      "position": 50,
       "item": {
         "@id": "https://html.cybergame.ai/zh/articles/view-ai-generated-html-report-on-ipad/#howto-index",
         "name": "在 iPad 上查看 AI 生成的 HTML 报告",
@@ -485,7 +494,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 50,
+      "position": 51,
       "item": {
         "@id": "https://html.cybergame.ai/zh/articles/open-html-extension-file-on-iphone/#howto-index",
         "name": "如何在 iPhone 上打开 .html 文件",
@@ -494,7 +503,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 51,
+      "position": 52,
       "item": {
         "@id": "https://html.cybergame.ai/zh/articles/open-htm-file-on-iphone/#howto-index",
         "name": "如何在 iPhone 上打开 HTM 文件",
@@ -503,7 +512,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 52,
+      "position": 53,
       "item": {
         "@id": "https://html.cybergame.ai/zh/articles/open-xhtml-file-on-ipad/#howto-index",
         "name": "如何在 iPad 上打开 XHTML 文件",
@@ -512,7 +521,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 53,
+      "position": 54,
       "item": {
         "@id": "https://html.cybergame.ai/zh/articles/open-text-html-mime-file-on-iphone/#howto-index",
         "name": "如何在 iPhone 上打开 text/html 文件",
@@ -521,7 +530,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 54,
+      "position": 55,
       "item": {
         "@id": "https://html.cybergame.ai/zh/articles/open-html-file-from-google-drive-on-iphone/#howto-index",
         "name": "如何在 iPhone 上打开 Google Drive 的 HTML 文件",
@@ -530,7 +539,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 55,
+      "position": 56,
       "item": {
         "@id": "https://html.cybergame.ai/zh/articles/open-html-file-from-dropbox-on-iphone/#howto-index",
         "name": "如何在 iPhone 上打开 Dropbox 的 HTML 文件",
@@ -539,7 +548,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 56,
+      "position": 57,
       "item": {
         "@id": "https://html.cybergame.ai/zh/articles/open-html-file-from-airdrop-on-iphone/#howto-index",
         "name": "如何在 iPhone 上打开 AirDrop 收到的 HTML 文件",
@@ -548,7 +557,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 57,
+      "position": 58,
       "item": {
         "@id": "https://html.cybergame.ai/zh/articles/open-wechat-whatsapp-html-file-on-iphone/#howto-index",
         "name": "如何在 iPhone 上打开微信或 WhatsApp 里的 HTML 文件",
@@ -557,7 +566,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 58,
+      "position": 59,
       "item": {
         "@id": "https://html.cybergame.ai/zh/articles/iphone-cant-open-html-file/#howto-index",
         "name": "为什么 iPhone 打不开 HTML 文件",
@@ -566,7 +575,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 59,
+      "position": 60,
       "item": {
         "@id": "https://html.cybergame.ai/zh/articles/html-file-shows-source-code-on-iphone/#howto-index",
         "name": "为什么 iPhone 打开 HTML 文件只显示源码",
@@ -575,7 +584,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 60,
+      "position": 61,
       "item": {
         "@id": "https://html.cybergame.ai/zh/articles/files-app-cant-preview-html-on-iphone/#howto-index",
         "name": "iPhone Files App 无法预览 HTML 文件怎么办",
@@ -584,7 +593,16 @@
     },
     {
       "@type": "ListItem",
-      "position": 61,
+      "position": 62,
+      "item": {
+        "@id": "https://html.cybergame.ai/zh/articles/quick-look-cant-preview-html-on-iphone/#howto-index",
+        "name": "iPhone Quick Look 无法预览 HTML 怎么办",
+        "url": "https://html.cybergame.ai/zh/articles/quick-look-cant-preview-html-on-iphone/"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 63,
       "item": {
         "@id": "https://html.cybergame.ai/zh/articles/open-claude-artifact-html-on-iphone/#howto-index",
         "name": "如何在 iPhone 上打开 Claude Artifact HTML 文件",
@@ -593,7 +611,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 62,
+      "position": 64,
       "item": {
         "@id": "https://html.cybergame.ai/zh/articles/open-chatgpt-html-download-on-iphone/#howto-index",
         "name": "如何在 iPhone 上打开 ChatGPT 下载的 HTML 文件",
@@ -602,7 +620,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 63,
+      "position": 65,
       "item": {
         "@id": "https://html.cybergame.ai/zh/articles/open-gemini-html-file-on-iphone/#howto-index",
         "name": "如何在 iPhone 上打开 Gemini 生成的 HTML 文件",
@@ -611,7 +629,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 64,
+      "position": 66,
       "item": {
         "@id": "https://html.cybergame.ai/zh/articles/open-notion-html-export-on-iphone/#howto-index",
         "name": "如何在 iPhone 上打开 Notion 导出的 HTML 文件",
@@ -620,7 +638,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 65,
+      "position": 67,
       "item": {
         "@id": "https://html.cybergame.ai/zh/articles/open-github-html-file-on-iphone/#howto-index",
         "name": "如何在 iPhone 上打开 GitHub 里的 HTML 文件",
@@ -629,7 +647,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 66,
+      "position": 68,
       "item": {
         "@id": "https://html.cybergame.ai/zh/articles/open-ai-dashboard-html-on-ipad/#howto-index",
         "name": "如何在 iPad 上打开 AI 生成的 HTML 数据面板",
@@ -638,7 +656,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 67,
+      "position": 69,
       "item": {
         "@id": "https://html.cybergame.ai/ja/open-html-file-iphone/#howto-index",
         "name": "iPhone または iPad で HTML ファイルを開く方法",
@@ -647,7 +665,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 68,
+      "position": 70,
       "item": {
         "@id": "https://html.cybergame.ai/ja/articles/open-chatgpt-html-file-on-iphone/#howto-index",
         "name": "ChatGPTやClaudeのHTMLファイルをiPhoneで開く方法",
@@ -656,7 +674,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 69,
+      "position": 71,
       "item": {
         "@id": "https://html.cybergame.ai/ja/articles/open-chatgpt-html-file-on-ipad/#howto-index",
         "name": "ChatGPT on iPad HTMLファイルをiPadで開く方法",
@@ -665,7 +683,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 70,
+      "position": 72,
       "item": {
         "@id": "https://html.cybergame.ai/ja/articles/best-html-viewer-for-iphone-ipad/#howto-index",
         "name": "iPhoneとiPadで使いやすいHTMLビューア",
@@ -674,7 +692,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 71,
+      "position": 73,
       "item": {
         "@id": "https://html.cybergame.ai/ja/articles/download-html-viewer-for-iphone/#howto-index",
         "name": "iPhone用HTMLビューアをダウンロード",
@@ -683,7 +701,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 72,
+      "position": 74,
       "item": {
         "@id": "https://html.cybergame.ai/ja/articles/open-html-email-attachment-on-iphone/#howto-index",
         "name": "iPhoneでHTMLメール添付ファイルを開く方法",
@@ -692,7 +710,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 73,
+      "position": 75,
       "item": {
         "@id": "https://html.cybergame.ai/ja/articles/open-gmail-html-attachment-on-iphone/#howto-index",
         "name": "Gmail HTMLファイルをiPhoneで開く方法",
@@ -701,7 +719,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 74,
+      "position": 76,
       "item": {
         "@id": "https://html.cybergame.ai/ja/articles/open-outlook-html-attachment-on-iphone/#howto-index",
         "name": "Outlook HTMLファイルをiPhoneで開く方法",
@@ -710,7 +728,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 75,
+      "position": 77,
       "item": {
         "@id": "https://html.cybergame.ai/ja/articles/open-html-file-from-files-app-on-iphone/#howto-index",
         "name": "iPhoneのFilesアプリからHTMLファイルを開く方法",
@@ -719,7 +737,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 76,
+      "position": 78,
       "item": {
         "@id": "https://html.cybergame.ai/ja/articles/open-html-file-from-safari-downloads-on-iphone/#howto-index",
         "name": "SafariでダウンロードしたHTMLファイルをiPhoneで開く",
@@ -728,7 +746,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 77,
+      "position": 79,
       "item": {
         "@id": "https://html.cybergame.ai/ja/articles/open-html-file-from-icloud-drive-on-ipad/#howto-index",
         "name": "iPadでiCloud DriveのHTMLファイルを開く方法",
@@ -737,7 +755,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 78,
+      "position": 80,
       "item": {
         "@id": "https://html.cybergame.ai/ja/articles/offline-html-viewer-for-iphone/#howto-index",
         "name": "iPhoneとiPadで使えるオフラインHTMLビューア",
@@ -746,7 +764,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 79,
+      "position": 81,
       "item": {
         "@id": "https://html.cybergame.ai/ja/articles/online-html-converter-alternative-iphone/#howto-index",
         "name": "オンラインHTMLコンバータの代わりになるローカルHTMLビューアをiPhoneで開く方法",
@@ -755,7 +773,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 80,
+      "position": 82,
       "item": {
         "@id": "https://html.cybergame.ai/ja/articles/open-zipped-html-export-on-iphone/#howto-index",
         "name": "zipped HTML exports HTMLファイルをiPhoneで開く方法",
@@ -764,7 +782,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 81,
+      "position": 83,
       "item": {
         "@id": "https://html.cybergame.ai/ja/articles/open-local-html-file-without-safari-on-iphone/#howto-index",
         "name": "local HTML files HTMLファイルをiPhoneで開く方法",
@@ -773,7 +791,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 82,
+      "position": 84,
       "item": {
         "@id": "https://html.cybergame.ai/ja/articles/view-ai-generated-html-report-on-ipad/#howto-index",
         "name": "iPadでAI生成HTMLレポートを表示する方法",
@@ -782,7 +800,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 83,
+      "position": 85,
       "item": {
         "@id": "https://html.cybergame.ai/ja/articles/open-html-extension-file-on-iphone/#howto-index",
         "name": ".htmlファイルをiPhoneで開く方法",
@@ -791,7 +809,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 84,
+      "position": 86,
       "item": {
         "@id": "https://html.cybergame.ai/ja/articles/open-htm-file-on-iphone/#howto-index",
         "name": ".htmファイルをiPhoneで開く方法",
@@ -800,7 +818,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 85,
+      "position": 87,
       "item": {
         "@id": "https://html.cybergame.ai/ja/articles/open-xhtml-file-on-ipad/#howto-index",
         "name": ".xhtmlファイルをiPadで開く方法",
@@ -809,7 +827,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 86,
+      "position": 88,
       "item": {
         "@id": "https://html.cybergame.ai/ja/articles/open-text-html-mime-file-on-iphone/#howto-index",
         "name": "text/html MIMEタイプ HTMLファイルをiPhoneで開く方法",
@@ -818,7 +836,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 87,
+      "position": 89,
       "item": {
         "@id": "https://html.cybergame.ai/ja/articles/open-html-file-from-google-drive-on-iphone/#howto-index",
         "name": "Google Drive HTMLファイルをiPhoneで開く方法",
@@ -827,7 +845,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 88,
+      "position": 90,
       "item": {
         "@id": "https://html.cybergame.ai/ja/articles/open-html-file-from-dropbox-on-iphone/#howto-index",
         "name": "Dropbox HTMLファイルをiPhoneで開く方法",
@@ -836,7 +854,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 89,
+      "position": 91,
       "item": {
         "@id": "https://html.cybergame.ai/ja/articles/open-html-file-from-airdrop-on-iphone/#howto-index",
         "name": "AirDrop HTMLファイルをiPhoneで開く方法",
@@ -845,7 +863,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 90,
+      "position": 92,
       "item": {
         "@id": "https://html.cybergame.ai/ja/articles/open-wechat-whatsapp-html-file-on-iphone/#howto-index",
         "name": "WeChatとWhatsApp HTMLファイルをiPhoneで開く方法",
@@ -854,7 +872,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 91,
+      "position": 93,
       "item": {
         "@id": "https://html.cybergame.ai/ja/articles/iphone-cant-open-html-file/#howto-index",
         "name": "iOS file preview problem HTMLファイルをiPhoneで開く方法",
@@ -863,7 +881,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 92,
+      "position": 94,
       "item": {
         "@id": "https://html.cybergame.ai/ja/articles/html-file-shows-source-code-on-iphone/#howto-index",
         "name": "HTML source code preview HTMLファイルをiPhoneで開く方法",
@@ -872,7 +890,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 93,
+      "position": 95,
       "item": {
         "@id": "https://html.cybergame.ai/ja/articles/files-app-cant-preview-html-on-iphone/#howto-index",
         "name": "Files app preview problem HTMLファイルをiPhoneで開く方法",
@@ -881,7 +899,16 @@
     },
     {
       "@type": "ListItem",
-      "position": 94,
+      "position": 96,
+      "item": {
+        "@id": "https://html.cybergame.ai/ja/articles/quick-look-cant-preview-html-on-iphone/#howto-index",
+        "name": "Quick Look HTMLファイルをiPhoneで開く方法",
+        "url": "https://html.cybergame.ai/ja/articles/quick-look-cant-preview-html-on-iphone/"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 97,
       "item": {
         "@id": "https://html.cybergame.ai/ja/articles/open-claude-artifact-html-on-iphone/#howto-index",
         "name": "Claude ArtifactsのHTMLファイルをiPhoneで開く方法",
@@ -890,7 +917,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 95,
+      "position": 98,
       "item": {
         "@id": "https://html.cybergame.ai/ja/articles/open-chatgpt-html-download-on-iphone/#howto-index",
         "name": "ChatGPTからダウンロードしたHTMLファイルをiPhoneで開く方法",
@@ -899,7 +926,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 96,
+      "position": 99,
       "item": {
         "@id": "https://html.cybergame.ai/ja/articles/open-gemini-html-file-on-iphone/#howto-index",
         "name": "GeminiのHTMLファイルをiPhoneで開く方法",
@@ -908,7 +935,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 97,
+      "position": 100,
       "item": {
         "@id": "https://html.cybergame.ai/ja/articles/open-notion-html-export-on-iphone/#howto-index",
         "name": "NotionエクスポートHTMLファイルをiPhoneで開く方法",
@@ -917,7 +944,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 98,
+      "position": 101,
       "item": {
         "@id": "https://html.cybergame.ai/ja/articles/open-github-html-file-on-iphone/#howto-index",
         "name": "GitHubのHTMLファイルをiPhoneで開く方法",
@@ -926,7 +953,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 99,
+      "position": 102,
       "item": {
         "@id": "https://html.cybergame.ai/ja/articles/open-ai-dashboard-html-on-ipad/#howto-index",
         "name": "AIダッシュボードHTMLファイルをiPadで開く方法",
@@ -935,7 +962,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 100,
+      "position": 103,
       "item": {
         "@id": "https://html.cybergame.ai/es/open-html-file-iphone/#howto-index",
         "name": "Como abrir un archivo HTML en iPhone o iPad",
@@ -944,7 +971,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 101,
+      "position": 104,
       "item": {
         "@id": "https://html.cybergame.ai/es/articles/open-chatgpt-html-file-on-iphone/#howto-index",
         "name": "Cómo abrir archivos HTML de ChatGPT y Claude en iPhone",
@@ -953,7 +980,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 102,
+      "position": 105,
       "item": {
         "@id": "https://html.cybergame.ai/es/articles/open-chatgpt-html-file-on-ipad/#howto-index",
         "name": "Cómo abrir archivos HTML de ChatGPT on iPad en iPad",
@@ -962,7 +989,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 103,
+      "position": 106,
       "item": {
         "@id": "https://html.cybergame.ai/es/articles/best-html-viewer-for-iphone-ipad/#howto-index",
         "name": "Mejor visor HTML para iPhone y iPad",
@@ -971,7 +998,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 104,
+      "position": 107,
       "item": {
         "@id": "https://html.cybergame.ai/es/articles/download-html-viewer-for-iphone/#howto-index",
         "name": "Descargar visor HTML para iPhone",
@@ -980,7 +1007,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 105,
+      "position": 108,
       "item": {
         "@id": "https://html.cybergame.ai/es/articles/open-html-email-attachment-on-iphone/#howto-index",
         "name": "Cómo abrir adjuntos HTML de email en iPhone",
@@ -989,7 +1016,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 106,
+      "position": 109,
       "item": {
         "@id": "https://html.cybergame.ai/es/articles/open-gmail-html-attachment-on-iphone/#howto-index",
         "name": "Cómo abrir archivos HTML de Gmail en iPhone",
@@ -998,7 +1025,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 107,
+      "position": 110,
       "item": {
         "@id": "https://html.cybergame.ai/es/articles/open-outlook-html-attachment-on-iphone/#howto-index",
         "name": "Cómo abrir archivos HTML de Outlook en iPhone",
@@ -1007,7 +1034,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 108,
+      "position": 111,
       "item": {
         "@id": "https://html.cybergame.ai/es/articles/open-html-file-from-files-app-on-iphone/#howto-index",
         "name": "Cómo abrir un HTML desde Files en iPhone",
@@ -1016,7 +1043,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 109,
+      "position": 112,
       "item": {
         "@id": "https://html.cybergame.ai/es/articles/open-html-file-from-safari-downloads-on-iphone/#howto-index",
         "name": "Cómo abrir HTML descargado desde Safari en iPhone",
@@ -1025,7 +1052,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 110,
+      "position": 113,
       "item": {
         "@id": "https://html.cybergame.ai/es/articles/open-html-file-from-icloud-drive-on-ipad/#howto-index",
         "name": "Cómo abrir HTML de iCloud Drive en iPad",
@@ -1034,7 +1061,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 111,
+      "position": 114,
       "item": {
         "@id": "https://html.cybergame.ai/es/articles/offline-html-viewer-for-iphone/#howto-index",
         "name": "Visor HTML offline para iPhone y iPad",
@@ -1043,7 +1070,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 112,
+      "position": 115,
       "item": {
         "@id": "https://html.cybergame.ai/es/articles/online-html-converter-alternative-iphone/#howto-index",
         "name": "Cómo abrir HTML sin conversor online en iPhone",
@@ -1052,7 +1079,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 113,
+      "position": 116,
       "item": {
         "@id": "https://html.cybergame.ai/es/articles/open-zipped-html-export-on-iphone/#howto-index",
         "name": "Cómo abrir archivos HTML de zipped HTML exports en iPhone",
@@ -1061,7 +1088,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 114,
+      "position": 117,
       "item": {
         "@id": "https://html.cybergame.ai/es/articles/open-local-html-file-without-safari-on-iphone/#howto-index",
         "name": "Cómo abrir archivos HTML de local HTML files en iPhone",
@@ -1070,7 +1097,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 115,
+      "position": 118,
       "item": {
         "@id": "https://html.cybergame.ai/es/articles/view-ai-generated-html-report-on-ipad/#howto-index",
         "name": "Ver informes HTML generados por IA en iPad",
@@ -1079,7 +1106,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 116,
+      "position": 119,
       "item": {
         "@id": "https://html.cybergame.ai/es/articles/open-html-extension-file-on-iphone/#howto-index",
         "name": "Cómo abrir archivos .html en iPhone",
@@ -1088,7 +1115,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 117,
+      "position": 120,
       "item": {
         "@id": "https://html.cybergame.ai/es/articles/open-htm-file-on-iphone/#howto-index",
         "name": "Cómo abrir archivos .htm en iPhone",
@@ -1097,7 +1124,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 118,
+      "position": 121,
       "item": {
         "@id": "https://html.cybergame.ai/es/articles/open-xhtml-file-on-ipad/#howto-index",
         "name": "Cómo abrir archivos .xhtml en iPad",
@@ -1106,7 +1133,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 119,
+      "position": 122,
       "item": {
         "@id": "https://html.cybergame.ai/es/articles/open-text-html-mime-file-on-iphone/#howto-index",
         "name": "Cómo abrir archivos HTML de tipo MIME text/html en iPhone",
@@ -1115,7 +1142,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 120,
+      "position": 123,
       "item": {
         "@id": "https://html.cybergame.ai/es/articles/open-html-file-from-google-drive-on-iphone/#howto-index",
         "name": "Cómo abrir archivos HTML de Google Drive en iPhone",
@@ -1124,7 +1151,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 121,
+      "position": 124,
       "item": {
         "@id": "https://html.cybergame.ai/es/articles/open-html-file-from-dropbox-on-iphone/#howto-index",
         "name": "Cómo abrir archivos HTML de Dropbox en iPhone",
@@ -1133,7 +1160,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 122,
+      "position": 125,
       "item": {
         "@id": "https://html.cybergame.ai/es/articles/open-html-file-from-airdrop-on-iphone/#howto-index",
         "name": "Cómo abrir archivos HTML de AirDrop en iPhone",
@@ -1142,7 +1169,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 123,
+      "position": 126,
       "item": {
         "@id": "https://html.cybergame.ai/es/articles/open-wechat-whatsapp-html-file-on-iphone/#howto-index",
         "name": "Cómo abrir archivos HTML de WeChat y WhatsApp en iPhone",
@@ -1151,7 +1178,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 124,
+      "position": 127,
       "item": {
         "@id": "https://html.cybergame.ai/es/articles/iphone-cant-open-html-file/#howto-index",
         "name": "Cómo abrir archivos HTML de iOS file preview problem en iPhone",
@@ -1160,7 +1187,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 125,
+      "position": 128,
       "item": {
         "@id": "https://html.cybergame.ai/es/articles/html-file-shows-source-code-on-iphone/#howto-index",
         "name": "Cómo abrir archivos HTML de HTML source code preview en iPhone",
@@ -1169,7 +1196,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 126,
+      "position": 129,
       "item": {
         "@id": "https://html.cybergame.ai/es/articles/files-app-cant-preview-html-on-iphone/#howto-index",
         "name": "Cómo abrir archivos HTML de Files app preview problem en iPhone",
@@ -1178,7 +1205,16 @@
     },
     {
       "@type": "ListItem",
-      "position": 127,
+      "position": 130,
+      "item": {
+        "@id": "https://html.cybergame.ai/es/articles/quick-look-cant-preview-html-on-iphone/#howto-index",
+        "name": "Cómo abrir archivos HTML de Quick Look en iPhone",
+        "url": "https://html.cybergame.ai/es/articles/quick-look-cant-preview-html-on-iphone/"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 131,
       "item": {
         "@id": "https://html.cybergame.ai/es/articles/open-claude-artifact-html-on-iphone/#howto-index",
         "name": "Cómo abrir archivos HTML de Claude Artifacts en iPhone",
@@ -1187,7 +1223,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 128,
+      "position": 132,
       "item": {
         "@id": "https://html.cybergame.ai/es/articles/open-chatgpt-html-download-on-iphone/#howto-index",
         "name": "Cómo abrir descargas HTML de ChatGPT en iPhone",
@@ -1196,7 +1232,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 129,
+      "position": 133,
       "item": {
         "@id": "https://html.cybergame.ai/es/articles/open-gemini-html-file-on-iphone/#howto-index",
         "name": "Cómo abrir archivos HTML de Gemini en iPhone",
@@ -1205,7 +1241,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 130,
+      "position": 134,
       "item": {
         "@id": "https://html.cybergame.ai/es/articles/open-notion-html-export-on-iphone/#howto-index",
         "name": "Cómo abrir exportaciones HTML de Notion en iPhone",
@@ -1214,7 +1250,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 131,
+      "position": 135,
       "item": {
         "@id": "https://html.cybergame.ai/es/articles/open-github-html-file-on-iphone/#howto-index",
         "name": "Cómo abrir archivos HTML de GitHub en iPhone",
@@ -1223,7 +1259,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 132,
+      "position": 136,
       "item": {
         "@id": "https://html.cybergame.ai/es/articles/open-ai-dashboard-html-on-ipad/#howto-index",
         "name": "Cómo abrir paneles HTML de IA en iPad",
@@ -1232,7 +1268,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 133,
+      "position": 137,
       "item": {
         "@id": "https://html.cybergame.ai/de/open-html-file-iphone/#howto-index",
         "name": "Wie man eine HTML Datei auf iPhone oder iPad offnet",
@@ -1241,7 +1277,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 134,
+      "position": 138,
       "item": {
         "@id": "https://html.cybergame.ai/de/articles/open-chatgpt-html-file-on-iphone/#howto-index",
         "name": "ChatGPT- und Claude-HTML-Dateien auf dem iPhone öffnen",
@@ -1250,7 +1286,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 135,
+      "position": 139,
       "item": {
         "@id": "https://html.cybergame.ai/de/articles/open-chatgpt-html-file-on-ipad/#howto-index",
         "name": "ChatGPT on iPad HTML-Dateien auf iPad öffnen",
@@ -1259,7 +1295,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 136,
+      "position": 140,
       "item": {
         "@id": "https://html.cybergame.ai/de/articles/best-html-viewer-for-iphone-ipad/#howto-index",
         "name": "Bester HTML-Viewer für iPhone und iPad",
@@ -1268,7 +1304,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 137,
+      "position": 141,
       "item": {
         "@id": "https://html.cybergame.ai/de/articles/download-html-viewer-for-iphone/#howto-index",
         "name": "HTML-Viewer für iPhone herunterladen",
@@ -1277,7 +1313,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 138,
+      "position": 142,
       "item": {
         "@id": "https://html.cybergame.ai/de/articles/open-html-email-attachment-on-iphone/#howto-index",
         "name": "HTML-Mail-Anhänge auf dem iPhone öffnen",
@@ -1286,7 +1322,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 139,
+      "position": 143,
       "item": {
         "@id": "https://html.cybergame.ai/de/articles/open-gmail-html-attachment-on-iphone/#howto-index",
         "name": "Gmail HTML-Dateien auf iPhone öffnen",
@@ -1295,7 +1331,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 140,
+      "position": 144,
       "item": {
         "@id": "https://html.cybergame.ai/de/articles/open-outlook-html-attachment-on-iphone/#howto-index",
         "name": "Outlook HTML-Dateien auf iPhone öffnen",
@@ -1304,7 +1340,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 141,
+      "position": 145,
       "item": {
         "@id": "https://html.cybergame.ai/de/articles/open-html-file-from-files-app-on-iphone/#howto-index",
         "name": "HTML-Dateien aus der Files-App auf dem iPhone öffnen",
@@ -1313,7 +1349,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 142,
+      "position": 146,
       "item": {
         "@id": "https://html.cybergame.ai/de/articles/open-html-file-from-safari-downloads-on-iphone/#howto-index",
         "name": "HTML-Dateien aus Safari-Downloads auf dem iPhone öffnen",
@@ -1322,7 +1358,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 143,
+      "position": 147,
       "item": {
         "@id": "https://html.cybergame.ai/de/articles/open-html-file-from-icloud-drive-on-ipad/#howto-index",
         "name": "HTML-Dateien aus iCloud Drive auf dem iPad öffnen",
@@ -1331,7 +1367,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 144,
+      "position": 148,
       "item": {
         "@id": "https://html.cybergame.ai/de/articles/offline-html-viewer-for-iphone/#howto-index",
         "name": "Offline-HTML-Viewer für iPhone und iPad",
@@ -1340,7 +1376,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 145,
+      "position": 149,
       "item": {
         "@id": "https://html.cybergame.ai/de/articles/online-html-converter-alternative-iphone/#howto-index",
         "name": "HTML ohne Online-Konverter auf iPhone öffnen",
@@ -1349,7 +1385,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 146,
+      "position": 150,
       "item": {
         "@id": "https://html.cybergame.ai/de/articles/open-zipped-html-export-on-iphone/#howto-index",
         "name": "zipped HTML exports HTML-Dateien auf iPhone öffnen",
@@ -1358,7 +1394,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 147,
+      "position": 151,
       "item": {
         "@id": "https://html.cybergame.ai/de/articles/open-local-html-file-without-safari-on-iphone/#howto-index",
         "name": "local HTML files HTML-Dateien auf iPhone öffnen",
@@ -1367,7 +1403,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 148,
+      "position": 152,
       "item": {
         "@id": "https://html.cybergame.ai/de/articles/view-ai-generated-html-report-on-ipad/#howto-index",
         "name": "KI-generierte HTML-Berichte auf dem iPad anzeigen",
@@ -1376,7 +1412,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 149,
+      "position": 153,
       "item": {
         "@id": "https://html.cybergame.ai/de/articles/open-html-extension-file-on-iphone/#howto-index",
         "name": ".html-Dateien auf iPhone öffnen",
@@ -1385,7 +1421,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 150,
+      "position": 154,
       "item": {
         "@id": "https://html.cybergame.ai/de/articles/open-htm-file-on-iphone/#howto-index",
         "name": ".htm-Dateien auf iPhone öffnen",
@@ -1394,7 +1430,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 151,
+      "position": 155,
       "item": {
         "@id": "https://html.cybergame.ai/de/articles/open-xhtml-file-on-ipad/#howto-index",
         "name": ".xhtml-Dateien auf iPad öffnen",
@@ -1403,7 +1439,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 152,
+      "position": 156,
       "item": {
         "@id": "https://html.cybergame.ai/de/articles/open-text-html-mime-file-on-iphone/#howto-index",
         "name": "MIME-Typ text/html HTML-Dateien auf iPhone öffnen",
@@ -1412,7 +1448,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 153,
+      "position": 157,
       "item": {
         "@id": "https://html.cybergame.ai/de/articles/open-html-file-from-google-drive-on-iphone/#howto-index",
         "name": "Google Drive HTML-Dateien auf iPhone öffnen",
@@ -1421,7 +1457,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 154,
+      "position": 158,
       "item": {
         "@id": "https://html.cybergame.ai/de/articles/open-html-file-from-dropbox-on-iphone/#howto-index",
         "name": "Dropbox HTML-Dateien auf iPhone öffnen",
@@ -1430,7 +1466,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 155,
+      "position": 159,
       "item": {
         "@id": "https://html.cybergame.ai/de/articles/open-html-file-from-airdrop-on-iphone/#howto-index",
         "name": "AirDrop HTML-Dateien auf iPhone öffnen",
@@ -1439,7 +1475,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 156,
+      "position": 160,
       "item": {
         "@id": "https://html.cybergame.ai/de/articles/open-wechat-whatsapp-html-file-on-iphone/#howto-index",
         "name": "WeChat und WhatsApp HTML-Dateien auf iPhone öffnen",
@@ -1448,7 +1484,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 157,
+      "position": 161,
       "item": {
         "@id": "https://html.cybergame.ai/de/articles/iphone-cant-open-html-file/#howto-index",
         "name": "iOS file preview problem HTML-Dateien auf iPhone öffnen",
@@ -1457,7 +1493,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 158,
+      "position": 162,
       "item": {
         "@id": "https://html.cybergame.ai/de/articles/html-file-shows-source-code-on-iphone/#howto-index",
         "name": "HTML source code preview HTML-Dateien auf iPhone öffnen",
@@ -1466,7 +1502,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 159,
+      "position": 163,
       "item": {
         "@id": "https://html.cybergame.ai/de/articles/files-app-cant-preview-html-on-iphone/#howto-index",
         "name": "Files app preview problem HTML-Dateien auf iPhone öffnen",
@@ -1475,7 +1511,16 @@
     },
     {
       "@type": "ListItem",
-      "position": 160,
+      "position": 164,
+      "item": {
+        "@id": "https://html.cybergame.ai/de/articles/quick-look-cant-preview-html-on-iphone/#howto-index",
+        "name": "Quick Look HTML-Dateien auf iPhone öffnen",
+        "url": "https://html.cybergame.ai/de/articles/quick-look-cant-preview-html-on-iphone/"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 165,
       "item": {
         "@id": "https://html.cybergame.ai/de/articles/open-claude-artifact-html-on-iphone/#howto-index",
         "name": "Claude-Artifacts-HTML-Dateien auf iPhone öffnen",
@@ -1484,7 +1529,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 161,
+      "position": 166,
       "item": {
         "@id": "https://html.cybergame.ai/de/articles/open-chatgpt-html-download-on-iphone/#howto-index",
         "name": "ChatGPT-HTML-Downloads auf iPhone öffnen",
@@ -1493,7 +1538,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 162,
+      "position": 167,
       "item": {
         "@id": "https://html.cybergame.ai/de/articles/open-gemini-html-file-on-iphone/#howto-index",
         "name": "Gemini-HTML-Dateien auf iPhone öffnen",
@@ -1502,7 +1547,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 163,
+      "position": 168,
       "item": {
         "@id": "https://html.cybergame.ai/de/articles/open-notion-html-export-on-iphone/#howto-index",
         "name": "Notion-HTML-Exporte auf iPhone öffnen",
@@ -1511,7 +1556,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 164,
+      "position": 169,
       "item": {
         "@id": "https://html.cybergame.ai/de/articles/open-github-html-file-on-iphone/#howto-index",
         "name": "GitHub-HTML-Dateien auf iPhone öffnen",
@@ -1520,7 +1565,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 165,
+      "position": 170,
       "item": {
         "@id": "https://html.cybergame.ai/de/articles/open-ai-dashboard-html-on-ipad/#howto-index",
         "name": "KI-Dashboard-HTML-Dateien auf iPad öffnen",
@@ -1529,7 +1574,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 166,
+      "position": 171,
       "item": {
         "@id": "https://html.cybergame.ai/fr/open-html-file-iphone/#howto-index",
         "name": "Comment ouvrir un fichier HTML sur iPhone ou iPad",
@@ -1538,7 +1583,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 167,
+      "position": 172,
       "item": {
         "@id": "https://html.cybergame.ai/fr/articles/open-chatgpt-html-file-on-iphone/#howto-index",
         "name": "Ouvrir des fichiers HTML de ChatGPT et Claude sur iPhone",
@@ -1547,7 +1592,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 168,
+      "position": 173,
       "item": {
         "@id": "https://html.cybergame.ai/fr/articles/open-chatgpt-html-file-on-ipad/#howto-index",
         "name": "Ouvrir des fichiers HTML de ChatGPT on iPad sur iPad",
@@ -1556,7 +1601,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 169,
+      "position": 174,
       "item": {
         "@id": "https://html.cybergame.ai/fr/articles/best-html-viewer-for-iphone-ipad/#howto-index",
         "name": "Meilleur lecteur HTML pour iPhone et iPad",
@@ -1565,7 +1610,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 170,
+      "position": 175,
       "item": {
         "@id": "https://html.cybergame.ai/fr/articles/download-html-viewer-for-iphone/#howto-index",
         "name": "Télécharger un lecteur HTML pour iPhone",
@@ -1574,7 +1619,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 171,
+      "position": 176,
       "item": {
         "@id": "https://html.cybergame.ai/fr/articles/open-html-email-attachment-on-iphone/#howto-index",
         "name": "Ouvrir une pièce jointe HTML sur iPhone",
@@ -1583,7 +1628,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 172,
+      "position": 177,
       "item": {
         "@id": "https://html.cybergame.ai/fr/articles/open-gmail-html-attachment-on-iphone/#howto-index",
         "name": "Ouvrir des fichiers HTML de Gmail sur iPhone",
@@ -1592,7 +1637,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 173,
+      "position": 178,
       "item": {
         "@id": "https://html.cybergame.ai/fr/articles/open-outlook-html-attachment-on-iphone/#howto-index",
         "name": "Ouvrir des fichiers HTML de Outlook sur iPhone",
@@ -1601,7 +1646,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 174,
+      "position": 179,
       "item": {
         "@id": "https://html.cybergame.ai/fr/articles/open-html-file-from-files-app-on-iphone/#howto-index",
         "name": "Ouvrir un fichier HTML depuis Files sur iPhone",
@@ -1610,7 +1655,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 175,
+      "position": 180,
       "item": {
         "@id": "https://html.cybergame.ai/fr/articles/open-html-file-from-safari-downloads-on-iphone/#howto-index",
         "name": "Ouvrir un HTML téléchargé depuis Safari sur iPhone",
@@ -1619,7 +1664,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 176,
+      "position": 181,
       "item": {
         "@id": "https://html.cybergame.ai/fr/articles/open-html-file-from-icloud-drive-on-ipad/#howto-index",
         "name": "Ouvrir un HTML d'iCloud Drive sur iPad",
@@ -1628,7 +1673,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 177,
+      "position": 182,
       "item": {
         "@id": "https://html.cybergame.ai/fr/articles/offline-html-viewer-for-iphone/#howto-index",
         "name": "Lecteur HTML hors ligne pour iPhone et iPad",
@@ -1637,7 +1682,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 178,
+      "position": 183,
       "item": {
         "@id": "https://html.cybergame.ai/fr/articles/online-html-converter-alternative-iphone/#howto-index",
         "name": "Ouvrir HTML sans convertisseur en ligne sur iPhone",
@@ -1646,7 +1691,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 179,
+      "position": 184,
       "item": {
         "@id": "https://html.cybergame.ai/fr/articles/open-zipped-html-export-on-iphone/#howto-index",
         "name": "Ouvrir des fichiers HTML de zipped HTML exports sur iPhone",
@@ -1655,7 +1700,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 180,
+      "position": 185,
       "item": {
         "@id": "https://html.cybergame.ai/fr/articles/open-local-html-file-without-safari-on-iphone/#howto-index",
         "name": "Ouvrir des fichiers HTML de local HTML files sur iPhone",
@@ -1664,7 +1709,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 181,
+      "position": 186,
       "item": {
         "@id": "https://html.cybergame.ai/fr/articles/view-ai-generated-html-report-on-ipad/#howto-index",
         "name": "Lire des rapports HTML générés par IA sur iPad",
@@ -1673,7 +1718,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 182,
+      "position": 187,
       "item": {
         "@id": "https://html.cybergame.ai/fr/articles/open-html-extension-file-on-iphone/#howto-index",
         "name": "Ouvrir des fichiers .html sur iPhone",
@@ -1682,7 +1727,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 183,
+      "position": 188,
       "item": {
         "@id": "https://html.cybergame.ai/fr/articles/open-htm-file-on-iphone/#howto-index",
         "name": "Ouvrir des fichiers .htm sur iPhone",
@@ -1691,7 +1736,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 184,
+      "position": 189,
       "item": {
         "@id": "https://html.cybergame.ai/fr/articles/open-xhtml-file-on-ipad/#howto-index",
         "name": "Ouvrir des fichiers .xhtml sur iPad",
@@ -1700,7 +1745,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 185,
+      "position": 190,
       "item": {
         "@id": "https://html.cybergame.ai/fr/articles/open-text-html-mime-file-on-iphone/#howto-index",
         "name": "Ouvrir des fichiers HTML de type MIME text/html sur iPhone",
@@ -1709,7 +1754,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 186,
+      "position": 191,
       "item": {
         "@id": "https://html.cybergame.ai/fr/articles/open-html-file-from-google-drive-on-iphone/#howto-index",
         "name": "Ouvrir des fichiers HTML de Google Drive sur iPhone",
@@ -1718,7 +1763,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 187,
+      "position": 192,
       "item": {
         "@id": "https://html.cybergame.ai/fr/articles/open-html-file-from-dropbox-on-iphone/#howto-index",
         "name": "Ouvrir des fichiers HTML de Dropbox sur iPhone",
@@ -1727,7 +1772,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 188,
+      "position": 193,
       "item": {
         "@id": "https://html.cybergame.ai/fr/articles/open-html-file-from-airdrop-on-iphone/#howto-index",
         "name": "Ouvrir des fichiers HTML de AirDrop sur iPhone",
@@ -1736,7 +1781,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 189,
+      "position": 194,
       "item": {
         "@id": "https://html.cybergame.ai/fr/articles/open-wechat-whatsapp-html-file-on-iphone/#howto-index",
         "name": "Ouvrir des fichiers HTML de WeChat et WhatsApp sur iPhone",
@@ -1745,7 +1790,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 190,
+      "position": 195,
       "item": {
         "@id": "https://html.cybergame.ai/fr/articles/iphone-cant-open-html-file/#howto-index",
         "name": "Ouvrir des fichiers HTML de iOS file preview problem sur iPhone",
@@ -1754,7 +1799,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 191,
+      "position": 196,
       "item": {
         "@id": "https://html.cybergame.ai/fr/articles/html-file-shows-source-code-on-iphone/#howto-index",
         "name": "Ouvrir des fichiers HTML de HTML source code preview sur iPhone",
@@ -1763,7 +1808,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 192,
+      "position": 197,
       "item": {
         "@id": "https://html.cybergame.ai/fr/articles/files-app-cant-preview-html-on-iphone/#howto-index",
         "name": "Ouvrir des fichiers HTML de Files app preview problem sur iPhone",
@@ -1772,7 +1817,16 @@
     },
     {
       "@type": "ListItem",
-      "position": 193,
+      "position": 198,
+      "item": {
+        "@id": "https://html.cybergame.ai/fr/articles/quick-look-cant-preview-html-on-iphone/#howto-index",
+        "name": "Ouvrir des fichiers HTML de Quick Look sur iPhone",
+        "url": "https://html.cybergame.ai/fr/articles/quick-look-cant-preview-html-on-iphone/"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 199,
       "item": {
         "@id": "https://html.cybergame.ai/fr/articles/open-claude-artifact-html-on-iphone/#howto-index",
         "name": "Ouvrir fichiers HTML de Claude Artifacts sur iPhone",
@@ -1781,7 +1835,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 194,
+      "position": 200,
       "item": {
         "@id": "https://html.cybergame.ai/fr/articles/open-chatgpt-html-download-on-iphone/#howto-index",
         "name": "Ouvrir telechargements HTML de ChatGPT sur iPhone",
@@ -1790,7 +1844,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 195,
+      "position": 201,
       "item": {
         "@id": "https://html.cybergame.ai/fr/articles/open-gemini-html-file-on-iphone/#howto-index",
         "name": "Ouvrir fichiers HTML de Gemini sur iPhone",
@@ -1799,7 +1853,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 196,
+      "position": 202,
       "item": {
         "@id": "https://html.cybergame.ai/fr/articles/open-notion-html-export-on-iphone/#howto-index",
         "name": "Ouvrir exports HTML Notion sur iPhone",
@@ -1808,7 +1862,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 197,
+      "position": 203,
       "item": {
         "@id": "https://html.cybergame.ai/fr/articles/open-github-html-file-on-iphone/#howto-index",
         "name": "Ouvrir fichiers HTML GitHub sur iPhone",
@@ -1817,7 +1871,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 198,
+      "position": 204,
       "item": {
         "@id": "https://html.cybergame.ai/fr/articles/open-ai-dashboard-html-on-ipad/#howto-index",
         "name": "Ouvrir tableaux de bord IA en HTML sur iPad",
@@ -1826,7 +1880,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 199,
+      "position": 205,
       "item": {
         "@id": "https://html.cybergame.ai/pt-br/open-html-file-iphone/#howto-index",
         "name": "Como abrir um arquivo HTML no iPhone ou iPad",
@@ -1835,7 +1889,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 200,
+      "position": 206,
       "item": {
         "@id": "https://html.cybergame.ai/pt-br/articles/open-chatgpt-html-file-on-iphone/#howto-index",
         "name": "Como abrir arquivos HTML do ChatGPT e Claude no iPhone",
@@ -1844,7 +1898,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 201,
+      "position": 207,
       "item": {
         "@id": "https://html.cybergame.ai/pt-br/articles/open-chatgpt-html-file-on-ipad/#howto-index",
         "name": "Abrir arquivos HTML do ChatGPT on iPad no iPad",
@@ -1853,7 +1907,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 202,
+      "position": 208,
       "item": {
         "@id": "https://html.cybergame.ai/pt-br/articles/best-html-viewer-for-iphone-ipad/#howto-index",
         "name": "Melhor visualizador HTML para iPhone e iPad",
@@ -1862,7 +1916,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 203,
+      "position": 209,
       "item": {
         "@id": "https://html.cybergame.ai/pt-br/articles/download-html-viewer-for-iphone/#howto-index",
         "name": "Baixar visualizador HTML para iPhone",
@@ -1871,7 +1925,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 204,
+      "position": 210,
       "item": {
         "@id": "https://html.cybergame.ai/pt-br/articles/open-html-email-attachment-on-iphone/#howto-index",
         "name": "Como abrir anexos HTML de email no iPhone",
@@ -1880,7 +1934,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 205,
+      "position": 211,
       "item": {
         "@id": "https://html.cybergame.ai/pt-br/articles/open-gmail-html-attachment-on-iphone/#howto-index",
         "name": "Abrir arquivos HTML do Gmail no iPhone",
@@ -1889,7 +1943,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 206,
+      "position": 212,
       "item": {
         "@id": "https://html.cybergame.ai/pt-br/articles/open-outlook-html-attachment-on-iphone/#howto-index",
         "name": "Abrir arquivos HTML do Outlook no iPhone",
@@ -1898,7 +1952,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 207,
+      "position": 213,
       "item": {
         "@id": "https://html.cybergame.ai/pt-br/articles/open-html-file-from-files-app-on-iphone/#howto-index",
         "name": "Como abrir HTML pelo app Files no iPhone",
@@ -1907,7 +1961,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 208,
+      "position": 214,
       "item": {
         "@id": "https://html.cybergame.ai/pt-br/articles/open-html-file-from-safari-downloads-on-iphone/#howto-index",
         "name": "Como abrir HTML baixado pelo Safari no iPhone",
@@ -1916,7 +1970,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 209,
+      "position": 215,
       "item": {
         "@id": "https://html.cybergame.ai/pt-br/articles/open-html-file-from-icloud-drive-on-ipad/#howto-index",
         "name": "Como abrir HTML do iCloud Drive no iPad",
@@ -1925,7 +1979,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 210,
+      "position": 216,
       "item": {
         "@id": "https://html.cybergame.ai/pt-br/articles/offline-html-viewer-for-iphone/#howto-index",
         "name": "Visualizador HTML offline para iPhone e iPad",
@@ -1934,7 +1988,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 211,
+      "position": 217,
       "item": {
         "@id": "https://html.cybergame.ai/pt-br/articles/online-html-converter-alternative-iphone/#howto-index",
         "name": "Abrir HTML sem conversor online no iPhone",
@@ -1943,7 +1997,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 212,
+      "position": 218,
       "item": {
         "@id": "https://html.cybergame.ai/pt-br/articles/open-zipped-html-export-on-iphone/#howto-index",
         "name": "Abrir arquivos HTML do zipped HTML exports no iPhone",
@@ -1952,7 +2006,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 213,
+      "position": 219,
       "item": {
         "@id": "https://html.cybergame.ai/pt-br/articles/open-local-html-file-without-safari-on-iphone/#howto-index",
         "name": "Abrir arquivos HTML do local HTML files no iPhone",
@@ -1961,7 +2015,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 214,
+      "position": 220,
       "item": {
         "@id": "https://html.cybergame.ai/pt-br/articles/view-ai-generated-html-report-on-ipad/#howto-index",
         "name": "Ver relatórios HTML gerados por IA no iPad",
@@ -1970,7 +2024,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 215,
+      "position": 221,
       "item": {
         "@id": "https://html.cybergame.ai/pt-br/articles/open-html-extension-file-on-iphone/#howto-index",
         "name": "Abrir arquivos .html no iPhone",
@@ -1979,7 +2033,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 216,
+      "position": 222,
       "item": {
         "@id": "https://html.cybergame.ai/pt-br/articles/open-htm-file-on-iphone/#howto-index",
         "name": "Abrir arquivos .htm no iPhone",
@@ -1988,7 +2042,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 217,
+      "position": 223,
       "item": {
         "@id": "https://html.cybergame.ai/pt-br/articles/open-xhtml-file-on-ipad/#howto-index",
         "name": "Abrir arquivos .xhtml no iPad",
@@ -1997,7 +2051,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 218,
+      "position": 224,
       "item": {
         "@id": "https://html.cybergame.ai/pt-br/articles/open-text-html-mime-file-on-iphone/#howto-index",
         "name": "Abrir arquivos HTML do tipo MIME text/html no iPhone",
@@ -2006,7 +2060,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 219,
+      "position": 225,
       "item": {
         "@id": "https://html.cybergame.ai/pt-br/articles/open-html-file-from-google-drive-on-iphone/#howto-index",
         "name": "Abrir arquivos HTML do Google Drive no iPhone",
@@ -2015,7 +2069,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 220,
+      "position": 226,
       "item": {
         "@id": "https://html.cybergame.ai/pt-br/articles/open-html-file-from-dropbox-on-iphone/#howto-index",
         "name": "Abrir arquivos HTML do Dropbox no iPhone",
@@ -2024,7 +2078,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 221,
+      "position": 227,
       "item": {
         "@id": "https://html.cybergame.ai/pt-br/articles/open-html-file-from-airdrop-on-iphone/#howto-index",
         "name": "Abrir arquivos HTML do AirDrop no iPhone",
@@ -2033,7 +2087,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 222,
+      "position": 228,
       "item": {
         "@id": "https://html.cybergame.ai/pt-br/articles/open-wechat-whatsapp-html-file-on-iphone/#howto-index",
         "name": "Abrir arquivos HTML do WeChat e WhatsApp no iPhone",
@@ -2042,7 +2096,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 223,
+      "position": 229,
       "item": {
         "@id": "https://html.cybergame.ai/pt-br/articles/iphone-cant-open-html-file/#howto-index",
         "name": "Abrir arquivos HTML do iOS file preview problem no iPhone",
@@ -2051,7 +2105,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 224,
+      "position": 230,
       "item": {
         "@id": "https://html.cybergame.ai/pt-br/articles/html-file-shows-source-code-on-iphone/#howto-index",
         "name": "Abrir arquivos HTML do HTML source code preview no iPhone",
@@ -2060,7 +2114,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 225,
+      "position": 231,
       "item": {
         "@id": "https://html.cybergame.ai/pt-br/articles/files-app-cant-preview-html-on-iphone/#howto-index",
         "name": "Abrir arquivos HTML do Files app preview problem no iPhone",
@@ -2069,7 +2123,16 @@
     },
     {
       "@type": "ListItem",
-      "position": 226,
+      "position": 232,
+      "item": {
+        "@id": "https://html.cybergame.ai/pt-br/articles/quick-look-cant-preview-html-on-iphone/#howto-index",
+        "name": "Abrir arquivos HTML do Quick Look no iPhone",
+        "url": "https://html.cybergame.ai/pt-br/articles/quick-look-cant-preview-html-on-iphone/"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 233,
       "item": {
         "@id": "https://html.cybergame.ai/pt-br/articles/open-claude-artifact-html-on-iphone/#howto-index",
         "name": "Abrir arquivos HTML do Claude Artifacts no iPhone",
@@ -2078,7 +2141,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 227,
+      "position": 234,
       "item": {
         "@id": "https://html.cybergame.ai/pt-br/articles/open-chatgpt-html-download-on-iphone/#howto-index",
         "name": "Abrir downloads HTML do ChatGPT no iPhone",
@@ -2087,7 +2150,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 228,
+      "position": 235,
       "item": {
         "@id": "https://html.cybergame.ai/pt-br/articles/open-gemini-html-file-on-iphone/#howto-index",
         "name": "Abrir arquivos HTML do Gemini no iPhone",
@@ -2096,7 +2159,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 229,
+      "position": 236,
       "item": {
         "@id": "https://html.cybergame.ai/pt-br/articles/open-notion-html-export-on-iphone/#howto-index",
         "name": "Abrir exportacoes HTML do Notion no iPhone",
@@ -2105,7 +2168,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 230,
+      "position": 237,
       "item": {
         "@id": "https://html.cybergame.ai/pt-br/articles/open-github-html-file-on-iphone/#howto-index",
         "name": "Abrir arquivos HTML do GitHub no iPhone",
@@ -2114,7 +2177,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 231,
+      "position": 238,
       "item": {
         "@id": "https://html.cybergame.ai/pt-br/articles/open-ai-dashboard-html-on-ipad/#howto-index",
         "name": "Abrir dashboards HTML de IA no iPad",
@@ -2123,7 +2186,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 232,
+      "position": 239,
       "item": {
         "@id": "https://html.cybergame.ai/ko/open-html-file-iphone/#howto-index",
         "name": "iPhone 또는 iPad에서 HTML 파일 여는 방법",
@@ -2132,7 +2195,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 233,
+      "position": 240,
       "item": {
         "@id": "https://html.cybergame.ai/ko/articles/open-chatgpt-html-file-on-iphone/#howto-index",
         "name": "iPhone에서 ChatGPT, Claude, Gemini HTML 파일 열기",
@@ -2141,7 +2204,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 234,
+      "position": 241,
       "item": {
         "@id": "https://html.cybergame.ai/ko/articles/open-chatgpt-html-file-on-ipad/#howto-index",
         "name": "iPad에서 ChatGPT on iPad HTML 파일 열기",
@@ -2150,7 +2213,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 235,
+      "position": 242,
       "item": {
         "@id": "https://html.cybergame.ai/ko/articles/best-html-viewer-for-iphone-ipad/#howto-index",
         "name": "iPad에서 iPhone and iPad HTML 파일 열기",
@@ -2159,7 +2222,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 236,
+      "position": 243,
       "item": {
         "@id": "https://html.cybergame.ai/ko/articles/download-html-viewer-for-iphone/#howto-index",
         "name": "iPhone용 HTML 뷰어 다운로드",
@@ -2168,7 +2231,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 237,
+      "position": 244,
       "item": {
         "@id": "https://html.cybergame.ai/ko/articles/open-html-email-attachment-on-iphone/#howto-index",
         "name": "iPhone에서 Mail, Gmail, Outlook HTML 파일 열기",
@@ -2177,7 +2240,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 238,
+      "position": 245,
       "item": {
         "@id": "https://html.cybergame.ai/ko/articles/open-gmail-html-attachment-on-iphone/#howto-index",
         "name": "iPhone에서 Gmail HTML 파일 열기",
@@ -2186,7 +2249,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 239,
+      "position": 246,
       "item": {
         "@id": "https://html.cybergame.ai/ko/articles/open-outlook-html-attachment-on-iphone/#howto-index",
         "name": "iPhone에서 Outlook HTML 파일 열기",
@@ -2195,7 +2258,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 240,
+      "position": 247,
       "item": {
         "@id": "https://html.cybergame.ai/ko/articles/open-html-file-from-files-app-on-iphone/#howto-index",
         "name": "iPhone에서 Files, AirDrop, iCloud Drive HTML 파일 열기",
@@ -2204,7 +2267,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 241,
+      "position": 248,
       "item": {
         "@id": "https://html.cybergame.ai/ko/articles/open-html-file-from-safari-downloads-on-iphone/#howto-index",
         "name": "iPhone에서 Safari Downloads HTML 파일 열기",
@@ -2213,7 +2276,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 242,
+      "position": 249,
       "item": {
         "@id": "https://html.cybergame.ai/ko/articles/open-html-file-from-icloud-drive-on-ipad/#howto-index",
         "name": "iPad에서 iCloud Drive HTML 파일 열기",
@@ -2222,7 +2285,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 243,
+      "position": 250,
       "item": {
         "@id": "https://html.cybergame.ai/ko/articles/offline-html-viewer-for-iphone/#howto-index",
         "name": "iPad에서 offline files HTML 파일 열기",
@@ -2231,7 +2294,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 244,
+      "position": 251,
       "item": {
         "@id": "https://html.cybergame.ai/ko/articles/online-html-converter-alternative-iphone/#howto-index",
         "name": "iPhone에서 온라인 HTML 변환기를 대신하는 로컬 HTML 뷰어 열기",
@@ -2240,7 +2303,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 245,
+      "position": 252,
       "item": {
         "@id": "https://html.cybergame.ai/ko/articles/open-zipped-html-export-on-iphone/#howto-index",
         "name": "iPhone에서 zipped HTML exports HTML 파일 열기",
@@ -2249,7 +2312,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 246,
+      "position": 253,
       "item": {
         "@id": "https://html.cybergame.ai/ko/articles/open-local-html-file-without-safari-on-iphone/#howto-index",
         "name": "iPhone에서 local HTML files HTML 파일 열기",
@@ -2258,7 +2321,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 247,
+      "position": 254,
       "item": {
         "@id": "https://html.cybergame.ai/ko/articles/view-ai-generated-html-report-on-ipad/#howto-index",
         "name": "iPad에서 AI-generated reports HTML 파일 열기",
@@ -2267,7 +2330,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 248,
+      "position": 255,
       "item": {
         "@id": "https://html.cybergame.ai/ko/articles/open-html-extension-file-on-iphone/#howto-index",
         "name": "iPhone에서 .html 파일 열기",
@@ -2276,7 +2339,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 249,
+      "position": 256,
       "item": {
         "@id": "https://html.cybergame.ai/ko/articles/open-htm-file-on-iphone/#howto-index",
         "name": "iPhone에서 .htm 파일 열기",
@@ -2285,7 +2348,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 250,
+      "position": 257,
       "item": {
         "@id": "https://html.cybergame.ai/ko/articles/open-xhtml-file-on-ipad/#howto-index",
         "name": "iPad에서 .xhtml 파일 열기",
@@ -2294,7 +2357,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 251,
+      "position": 258,
       "item": {
         "@id": "https://html.cybergame.ai/ko/articles/open-text-html-mime-file-on-iphone/#howto-index",
         "name": "iPhone에서 text/html MIME 유형 HTML 파일 열기",
@@ -2303,7 +2366,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 252,
+      "position": 259,
       "item": {
         "@id": "https://html.cybergame.ai/ko/articles/open-html-file-from-google-drive-on-iphone/#howto-index",
         "name": "iPhone에서 Google Drive HTML 파일 열기",
@@ -2312,7 +2375,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 253,
+      "position": 260,
       "item": {
         "@id": "https://html.cybergame.ai/ko/articles/open-html-file-from-dropbox-on-iphone/#howto-index",
         "name": "iPhone에서 Dropbox HTML 파일 열기",
@@ -2321,7 +2384,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 254,
+      "position": 261,
       "item": {
         "@id": "https://html.cybergame.ai/ko/articles/open-html-file-from-airdrop-on-iphone/#howto-index",
         "name": "iPhone에서 AirDrop HTML 파일 열기",
@@ -2330,7 +2393,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 255,
+      "position": 262,
       "item": {
         "@id": "https://html.cybergame.ai/ko/articles/open-wechat-whatsapp-html-file-on-iphone/#howto-index",
         "name": "iPhone에서 WeChat과 WhatsApp HTML 파일 열기",
@@ -2339,7 +2402,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 256,
+      "position": 263,
       "item": {
         "@id": "https://html.cybergame.ai/ko/articles/iphone-cant-open-html-file/#howto-index",
         "name": "iPhone에서 iOS file preview problem HTML 파일 열기",
@@ -2348,7 +2411,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 257,
+      "position": 264,
       "item": {
         "@id": "https://html.cybergame.ai/ko/articles/html-file-shows-source-code-on-iphone/#howto-index",
         "name": "iPhone에서 HTML source code preview HTML 파일 열기",
@@ -2357,7 +2420,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 258,
+      "position": 265,
       "item": {
         "@id": "https://html.cybergame.ai/ko/articles/files-app-cant-preview-html-on-iphone/#howto-index",
         "name": "iPhone에서 Files app preview problem HTML 파일 열기",
@@ -2366,7 +2429,16 @@
     },
     {
       "@type": "ListItem",
-      "position": 259,
+      "position": 266,
+      "item": {
+        "@id": "https://html.cybergame.ai/ko/articles/quick-look-cant-preview-html-on-iphone/#howto-index",
+        "name": "iPhone에서 Quick Look HTML 파일 열기",
+        "url": "https://html.cybergame.ai/ko/articles/quick-look-cant-preview-html-on-iphone/"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 267,
       "item": {
         "@id": "https://html.cybergame.ai/ko/articles/open-claude-artifact-html-on-iphone/#howto-index",
         "name": "iPhone에서 Claude Artifacts HTML 파일 열기",
@@ -2375,7 +2447,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 260,
+      "position": 268,
       "item": {
         "@id": "https://html.cybergame.ai/ko/articles/open-chatgpt-html-download-on-iphone/#howto-index",
         "name": "iPhone에서 ChatGPT 다운로드 HTML 파일 열기",
@@ -2384,7 +2456,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 261,
+      "position": 269,
       "item": {
         "@id": "https://html.cybergame.ai/ko/articles/open-gemini-html-file-on-iphone/#howto-index",
         "name": "iPhone에서 Gemini HTML 파일 열기",
@@ -2393,7 +2465,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 262,
+      "position": 270,
       "item": {
         "@id": "https://html.cybergame.ai/ko/articles/open-notion-html-export-on-iphone/#howto-index",
         "name": "iPhone에서 Notion 내보내기 HTML 파일 열기",
@@ -2402,7 +2474,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 263,
+      "position": 271,
       "item": {
         "@id": "https://html.cybergame.ai/ko/articles/open-github-html-file-on-iphone/#howto-index",
         "name": "iPhone에서 GitHub HTML 파일 열기",
@@ -2411,7 +2483,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 264,
+      "position": 272,
       "item": {
         "@id": "https://html.cybergame.ai/ko/articles/open-ai-dashboard-html-on-ipad/#howto-index",
         "name": "iPad에서 AI 대시보드 HTML 파일 열기",
@@ -2420,7 +2492,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 265,
+      "position": 273,
       "item": {
         "@id": "https://html.cybergame.ai/ar/open-html-file-iphone/#howto-index",
         "name": "طريقة فتح ملف HTML على iPhone او iPad",
@@ -2429,7 +2501,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 266,
+      "position": 274,
       "item": {
         "@id": "https://html.cybergame.ai/ar/articles/open-chatgpt-html-file-on-iphone/#howto-index",
         "name": "فتح ملفات HTML من ChatGPT, Claude, Gemini على iPhone",
@@ -2438,7 +2510,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 267,
+      "position": 275,
       "item": {
         "@id": "https://html.cybergame.ai/ar/articles/open-chatgpt-html-file-on-ipad/#howto-index",
         "name": "فتح ملفات HTML من ChatGPT on iPad على iPad",
@@ -2447,7 +2519,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 268,
+      "position": 276,
       "item": {
         "@id": "https://html.cybergame.ai/ar/articles/best-html-viewer-for-iphone-ipad/#howto-index",
         "name": "فتح ملفات HTML من iPhone and iPad على iPad",
@@ -2456,7 +2528,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 269,
+      "position": 277,
       "item": {
         "@id": "https://html.cybergame.ai/ar/articles/download-html-viewer-for-iphone/#howto-index",
         "name": "تنزيل عارض HTML للايفون",
@@ -2465,7 +2537,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 270,
+      "position": 278,
       "item": {
         "@id": "https://html.cybergame.ai/ar/articles/open-html-email-attachment-on-iphone/#howto-index",
         "name": "فتح ملفات HTML من Mail, Gmail, Outlook على iPhone",
@@ -2474,7 +2546,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 271,
+      "position": 279,
       "item": {
         "@id": "https://html.cybergame.ai/ar/articles/open-gmail-html-attachment-on-iphone/#howto-index",
         "name": "فتح ملفات HTML من Gmail على iPhone",
@@ -2483,7 +2555,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 272,
+      "position": 280,
       "item": {
         "@id": "https://html.cybergame.ai/ar/articles/open-outlook-html-attachment-on-iphone/#howto-index",
         "name": "فتح ملفات HTML من Outlook على iPhone",
@@ -2492,7 +2564,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 273,
+      "position": 281,
       "item": {
         "@id": "https://html.cybergame.ai/ar/articles/open-html-file-from-files-app-on-iphone/#howto-index",
         "name": "فتح ملفات HTML من Files, AirDrop, iCloud Drive على iPhone",
@@ -2501,7 +2573,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 274,
+      "position": 282,
       "item": {
         "@id": "https://html.cybergame.ai/ar/articles/open-html-file-from-safari-downloads-on-iphone/#howto-index",
         "name": "فتح ملفات HTML من Safari Downloads على iPhone",
@@ -2510,7 +2582,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 275,
+      "position": 283,
       "item": {
         "@id": "https://html.cybergame.ai/ar/articles/open-html-file-from-icloud-drive-on-ipad/#howto-index",
         "name": "فتح ملفات HTML من iCloud Drive على iPad",
@@ -2519,7 +2591,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 276,
+      "position": 284,
       "item": {
         "@id": "https://html.cybergame.ai/ar/articles/offline-html-viewer-for-iphone/#howto-index",
         "name": "فتح ملفات HTML من offline files على iPad",
@@ -2528,7 +2600,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 277,
+      "position": 285,
       "item": {
         "@id": "https://html.cybergame.ai/ar/articles/online-html-converter-alternative-iphone/#howto-index",
         "name": "فتح بديلا محليا لمحولات HTML على الويب على iPhone",
@@ -2537,7 +2609,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 278,
+      "position": 286,
       "item": {
         "@id": "https://html.cybergame.ai/ar/articles/open-zipped-html-export-on-iphone/#howto-index",
         "name": "فتح ملفات HTML من zipped HTML exports على iPhone",
@@ -2546,7 +2618,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 279,
+      "position": 287,
       "item": {
         "@id": "https://html.cybergame.ai/ar/articles/open-local-html-file-without-safari-on-iphone/#howto-index",
         "name": "فتح ملفات HTML من local HTML files على iPhone",
@@ -2555,7 +2627,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 280,
+      "position": 288,
       "item": {
         "@id": "https://html.cybergame.ai/ar/articles/view-ai-generated-html-report-on-ipad/#howto-index",
         "name": "فتح ملفات HTML من AI-generated reports على iPad",
@@ -2564,7 +2636,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 281,
+      "position": 289,
       "item": {
         "@id": "https://html.cybergame.ai/ar/articles/open-html-extension-file-on-iphone/#howto-index",
         "name": "فتح ملفات .html على iPhone",
@@ -2573,7 +2645,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 282,
+      "position": 290,
       "item": {
         "@id": "https://html.cybergame.ai/ar/articles/open-htm-file-on-iphone/#howto-index",
         "name": "فتح ملفات .htm على iPhone",
@@ -2582,7 +2654,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 283,
+      "position": 291,
       "item": {
         "@id": "https://html.cybergame.ai/ar/articles/open-xhtml-file-on-ipad/#howto-index",
         "name": "فتح ملفات .xhtml على iPad",
@@ -2591,7 +2663,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 284,
+      "position": 292,
       "item": {
         "@id": "https://html.cybergame.ai/ar/articles/open-text-html-mime-file-on-iphone/#howto-index",
         "name": "فتح ملفات HTML من نوع MIME text/html على iPhone",
@@ -2600,7 +2672,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 285,
+      "position": 293,
       "item": {
         "@id": "https://html.cybergame.ai/ar/articles/open-html-file-from-google-drive-on-iphone/#howto-index",
         "name": "فتح ملفات HTML من Google Drive على iPhone",
@@ -2609,7 +2681,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 286,
+      "position": 294,
       "item": {
         "@id": "https://html.cybergame.ai/ar/articles/open-html-file-from-dropbox-on-iphone/#howto-index",
         "name": "فتح ملفات HTML من Dropbox على iPhone",
@@ -2618,7 +2690,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 287,
+      "position": 295,
       "item": {
         "@id": "https://html.cybergame.ai/ar/articles/open-html-file-from-airdrop-on-iphone/#howto-index",
         "name": "فتح ملفات HTML من AirDrop على iPhone",
@@ -2627,7 +2699,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 288,
+      "position": 296,
       "item": {
         "@id": "https://html.cybergame.ai/ar/articles/open-wechat-whatsapp-html-file-on-iphone/#howto-index",
         "name": "فتح ملفات HTML من WeChat و WhatsApp على iPhone",
@@ -2636,7 +2708,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 289,
+      "position": 297,
       "item": {
         "@id": "https://html.cybergame.ai/ar/articles/iphone-cant-open-html-file/#howto-index",
         "name": "فتح ملفات HTML من iOS file preview problem على iPhone",
@@ -2645,7 +2717,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 290,
+      "position": 298,
       "item": {
         "@id": "https://html.cybergame.ai/ar/articles/html-file-shows-source-code-on-iphone/#howto-index",
         "name": "فتح ملفات HTML من HTML source code preview على iPhone",
@@ -2654,7 +2726,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 291,
+      "position": 299,
       "item": {
         "@id": "https://html.cybergame.ai/ar/articles/files-app-cant-preview-html-on-iphone/#howto-index",
         "name": "فتح ملفات HTML من Files app preview problem على iPhone",
@@ -2663,7 +2735,16 @@
     },
     {
       "@type": "ListItem",
-      "position": 292,
+      "position": 300,
+      "item": {
+        "@id": "https://html.cybergame.ai/ar/articles/quick-look-cant-preview-html-on-iphone/#howto-index",
+        "name": "فتح ملفات HTML من Quick Look على iPhone",
+        "url": "https://html.cybergame.ai/ar/articles/quick-look-cant-preview-html-on-iphone/"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 301,
       "item": {
         "@id": "https://html.cybergame.ai/ar/articles/open-claude-artifact-html-on-iphone/#howto-index",
         "name": "فتح ملفات HTML من Claude Artifacts على iPhone",
@@ -2672,7 +2753,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 293,
+      "position": 302,
       "item": {
         "@id": "https://html.cybergame.ai/ar/articles/open-chatgpt-html-download-on-iphone/#howto-index",
         "name": "فتح تنزيلات HTML من ChatGPT على iPhone",
@@ -2681,7 +2762,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 294,
+      "position": 303,
       "item": {
         "@id": "https://html.cybergame.ai/ar/articles/open-gemini-html-file-on-iphone/#howto-index",
         "name": "فتح ملفات HTML من Gemini على iPhone",
@@ -2690,7 +2771,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 295,
+      "position": 304,
       "item": {
         "@id": "https://html.cybergame.ai/ar/articles/open-notion-html-export-on-iphone/#howto-index",
         "name": "فتح صادرات HTML من Notion على iPhone",
@@ -2699,7 +2780,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 296,
+      "position": 305,
       "item": {
         "@id": "https://html.cybergame.ai/ar/articles/open-github-html-file-on-iphone/#howto-index",
         "name": "فتح ملفات HTML من GitHub على iPhone",
@@ -2708,7 +2789,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 297,
+      "position": 306,
       "item": {
         "@id": "https://html.cybergame.ai/ar/articles/open-ai-dashboard-html-on-ipad/#howto-index",
         "name": "فتح لوحات معلومات HTML من AI على iPad",
@@ -2717,7 +2798,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 298,
+      "position": 307,
       "item": {
         "@id": "https://html.cybergame.ai/hi/open-html-file-iphone/#howto-index",
         "name": "iPhone या iPad पर HTML file कैसे खोलें",
@@ -2726,7 +2807,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 299,
+      "position": 308,
       "item": {
         "@id": "https://html.cybergame.ai/hi/articles/open-chatgpt-html-file-on-iphone/#howto-index",
         "name": "iPhone पर ChatGPT, Claude, Gemini HTML files खोलें",
@@ -2735,7 +2816,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 300,
+      "position": 309,
       "item": {
         "@id": "https://html.cybergame.ai/hi/articles/open-chatgpt-html-file-on-ipad/#howto-index",
         "name": "iPad पर ChatGPT on iPad HTML files खोलें",
@@ -2744,7 +2825,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 301,
+      "position": 310,
       "item": {
         "@id": "https://html.cybergame.ai/hi/articles/best-html-viewer-for-iphone-ipad/#howto-index",
         "name": "iPad पर iPhone and iPad HTML files खोलें",
@@ -2753,7 +2834,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 302,
+      "position": 311,
       "item": {
         "@id": "https://html.cybergame.ai/hi/articles/download-html-viewer-for-iphone/#howto-index",
         "name": "iPhone के लिए HTML viewer डाउनलोड करें",
@@ -2762,7 +2843,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 303,
+      "position": 312,
       "item": {
         "@id": "https://html.cybergame.ai/hi/articles/open-html-email-attachment-on-iphone/#howto-index",
         "name": "iPhone पर Mail, Gmail, Outlook HTML files खोलें",
@@ -2771,7 +2852,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 304,
+      "position": 313,
       "item": {
         "@id": "https://html.cybergame.ai/hi/articles/open-gmail-html-attachment-on-iphone/#howto-index",
         "name": "iPhone पर Gmail HTML files खोलें",
@@ -2780,7 +2861,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 305,
+      "position": 314,
       "item": {
         "@id": "https://html.cybergame.ai/hi/articles/open-outlook-html-attachment-on-iphone/#howto-index",
         "name": "iPhone पर Outlook HTML files खोलें",
@@ -2789,7 +2870,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 306,
+      "position": 315,
       "item": {
         "@id": "https://html.cybergame.ai/hi/articles/open-html-file-from-files-app-on-iphone/#howto-index",
         "name": "iPhone पर Files, AirDrop, iCloud Drive HTML files खोलें",
@@ -2798,7 +2879,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 307,
+      "position": 316,
       "item": {
         "@id": "https://html.cybergame.ai/hi/articles/open-html-file-from-safari-downloads-on-iphone/#howto-index",
         "name": "iPhone पर Safari Downloads HTML files खोलें",
@@ -2807,7 +2888,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 308,
+      "position": 317,
       "item": {
         "@id": "https://html.cybergame.ai/hi/articles/open-html-file-from-icloud-drive-on-ipad/#howto-index",
         "name": "iPad पर iCloud Drive HTML files खोलें",
@@ -2816,7 +2897,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 309,
+      "position": 318,
       "item": {
         "@id": "https://html.cybergame.ai/hi/articles/offline-html-viewer-for-iphone/#howto-index",
         "name": "iPad पर offline files HTML files खोलें",
@@ -2825,7 +2906,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 310,
+      "position": 319,
       "item": {
         "@id": "https://html.cybergame.ai/hi/articles/online-html-converter-alternative-iphone/#howto-index",
         "name": "iPhone पर a local alternative to online HTML converters खोलें",
@@ -2834,7 +2915,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 311,
+      "position": 320,
       "item": {
         "@id": "https://html.cybergame.ai/hi/articles/open-zipped-html-export-on-iphone/#howto-index",
         "name": "iPhone पर zipped HTML exports HTML files खोलें",
@@ -2843,7 +2924,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 312,
+      "position": 321,
       "item": {
         "@id": "https://html.cybergame.ai/hi/articles/open-local-html-file-without-safari-on-iphone/#howto-index",
         "name": "iPhone पर local HTML files HTML files खोलें",
@@ -2852,7 +2933,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 313,
+      "position": 322,
       "item": {
         "@id": "https://html.cybergame.ai/hi/articles/view-ai-generated-html-report-on-ipad/#howto-index",
         "name": "iPad पर AI-generated reports HTML files खोलें",
@@ -2861,7 +2942,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 314,
+      "position": 323,
       "item": {
         "@id": "https://html.cybergame.ai/hi/articles/open-html-extension-file-on-iphone/#howto-index",
         "name": "iPhone पर .html files खोलें",
@@ -2870,7 +2951,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 315,
+      "position": 324,
       "item": {
         "@id": "https://html.cybergame.ai/hi/articles/open-htm-file-on-iphone/#howto-index",
         "name": "iPhone पर .htm files खोलें",
@@ -2879,7 +2960,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 316,
+      "position": 325,
       "item": {
         "@id": "https://html.cybergame.ai/hi/articles/open-xhtml-file-on-ipad/#howto-index",
         "name": "iPad पर .xhtml files खोलें",
@@ -2888,7 +2969,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 317,
+      "position": 326,
       "item": {
         "@id": "https://html.cybergame.ai/hi/articles/open-text-html-mime-file-on-iphone/#howto-index",
         "name": "iPhone पर text/html MIME type HTML files खोलें",
@@ -2897,7 +2978,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 318,
+      "position": 327,
       "item": {
         "@id": "https://html.cybergame.ai/hi/articles/open-html-file-from-google-drive-on-iphone/#howto-index",
         "name": "iPhone पर Google Drive HTML files खोलें",
@@ -2906,7 +2987,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 319,
+      "position": 328,
       "item": {
         "@id": "https://html.cybergame.ai/hi/articles/open-html-file-from-dropbox-on-iphone/#howto-index",
         "name": "iPhone पर Dropbox HTML files खोलें",
@@ -2915,7 +2996,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 320,
+      "position": 329,
       "item": {
         "@id": "https://html.cybergame.ai/hi/articles/open-html-file-from-airdrop-on-iphone/#howto-index",
         "name": "iPhone पर AirDrop HTML files खोलें",
@@ -2924,7 +3005,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 321,
+      "position": 330,
       "item": {
         "@id": "https://html.cybergame.ai/hi/articles/open-wechat-whatsapp-html-file-on-iphone/#howto-index",
         "name": "iPhone पर WeChat और WhatsApp HTML files खोलें",
@@ -2933,7 +3014,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 322,
+      "position": 331,
       "item": {
         "@id": "https://html.cybergame.ai/hi/articles/iphone-cant-open-html-file/#howto-index",
         "name": "iPhone पर iOS file preview problem HTML files खोलें",
@@ -2942,7 +3023,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 323,
+      "position": 332,
       "item": {
         "@id": "https://html.cybergame.ai/hi/articles/html-file-shows-source-code-on-iphone/#howto-index",
         "name": "iPhone पर HTML source code preview HTML files खोलें",
@@ -2951,7 +3032,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 324,
+      "position": 333,
       "item": {
         "@id": "https://html.cybergame.ai/hi/articles/files-app-cant-preview-html-on-iphone/#howto-index",
         "name": "iPhone पर Files app preview problem HTML files खोलें",
@@ -2960,7 +3041,16 @@
     },
     {
       "@type": "ListItem",
-      "position": 325,
+      "position": 334,
+      "item": {
+        "@id": "https://html.cybergame.ai/hi/articles/quick-look-cant-preview-html-on-iphone/#howto-index",
+        "name": "iPhone पर Quick Look preview problem HTML files खोलें",
+        "url": "https://html.cybergame.ai/hi/articles/quick-look-cant-preview-html-on-iphone/"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 335,
       "item": {
         "@id": "https://html.cybergame.ai/hi/articles/open-claude-artifact-html-on-iphone/#howto-index",
         "name": "iPhone पर Claude Artifacts HTML files खोलें",
@@ -2969,7 +3059,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 326,
+      "position": 336,
       "item": {
         "@id": "https://html.cybergame.ai/hi/articles/open-chatgpt-html-download-on-iphone/#howto-index",
         "name": "iPhone पर ChatGPT HTML downloads खोलें",
@@ -2978,7 +3068,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 327,
+      "position": 337,
       "item": {
         "@id": "https://html.cybergame.ai/hi/articles/open-gemini-html-file-on-iphone/#howto-index",
         "name": "iPhone पर Gemini HTML files खोलें",
@@ -2987,7 +3077,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 328,
+      "position": 338,
       "item": {
         "@id": "https://html.cybergame.ai/hi/articles/open-notion-html-export-on-iphone/#howto-index",
         "name": "iPhone पर Notion HTML exports खोलें",
@@ -2996,7 +3086,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 329,
+      "position": 339,
       "item": {
         "@id": "https://html.cybergame.ai/hi/articles/open-github-html-file-on-iphone/#howto-index",
         "name": "iPhone पर GitHub HTML files खोलें",
@@ -3005,7 +3095,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 330,
+      "position": 340,
       "item": {
         "@id": "https://html.cybergame.ai/hi/articles/open-ai-dashboard-html-on-ipad/#howto-index",
         "name": "iPad पर AI dashboard HTML files खोलें",
@@ -6975,6 +7065,153 @@
           "@type": "PropertyValue",
           "propertyID": "App Store campaign token",
           "value": "html_en_filesappprevie_howto"
+        },
+        "object": {
+          "@id": "https://html.cybergame.ai/#app"
+        }
+      },
+      "companionUrl": "https://markdown.cybergame.ai/",
+      "lastUpdated": "2026-06-28"
+    },
+    {
+      "@type": "HowTo",
+      "@id": "https://html.cybergame.ai/articles/quick-look-cant-preview-html-on-iphone/#howto-index",
+      "name": "Quick Look Can't Preview HTML on iPhone",
+      "description": "Install Html Preview, open the file from Files or the iOS Share Sheet, and preview it locally on iPhone or iPad.",
+      "inLanguage": "en",
+      "url": "https://html.cybergame.ai/articles/quick-look-cant-preview-html-on-iphone/",
+      "canonicalUrl": "https://html.cybergame.ai/articles/quick-look-cant-preview-html-on-iphone/",
+      "locale": "en",
+      "hreflang": "en",
+      "pageType": "article",
+      "articleSlug": "quick-look-cant-preview-html-on-iphone",
+      "topicKey": null,
+      "source": "Quick Look preview problem",
+      "query": "How do I preview an HTML file that Quick Look cannot preview on iPhone or iPad?",
+      "primaryKeyword": "Quick Look can't preview HTML on iPhone",
+      "supportedFormats": ".html, .htm, .xhtml",
+      "fileExtensions": [
+        ".html",
+        ".htm",
+        ".xhtml"
+      ],
+      "totalTime": "PT1M",
+      "tool": [
+        {
+          "@type": "HowToTool",
+          "name": "Html Preview",
+          "url": "https://apps.apple.com/app/id6760443436"
+        }
+      ],
+      "step": [
+        {
+          "@type": "HowToStep",
+          "position": 1,
+          "name": "Save the source file",
+          "text": "Save the HTML file from Quick Look preview problem. Keep the original .html, .htm, .xhtml file available in Files, Mail, a browser download, or the source app.",
+          "url": "https://html.cybergame.ai/articles/quick-look-cant-preview-html-on-iphone/#step-1"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 2,
+          "name": "Open the iOS Share Sheet",
+          "text": "Save the HTML file, tap Share from Files or the source app, choose Html Preview, and read the rendered page locally on iPhone or iPad.",
+          "url": "https://html.cybergame.ai/articles/quick-look-cant-preview-html-on-iphone/#step-2"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 3,
+          "name": "Choose the viewer",
+          "text": "Choose Html Preview as the target viewer. It opens the file locally on iPhone or iPad for this workflow: preview an HTML file that Quick Look cannot preview.",
+          "url": "https://html.cybergame.ai/articles/quick-look-cant-preview-html-on-iphone/#step-3"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 4,
+          "name": "Preview and check",
+          "text": "If the HTML export includes images, CSS, JavaScript, or asset folders, keep them beside the HTML file before opening it.",
+          "url": "https://html.cybergame.ai/articles/quick-look-cant-preview-html-on-iphone/#step-4"
+        }
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://html.cybergame.ai/articles/quick-look-cant-preview-html-on-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://html.cybergame.ai/zh/articles/quick-look-cant-preview-html-on-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://html.cybergame.ai/ja/articles/quick-look-cant-preview-html-on-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://html.cybergame.ai/es/articles/quick-look-cant-preview-html-on-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://html.cybergame.ai/de/articles/quick-look-cant-preview-html-on-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://html.cybergame.ai/fr/articles/quick-look-cant-preview-html-on-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://html.cybergame.ai/pt-br/articles/quick-look-cant-preview-html-on-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://html.cybergame.ai/ko/articles/quick-look-cant-preview-html-on-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://html.cybergame.ai/ar/articles/quick-look-cant-preview-html-on-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://html.cybergame.ai/hi/articles/quick-look-cant-preview-html-on-iphone/"
+        }
+      ],
+      "proof": {
+        "subscriptions": "none",
+        "inAppPurchases": "none",
+        "ads": "none",
+        "fileHandling": "local preview on device"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "how-to-index",
+      "conversionMapToken": "html_en_quicklookprevi_howto",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760443436",
+        "appStoreId": "6760443436",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "potentialAction": {
+        "@type": "InstallAction",
+        "name": "Html Preview App Store",
+        "target": "https://apps.apple.com/app/id6760443436",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "App Store campaign token",
+          "value": "html_en_quicklookprevi_howto"
         },
         "object": {
           "@id": "https://html.cybergame.ai/#app"
@@ -11836,6 +12073,153 @@
     },
     {
       "@type": "HowTo",
+      "@id": "https://html.cybergame.ai/zh/articles/quick-look-cant-preview-html-on-iphone/#howto-index",
+      "name": "iPhone Quick Look 无法预览 HTML 怎么办",
+      "description": "安装 Html Preview，从 Files 或 iOS 分享菜单打开文件，并在设备本机预览。",
+      "inLanguage": "zh-Hans",
+      "url": "https://html.cybergame.ai/zh/articles/quick-look-cant-preview-html-on-iphone/",
+      "canonicalUrl": "https://html.cybergame.ai/zh/articles/quick-look-cant-preview-html-on-iphone/",
+      "locale": "zh",
+      "hreflang": "zh-Hans",
+      "pageType": "article",
+      "articleSlug": "quick-look-cant-preview-html-on-iphone",
+      "topicKey": null,
+      "source": "Quick Look 预览问题",
+      "query": "如何在 iPhone 或 iPad 上预览 Quick Look 无法打开的 HTML 文件？",
+      "primaryKeyword": "Quick Look can't preview HTML on iPhone",
+      "supportedFormats": ".html, .htm, .xhtml",
+      "fileExtensions": [
+        ".html",
+        ".htm",
+        ".xhtml"
+      ],
+      "totalTime": "PT1M",
+      "tool": [
+        {
+          "@type": "HowToTool",
+          "name": "Html Preview",
+          "url": "https://apps.apple.com/app/id6760443436"
+        }
+      ],
+      "step": [
+        {
+          "@type": "HowToStep",
+          "position": 1,
+          "name": "保存来源文件",
+          "text": "先保存来自Quick Look 预览问题的 HTML 文件，并确认原始 .html, .htm, .xhtml 文件还在 Files、邮件、下载目录或来源 App 中。",
+          "url": "https://html.cybergame.ai/zh/articles/quick-look-cant-preview-html-on-iphone/#step-1"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 2,
+          "name": "打开 iOS 分享菜单",
+          "text": "保存 HTML 文件，从 Files 或来源应用点击分享，选择 Html Preview，然后在 iPhone 或 iPad 本机阅读渲染后的页面。",
+          "url": "https://html.cybergame.ai/zh/articles/quick-look-cant-preview-html-on-iphone/#step-2"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 3,
+          "name": "选择预览 App",
+          "text": "在分享目标中选择 Html Preview，然后在 iPhone 或 iPad 本机预览 Quick Look 无法打开的 HTML 文件。",
+          "url": "https://html.cybergame.ai/zh/articles/quick-look-cant-preview-html-on-iphone/#step-3"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 4,
+          "name": "预览并检查",
+          "text": "如果 HTML 导出包含图片、CSS、JavaScript 或素材文件夹，打开前把它们保留在 HTML 文件旁边。",
+          "url": "https://html.cybergame.ai/zh/articles/quick-look-cant-preview-html-on-iphone/#step-4"
+        }
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://html.cybergame.ai/articles/quick-look-cant-preview-html-on-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://html.cybergame.ai/zh/articles/quick-look-cant-preview-html-on-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://html.cybergame.ai/ja/articles/quick-look-cant-preview-html-on-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://html.cybergame.ai/es/articles/quick-look-cant-preview-html-on-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://html.cybergame.ai/de/articles/quick-look-cant-preview-html-on-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://html.cybergame.ai/fr/articles/quick-look-cant-preview-html-on-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://html.cybergame.ai/pt-br/articles/quick-look-cant-preview-html-on-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://html.cybergame.ai/ko/articles/quick-look-cant-preview-html-on-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://html.cybergame.ai/ar/articles/quick-look-cant-preview-html-on-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://html.cybergame.ai/hi/articles/quick-look-cant-preview-html-on-iphone/"
+        }
+      ],
+      "proof": {
+        "subscriptions": "none",
+        "inAppPurchases": "none",
+        "ads": "none",
+        "fileHandling": "local preview on device"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "how-to-index",
+      "conversionMapToken": "html_zh_quicklookprevi_howto",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760443436",
+        "appStoreId": "6760443436",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "potentialAction": {
+        "@type": "InstallAction",
+        "name": "Html Preview App Store",
+        "target": "https://apps.apple.com/app/id6760443436",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "App Store campaign token",
+          "value": "html_zh_quicklookprevi_howto"
+        },
+        "object": {
+          "@id": "https://html.cybergame.ai/#app"
+        }
+      },
+      "companionUrl": "https://markdown.cybergame.ai/",
+      "lastUpdated": "2026-06-28"
+    },
+    {
+      "@type": "HowTo",
       "@id": "https://html.cybergame.ai/zh/articles/open-claude-artifact-html-on-iphone/#howto-index",
       "name": "如何在 iPhone 上打开 Claude Artifact HTML 文件",
       "description": "安装 Html Preview，从 Files 或 iOS 分享菜单打开文件，并在设备本机预览。",
@@ -16677,6 +17061,153 @@
           "@type": "PropertyValue",
           "propertyID": "App Store campaign token",
           "value": "html_ja_filesappprevie_howto"
+        },
+        "object": {
+          "@id": "https://html.cybergame.ai/#app"
+        }
+      },
+      "companionUrl": "https://markdown.cybergame.ai/",
+      "lastUpdated": "2026-06-28"
+    },
+    {
+      "@type": "HowTo",
+      "@id": "https://html.cybergame.ai/ja/articles/quick-look-cant-preview-html-on-iphone/#howto-index",
+      "name": "Quick Look HTMLファイルをiPhoneで開く方法",
+      "description": "Html Previewをインストールし、Filesまたは共有シートからファイルを開くと、iPhone/iPad上でローカルにプレビューできます。",
+      "inLanguage": "ja",
+      "url": "https://html.cybergame.ai/ja/articles/quick-look-cant-preview-html-on-iphone/",
+      "canonicalUrl": "https://html.cybergame.ai/ja/articles/quick-look-cant-preview-html-on-iphone/",
+      "locale": "ja",
+      "hreflang": "ja",
+      "pageType": "article",
+      "articleSlug": "quick-look-cant-preview-html-on-iphone",
+      "topicKey": null,
+      "source": "Quick Look",
+      "query": "iPhoneやiPadでQuick Look HTMLファイルを開くには？",
+      "primaryKeyword": "Quick Look can't preview HTML on iPhone",
+      "supportedFormats": ".html, .htm, .xhtml",
+      "fileExtensions": [
+        ".html",
+        ".htm",
+        ".xhtml"
+      ],
+      "totalTime": "PT1M",
+      "tool": [
+        {
+          "@type": "HowToTool",
+          "name": "Html Preview",
+          "url": "https://apps.apple.com/app/id6760443436"
+        }
+      ],
+      "step": [
+        {
+          "@type": "HowToStep",
+          "position": 1,
+          "name": "元ファイルを保存",
+          "text": "Quick Lookから受け取ったHTMLファイルを保存し、元の.html, .htm, .xhtmlファイルをFiles、メール、ダウンロード、または元のアプリに残します。",
+          "url": "https://html.cybergame.ai/ja/articles/quick-look-cant-preview-html-on-iphone/#step-1"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 2,
+          "name": "iOSの共有を開く",
+          "text": "ファイルを保存し、Filesまたは共有シートからHtml Previewを選ぶと、HTMLファイルを端末上でローカルに表示できます。",
+          "url": "https://html.cybergame.ai/ja/articles/quick-look-cant-preview-html-on-iphone/#step-2"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 3,
+          "name": "ビューアを選ぶ",
+          "text": "Html Previewを共有先に選び、iPhoneまたはiPad上でQuick Look HTMLファイルを開くをローカルに行います。",
+          "url": "https://html.cybergame.ai/ja/articles/quick-look-cant-preview-html-on-iphone/#step-3"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 4,
+          "name": "プレビューを確認",
+          "text": "関連する画像、スタイル、添付素材がある場合は、開く前に同じ場所に保存しておくと表示が安定します。",
+          "url": "https://html.cybergame.ai/ja/articles/quick-look-cant-preview-html-on-iphone/#step-4"
+        }
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://html.cybergame.ai/articles/quick-look-cant-preview-html-on-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://html.cybergame.ai/zh/articles/quick-look-cant-preview-html-on-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://html.cybergame.ai/ja/articles/quick-look-cant-preview-html-on-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://html.cybergame.ai/es/articles/quick-look-cant-preview-html-on-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://html.cybergame.ai/de/articles/quick-look-cant-preview-html-on-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://html.cybergame.ai/fr/articles/quick-look-cant-preview-html-on-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://html.cybergame.ai/pt-br/articles/quick-look-cant-preview-html-on-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://html.cybergame.ai/ko/articles/quick-look-cant-preview-html-on-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://html.cybergame.ai/ar/articles/quick-look-cant-preview-html-on-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://html.cybergame.ai/hi/articles/quick-look-cant-preview-html-on-iphone/"
+        }
+      ],
+      "proof": {
+        "subscriptions": "none",
+        "inAppPurchases": "none",
+        "ads": "none",
+        "fileHandling": "local preview on device"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "how-to-index",
+      "conversionMapToken": "html_ja_quicklookprevi_howto",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760443436",
+        "appStoreId": "6760443436",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "potentialAction": {
+        "@type": "InstallAction",
+        "name": "Html Preview App Store",
+        "target": "https://apps.apple.com/app/id6760443436",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "App Store campaign token",
+          "value": "html_ja_quicklookprevi_howto"
         },
         "object": {
           "@id": "https://html.cybergame.ai/#app"
@@ -21538,6 +22069,153 @@
     },
     {
       "@type": "HowTo",
+      "@id": "https://html.cybergame.ai/es/articles/quick-look-cant-preview-html-on-iphone/#howto-index",
+      "name": "Cómo abrir archivos HTML de Quick Look en iPhone",
+      "description": "Instala Html Preview, abre el archivo desde Files o la hoja de compartir de iOS y previsualízalo localmente en iPhone o iPad.",
+      "inLanguage": "es",
+      "url": "https://html.cybergame.ai/es/articles/quick-look-cant-preview-html-on-iphone/",
+      "canonicalUrl": "https://html.cybergame.ai/es/articles/quick-look-cant-preview-html-on-iphone/",
+      "locale": "es",
+      "hreflang": "es",
+      "pageType": "article",
+      "articleSlug": "quick-look-cant-preview-html-on-iphone",
+      "topicKey": null,
+      "source": "Quick Look",
+      "query": "¿Cómo abrir archivos HTML de Quick Look en iPhone o iPad?",
+      "primaryKeyword": "Quick Look can't preview HTML on iPhone",
+      "supportedFormats": ".html, .htm, .xhtml",
+      "fileExtensions": [
+        ".html",
+        ".htm",
+        ".xhtml"
+      ],
+      "totalTime": "PT1M",
+      "tool": [
+        {
+          "@type": "HowToTool",
+          "name": "Html Preview",
+          "url": "https://apps.apple.com/app/id6760443436"
+        }
+      ],
+      "step": [
+        {
+          "@type": "HowToStep",
+          "position": 1,
+          "name": "Guarda el archivo",
+          "text": "Guarda el archivo HTML recibido desde Quick Look. Mantén el archivo original .html, .htm, .xhtml en Files, Mail, una descarga del navegador o la app de origen.",
+          "url": "https://html.cybergame.ai/es/articles/quick-look-cant-preview-html-on-iphone/#step-1"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 2,
+          "name": "Abre compartir en iOS",
+          "text": "Guarda el archivo, abre Files o la hoja de compartir, elige Html Preview y lee la vista previa HTML localmente en el dispositivo.",
+          "url": "https://html.cybergame.ai/es/articles/quick-look-cant-preview-html-on-iphone/#step-2"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 3,
+          "name": "Elige el visor",
+          "text": "Elige Html Preview como visor para abrir archivos HTML de Quick Look localmente en iPhone o iPad.",
+          "url": "https://html.cybergame.ai/es/articles/quick-look-cant-preview-html-on-iphone/#step-3"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 4,
+          "name": "Previsualiza y revisa",
+          "text": "Si el archivo depende de imágenes, estilos o recursos externos, mantenlos junto al archivo antes de abrirlo.",
+          "url": "https://html.cybergame.ai/es/articles/quick-look-cant-preview-html-on-iphone/#step-4"
+        }
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://html.cybergame.ai/articles/quick-look-cant-preview-html-on-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://html.cybergame.ai/zh/articles/quick-look-cant-preview-html-on-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://html.cybergame.ai/ja/articles/quick-look-cant-preview-html-on-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://html.cybergame.ai/es/articles/quick-look-cant-preview-html-on-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://html.cybergame.ai/de/articles/quick-look-cant-preview-html-on-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://html.cybergame.ai/fr/articles/quick-look-cant-preview-html-on-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://html.cybergame.ai/pt-br/articles/quick-look-cant-preview-html-on-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://html.cybergame.ai/ko/articles/quick-look-cant-preview-html-on-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://html.cybergame.ai/ar/articles/quick-look-cant-preview-html-on-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://html.cybergame.ai/hi/articles/quick-look-cant-preview-html-on-iphone/"
+        }
+      ],
+      "proof": {
+        "subscriptions": "none",
+        "inAppPurchases": "none",
+        "ads": "none",
+        "fileHandling": "local preview on device"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "how-to-index",
+      "conversionMapToken": "html_es_quicklookprevi_howto",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760443436",
+        "appStoreId": "6760443436",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "potentialAction": {
+        "@type": "InstallAction",
+        "name": "Html Preview App Store",
+        "target": "https://apps.apple.com/app/id6760443436",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "App Store campaign token",
+          "value": "html_es_quicklookprevi_howto"
+        },
+        "object": {
+          "@id": "https://html.cybergame.ai/#app"
+        }
+      },
+      "companionUrl": "https://markdown.cybergame.ai/",
+      "lastUpdated": "2026-06-28"
+    },
+    {
+      "@type": "HowTo",
       "@id": "https://html.cybergame.ai/es/articles/open-claude-artifact-html-on-iphone/#howto-index",
       "name": "Cómo abrir archivos HTML de Claude Artifacts en iPhone",
       "description": "Instala Html Preview, abre el archivo desde Files o la hoja de compartir de iOS y previsualízalo localmente en iPhone o iPad.",
@@ -26379,6 +27057,153 @@
           "@type": "PropertyValue",
           "propertyID": "App Store campaign token",
           "value": "html_de_filesappprevie_howto"
+        },
+        "object": {
+          "@id": "https://html.cybergame.ai/#app"
+        }
+      },
+      "companionUrl": "https://markdown.cybergame.ai/",
+      "lastUpdated": "2026-06-28"
+    },
+    {
+      "@type": "HowTo",
+      "@id": "https://html.cybergame.ai/de/articles/quick-look-cant-preview-html-on-iphone/#howto-index",
+      "name": "Quick Look HTML-Dateien auf iPhone öffnen",
+      "description": "Installiere Html Preview, öffne die Datei aus Files oder dem iOS-Teilen-Menü und zeige sie lokal auf iPhone oder iPad an.",
+      "inLanguage": "de",
+      "url": "https://html.cybergame.ai/de/articles/quick-look-cant-preview-html-on-iphone/",
+      "canonicalUrl": "https://html.cybergame.ai/de/articles/quick-look-cant-preview-html-on-iphone/",
+      "locale": "de",
+      "hreflang": "de",
+      "pageType": "article",
+      "articleSlug": "quick-look-cant-preview-html-on-iphone",
+      "topicKey": null,
+      "source": "Quick Look",
+      "query": "Wie kann ich Quick Look HTML-Dateien öffnen auf iPhone oder iPad?",
+      "primaryKeyword": "Quick Look can't preview HTML on iPhone",
+      "supportedFormats": ".html, .htm, .xhtml",
+      "fileExtensions": [
+        ".html",
+        ".htm",
+        ".xhtml"
+      ],
+      "totalTime": "PT1M",
+      "tool": [
+        {
+          "@type": "HowToTool",
+          "name": "Html Preview",
+          "url": "https://apps.apple.com/app/id6760443436"
+        }
+      ],
+      "step": [
+        {
+          "@type": "HowToStep",
+          "position": 1,
+          "name": "Quelldatei speichern",
+          "text": "Speichere die HTML-Datei aus Quick Look. Behalte die originale .html, .htm, .xhtml-Datei in Files, Mail, einem Browser-Download oder der Quell-App.",
+          "url": "https://html.cybergame.ai/de/articles/quick-look-cant-preview-html-on-iphone/#step-1"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 2,
+          "name": "iOS-Teilen-Menü öffnen",
+          "text": "Speichere die Datei, öffne Files oder das Teilen-Menü, wähle Html Preview und lies die HTML-Vorschau lokal auf dem Gerät.",
+          "url": "https://html.cybergame.ai/de/articles/quick-look-cant-preview-html-on-iphone/#step-2"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 3,
+          "name": "Viewer auswählen",
+          "text": "Wähle Html Preview als Viewer. Die Datei wird lokal auf iPhone oder iPad für diesen Ablauf geöffnet: Quick Look HTML-Dateien öffnen.",
+          "url": "https://html.cybergame.ai/de/articles/quick-look-cant-preview-html-on-iphone/#step-3"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 4,
+          "name": "Vorschau prüfen",
+          "text": "Wenn Bilder, Styles oder andere Assets dazugehören, speichere sie vor dem Öffnen neben der Datei.",
+          "url": "https://html.cybergame.ai/de/articles/quick-look-cant-preview-html-on-iphone/#step-4"
+        }
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://html.cybergame.ai/articles/quick-look-cant-preview-html-on-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://html.cybergame.ai/zh/articles/quick-look-cant-preview-html-on-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://html.cybergame.ai/ja/articles/quick-look-cant-preview-html-on-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://html.cybergame.ai/es/articles/quick-look-cant-preview-html-on-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://html.cybergame.ai/de/articles/quick-look-cant-preview-html-on-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://html.cybergame.ai/fr/articles/quick-look-cant-preview-html-on-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://html.cybergame.ai/pt-br/articles/quick-look-cant-preview-html-on-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://html.cybergame.ai/ko/articles/quick-look-cant-preview-html-on-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://html.cybergame.ai/ar/articles/quick-look-cant-preview-html-on-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://html.cybergame.ai/hi/articles/quick-look-cant-preview-html-on-iphone/"
+        }
+      ],
+      "proof": {
+        "subscriptions": "none",
+        "inAppPurchases": "none",
+        "ads": "none",
+        "fileHandling": "local preview on device"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "how-to-index",
+      "conversionMapToken": "html_de_quicklookprevi_howto",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760443436",
+        "appStoreId": "6760443436",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "potentialAction": {
+        "@type": "InstallAction",
+        "name": "Html Preview App Store",
+        "target": "https://apps.apple.com/app/id6760443436",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "App Store campaign token",
+          "value": "html_de_quicklookprevi_howto"
         },
         "object": {
           "@id": "https://html.cybergame.ai/#app"
@@ -31240,6 +32065,153 @@
     },
     {
       "@type": "HowTo",
+      "@id": "https://html.cybergame.ai/fr/articles/quick-look-cant-preview-html-on-iphone/#howto-index",
+      "name": "Ouvrir des fichiers HTML de Quick Look sur iPhone",
+      "description": "Installez Html Preview, ouvrez le fichier depuis Files ou le partage iOS, puis prévisualisez-le localement sur iPhone ou iPad.",
+      "inLanguage": "fr",
+      "url": "https://html.cybergame.ai/fr/articles/quick-look-cant-preview-html-on-iphone/",
+      "canonicalUrl": "https://html.cybergame.ai/fr/articles/quick-look-cant-preview-html-on-iphone/",
+      "locale": "fr",
+      "hreflang": "fr",
+      "pageType": "article",
+      "articleSlug": "quick-look-cant-preview-html-on-iphone",
+      "topicKey": null,
+      "source": "Quick Look",
+      "query": "Comment ouvrir des fichiers HTML de Quick Look sur iPhone ou iPad ?",
+      "primaryKeyword": "Quick Look can't preview HTML on iPhone",
+      "supportedFormats": ".html, .htm, .xhtml",
+      "fileExtensions": [
+        ".html",
+        ".htm",
+        ".xhtml"
+      ],
+      "totalTime": "PT1M",
+      "tool": [
+        {
+          "@type": "HowToTool",
+          "name": "Html Preview",
+          "url": "https://apps.apple.com/app/id6760443436"
+        }
+      ],
+      "step": [
+        {
+          "@type": "HowToStep",
+          "position": 1,
+          "name": "Enregistrer le fichier",
+          "text": "Enregistrez le fichier HTML reçu depuis Quick Look. Gardez le fichier original .html, .htm, .xhtml dans Files, Mail, un téléchargement navigateur ou l'app source.",
+          "url": "https://html.cybergame.ai/fr/articles/quick-look-cant-preview-html-on-iphone/#step-1"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 2,
+          "name": "Ouvrir le partage iOS",
+          "text": "Enregistrez le fichier, ouvrez Files ou le partage iOS, choisissez Html Preview et lisez la prévisualisation HTML localement.",
+          "url": "https://html.cybergame.ai/fr/articles/quick-look-cant-preview-html-on-iphone/#step-2"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 3,
+          "name": "Choisir le lecteur",
+          "text": "Choisissez Html Preview comme lecteur pour ouvrir des fichiers HTML de Quick Look localement sur iPhone ou iPad.",
+          "url": "https://html.cybergame.ai/fr/articles/quick-look-cant-preview-html-on-iphone/#step-3"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 4,
+          "name": "Prévisualiser et vérifier",
+          "text": "Si le fichier dépend d'images, de styles ou d'autres ressources, gardez-les au même endroit avant l'ouverture.",
+          "url": "https://html.cybergame.ai/fr/articles/quick-look-cant-preview-html-on-iphone/#step-4"
+        }
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://html.cybergame.ai/articles/quick-look-cant-preview-html-on-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://html.cybergame.ai/zh/articles/quick-look-cant-preview-html-on-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://html.cybergame.ai/ja/articles/quick-look-cant-preview-html-on-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://html.cybergame.ai/es/articles/quick-look-cant-preview-html-on-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://html.cybergame.ai/de/articles/quick-look-cant-preview-html-on-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://html.cybergame.ai/fr/articles/quick-look-cant-preview-html-on-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://html.cybergame.ai/pt-br/articles/quick-look-cant-preview-html-on-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://html.cybergame.ai/ko/articles/quick-look-cant-preview-html-on-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://html.cybergame.ai/ar/articles/quick-look-cant-preview-html-on-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://html.cybergame.ai/hi/articles/quick-look-cant-preview-html-on-iphone/"
+        }
+      ],
+      "proof": {
+        "subscriptions": "none",
+        "inAppPurchases": "none",
+        "ads": "none",
+        "fileHandling": "local preview on device"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "how-to-index",
+      "conversionMapToken": "html_fr_quicklookprevi_howto",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760443436",
+        "appStoreId": "6760443436",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "potentialAction": {
+        "@type": "InstallAction",
+        "name": "Html Preview App Store",
+        "target": "https://apps.apple.com/app/id6760443436",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "App Store campaign token",
+          "value": "html_fr_quicklookprevi_howto"
+        },
+        "object": {
+          "@id": "https://html.cybergame.ai/#app"
+        }
+      },
+      "companionUrl": "https://markdown.cybergame.ai/",
+      "lastUpdated": "2026-06-28"
+    },
+    {
+      "@type": "HowTo",
       "@id": "https://html.cybergame.ai/fr/articles/open-claude-artifact-html-on-iphone/#howto-index",
       "name": "Ouvrir fichiers HTML de Claude Artifacts sur iPhone",
       "description": "Installez Html Preview, ouvrez le fichier depuis Files ou le partage iOS, puis prévisualisez-le localement sur iPhone ou iPad.",
@@ -36081,6 +37053,153 @@
           "@type": "PropertyValue",
           "propertyID": "App Store campaign token",
           "value": "html_ptbr_filesappprevie_howto"
+        },
+        "object": {
+          "@id": "https://html.cybergame.ai/#app"
+        }
+      },
+      "companionUrl": "https://markdown.cybergame.ai/",
+      "lastUpdated": "2026-06-28"
+    },
+    {
+      "@type": "HowTo",
+      "@id": "https://html.cybergame.ai/pt-br/articles/quick-look-cant-preview-html-on-iphone/#howto-index",
+      "name": "Abrir arquivos HTML do Quick Look no iPhone",
+      "description": "Instale o Html Preview, abra o arquivo pelo Files ou pelo compartilhamento do iOS e visualize localmente no iPhone ou iPad.",
+      "inLanguage": "pt-BR",
+      "url": "https://html.cybergame.ai/pt-br/articles/quick-look-cant-preview-html-on-iphone/",
+      "canonicalUrl": "https://html.cybergame.ai/pt-br/articles/quick-look-cant-preview-html-on-iphone/",
+      "locale": "pt-br",
+      "hreflang": "pt-BR",
+      "pageType": "article",
+      "articleSlug": "quick-look-cant-preview-html-on-iphone",
+      "topicKey": null,
+      "source": "Quick Look",
+      "query": "Como abrir arquivos HTML do Quick Look no iPhone ou iPad?",
+      "primaryKeyword": "Quick Look can't preview HTML on iPhone",
+      "supportedFormats": ".html, .htm, .xhtml",
+      "fileExtensions": [
+        ".html",
+        ".htm",
+        ".xhtml"
+      ],
+      "totalTime": "PT1M",
+      "tool": [
+        {
+          "@type": "HowToTool",
+          "name": "Html Preview",
+          "url": "https://apps.apple.com/app/id6760443436"
+        }
+      ],
+      "step": [
+        {
+          "@type": "HowToStep",
+          "position": 1,
+          "name": "Salvar o arquivo",
+          "text": "Salve o arquivo HTML recebido de Quick Look. Mantenha o arquivo original .html, .htm, .xhtml no Files, Mail, download do navegador ou app de origem.",
+          "url": "https://html.cybergame.ai/pt-br/articles/quick-look-cant-preview-html-on-iphone/#step-1"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 2,
+          "name": "Abrir compartilhamento",
+          "text": "Salve o arquivo, abra pelo Files ou pelo compartilhamento do iOS, escolha Html Preview e leia a prévia HTML localmente.",
+          "url": "https://html.cybergame.ai/pt-br/articles/quick-look-cant-preview-html-on-iphone/#step-2"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 3,
+          "name": "Escolher o visualizador",
+          "text": "Escolha Html Preview como visualizador para abrir arquivos HTML do Quick Look localmente no iPhone ou iPad.",
+          "url": "https://html.cybergame.ai/pt-br/articles/quick-look-cant-preview-html-on-iphone/#step-3"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 4,
+          "name": "Visualizar e conferir",
+          "text": "Se houver imagens, estilos ou recursos externos, mantenha tudo junto ao arquivo antes de abrir.",
+          "url": "https://html.cybergame.ai/pt-br/articles/quick-look-cant-preview-html-on-iphone/#step-4"
+        }
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://html.cybergame.ai/articles/quick-look-cant-preview-html-on-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://html.cybergame.ai/zh/articles/quick-look-cant-preview-html-on-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://html.cybergame.ai/ja/articles/quick-look-cant-preview-html-on-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://html.cybergame.ai/es/articles/quick-look-cant-preview-html-on-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://html.cybergame.ai/de/articles/quick-look-cant-preview-html-on-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://html.cybergame.ai/fr/articles/quick-look-cant-preview-html-on-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://html.cybergame.ai/pt-br/articles/quick-look-cant-preview-html-on-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://html.cybergame.ai/ko/articles/quick-look-cant-preview-html-on-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://html.cybergame.ai/ar/articles/quick-look-cant-preview-html-on-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://html.cybergame.ai/hi/articles/quick-look-cant-preview-html-on-iphone/"
+        }
+      ],
+      "proof": {
+        "subscriptions": "none",
+        "inAppPurchases": "none",
+        "ads": "none",
+        "fileHandling": "local preview on device"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "how-to-index",
+      "conversionMapToken": "html_ptbr_quicklookprevi_howto",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760443436",
+        "appStoreId": "6760443436",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "potentialAction": {
+        "@type": "InstallAction",
+        "name": "Html Preview App Store",
+        "target": "https://apps.apple.com/app/id6760443436",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "App Store campaign token",
+          "value": "html_ptbr_quicklookprevi_howto"
         },
         "object": {
           "@id": "https://html.cybergame.ai/#app"
@@ -40942,6 +42061,153 @@
     },
     {
       "@type": "HowTo",
+      "@id": "https://html.cybergame.ai/ko/articles/quick-look-cant-preview-html-on-iphone/#howto-index",
+      "name": "iPhone에서 Quick Look HTML 파일 열기",
+      "description": "Html Preview를 iOS 공유 시트 또는 Files 앱에서 열고 HTML 파일을 iPhone 또는 iPad에서 로컬로 미리보기하세요.",
+      "inLanguage": "ko",
+      "url": "https://html.cybergame.ai/ko/articles/quick-look-cant-preview-html-on-iphone/",
+      "canonicalUrl": "https://html.cybergame.ai/ko/articles/quick-look-cant-preview-html-on-iphone/",
+      "locale": "ko",
+      "hreflang": "ko",
+      "pageType": "article",
+      "articleSlug": "quick-look-cant-preview-html-on-iphone",
+      "topicKey": null,
+      "source": "Quick Look",
+      "query": "iPhone과 iPad에서 HTML 파일을 여는 방법은?",
+      "primaryKeyword": "Quick Look can't preview HTML on iPhone",
+      "supportedFormats": ".html, .htm, .xhtml",
+      "fileExtensions": [
+        ".html",
+        ".htm",
+        ".xhtml"
+      ],
+      "totalTime": "PT1M",
+      "tool": [
+        {
+          "@type": "HowToTool",
+          "name": "Html Preview",
+          "url": "https://apps.apple.com/app/id6760443436"
+        }
+      ],
+      "step": [
+        {
+          "@type": "HowToStep",
+          "position": 1,
+          "name": "원본 파일 저장",
+          "text": "Quick Look에서 받은 HTML 파일을 저장하고 원본 .html, .htm, .xhtml 파일을 Files, Mail, 브라우저 다운로드 또는 원본 앱에 남겨 둡니다.",
+          "url": "https://html.cybergame.ai/ko/articles/quick-look-cant-preview-html-on-iphone/#step-1"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 2,
+          "name": "iOS 공유 열기",
+          "text": "파일을 저장한 뒤 Files 또는 iOS 공유 시트에서 Html Preview를 선택하면 HTML 파일을 기기에서 로컬로 미리볼 수 있습니다.",
+          "url": "https://html.cybergame.ai/ko/articles/quick-look-cant-preview-html-on-iphone/#step-2"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 3,
+          "name": "뷰어 선택",
+          "text": "Html Preview를 대상 뷰어로 선택해 iPhone 또는 iPad에서 Quick Look HTML 파일 열기를 로컬로 진행합니다.",
+          "url": "https://html.cybergame.ai/ko/articles/quick-look-cant-preview-html-on-iphone/#step-3"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 4,
+          "name": "미리보기 확인",
+          "text": "이미지, 스타일, 관련 리소스가 있으면 파일을 열기 전에 같은 위치에 보관하세요.",
+          "url": "https://html.cybergame.ai/ko/articles/quick-look-cant-preview-html-on-iphone/#step-4"
+        }
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://html.cybergame.ai/articles/quick-look-cant-preview-html-on-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://html.cybergame.ai/zh/articles/quick-look-cant-preview-html-on-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://html.cybergame.ai/ja/articles/quick-look-cant-preview-html-on-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://html.cybergame.ai/es/articles/quick-look-cant-preview-html-on-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://html.cybergame.ai/de/articles/quick-look-cant-preview-html-on-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://html.cybergame.ai/fr/articles/quick-look-cant-preview-html-on-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://html.cybergame.ai/pt-br/articles/quick-look-cant-preview-html-on-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://html.cybergame.ai/ko/articles/quick-look-cant-preview-html-on-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://html.cybergame.ai/ar/articles/quick-look-cant-preview-html-on-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://html.cybergame.ai/hi/articles/quick-look-cant-preview-html-on-iphone/"
+        }
+      ],
+      "proof": {
+        "subscriptions": "none",
+        "inAppPurchases": "none",
+        "ads": "none",
+        "fileHandling": "local preview on device"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "how-to-index",
+      "conversionMapToken": "html_ko_quicklookprevi_howto",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760443436",
+        "appStoreId": "6760443436",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "potentialAction": {
+        "@type": "InstallAction",
+        "name": "Html Preview App Store",
+        "target": "https://apps.apple.com/app/id6760443436",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "App Store campaign token",
+          "value": "html_ko_quicklookprevi_howto"
+        },
+        "object": {
+          "@id": "https://html.cybergame.ai/#app"
+        }
+      },
+      "companionUrl": "https://markdown.cybergame.ai/",
+      "lastUpdated": "2026-06-28"
+    },
+    {
+      "@type": "HowTo",
       "@id": "https://html.cybergame.ai/ko/articles/open-claude-artifact-html-on-iphone/#howto-index",
       "name": "iPhone에서 Claude Artifacts HTML 파일 열기",
       "description": "Html Preview를 iOS 공유 시트 또는 Files 앱에서 열고 HTML 파일을 iPhone 또는 iPad에서 로컬로 미리보기하세요.",
@@ -45793,6 +47059,153 @@
     },
     {
       "@type": "HowTo",
+      "@id": "https://html.cybergame.ai/ar/articles/quick-look-cant-preview-html-on-iphone/#howto-index",
+      "name": "فتح ملفات HTML من Quick Look على iPhone",
+      "description": "افتح ملف HTML في Html Preview من قائمة مشاركة iOS او تطبيق Files، ثم عاينه محليا على iPhone او iPad.",
+      "inLanguage": "ar",
+      "url": "https://html.cybergame.ai/ar/articles/quick-look-cant-preview-html-on-iphone/",
+      "canonicalUrl": "https://html.cybergame.ai/ar/articles/quick-look-cant-preview-html-on-iphone/",
+      "locale": "ar",
+      "hreflang": "ar",
+      "pageType": "article",
+      "articleSlug": "quick-look-cant-preview-html-on-iphone",
+      "topicKey": null,
+      "source": "Quick Look",
+      "query": "كيف تفتح ملف HTML على iPhone او iPad؟",
+      "primaryKeyword": "Quick Look can't preview HTML on iPhone",
+      "supportedFormats": ".html, .htm, .xhtml",
+      "fileExtensions": [
+        ".html",
+        ".htm",
+        ".xhtml"
+      ],
+      "totalTime": "PT1M",
+      "tool": [
+        {
+          "@type": "HowToTool",
+          "name": "Html Preview",
+          "url": "https://apps.apple.com/app/id6760443436"
+        }
+      ],
+      "step": [
+        {
+          "@type": "HowToStep",
+          "position": 1,
+          "name": "حفظ ملف المصدر",
+          "text": "احفظ ملف HTML من Quick Look. ابق ملف .html, .htm, .xhtml الاصلي في Files او Mail او تنزيل المتصفح او التطبيق المصدر.",
+          "url": "https://html.cybergame.ai/ar/articles/quick-look-cant-preview-html-on-iphone/#step-1"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 2,
+          "name": "فتح مشاركة iOS",
+          "text": "احفظ الملف، افتحه من Files او قائمة مشاركة iOS، ثم اختر Html Preview لقراءة معاينة HTML محليا على الجهاز.",
+          "url": "https://html.cybergame.ai/ar/articles/quick-look-cant-preview-html-on-iphone/#step-2"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 3,
+          "name": "اختيار العارض",
+          "text": "اختر Html Preview كعارض لكي تتمكن من فتح ملفات HTML من Quick Look محليا على iPhone او iPad.",
+          "url": "https://html.cybergame.ai/ar/articles/quick-look-cant-preview-html-on-iphone/#step-3"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 4,
+          "name": "المعاينة والتحقق",
+          "text": "اذا كان الملف يعتمد على صور او تنسيقات او موارد اخرى، فاحتفظ بها بجانب الملف قبل فتحه.",
+          "url": "https://html.cybergame.ai/ar/articles/quick-look-cant-preview-html-on-iphone/#step-4"
+        }
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://html.cybergame.ai/articles/quick-look-cant-preview-html-on-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://html.cybergame.ai/zh/articles/quick-look-cant-preview-html-on-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://html.cybergame.ai/ja/articles/quick-look-cant-preview-html-on-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://html.cybergame.ai/es/articles/quick-look-cant-preview-html-on-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://html.cybergame.ai/de/articles/quick-look-cant-preview-html-on-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://html.cybergame.ai/fr/articles/quick-look-cant-preview-html-on-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://html.cybergame.ai/pt-br/articles/quick-look-cant-preview-html-on-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://html.cybergame.ai/ko/articles/quick-look-cant-preview-html-on-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://html.cybergame.ai/ar/articles/quick-look-cant-preview-html-on-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://html.cybergame.ai/hi/articles/quick-look-cant-preview-html-on-iphone/"
+        }
+      ],
+      "proof": {
+        "subscriptions": "none",
+        "inAppPurchases": "none",
+        "ads": "none",
+        "fileHandling": "local preview on device"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "how-to-index",
+      "conversionMapToken": "html_ar_quicklookprevi_howto",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760443436",
+        "appStoreId": "6760443436",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "potentialAction": {
+        "@type": "InstallAction",
+        "name": "Html Preview App Store",
+        "target": "https://apps.apple.com/app/id6760443436",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "App Store campaign token",
+          "value": "html_ar_quicklookprevi_howto"
+        },
+        "object": {
+          "@id": "https://html.cybergame.ai/#app"
+        }
+      },
+      "companionUrl": "https://markdown.cybergame.ai/",
+      "lastUpdated": "2026-06-28"
+    },
+    {
+      "@type": "HowTo",
       "@id": "https://html.cybergame.ai/ar/articles/open-claude-artifact-html-on-iphone/#howto-index",
       "name": "فتح ملفات HTML من Claude Artifacts على iPhone",
       "description": "افتح ملف HTML في Html Preview من قائمة مشاركة iOS او تطبيق Files، ثم عاينه محليا على iPhone او iPad.",
@@ -50634,6 +52047,153 @@
           "@type": "PropertyValue",
           "propertyID": "App Store campaign token",
           "value": "html_hi_filesappprevie_howto"
+        },
+        "object": {
+          "@id": "https://html.cybergame.ai/#app"
+        }
+      },
+      "companionUrl": "https://markdown.cybergame.ai/",
+      "lastUpdated": "2026-06-28"
+    },
+    {
+      "@type": "HowTo",
+      "@id": "https://html.cybergame.ai/hi/articles/quick-look-cant-preview-html-on-iphone/#howto-index",
+      "name": "iPhone पर Quick Look preview problem HTML files खोलें",
+      "description": "Html Preview को iOS Share Sheet या Files app से खोलें और HTML file को iPhone या iPad पर local preview करें.",
+      "inLanguage": "hi",
+      "url": "https://html.cybergame.ai/hi/articles/quick-look-cant-preview-html-on-iphone/",
+      "canonicalUrl": "https://html.cybergame.ai/hi/articles/quick-look-cant-preview-html-on-iphone/",
+      "locale": "hi",
+      "hreflang": "hi",
+      "pageType": "article",
+      "articleSlug": "quick-look-cant-preview-html-on-iphone",
+      "topicKey": null,
+      "source": "Quick Look preview problem",
+      "query": "iPhone या iPad पर HTML file कैसे खोलें?",
+      "primaryKeyword": "Quick Look can't preview HTML on iPhone",
+      "supportedFormats": ".html, .htm, .xhtml",
+      "fileExtensions": [
+        ".html",
+        ".htm",
+        ".xhtml"
+      ],
+      "totalTime": "PT1M",
+      "tool": [
+        {
+          "@type": "HowToTool",
+          "name": "Html Preview",
+          "url": "https://apps.apple.com/app/id6760443436"
+        }
+      ],
+      "step": [
+        {
+          "@type": "HowToStep",
+          "position": 1,
+          "name": "Source file save करें",
+          "text": "Quick Look preview problem से मिली HTML file save करें. Original .html, .htm, .xhtml file को Files, Mail, browser download या source app में रखें.",
+          "url": "https://html.cybergame.ai/hi/articles/quick-look-cant-preview-html-on-iphone/#step-1"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 2,
+          "name": "iOS Share Sheet खोलें",
+          "text": "File save करें, Files या iOS Share Sheet खोलें, Html Preview चुनें और HTML preview device पर local रूप से पढ़ें.",
+          "url": "https://html.cybergame.ai/hi/articles/quick-look-cant-preview-html-on-iphone/#step-2"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 3,
+          "name": "Viewer चुनें",
+          "text": "Html Preview को target viewer चुनें ताकि आप iPhone या iPad पर Quick Look preview problem HTML files खोलना local रूप से कर सकें.",
+          "url": "https://html.cybergame.ai/hi/articles/quick-look-cant-preview-html-on-iphone/#step-3"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 4,
+          "name": "Preview check करें",
+          "text": "अगर images, styles या related assets साथ हैं, तो file खोलने से पहले उन्हें उसी जगह रखें.",
+          "url": "https://html.cybergame.ai/hi/articles/quick-look-cant-preview-html-on-iphone/#step-4"
+        }
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://html.cybergame.ai/articles/quick-look-cant-preview-html-on-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://html.cybergame.ai/zh/articles/quick-look-cant-preview-html-on-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://html.cybergame.ai/ja/articles/quick-look-cant-preview-html-on-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://html.cybergame.ai/es/articles/quick-look-cant-preview-html-on-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://html.cybergame.ai/de/articles/quick-look-cant-preview-html-on-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://html.cybergame.ai/fr/articles/quick-look-cant-preview-html-on-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://html.cybergame.ai/pt-br/articles/quick-look-cant-preview-html-on-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://html.cybergame.ai/ko/articles/quick-look-cant-preview-html-on-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://html.cybergame.ai/ar/articles/quick-look-cant-preview-html-on-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://html.cybergame.ai/hi/articles/quick-look-cant-preview-html-on-iphone/"
+        }
+      ],
+      "proof": {
+        "subscriptions": "none",
+        "inAppPurchases": "none",
+        "ads": "none",
+        "fileHandling": "local preview on device"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "how-to-index",
+      "conversionMapToken": "html_hi_quicklookprevi_howto",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760443436",
+        "appStoreId": "6760443436",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "potentialAction": {
+        "@type": "InstallAction",
+        "name": "Html Preview App Store",
+        "target": "https://apps.apple.com/app/id6760443436",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "App Store campaign token",
+          "value": "html_hi_quicklookprevi_howto"
         },
         "object": {
           "@id": "https://html.cybergame.ai/#app"
