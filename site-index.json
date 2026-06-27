@@ -249,7 +249,7 @@
       "height": 2688
     }
   ],
-  "pageCount": 420,
+  "pageCount": 430,
   "localeCount": 10,
   "pages": [
     {
@@ -1089,7 +1089,7 @@
       "title": "File extensions HTML guides",
       "query": "Which iOS app opens HTML file extensions on iPhone or iPad?",
       "primaryKeyword": "File extensions HTML iPhone",
-      "source": ".htm files, .xhtml files",
+      "source": ".html files, .htm files, .xhtml files",
       "supportedFormats": ".html, .htm, .xhtml",
       "fileExtensions": [
         ".html",
@@ -3426,6 +3426,124 @@
       "conversionIntent": "open-app-store-listing",
       "conversionMapSurface": "site-index-manifest",
       "conversionMapToken": "html_en_aireport_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760443436",
+        "appStoreId": "6760443436",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
+      "url": "https://html.cybergame.ai/articles/open-html-extension-file-on-iphone/",
+      "canonicalUrl": "https://html.cybergame.ai/articles/open-html-extension-file-on-iphone/",
+      "locale": "en",
+      "hreflang": "en",
+      "pageType": "article",
+      "topicKey": null,
+      "articleSlug": "open-html-extension-file-on-iphone",
+      "title": "How to Open a .html File on iPhone",
+      "query": "How do I open a .html file on iPhone or iPad?",
+      "primaryKeyword": "open .html file on iPhone",
+      "source": ".html files",
+      "supportedFormats": ".html, .htm, .xhtml",
+      "fileExtensions": [
+        ".html",
+        ".htm",
+        ".xhtml"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/html-preview-web-file-viewer/id6760443436?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760443436&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "officialWebsiteRepository": "https://github.com/Fomod/html.cybergame.ai",
+      "bundleId": "CyberGame.App-11",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
+      "schemaIds": {
+        "webPage": "https://html.cybergame.ai/articles/open-html-extension-file-on-iphone/#webpage",
+        "app": "https://html.cybergame.ai/#app",
+        "mainEntity": "https://html.cybergame.ai/articles/open-html-extension-file-on-iphone/#article",
+        "howTo": "https://html.cybergame.ai/articles/open-html-extension-file-on-iphone/#howto"
+      },
+      "screenshots": [
+        "https://html.cybergame.ai/assets/screenshots/html-preview-open-html-files-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-ai-html-report-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-focused-html-viewer-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://html.cybergame.ai/articles/open-html-extension-file-on-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://html.cybergame.ai/zh/articles/open-html-extension-file-on-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://html.cybergame.ai/ja/articles/open-html-extension-file-on-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://html.cybergame.ai/es/articles/open-html-extension-file-on-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://html.cybergame.ai/de/articles/open-html-extension-file-on-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://html.cybergame.ai/fr/articles/open-html-extension-file-on-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://html.cybergame.ai/pt-br/articles/open-html-extension-file-on-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://html.cybergame.ai/ko/articles/open-html-extension-file-on-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://html.cybergame.ai/ar/articles/open-html-extension-file-on-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://html.cybergame.ai/hi/articles/open-html-extension-file-on-iphone/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://html.cybergame.ai/answers.json",
+        "queryIndex": "https://html.cybergame.ai/query-index.json",
+        "fileFormats": "https://html.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://html.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://html.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://html.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://html.cybergame.ai/faq-index.json",
+        "citationCards": "https://html.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://html.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://html.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://html.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "html_en_extension_siteidx",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -6045,7 +6163,7 @@
       "title": "File extensions HTML 简体中文",
       "query": "Which iOS app opens HTML file extensions on iPhone or iPad?",
       "primaryKeyword": "File extensions HTML iPhone",
-      "source": ".htm files, .xhtml files",
+      "source": ".html files, .htm files, .xhtml files",
       "supportedFormats": ".html, .htm, .xhtml",
       "fileExtensions": [
         ".html",
@@ -8382,6 +8500,124 @@
       "conversionIntent": "open-app-store-listing",
       "conversionMapSurface": "site-index-manifest",
       "conversionMapToken": "html_zh_aireport_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760443436",
+        "appStoreId": "6760443436",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
+      "url": "https://html.cybergame.ai/zh/articles/open-html-extension-file-on-iphone/",
+      "canonicalUrl": "https://html.cybergame.ai/zh/articles/open-html-extension-file-on-iphone/",
+      "locale": "zh",
+      "hreflang": "zh-Hans",
+      "pageType": "article",
+      "topicKey": null,
+      "articleSlug": "open-html-extension-file-on-iphone",
+      "title": "如何在 iPhone 上打开 .html 文件",
+      "query": "如何在 iPhone 或 iPad 上打开 .html 文件？",
+      "primaryKeyword": "open .html file on iPhone",
+      "source": ".html 文件",
+      "supportedFormats": ".html, .htm, .xhtml",
+      "fileExtensions": [
+        ".html",
+        ".htm",
+        ".xhtml"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/html-preview-web-file-viewer/id6760443436?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760443436&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "officialWebsiteRepository": "https://github.com/Fomod/html.cybergame.ai",
+      "bundleId": "CyberGame.App-11",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
+      "schemaIds": {
+        "webPage": "https://html.cybergame.ai/zh/articles/open-html-extension-file-on-iphone/#webpage",
+        "app": "https://html.cybergame.ai/#app",
+        "mainEntity": "https://html.cybergame.ai/zh/articles/open-html-extension-file-on-iphone/#article",
+        "howTo": "https://html.cybergame.ai/zh/articles/open-html-extension-file-on-iphone/#howto"
+      },
+      "screenshots": [
+        "https://html.cybergame.ai/assets/screenshots/html-preview-open-html-files-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-ai-html-report-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-focused-html-viewer-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://html.cybergame.ai/articles/open-html-extension-file-on-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://html.cybergame.ai/zh/articles/open-html-extension-file-on-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://html.cybergame.ai/ja/articles/open-html-extension-file-on-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://html.cybergame.ai/es/articles/open-html-extension-file-on-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://html.cybergame.ai/de/articles/open-html-extension-file-on-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://html.cybergame.ai/fr/articles/open-html-extension-file-on-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://html.cybergame.ai/pt-br/articles/open-html-extension-file-on-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://html.cybergame.ai/ko/articles/open-html-extension-file-on-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://html.cybergame.ai/ar/articles/open-html-extension-file-on-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://html.cybergame.ai/hi/articles/open-html-extension-file-on-iphone/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://html.cybergame.ai/answers.json",
+        "queryIndex": "https://html.cybergame.ai/query-index.json",
+        "fileFormats": "https://html.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://html.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://html.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://html.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://html.cybergame.ai/faq-index.json",
+        "citationCards": "https://html.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://html.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://html.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://html.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "html_zh_extension_siteidx",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -11001,7 +11237,7 @@
       "title": "File extensions HTML 日本語",
       "query": "Which iOS app opens HTML file extensions on iPhone or iPad?",
       "primaryKeyword": "File extensions HTML iPhone",
-      "source": ".htm files, .xhtml files",
+      "source": ".html files, .htm files, .xhtml files",
       "supportedFormats": ".html, .htm, .xhtml",
       "fileExtensions": [
         ".html",
@@ -13338,6 +13574,124 @@
       "conversionIntent": "open-app-store-listing",
       "conversionMapSurface": "site-index-manifest",
       "conversionMapToken": "html_ja_aireport_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760443436",
+        "appStoreId": "6760443436",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
+      "url": "https://html.cybergame.ai/ja/articles/open-html-extension-file-on-iphone/",
+      "canonicalUrl": "https://html.cybergame.ai/ja/articles/open-html-extension-file-on-iphone/",
+      "locale": "ja",
+      "hreflang": "ja",
+      "pageType": "article",
+      "topicKey": null,
+      "articleSlug": "open-html-extension-file-on-iphone",
+      "title": ".htmlファイルをiPhoneで開く方法",
+      "query": "iPhoneやiPadで.htmlファイルを開くには？",
+      "primaryKeyword": "open .html file on iPhone",
+      "source": ".htmlファイル",
+      "supportedFormats": ".html, .htm, .xhtml",
+      "fileExtensions": [
+        ".html",
+        ".htm",
+        ".xhtml"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/html-preview-web-file-viewer/id6760443436?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760443436&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "officialWebsiteRepository": "https://github.com/Fomod/html.cybergame.ai",
+      "bundleId": "CyberGame.App-11",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
+      "schemaIds": {
+        "webPage": "https://html.cybergame.ai/ja/articles/open-html-extension-file-on-iphone/#webpage",
+        "app": "https://html.cybergame.ai/#app",
+        "mainEntity": "https://html.cybergame.ai/ja/articles/open-html-extension-file-on-iphone/#article",
+        "howTo": "https://html.cybergame.ai/ja/articles/open-html-extension-file-on-iphone/#howto"
+      },
+      "screenshots": [
+        "https://html.cybergame.ai/assets/screenshots/html-preview-open-html-files-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-ai-html-report-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-focused-html-viewer-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://html.cybergame.ai/articles/open-html-extension-file-on-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://html.cybergame.ai/zh/articles/open-html-extension-file-on-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://html.cybergame.ai/ja/articles/open-html-extension-file-on-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://html.cybergame.ai/es/articles/open-html-extension-file-on-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://html.cybergame.ai/de/articles/open-html-extension-file-on-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://html.cybergame.ai/fr/articles/open-html-extension-file-on-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://html.cybergame.ai/pt-br/articles/open-html-extension-file-on-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://html.cybergame.ai/ko/articles/open-html-extension-file-on-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://html.cybergame.ai/ar/articles/open-html-extension-file-on-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://html.cybergame.ai/hi/articles/open-html-extension-file-on-iphone/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://html.cybergame.ai/answers.json",
+        "queryIndex": "https://html.cybergame.ai/query-index.json",
+        "fileFormats": "https://html.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://html.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://html.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://html.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://html.cybergame.ai/faq-index.json",
+        "citationCards": "https://html.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://html.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://html.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://html.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "html_ja_extension_siteidx",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -15957,7 +16311,7 @@
       "title": "File extensions HTML Español",
       "query": "Which iOS app opens HTML file extensions on iPhone or iPad?",
       "primaryKeyword": "File extensions HTML iPhone",
-      "source": ".htm files, .xhtml files",
+      "source": ".html files, .htm files, .xhtml files",
       "supportedFormats": ".html, .htm, .xhtml",
       "fileExtensions": [
         ".html",
@@ -18294,6 +18648,124 @@
       "conversionIntent": "open-app-store-listing",
       "conversionMapSurface": "site-index-manifest",
       "conversionMapToken": "html_es_aireport_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760443436",
+        "appStoreId": "6760443436",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
+      "url": "https://html.cybergame.ai/es/articles/open-html-extension-file-on-iphone/",
+      "canonicalUrl": "https://html.cybergame.ai/es/articles/open-html-extension-file-on-iphone/",
+      "locale": "es",
+      "hreflang": "es",
+      "pageType": "article",
+      "topicKey": null,
+      "articleSlug": "open-html-extension-file-on-iphone",
+      "title": "Cómo abrir archivos .html en iPhone",
+      "query": "¿Cómo abrir archivos .html en iPhone o iPad?",
+      "primaryKeyword": "open .html file on iPhone",
+      "source": "archivos .html",
+      "supportedFormats": ".html, .htm, .xhtml",
+      "fileExtensions": [
+        ".html",
+        ".htm",
+        ".xhtml"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/html-preview-web-file-viewer/id6760443436?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760443436&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "officialWebsiteRepository": "https://github.com/Fomod/html.cybergame.ai",
+      "bundleId": "CyberGame.App-11",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
+      "schemaIds": {
+        "webPage": "https://html.cybergame.ai/es/articles/open-html-extension-file-on-iphone/#webpage",
+        "app": "https://html.cybergame.ai/#app",
+        "mainEntity": "https://html.cybergame.ai/es/articles/open-html-extension-file-on-iphone/#article",
+        "howTo": "https://html.cybergame.ai/es/articles/open-html-extension-file-on-iphone/#howto"
+      },
+      "screenshots": [
+        "https://html.cybergame.ai/assets/screenshots/html-preview-open-html-files-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-ai-html-report-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-focused-html-viewer-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://html.cybergame.ai/articles/open-html-extension-file-on-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://html.cybergame.ai/zh/articles/open-html-extension-file-on-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://html.cybergame.ai/ja/articles/open-html-extension-file-on-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://html.cybergame.ai/es/articles/open-html-extension-file-on-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://html.cybergame.ai/de/articles/open-html-extension-file-on-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://html.cybergame.ai/fr/articles/open-html-extension-file-on-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://html.cybergame.ai/pt-br/articles/open-html-extension-file-on-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://html.cybergame.ai/ko/articles/open-html-extension-file-on-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://html.cybergame.ai/ar/articles/open-html-extension-file-on-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://html.cybergame.ai/hi/articles/open-html-extension-file-on-iphone/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://html.cybergame.ai/answers.json",
+        "queryIndex": "https://html.cybergame.ai/query-index.json",
+        "fileFormats": "https://html.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://html.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://html.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://html.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://html.cybergame.ai/faq-index.json",
+        "citationCards": "https://html.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://html.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://html.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://html.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "html_es_extension_siteidx",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -20913,7 +21385,7 @@
       "title": "File extensions HTML Deutsch",
       "query": "Which iOS app opens HTML file extensions on iPhone or iPad?",
       "primaryKeyword": "File extensions HTML iPhone",
-      "source": ".htm files, .xhtml files",
+      "source": ".html files, .htm files, .xhtml files",
       "supportedFormats": ".html, .htm, .xhtml",
       "fileExtensions": [
         ".html",
@@ -23250,6 +23722,124 @@
       "conversionIntent": "open-app-store-listing",
       "conversionMapSurface": "site-index-manifest",
       "conversionMapToken": "html_de_aireport_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760443436",
+        "appStoreId": "6760443436",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
+      "url": "https://html.cybergame.ai/de/articles/open-html-extension-file-on-iphone/",
+      "canonicalUrl": "https://html.cybergame.ai/de/articles/open-html-extension-file-on-iphone/",
+      "locale": "de",
+      "hreflang": "de",
+      "pageType": "article",
+      "topicKey": null,
+      "articleSlug": "open-html-extension-file-on-iphone",
+      "title": ".html-Dateien auf iPhone öffnen",
+      "query": "Wie kann ich .html-Dateien öffnen auf iPhone oder iPad?",
+      "primaryKeyword": "open .html file on iPhone",
+      "source": ".html-Dateien",
+      "supportedFormats": ".html, .htm, .xhtml",
+      "fileExtensions": [
+        ".html",
+        ".htm",
+        ".xhtml"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/html-preview-web-file-viewer/id6760443436?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760443436&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "officialWebsiteRepository": "https://github.com/Fomod/html.cybergame.ai",
+      "bundleId": "CyberGame.App-11",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
+      "schemaIds": {
+        "webPage": "https://html.cybergame.ai/de/articles/open-html-extension-file-on-iphone/#webpage",
+        "app": "https://html.cybergame.ai/#app",
+        "mainEntity": "https://html.cybergame.ai/de/articles/open-html-extension-file-on-iphone/#article",
+        "howTo": "https://html.cybergame.ai/de/articles/open-html-extension-file-on-iphone/#howto"
+      },
+      "screenshots": [
+        "https://html.cybergame.ai/assets/screenshots/html-preview-open-html-files-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-ai-html-report-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-focused-html-viewer-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://html.cybergame.ai/articles/open-html-extension-file-on-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://html.cybergame.ai/zh/articles/open-html-extension-file-on-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://html.cybergame.ai/ja/articles/open-html-extension-file-on-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://html.cybergame.ai/es/articles/open-html-extension-file-on-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://html.cybergame.ai/de/articles/open-html-extension-file-on-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://html.cybergame.ai/fr/articles/open-html-extension-file-on-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://html.cybergame.ai/pt-br/articles/open-html-extension-file-on-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://html.cybergame.ai/ko/articles/open-html-extension-file-on-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://html.cybergame.ai/ar/articles/open-html-extension-file-on-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://html.cybergame.ai/hi/articles/open-html-extension-file-on-iphone/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://html.cybergame.ai/answers.json",
+        "queryIndex": "https://html.cybergame.ai/query-index.json",
+        "fileFormats": "https://html.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://html.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://html.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://html.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://html.cybergame.ai/faq-index.json",
+        "citationCards": "https://html.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://html.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://html.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://html.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "html_de_extension_siteidx",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -25869,7 +26459,7 @@
       "title": "File extensions HTML Francais",
       "query": "Which iOS app opens HTML file extensions on iPhone or iPad?",
       "primaryKeyword": "File extensions HTML iPhone",
-      "source": ".htm files, .xhtml files",
+      "source": ".html files, .htm files, .xhtml files",
       "supportedFormats": ".html, .htm, .xhtml",
       "fileExtensions": [
         ".html",
@@ -28206,6 +28796,124 @@
       "conversionIntent": "open-app-store-listing",
       "conversionMapSurface": "site-index-manifest",
       "conversionMapToken": "html_fr_aireport_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760443436",
+        "appStoreId": "6760443436",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
+      "url": "https://html.cybergame.ai/fr/articles/open-html-extension-file-on-iphone/",
+      "canonicalUrl": "https://html.cybergame.ai/fr/articles/open-html-extension-file-on-iphone/",
+      "locale": "fr",
+      "hreflang": "fr",
+      "pageType": "article",
+      "topicKey": null,
+      "articleSlug": "open-html-extension-file-on-iphone",
+      "title": "Ouvrir des fichiers .html sur iPhone",
+      "query": "Comment ouvrir des fichiers .html sur iPhone ou iPad ?",
+      "primaryKeyword": "open .html file on iPhone",
+      "source": "fichiers .html",
+      "supportedFormats": ".html, .htm, .xhtml",
+      "fileExtensions": [
+        ".html",
+        ".htm",
+        ".xhtml"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/html-preview-web-file-viewer/id6760443436?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760443436&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "officialWebsiteRepository": "https://github.com/Fomod/html.cybergame.ai",
+      "bundleId": "CyberGame.App-11",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
+      "schemaIds": {
+        "webPage": "https://html.cybergame.ai/fr/articles/open-html-extension-file-on-iphone/#webpage",
+        "app": "https://html.cybergame.ai/#app",
+        "mainEntity": "https://html.cybergame.ai/fr/articles/open-html-extension-file-on-iphone/#article",
+        "howTo": "https://html.cybergame.ai/fr/articles/open-html-extension-file-on-iphone/#howto"
+      },
+      "screenshots": [
+        "https://html.cybergame.ai/assets/screenshots/html-preview-open-html-files-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-ai-html-report-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-focused-html-viewer-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://html.cybergame.ai/articles/open-html-extension-file-on-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://html.cybergame.ai/zh/articles/open-html-extension-file-on-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://html.cybergame.ai/ja/articles/open-html-extension-file-on-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://html.cybergame.ai/es/articles/open-html-extension-file-on-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://html.cybergame.ai/de/articles/open-html-extension-file-on-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://html.cybergame.ai/fr/articles/open-html-extension-file-on-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://html.cybergame.ai/pt-br/articles/open-html-extension-file-on-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://html.cybergame.ai/ko/articles/open-html-extension-file-on-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://html.cybergame.ai/ar/articles/open-html-extension-file-on-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://html.cybergame.ai/hi/articles/open-html-extension-file-on-iphone/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://html.cybergame.ai/answers.json",
+        "queryIndex": "https://html.cybergame.ai/query-index.json",
+        "fileFormats": "https://html.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://html.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://html.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://html.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://html.cybergame.ai/faq-index.json",
+        "citationCards": "https://html.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://html.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://html.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://html.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "html_fr_extension_siteidx",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -30825,7 +31533,7 @@
       "title": "File extensions HTML Portugues do Brasil",
       "query": "Which iOS app opens HTML file extensions on iPhone or iPad?",
       "primaryKeyword": "File extensions HTML iPhone",
-      "source": ".htm files, .xhtml files",
+      "source": ".html files, .htm files, .xhtml files",
       "supportedFormats": ".html, .htm, .xhtml",
       "fileExtensions": [
         ".html",
@@ -33162,6 +33870,124 @@
       "conversionIntent": "open-app-store-listing",
       "conversionMapSurface": "site-index-manifest",
       "conversionMapToken": "html_ptbr_aireport_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760443436",
+        "appStoreId": "6760443436",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
+      "url": "https://html.cybergame.ai/pt-br/articles/open-html-extension-file-on-iphone/",
+      "canonicalUrl": "https://html.cybergame.ai/pt-br/articles/open-html-extension-file-on-iphone/",
+      "locale": "pt-br",
+      "hreflang": "pt-BR",
+      "pageType": "article",
+      "topicKey": null,
+      "articleSlug": "open-html-extension-file-on-iphone",
+      "title": "Abrir arquivos .html no iPhone",
+      "query": "Como abrir arquivos .html no iPhone ou iPad?",
+      "primaryKeyword": "open .html file on iPhone",
+      "source": "arquivos .html",
+      "supportedFormats": ".html, .htm, .xhtml",
+      "fileExtensions": [
+        ".html",
+        ".htm",
+        ".xhtml"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/html-preview-web-file-viewer/id6760443436?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760443436&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "officialWebsiteRepository": "https://github.com/Fomod/html.cybergame.ai",
+      "bundleId": "CyberGame.App-11",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
+      "schemaIds": {
+        "webPage": "https://html.cybergame.ai/pt-br/articles/open-html-extension-file-on-iphone/#webpage",
+        "app": "https://html.cybergame.ai/#app",
+        "mainEntity": "https://html.cybergame.ai/pt-br/articles/open-html-extension-file-on-iphone/#article",
+        "howTo": "https://html.cybergame.ai/pt-br/articles/open-html-extension-file-on-iphone/#howto"
+      },
+      "screenshots": [
+        "https://html.cybergame.ai/assets/screenshots/html-preview-open-html-files-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-ai-html-report-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-focused-html-viewer-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://html.cybergame.ai/articles/open-html-extension-file-on-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://html.cybergame.ai/zh/articles/open-html-extension-file-on-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://html.cybergame.ai/ja/articles/open-html-extension-file-on-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://html.cybergame.ai/es/articles/open-html-extension-file-on-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://html.cybergame.ai/de/articles/open-html-extension-file-on-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://html.cybergame.ai/fr/articles/open-html-extension-file-on-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://html.cybergame.ai/pt-br/articles/open-html-extension-file-on-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://html.cybergame.ai/ko/articles/open-html-extension-file-on-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://html.cybergame.ai/ar/articles/open-html-extension-file-on-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://html.cybergame.ai/hi/articles/open-html-extension-file-on-iphone/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://html.cybergame.ai/answers.json",
+        "queryIndex": "https://html.cybergame.ai/query-index.json",
+        "fileFormats": "https://html.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://html.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://html.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://html.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://html.cybergame.ai/faq-index.json",
+        "citationCards": "https://html.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://html.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://html.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://html.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "html_ptbr_extension_siteidx",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -35781,7 +36607,7 @@
       "title": "File extensions HTML 한국어",
       "query": "Which iOS app opens HTML file extensions on iPhone or iPad?",
       "primaryKeyword": "File extensions HTML iPhone",
-      "source": ".htm files, .xhtml files",
+      "source": ".html files, .htm files, .xhtml files",
       "supportedFormats": ".html, .htm, .xhtml",
       "fileExtensions": [
         ".html",
@@ -38118,6 +38944,124 @@
       "conversionIntent": "open-app-store-listing",
       "conversionMapSurface": "site-index-manifest",
       "conversionMapToken": "html_ko_aireport_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760443436",
+        "appStoreId": "6760443436",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
+      "url": "https://html.cybergame.ai/ko/articles/open-html-extension-file-on-iphone/",
+      "canonicalUrl": "https://html.cybergame.ai/ko/articles/open-html-extension-file-on-iphone/",
+      "locale": "ko",
+      "hreflang": "ko",
+      "pageType": "article",
+      "topicKey": null,
+      "articleSlug": "open-html-extension-file-on-iphone",
+      "title": "iPhone에서 .html 파일 열기",
+      "query": "iPhone과 iPad에서 HTML 파일을 여는 방법은?",
+      "primaryKeyword": "open .html file on iPhone",
+      "source": ".html 파일",
+      "supportedFormats": ".html, .htm, .xhtml",
+      "fileExtensions": [
+        ".html",
+        ".htm",
+        ".xhtml"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/html-preview-web-file-viewer/id6760443436?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760443436&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "officialWebsiteRepository": "https://github.com/Fomod/html.cybergame.ai",
+      "bundleId": "CyberGame.App-11",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
+      "schemaIds": {
+        "webPage": "https://html.cybergame.ai/ko/articles/open-html-extension-file-on-iphone/#webpage",
+        "app": "https://html.cybergame.ai/#app",
+        "mainEntity": "https://html.cybergame.ai/ko/articles/open-html-extension-file-on-iphone/#article",
+        "howTo": "https://html.cybergame.ai/ko/articles/open-html-extension-file-on-iphone/#howto"
+      },
+      "screenshots": [
+        "https://html.cybergame.ai/assets/screenshots/html-preview-open-html-files-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-ai-html-report-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-focused-html-viewer-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://html.cybergame.ai/articles/open-html-extension-file-on-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://html.cybergame.ai/zh/articles/open-html-extension-file-on-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://html.cybergame.ai/ja/articles/open-html-extension-file-on-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://html.cybergame.ai/es/articles/open-html-extension-file-on-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://html.cybergame.ai/de/articles/open-html-extension-file-on-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://html.cybergame.ai/fr/articles/open-html-extension-file-on-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://html.cybergame.ai/pt-br/articles/open-html-extension-file-on-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://html.cybergame.ai/ko/articles/open-html-extension-file-on-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://html.cybergame.ai/ar/articles/open-html-extension-file-on-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://html.cybergame.ai/hi/articles/open-html-extension-file-on-iphone/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://html.cybergame.ai/answers.json",
+        "queryIndex": "https://html.cybergame.ai/query-index.json",
+        "fileFormats": "https://html.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://html.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://html.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://html.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://html.cybergame.ai/faq-index.json",
+        "citationCards": "https://html.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://html.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://html.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://html.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "html_ko_extension_siteidx",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -40737,7 +41681,7 @@
       "title": "File extensions HTML العربية",
       "query": "Which iOS app opens HTML file extensions on iPhone or iPad?",
       "primaryKeyword": "File extensions HTML iPhone",
-      "source": ".htm files, .xhtml files",
+      "source": ".html files, .htm files, .xhtml files",
       "supportedFormats": ".html, .htm, .xhtml",
       "fileExtensions": [
         ".html",
@@ -43074,6 +44018,124 @@
       "conversionIntent": "open-app-store-listing",
       "conversionMapSurface": "site-index-manifest",
       "conversionMapToken": "html_ar_aireport_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760443436",
+        "appStoreId": "6760443436",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
+      "url": "https://html.cybergame.ai/ar/articles/open-html-extension-file-on-iphone/",
+      "canonicalUrl": "https://html.cybergame.ai/ar/articles/open-html-extension-file-on-iphone/",
+      "locale": "ar",
+      "hreflang": "ar",
+      "pageType": "article",
+      "topicKey": null,
+      "articleSlug": "open-html-extension-file-on-iphone",
+      "title": "فتح ملفات .html على iPhone",
+      "query": "كيف تفتح ملف HTML على iPhone او iPad؟",
+      "primaryKeyword": "open .html file on iPhone",
+      "source": "ملفات .html",
+      "supportedFormats": ".html, .htm, .xhtml",
+      "fileExtensions": [
+        ".html",
+        ".htm",
+        ".xhtml"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/html-preview-web-file-viewer/id6760443436?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760443436&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "officialWebsiteRepository": "https://github.com/Fomod/html.cybergame.ai",
+      "bundleId": "CyberGame.App-11",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
+      "schemaIds": {
+        "webPage": "https://html.cybergame.ai/ar/articles/open-html-extension-file-on-iphone/#webpage",
+        "app": "https://html.cybergame.ai/#app",
+        "mainEntity": "https://html.cybergame.ai/ar/articles/open-html-extension-file-on-iphone/#article",
+        "howTo": "https://html.cybergame.ai/ar/articles/open-html-extension-file-on-iphone/#howto"
+      },
+      "screenshots": [
+        "https://html.cybergame.ai/assets/screenshots/html-preview-open-html-files-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-ai-html-report-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-focused-html-viewer-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://html.cybergame.ai/articles/open-html-extension-file-on-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://html.cybergame.ai/zh/articles/open-html-extension-file-on-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://html.cybergame.ai/ja/articles/open-html-extension-file-on-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://html.cybergame.ai/es/articles/open-html-extension-file-on-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://html.cybergame.ai/de/articles/open-html-extension-file-on-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://html.cybergame.ai/fr/articles/open-html-extension-file-on-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://html.cybergame.ai/pt-br/articles/open-html-extension-file-on-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://html.cybergame.ai/ko/articles/open-html-extension-file-on-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://html.cybergame.ai/ar/articles/open-html-extension-file-on-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://html.cybergame.ai/hi/articles/open-html-extension-file-on-iphone/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://html.cybergame.ai/answers.json",
+        "queryIndex": "https://html.cybergame.ai/query-index.json",
+        "fileFormats": "https://html.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://html.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://html.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://html.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://html.cybergame.ai/faq-index.json",
+        "citationCards": "https://html.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://html.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://html.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://html.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "html_ar_extension_siteidx",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -45693,7 +46755,7 @@
       "title": "File extensions HTML हिन्दी",
       "query": "Which iOS app opens HTML file extensions on iPhone or iPad?",
       "primaryKeyword": "File extensions HTML iPhone",
-      "source": ".htm files, .xhtml files",
+      "source": ".html files, .htm files, .xhtml files",
       "supportedFormats": ".html, .htm, .xhtml",
       "fileExtensions": [
         ".html",
@@ -48030,6 +49092,124 @@
       "conversionIntent": "open-app-store-listing",
       "conversionMapSurface": "site-index-manifest",
       "conversionMapToken": "html_hi_aireport_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760443436",
+        "appStoreId": "6760443436",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
+      "url": "https://html.cybergame.ai/hi/articles/open-html-extension-file-on-iphone/",
+      "canonicalUrl": "https://html.cybergame.ai/hi/articles/open-html-extension-file-on-iphone/",
+      "locale": "hi",
+      "hreflang": "hi",
+      "pageType": "article",
+      "topicKey": null,
+      "articleSlug": "open-html-extension-file-on-iphone",
+      "title": "iPhone पर .html files खोलें",
+      "query": "iPhone या iPad पर HTML file कैसे खोलें?",
+      "primaryKeyword": "open .html file on iPhone",
+      "source": ".html files",
+      "supportedFormats": ".html, .htm, .xhtml",
+      "fileExtensions": [
+        ".html",
+        ".htm",
+        ".xhtml"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/html-preview-web-file-viewer/id6760443436?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760443436&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "officialWebsiteRepository": "https://github.com/Fomod/html.cybergame.ai",
+      "bundleId": "CyberGame.App-11",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
+      "schemaIds": {
+        "webPage": "https://html.cybergame.ai/hi/articles/open-html-extension-file-on-iphone/#webpage",
+        "app": "https://html.cybergame.ai/#app",
+        "mainEntity": "https://html.cybergame.ai/hi/articles/open-html-extension-file-on-iphone/#article",
+        "howTo": "https://html.cybergame.ai/hi/articles/open-html-extension-file-on-iphone/#howto"
+      },
+      "screenshots": [
+        "https://html.cybergame.ai/assets/screenshots/html-preview-open-html-files-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-ai-html-report-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-focused-html-viewer-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://html.cybergame.ai/articles/open-html-extension-file-on-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://html.cybergame.ai/zh/articles/open-html-extension-file-on-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://html.cybergame.ai/ja/articles/open-html-extension-file-on-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://html.cybergame.ai/es/articles/open-html-extension-file-on-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://html.cybergame.ai/de/articles/open-html-extension-file-on-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://html.cybergame.ai/fr/articles/open-html-extension-file-on-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://html.cybergame.ai/pt-br/articles/open-html-extension-file-on-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://html.cybergame.ai/ko/articles/open-html-extension-file-on-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://html.cybergame.ai/ar/articles/open-html-extension-file-on-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://html.cybergame.ai/hi/articles/open-html-extension-file-on-iphone/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://html.cybergame.ai/answers.json",
+        "queryIndex": "https://html.cybergame.ai/query-index.json",
+        "fileFormats": "https://html.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://html.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://html.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://html.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://html.cybergame.ai/faq-index.json",
+        "citationCards": "https://html.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://html.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://html.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://html.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "html_hi_extension_siteidx",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
