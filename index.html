@@ -1,0 +1,364 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Html Preview - Web File Viewer for iPhone</title>
+    <meta name="description" content="Open HTML files on iPhone and iPad from Files, Mail, ChatGPT, WeChat, Safari, and other apps. Html Preview renders .html, .htm, and .xhtml files fast and privately.">
+    <link rel="canonical" href="https://html.cybergame.ai/">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Html Preview - Web File Viewer">
+    <meta property="og:description" content="A simple iOS app for opening and previewing HTML files from anywhere.">
+    <meta property="og:url" content="https://html.cybergame.ai/">
+    <meta property="og:image" content="https://html.cybergame.ai/assets/app-icon.jpg">
+    <meta name="twitter:card" content="summary">
+    <meta name="theme-color" content="#f2b35d">
+    <link rel="icon" href="assets/app-icon.jpg">
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "SoftwareApplication",
+        "name": "Html Preview - Web File Viewer",
+        "operatingSystem": "iOS",
+        "applicationCategory": "UtilitiesApplication",
+        "description": "Open and preview HTML files on iPhone and iPad from the Files app, Share Sheet, Mail, ChatGPT, WeChat, Safari, and more.",
+        "url": "https://html.cybergame.ai/",
+        "downloadUrl": "https://apps.apple.com/app/id6760443436",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://apps.apple.com/app/id6760443436"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "CyberGame Limited"
+        }
+      }
+    </script>
+    <style>
+      :root {
+        color-scheme: light dark;
+        --bg: #fff8ed;
+        --surface: #ffffff;
+        --text: #1e1b18;
+        --muted: #665f55;
+        --line: #ead8bd;
+        --accent: #bc641d;
+        --accent-strong: #8c4013;
+        --shadow: 0 22px 70px rgba(99, 58, 19, 0.14);
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      body {
+        margin: 0;
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+        background: var(--bg);
+        color: var(--text);
+        line-height: 1.6;
+      }
+
+      a {
+        color: inherit;
+      }
+
+      .page {
+        width: min(1120px, calc(100% - 40px));
+        margin: 0 auto;
+      }
+
+      header {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 20px;
+        padding: 28px 0;
+      }
+
+      .brand {
+        display: inline-flex;
+        align-items: center;
+        gap: 12px;
+        font-weight: 700;
+      }
+
+      .brand img {
+        width: 40px;
+        height: 40px;
+        border-radius: 10px;
+      }
+
+      .nav-link {
+        color: var(--muted);
+        font-size: 15px;
+        text-decoration: none;
+      }
+
+      .hero {
+        display: grid;
+        grid-template-columns: minmax(0, 1.1fr) minmax(320px, 0.9fr);
+        gap: 52px;
+        align-items: center;
+        padding: 58px 0 72px;
+      }
+
+      .eyebrow {
+        margin: 0 0 14px;
+        color: var(--accent-strong);
+        font-size: 14px;
+        font-weight: 700;
+        text-transform: uppercase;
+        letter-spacing: 0;
+      }
+
+      h1 {
+        margin: 0;
+        max-width: 760px;
+        font-size: clamp(42px, 6vw, 74px);
+        line-height: 0.98;
+        letter-spacing: 0;
+      }
+
+      .lede {
+        max-width: 680px;
+        margin: 24px 0 0;
+        color: var(--muted);
+        font-size: 21px;
+      }
+
+      .actions {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        gap: 14px;
+        margin-top: 34px;
+      }
+
+      .button {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        min-height: 52px;
+        padding: 0 22px;
+        border-radius: 8px;
+        background: var(--accent);
+        color: #fff;
+        font-weight: 800;
+        text-decoration: none;
+        box-shadow: var(--shadow);
+      }
+
+      .note {
+        color: var(--muted);
+        font-size: 15px;
+      }
+
+      .device {
+        position: relative;
+        min-height: 480px;
+        border: 1px solid var(--line);
+        border-radius: 8px;
+        background: var(--surface);
+        box-shadow: var(--shadow);
+        overflow: hidden;
+      }
+
+      .device-top {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        padding: 18px;
+        border-bottom: 1px solid var(--line);
+      }
+
+      .dot {
+        width: 10px;
+        height: 10px;
+        border-radius: 50%;
+        background: #d7a15f;
+      }
+
+      .preview {
+        padding: 30px;
+      }
+
+      .preview img {
+        width: 96px;
+        height: 96px;
+        border-radius: 22px;
+        box-shadow: 0 16px 32px rgba(45, 29, 12, 0.16);
+      }
+
+      .preview h2 {
+        margin: 24px 0 12px;
+        font-size: 30px;
+        line-height: 1.15;
+      }
+
+      .file-card {
+        margin-top: 28px;
+        padding: 18px;
+        border: 1px solid var(--line);
+        border-radius: 8px;
+        background: #fffaf2;
+      }
+
+      .file-card strong {
+        display: block;
+        margin-bottom: 8px;
+      }
+
+      .grid {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 18px;
+        padding: 20px 0 70px;
+      }
+
+      .card {
+        padding: 26px;
+        border: 1px solid var(--line);
+        border-radius: 8px;
+        background: var(--surface);
+      }
+
+      .card h3 {
+        margin: 0 0 10px;
+        font-size: 20px;
+      }
+
+      .card p {
+        margin: 0;
+        color: var(--muted);
+      }
+
+      footer {
+        display: flex;
+        justify-content: space-between;
+        gap: 20px;
+        padding: 28px 0 42px;
+        color: var(--muted);
+        font-size: 14px;
+        border-top: 1px solid var(--line);
+      }
+
+      @media (prefers-color-scheme: dark) {
+        :root {
+          --bg: #17130f;
+          --surface: #211b15;
+          --text: #fff3e3;
+          --muted: #d8c5ad;
+          --line: #3d3125;
+          --accent: #df8a32;
+          --accent-strong: #f2b35d;
+          --shadow: 0 22px 70px rgba(0, 0, 0, 0.28);
+        }
+
+        .file-card {
+          background: #1b1611;
+        }
+      }
+
+      @media (max-width: 860px) {
+        .hero {
+          grid-template-columns: 1fr;
+          gap: 34px;
+          padding-top: 28px;
+        }
+
+        .device {
+          min-height: auto;
+        }
+
+        .grid {
+          grid-template-columns: 1fr;
+        }
+      }
+
+      @media (max-width: 560px) {
+        .page {
+          width: min(100% - 28px, 1120px);
+        }
+
+        header,
+        footer {
+          align-items: flex-start;
+          flex-direction: column;
+        }
+
+        h1 {
+          font-size: 42px;
+        }
+
+        .lede {
+          font-size: 18px;
+        }
+
+        .button {
+          width: 100%;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <main class="page">
+      <header>
+        <a class="brand" href="https://html.cybergame.ai/" aria-label="Html Preview home">
+          <img src="assets/app-icon.jpg" alt="App icon">
+          <span>Html Preview</span>
+        </a>
+        <a class="nav-link" href="https://apps.apple.com/app/id6760443436">Download on the App Store</a>
+      </header>
+
+      <section class="hero" aria-labelledby="hero-title">
+        <div>
+          <p class="eyebrow">HTML viewer for iPhone and iPad</p>
+          <h1 id="hero-title">Open HTML files on iOS in seconds.</h1>
+          <p class="lede">Html Preview lets you view .html, .htm, and .xhtml files from Files, Mail, ChatGPT, WeChat, Safari, cloud drives, and any app that supports sharing.</p>
+          <div class="actions">
+            <a class="button" href="https://apps.apple.com/app/id6760443436">Download on the App Store</a>
+            <span class="note">Private by design. Files stay on your device.</span>
+          </div>
+        </div>
+
+        <aside class="device" aria-label="App preview">
+          <div class="device-top">
+            <span class="dot"></span>
+            <span class="dot"></span>
+            <span class="dot"></span>
+          </div>
+          <div class="preview">
+            <img src="assets/app-icon.jpg" alt="App icon">
+            <h2>Fast HTML previews without a desktop.</h2>
+            <p>Open web reports, AI-generated pages, saved webpages, and email attachments directly on your iPhone or iPad.</p>
+            <div class="file-card">
+              <strong>Supported formats</strong>
+              <span>.html, .htm, .xhtml</span>
+            </div>
+          </div>
+        </aside>
+      </section>
+
+      <section class="grid" aria-label="Key features">
+        <article class="card">
+          <h3>Open from anywhere</h3>
+          <p>Use the iOS Share Sheet or file picker to preview HTML files from other apps.</p>
+        </article>
+        <article class="card">
+          <h3>Built for real files</h3>
+          <p>Supports common encodings including UTF-8, Windows-1252, and ISO Latin-1.</p>
+        </article>
+        <article class="card">
+          <h3>No tracking</h3>
+          <p>No ads, no analytics, and no data collection. Your files remain local.</p>
+        </article>
+      </section>
+
+      <footer>
+        <span>Copyright 2026 CyberGame Limited.</span>
+        <a href="https://apps.apple.com/app/id6760443436">Html Preview on the App Store</a>
+      </footer>
+    </main>
+  </body>
+</html>
