@@ -155,6 +155,10 @@
         font-size: 15px;
       }
 
+      .install-bar {
+        display: none;
+      }
+
       .device {
         position: relative;
         min-height: 480px;
@@ -277,6 +281,69 @@
         }
       }
 
+      @media (max-width: 720px) {
+        body {
+          padding-bottom: calc(88px + env(safe-area-inset-bottom));
+        }
+
+        .install-bar {
+          position: fixed;
+          right: 12px;
+          bottom: calc(12px + env(safe-area-inset-bottom));
+          left: 12px;
+          z-index: 30;
+          display: grid;
+          grid-template-columns: 44px minmax(0, 1fr) auto;
+          gap: 12px;
+          align-items: center;
+          max-width: 520px;
+          margin: 0 auto;
+          padding: 12px;
+          border: 1px solid var(--line);
+          border-radius: 8px;
+          background: color-mix(in srgb, var(--surface) 94%, transparent);
+          box-shadow: var(--shadow);
+          text-decoration: none;
+          backdrop-filter: blur(16px);
+        }
+
+        .install-bar img {
+          width: 44px;
+          height: 44px;
+          border-radius: 10px;
+        }
+
+        .install-copy {
+          min-width: 0;
+        }
+
+        .install-copy strong,
+        .install-copy small {
+          display: block;
+          overflow: hidden;
+          text-overflow: ellipsis;
+          white-space: nowrap;
+        }
+
+        .install-copy small {
+          color: var(--muted);
+          font-size: 13px;
+        }
+
+        .install-action {
+          display: inline-flex;
+          align-items: center;
+          justify-content: center;
+          min-height: 38px;
+          padding: 0 14px;
+          border-radius: 8px;
+          background: var(--accent);
+          color: #fff;
+          font-size: 14px;
+          font-weight: 800;
+        }
+      }
+
       @media (max-width: 560px) {
         .page {
           width: min(100% - 28px, 1120px);
@@ -309,7 +376,7 @@
           <img src="assets/app-icon.jpg" alt="App icon">
           <span>Html Preview</span>
         </a>
-        <a class="nav-link" href="https://apps.apple.com/app/id6760443436">Download on the App Store</a>
+        <a class="nav-link" href="https://apps.apple.com/app/id6760443436" data-ios-app-url="itms-apps://itunes.apple.com/app/id6760443436">Download on the App Store</a>
       </header>
 
       <section class="hero" aria-labelledby="hero-title">
@@ -318,7 +385,7 @@
           <h1 id="hero-title">Open HTML files on iOS in seconds.</h1>
           <p class="lede">Html Preview lets you view .html, .htm, and .xhtml files from Files, Mail, ChatGPT, WeChat, Safari, cloud drives, and any app that supports sharing.</p>
           <div class="actions">
-            <a class="button" href="https://apps.apple.com/app/id6760443436">Download on the App Store</a>
+            <a class="button" href="https://apps.apple.com/app/id6760443436" data-ios-app-url="itms-apps://itunes.apple.com/app/id6760443436">Download on the App Store</a>
             <span class="note">Private by design. Files stay on your device.</span>
           </div>
         </div>
@@ -358,8 +425,51 @@
 
       <footer>
         <span>Copyright 2026 CyberGame Limited.</span>
-        <a href="https://apps.apple.com/app/id6760443436">Html Preview on the App Store</a>
+        <a href="https://apps.apple.com/app/id6760443436" data-ios-app-url="itms-apps://itunes.apple.com/app/id6760443436">Html Preview on the App Store</a>
       </footer>
     </main>
+
+    <a class="install-bar" href="https://apps.apple.com/app/id6760443436" data-ios-app-url="itms-apps://itunes.apple.com/app/id6760443436" aria-label="Open Html Preview in the App Store">
+      <img src="assets/app-icon.jpg" alt="App icon">
+      <span class="install-copy">
+        <strong>Html Preview</strong>
+        <small>Open HTML files on iOS</small>
+      </span>
+      <span class="install-action">Get</span>
+    </a>
+
+    <script>
+      (function () {
+        var isIOS = /iPad|iPhone|iPod/.test(navigator.userAgent) || (navigator.platform === "MacIntel" && navigator.maxTouchPoints > 1);
+
+        if (!isIOS) {
+          return;
+        }
+
+        document.querySelectorAll("[data-ios-app-url]").forEach(function (link) {
+          link.addEventListener("click", function (event) {
+            var iosUrl = link.getAttribute("data-ios-app-url");
+            var webUrl = link.href;
+            var leftPage = false;
+
+            event.preventDefault();
+
+            document.addEventListener("visibilitychange", function () {
+              if (document.hidden) {
+                leftPage = true;
+              }
+            }, { once: true });
+
+            window.location.href = iosUrl;
+
+            window.setTimeout(function () {
+              if (!leftPage) {
+                window.location.href = webUrl;
+              }
+            }, 900);
+          });
+        });
+      })();
+    </script>
   </body>
 </html>
