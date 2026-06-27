@@ -249,7 +249,7 @@
       "height": 2688
     }
   ],
-  "pageCount": 430,
+  "pageCount": 450,
   "localeCount": 10,
   "pages": [
     {
@@ -1184,6 +1184,124 @@
       "conversionIntent": "open-app-store-listing",
       "conversionMapSurface": "site-index-manifest",
       "conversionMapToken": "html_en_topicfileextensio_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760443436",
+        "appStoreId": "6760443436",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
+      "url": "https://html.cybergame.ai/topics/mime-types/",
+      "canonicalUrl": "https://html.cybergame.ai/topics/mime-types/",
+      "locale": "en",
+      "hreflang": "en",
+      "pageType": "topic",
+      "topicKey": "mime",
+      "articleSlug": null,
+      "title": "MIME type HTML guides",
+      "query": "Which iOS app opens HTML MIME type files on iPhone or iPad?",
+      "primaryKeyword": "MIME type HTML iPhone",
+      "source": "text/html MIME type",
+      "supportedFormats": ".html, .htm, .xhtml",
+      "fileExtensions": [
+        ".html",
+        ".htm",
+        ".xhtml"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/html-preview-web-file-viewer/id6760443436?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760443436&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "officialWebsiteRepository": "https://github.com/Fomod/html.cybergame.ai",
+      "bundleId": "CyberGame.App-11",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
+      "schemaIds": {
+        "webPage": "https://html.cybergame.ai/topics/mime-types/#webpage",
+        "app": "https://html.cybergame.ai/#app",
+        "mainEntity": "https://html.cybergame.ai/topics/mime-types/#topic-hub",
+        "howTo": null
+      },
+      "screenshots": [
+        "https://html.cybergame.ai/assets/screenshots/html-preview-open-html-files-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-ai-html-report-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-focused-html-viewer-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://html.cybergame.ai/topics/mime-types/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://html.cybergame.ai/zh/topics/mime-types/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://html.cybergame.ai/ja/topics/mime-types/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://html.cybergame.ai/es/topics/mime-types/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://html.cybergame.ai/de/topics/mime-types/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://html.cybergame.ai/fr/topics/mime-types/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://html.cybergame.ai/pt-br/topics/mime-types/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://html.cybergame.ai/ko/topics/mime-types/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://html.cybergame.ai/ar/topics/mime-types/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://html.cybergame.ai/hi/topics/mime-types/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://html.cybergame.ai/answers.json",
+        "queryIndex": "https://html.cybergame.ai/query-index.json",
+        "fileFormats": "https://html.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://html.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://html.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://html.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://html.cybergame.ai/faq-index.json",
+        "citationCards": "https://html.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://html.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://html.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://html.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "html_en_topicmimetypes_siteidx",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -3793,6 +3911,124 @@
       "lastUpdated": "2026-06-28"
     },
     {
+      "url": "https://html.cybergame.ai/articles/open-text-html-mime-file-on-iphone/",
+      "canonicalUrl": "https://html.cybergame.ai/articles/open-text-html-mime-file-on-iphone/",
+      "locale": "en",
+      "hreflang": "en",
+      "pageType": "article",
+      "topicKey": null,
+      "articleSlug": "open-text-html-mime-file-on-iphone",
+      "title": "How to Open a text/html File on iPhone",
+      "query": "How do I open a text/html file on iPhone or iPad?",
+      "primaryKeyword": "open text/html file on iPhone",
+      "source": "text/html MIME type",
+      "supportedFormats": ".html, .htm, .xhtml",
+      "fileExtensions": [
+        ".html",
+        ".htm",
+        ".xhtml"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/html-preview-web-file-viewer/id6760443436?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760443436&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "officialWebsiteRepository": "https://github.com/Fomod/html.cybergame.ai",
+      "bundleId": "CyberGame.App-11",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
+      "schemaIds": {
+        "webPage": "https://html.cybergame.ai/articles/open-text-html-mime-file-on-iphone/#webpage",
+        "app": "https://html.cybergame.ai/#app",
+        "mainEntity": "https://html.cybergame.ai/articles/open-text-html-mime-file-on-iphone/#article",
+        "howTo": "https://html.cybergame.ai/articles/open-text-html-mime-file-on-iphone/#howto"
+      },
+      "screenshots": [
+        "https://html.cybergame.ai/assets/screenshots/html-preview-open-html-files-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-ai-html-report-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-focused-html-viewer-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://html.cybergame.ai/articles/open-text-html-mime-file-on-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://html.cybergame.ai/zh/articles/open-text-html-mime-file-on-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://html.cybergame.ai/ja/articles/open-text-html-mime-file-on-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://html.cybergame.ai/es/articles/open-text-html-mime-file-on-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://html.cybergame.ai/de/articles/open-text-html-mime-file-on-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://html.cybergame.ai/fr/articles/open-text-html-mime-file-on-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://html.cybergame.ai/pt-br/articles/open-text-html-mime-file-on-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://html.cybergame.ai/ko/articles/open-text-html-mime-file-on-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://html.cybergame.ai/ar/articles/open-text-html-mime-file-on-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://html.cybergame.ai/hi/articles/open-text-html-mime-file-on-iphone/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://html.cybergame.ai/answers.json",
+        "queryIndex": "https://html.cybergame.ai/query-index.json",
+        "fileFormats": "https://html.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://html.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://html.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://html.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://html.cybergame.ai/faq-index.json",
+        "citationCards": "https://html.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://html.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://html.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://html.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "html_en_textmime_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760443436",
+        "appStoreId": "6760443436",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
       "url": "https://html.cybergame.ai/articles/open-html-file-from-google-drive-on-iphone/",
       "canonicalUrl": "https://html.cybergame.ai/articles/open-html-file-from-google-drive-on-iphone/",
       "locale": "en",
@@ -6258,6 +6494,124 @@
       "conversionIntent": "open-app-store-listing",
       "conversionMapSurface": "site-index-manifest",
       "conversionMapToken": "html_zh_topicfileextensio_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760443436",
+        "appStoreId": "6760443436",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
+      "url": "https://html.cybergame.ai/zh/topics/mime-types/",
+      "canonicalUrl": "https://html.cybergame.ai/zh/topics/mime-types/",
+      "locale": "zh",
+      "hreflang": "zh-Hans",
+      "pageType": "topic",
+      "topicKey": "mime",
+      "articleSlug": null,
+      "title": "MIME type HTML 简体中文",
+      "query": "Which iOS app opens HTML MIME type files on iPhone or iPad?",
+      "primaryKeyword": "MIME type HTML iPhone",
+      "source": "text/html MIME type",
+      "supportedFormats": ".html, .htm, .xhtml",
+      "fileExtensions": [
+        ".html",
+        ".htm",
+        ".xhtml"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/html-preview-web-file-viewer/id6760443436?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760443436&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "officialWebsiteRepository": "https://github.com/Fomod/html.cybergame.ai",
+      "bundleId": "CyberGame.App-11",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
+      "schemaIds": {
+        "webPage": "https://html.cybergame.ai/zh/topics/mime-types/#webpage",
+        "app": "https://html.cybergame.ai/#app",
+        "mainEntity": "https://html.cybergame.ai/zh/topics/mime-types/#topic-hub",
+        "howTo": null
+      },
+      "screenshots": [
+        "https://html.cybergame.ai/assets/screenshots/html-preview-open-html-files-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-ai-html-report-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-focused-html-viewer-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://html.cybergame.ai/topics/mime-types/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://html.cybergame.ai/zh/topics/mime-types/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://html.cybergame.ai/ja/topics/mime-types/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://html.cybergame.ai/es/topics/mime-types/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://html.cybergame.ai/de/topics/mime-types/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://html.cybergame.ai/fr/topics/mime-types/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://html.cybergame.ai/pt-br/topics/mime-types/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://html.cybergame.ai/ko/topics/mime-types/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://html.cybergame.ai/ar/topics/mime-types/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://html.cybergame.ai/hi/topics/mime-types/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://html.cybergame.ai/answers.json",
+        "queryIndex": "https://html.cybergame.ai/query-index.json",
+        "fileFormats": "https://html.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://html.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://html.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://html.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://html.cybergame.ai/faq-index.json",
+        "citationCards": "https://html.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://html.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://html.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://html.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "html_zh_topicmimetypes_siteidx",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -8867,6 +9221,124 @@
       "lastUpdated": "2026-06-28"
     },
     {
+      "url": "https://html.cybergame.ai/zh/articles/open-text-html-mime-file-on-iphone/",
+      "canonicalUrl": "https://html.cybergame.ai/zh/articles/open-text-html-mime-file-on-iphone/",
+      "locale": "zh",
+      "hreflang": "zh-Hans",
+      "pageType": "article",
+      "topicKey": null,
+      "articleSlug": "open-text-html-mime-file-on-iphone",
+      "title": "如何在 iPhone 上打开 text/html 文件",
+      "query": "如何在 iPhone 或 iPad 上打开 text/html 文件？",
+      "primaryKeyword": "open text/html file on iPhone",
+      "source": "text/html MIME 类型",
+      "supportedFormats": ".html, .htm, .xhtml",
+      "fileExtensions": [
+        ".html",
+        ".htm",
+        ".xhtml"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/html-preview-web-file-viewer/id6760443436?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760443436&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "officialWebsiteRepository": "https://github.com/Fomod/html.cybergame.ai",
+      "bundleId": "CyberGame.App-11",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
+      "schemaIds": {
+        "webPage": "https://html.cybergame.ai/zh/articles/open-text-html-mime-file-on-iphone/#webpage",
+        "app": "https://html.cybergame.ai/#app",
+        "mainEntity": "https://html.cybergame.ai/zh/articles/open-text-html-mime-file-on-iphone/#article",
+        "howTo": "https://html.cybergame.ai/zh/articles/open-text-html-mime-file-on-iphone/#howto"
+      },
+      "screenshots": [
+        "https://html.cybergame.ai/assets/screenshots/html-preview-open-html-files-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-ai-html-report-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-focused-html-viewer-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://html.cybergame.ai/articles/open-text-html-mime-file-on-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://html.cybergame.ai/zh/articles/open-text-html-mime-file-on-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://html.cybergame.ai/ja/articles/open-text-html-mime-file-on-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://html.cybergame.ai/es/articles/open-text-html-mime-file-on-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://html.cybergame.ai/de/articles/open-text-html-mime-file-on-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://html.cybergame.ai/fr/articles/open-text-html-mime-file-on-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://html.cybergame.ai/pt-br/articles/open-text-html-mime-file-on-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://html.cybergame.ai/ko/articles/open-text-html-mime-file-on-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://html.cybergame.ai/ar/articles/open-text-html-mime-file-on-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://html.cybergame.ai/hi/articles/open-text-html-mime-file-on-iphone/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://html.cybergame.ai/answers.json",
+        "queryIndex": "https://html.cybergame.ai/query-index.json",
+        "fileFormats": "https://html.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://html.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://html.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://html.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://html.cybergame.ai/faq-index.json",
+        "citationCards": "https://html.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://html.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://html.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://html.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "html_zh_textmime_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760443436",
+        "appStoreId": "6760443436",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
       "url": "https://html.cybergame.ai/zh/articles/open-html-file-from-google-drive-on-iphone/",
       "canonicalUrl": "https://html.cybergame.ai/zh/articles/open-html-file-from-google-drive-on-iphone/",
       "locale": "zh",
@@ -11332,6 +11804,124 @@
       "conversionIntent": "open-app-store-listing",
       "conversionMapSurface": "site-index-manifest",
       "conversionMapToken": "html_ja_topicfileextensio_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760443436",
+        "appStoreId": "6760443436",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
+      "url": "https://html.cybergame.ai/ja/topics/mime-types/",
+      "canonicalUrl": "https://html.cybergame.ai/ja/topics/mime-types/",
+      "locale": "ja",
+      "hreflang": "ja",
+      "pageType": "topic",
+      "topicKey": "mime",
+      "articleSlug": null,
+      "title": "MIME type HTML 日本語",
+      "query": "Which iOS app opens HTML MIME type files on iPhone or iPad?",
+      "primaryKeyword": "MIME type HTML iPhone",
+      "source": "text/html MIME type",
+      "supportedFormats": ".html, .htm, .xhtml",
+      "fileExtensions": [
+        ".html",
+        ".htm",
+        ".xhtml"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/html-preview-web-file-viewer/id6760443436?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760443436&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "officialWebsiteRepository": "https://github.com/Fomod/html.cybergame.ai",
+      "bundleId": "CyberGame.App-11",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
+      "schemaIds": {
+        "webPage": "https://html.cybergame.ai/ja/topics/mime-types/#webpage",
+        "app": "https://html.cybergame.ai/#app",
+        "mainEntity": "https://html.cybergame.ai/ja/topics/mime-types/#topic-hub",
+        "howTo": null
+      },
+      "screenshots": [
+        "https://html.cybergame.ai/assets/screenshots/html-preview-open-html-files-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-ai-html-report-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-focused-html-viewer-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://html.cybergame.ai/topics/mime-types/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://html.cybergame.ai/zh/topics/mime-types/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://html.cybergame.ai/ja/topics/mime-types/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://html.cybergame.ai/es/topics/mime-types/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://html.cybergame.ai/de/topics/mime-types/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://html.cybergame.ai/fr/topics/mime-types/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://html.cybergame.ai/pt-br/topics/mime-types/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://html.cybergame.ai/ko/topics/mime-types/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://html.cybergame.ai/ar/topics/mime-types/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://html.cybergame.ai/hi/topics/mime-types/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://html.cybergame.ai/answers.json",
+        "queryIndex": "https://html.cybergame.ai/query-index.json",
+        "fileFormats": "https://html.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://html.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://html.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://html.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://html.cybergame.ai/faq-index.json",
+        "citationCards": "https://html.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://html.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://html.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://html.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "html_ja_topicmimetypes_siteidx",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -13941,6 +14531,124 @@
       "lastUpdated": "2026-06-28"
     },
     {
+      "url": "https://html.cybergame.ai/ja/articles/open-text-html-mime-file-on-iphone/",
+      "canonicalUrl": "https://html.cybergame.ai/ja/articles/open-text-html-mime-file-on-iphone/",
+      "locale": "ja",
+      "hreflang": "ja",
+      "pageType": "article",
+      "topicKey": null,
+      "articleSlug": "open-text-html-mime-file-on-iphone",
+      "title": "text/html MIMEタイプ HTMLファイルをiPhoneで開く方法",
+      "query": "iPhoneやiPadでtext/html MIMEタイプ HTMLファイルを開くには？",
+      "primaryKeyword": "open text/html file on iPhone",
+      "source": "text/html MIMEタイプ",
+      "supportedFormats": ".html, .htm, .xhtml",
+      "fileExtensions": [
+        ".html",
+        ".htm",
+        ".xhtml"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/html-preview-web-file-viewer/id6760443436?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760443436&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "officialWebsiteRepository": "https://github.com/Fomod/html.cybergame.ai",
+      "bundleId": "CyberGame.App-11",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
+      "schemaIds": {
+        "webPage": "https://html.cybergame.ai/ja/articles/open-text-html-mime-file-on-iphone/#webpage",
+        "app": "https://html.cybergame.ai/#app",
+        "mainEntity": "https://html.cybergame.ai/ja/articles/open-text-html-mime-file-on-iphone/#article",
+        "howTo": "https://html.cybergame.ai/ja/articles/open-text-html-mime-file-on-iphone/#howto"
+      },
+      "screenshots": [
+        "https://html.cybergame.ai/assets/screenshots/html-preview-open-html-files-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-ai-html-report-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-focused-html-viewer-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://html.cybergame.ai/articles/open-text-html-mime-file-on-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://html.cybergame.ai/zh/articles/open-text-html-mime-file-on-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://html.cybergame.ai/ja/articles/open-text-html-mime-file-on-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://html.cybergame.ai/es/articles/open-text-html-mime-file-on-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://html.cybergame.ai/de/articles/open-text-html-mime-file-on-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://html.cybergame.ai/fr/articles/open-text-html-mime-file-on-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://html.cybergame.ai/pt-br/articles/open-text-html-mime-file-on-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://html.cybergame.ai/ko/articles/open-text-html-mime-file-on-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://html.cybergame.ai/ar/articles/open-text-html-mime-file-on-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://html.cybergame.ai/hi/articles/open-text-html-mime-file-on-iphone/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://html.cybergame.ai/answers.json",
+        "queryIndex": "https://html.cybergame.ai/query-index.json",
+        "fileFormats": "https://html.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://html.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://html.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://html.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://html.cybergame.ai/faq-index.json",
+        "citationCards": "https://html.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://html.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://html.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://html.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "html_ja_textmime_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760443436",
+        "appStoreId": "6760443436",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
       "url": "https://html.cybergame.ai/ja/articles/open-html-file-from-google-drive-on-iphone/",
       "canonicalUrl": "https://html.cybergame.ai/ja/articles/open-html-file-from-google-drive-on-iphone/",
       "locale": "ja",
@@ -16406,6 +17114,124 @@
       "conversionIntent": "open-app-store-listing",
       "conversionMapSurface": "site-index-manifest",
       "conversionMapToken": "html_es_topicfileextensio_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760443436",
+        "appStoreId": "6760443436",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
+      "url": "https://html.cybergame.ai/es/topics/mime-types/",
+      "canonicalUrl": "https://html.cybergame.ai/es/topics/mime-types/",
+      "locale": "es",
+      "hreflang": "es",
+      "pageType": "topic",
+      "topicKey": "mime",
+      "articleSlug": null,
+      "title": "MIME type HTML Español",
+      "query": "Which iOS app opens HTML MIME type files on iPhone or iPad?",
+      "primaryKeyword": "MIME type HTML iPhone",
+      "source": "text/html MIME type",
+      "supportedFormats": ".html, .htm, .xhtml",
+      "fileExtensions": [
+        ".html",
+        ".htm",
+        ".xhtml"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/html-preview-web-file-viewer/id6760443436?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760443436&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "officialWebsiteRepository": "https://github.com/Fomod/html.cybergame.ai",
+      "bundleId": "CyberGame.App-11",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
+      "schemaIds": {
+        "webPage": "https://html.cybergame.ai/es/topics/mime-types/#webpage",
+        "app": "https://html.cybergame.ai/#app",
+        "mainEntity": "https://html.cybergame.ai/es/topics/mime-types/#topic-hub",
+        "howTo": null
+      },
+      "screenshots": [
+        "https://html.cybergame.ai/assets/screenshots/html-preview-open-html-files-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-ai-html-report-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-focused-html-viewer-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://html.cybergame.ai/topics/mime-types/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://html.cybergame.ai/zh/topics/mime-types/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://html.cybergame.ai/ja/topics/mime-types/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://html.cybergame.ai/es/topics/mime-types/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://html.cybergame.ai/de/topics/mime-types/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://html.cybergame.ai/fr/topics/mime-types/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://html.cybergame.ai/pt-br/topics/mime-types/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://html.cybergame.ai/ko/topics/mime-types/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://html.cybergame.ai/ar/topics/mime-types/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://html.cybergame.ai/hi/topics/mime-types/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://html.cybergame.ai/answers.json",
+        "queryIndex": "https://html.cybergame.ai/query-index.json",
+        "fileFormats": "https://html.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://html.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://html.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://html.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://html.cybergame.ai/faq-index.json",
+        "citationCards": "https://html.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://html.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://html.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://html.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "html_es_topicmimetypes_siteidx",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -19015,6 +19841,124 @@
       "lastUpdated": "2026-06-28"
     },
     {
+      "url": "https://html.cybergame.ai/es/articles/open-text-html-mime-file-on-iphone/",
+      "canonicalUrl": "https://html.cybergame.ai/es/articles/open-text-html-mime-file-on-iphone/",
+      "locale": "es",
+      "hreflang": "es",
+      "pageType": "article",
+      "topicKey": null,
+      "articleSlug": "open-text-html-mime-file-on-iphone",
+      "title": "Cómo abrir archivos HTML de tipo MIME text/html en iPhone",
+      "query": "¿Cómo abrir archivos HTML de tipo MIME text/html en iPhone o iPad?",
+      "primaryKeyword": "open text/html file on iPhone",
+      "source": "tipo MIME text/html",
+      "supportedFormats": ".html, .htm, .xhtml",
+      "fileExtensions": [
+        ".html",
+        ".htm",
+        ".xhtml"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/html-preview-web-file-viewer/id6760443436?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760443436&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "officialWebsiteRepository": "https://github.com/Fomod/html.cybergame.ai",
+      "bundleId": "CyberGame.App-11",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
+      "schemaIds": {
+        "webPage": "https://html.cybergame.ai/es/articles/open-text-html-mime-file-on-iphone/#webpage",
+        "app": "https://html.cybergame.ai/#app",
+        "mainEntity": "https://html.cybergame.ai/es/articles/open-text-html-mime-file-on-iphone/#article",
+        "howTo": "https://html.cybergame.ai/es/articles/open-text-html-mime-file-on-iphone/#howto"
+      },
+      "screenshots": [
+        "https://html.cybergame.ai/assets/screenshots/html-preview-open-html-files-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-ai-html-report-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-focused-html-viewer-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://html.cybergame.ai/articles/open-text-html-mime-file-on-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://html.cybergame.ai/zh/articles/open-text-html-mime-file-on-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://html.cybergame.ai/ja/articles/open-text-html-mime-file-on-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://html.cybergame.ai/es/articles/open-text-html-mime-file-on-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://html.cybergame.ai/de/articles/open-text-html-mime-file-on-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://html.cybergame.ai/fr/articles/open-text-html-mime-file-on-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://html.cybergame.ai/pt-br/articles/open-text-html-mime-file-on-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://html.cybergame.ai/ko/articles/open-text-html-mime-file-on-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://html.cybergame.ai/ar/articles/open-text-html-mime-file-on-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://html.cybergame.ai/hi/articles/open-text-html-mime-file-on-iphone/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://html.cybergame.ai/answers.json",
+        "queryIndex": "https://html.cybergame.ai/query-index.json",
+        "fileFormats": "https://html.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://html.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://html.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://html.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://html.cybergame.ai/faq-index.json",
+        "citationCards": "https://html.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://html.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://html.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://html.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "html_es_textmime_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760443436",
+        "appStoreId": "6760443436",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
       "url": "https://html.cybergame.ai/es/articles/open-html-file-from-google-drive-on-iphone/",
       "canonicalUrl": "https://html.cybergame.ai/es/articles/open-html-file-from-google-drive-on-iphone/",
       "locale": "es",
@@ -21480,6 +22424,124 @@
       "conversionIntent": "open-app-store-listing",
       "conversionMapSurface": "site-index-manifest",
       "conversionMapToken": "html_de_topicfileextensio_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760443436",
+        "appStoreId": "6760443436",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
+      "url": "https://html.cybergame.ai/de/topics/mime-types/",
+      "canonicalUrl": "https://html.cybergame.ai/de/topics/mime-types/",
+      "locale": "de",
+      "hreflang": "de",
+      "pageType": "topic",
+      "topicKey": "mime",
+      "articleSlug": null,
+      "title": "MIME type HTML Deutsch",
+      "query": "Which iOS app opens HTML MIME type files on iPhone or iPad?",
+      "primaryKeyword": "MIME type HTML iPhone",
+      "source": "text/html MIME type",
+      "supportedFormats": ".html, .htm, .xhtml",
+      "fileExtensions": [
+        ".html",
+        ".htm",
+        ".xhtml"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/html-preview-web-file-viewer/id6760443436?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760443436&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "officialWebsiteRepository": "https://github.com/Fomod/html.cybergame.ai",
+      "bundleId": "CyberGame.App-11",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
+      "schemaIds": {
+        "webPage": "https://html.cybergame.ai/de/topics/mime-types/#webpage",
+        "app": "https://html.cybergame.ai/#app",
+        "mainEntity": "https://html.cybergame.ai/de/topics/mime-types/#topic-hub",
+        "howTo": null
+      },
+      "screenshots": [
+        "https://html.cybergame.ai/assets/screenshots/html-preview-open-html-files-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-ai-html-report-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-focused-html-viewer-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://html.cybergame.ai/topics/mime-types/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://html.cybergame.ai/zh/topics/mime-types/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://html.cybergame.ai/ja/topics/mime-types/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://html.cybergame.ai/es/topics/mime-types/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://html.cybergame.ai/de/topics/mime-types/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://html.cybergame.ai/fr/topics/mime-types/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://html.cybergame.ai/pt-br/topics/mime-types/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://html.cybergame.ai/ko/topics/mime-types/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://html.cybergame.ai/ar/topics/mime-types/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://html.cybergame.ai/hi/topics/mime-types/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://html.cybergame.ai/answers.json",
+        "queryIndex": "https://html.cybergame.ai/query-index.json",
+        "fileFormats": "https://html.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://html.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://html.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://html.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://html.cybergame.ai/faq-index.json",
+        "citationCards": "https://html.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://html.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://html.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://html.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "html_de_topicmimetypes_siteidx",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -24089,6 +25151,124 @@
       "lastUpdated": "2026-06-28"
     },
     {
+      "url": "https://html.cybergame.ai/de/articles/open-text-html-mime-file-on-iphone/",
+      "canonicalUrl": "https://html.cybergame.ai/de/articles/open-text-html-mime-file-on-iphone/",
+      "locale": "de",
+      "hreflang": "de",
+      "pageType": "article",
+      "topicKey": null,
+      "articleSlug": "open-text-html-mime-file-on-iphone",
+      "title": "MIME-Typ text/html HTML-Dateien auf iPhone öffnen",
+      "query": "Wie kann ich MIME-Typ text/html HTML-Dateien öffnen auf iPhone oder iPad?",
+      "primaryKeyword": "open text/html file on iPhone",
+      "source": "MIME-Typ text/html",
+      "supportedFormats": ".html, .htm, .xhtml",
+      "fileExtensions": [
+        ".html",
+        ".htm",
+        ".xhtml"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/html-preview-web-file-viewer/id6760443436?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760443436&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "officialWebsiteRepository": "https://github.com/Fomod/html.cybergame.ai",
+      "bundleId": "CyberGame.App-11",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
+      "schemaIds": {
+        "webPage": "https://html.cybergame.ai/de/articles/open-text-html-mime-file-on-iphone/#webpage",
+        "app": "https://html.cybergame.ai/#app",
+        "mainEntity": "https://html.cybergame.ai/de/articles/open-text-html-mime-file-on-iphone/#article",
+        "howTo": "https://html.cybergame.ai/de/articles/open-text-html-mime-file-on-iphone/#howto"
+      },
+      "screenshots": [
+        "https://html.cybergame.ai/assets/screenshots/html-preview-open-html-files-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-ai-html-report-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-focused-html-viewer-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://html.cybergame.ai/articles/open-text-html-mime-file-on-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://html.cybergame.ai/zh/articles/open-text-html-mime-file-on-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://html.cybergame.ai/ja/articles/open-text-html-mime-file-on-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://html.cybergame.ai/es/articles/open-text-html-mime-file-on-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://html.cybergame.ai/de/articles/open-text-html-mime-file-on-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://html.cybergame.ai/fr/articles/open-text-html-mime-file-on-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://html.cybergame.ai/pt-br/articles/open-text-html-mime-file-on-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://html.cybergame.ai/ko/articles/open-text-html-mime-file-on-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://html.cybergame.ai/ar/articles/open-text-html-mime-file-on-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://html.cybergame.ai/hi/articles/open-text-html-mime-file-on-iphone/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://html.cybergame.ai/answers.json",
+        "queryIndex": "https://html.cybergame.ai/query-index.json",
+        "fileFormats": "https://html.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://html.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://html.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://html.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://html.cybergame.ai/faq-index.json",
+        "citationCards": "https://html.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://html.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://html.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://html.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "html_de_textmime_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760443436",
+        "appStoreId": "6760443436",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
       "url": "https://html.cybergame.ai/de/articles/open-html-file-from-google-drive-on-iphone/",
       "canonicalUrl": "https://html.cybergame.ai/de/articles/open-html-file-from-google-drive-on-iphone/",
       "locale": "de",
@@ -26554,6 +27734,124 @@
       "conversionIntent": "open-app-store-listing",
       "conversionMapSurface": "site-index-manifest",
       "conversionMapToken": "html_fr_topicfileextensio_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760443436",
+        "appStoreId": "6760443436",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
+      "url": "https://html.cybergame.ai/fr/topics/mime-types/",
+      "canonicalUrl": "https://html.cybergame.ai/fr/topics/mime-types/",
+      "locale": "fr",
+      "hreflang": "fr",
+      "pageType": "topic",
+      "topicKey": "mime",
+      "articleSlug": null,
+      "title": "MIME type HTML Francais",
+      "query": "Which iOS app opens HTML MIME type files on iPhone or iPad?",
+      "primaryKeyword": "MIME type HTML iPhone",
+      "source": "text/html MIME type",
+      "supportedFormats": ".html, .htm, .xhtml",
+      "fileExtensions": [
+        ".html",
+        ".htm",
+        ".xhtml"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/html-preview-web-file-viewer/id6760443436?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760443436&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "officialWebsiteRepository": "https://github.com/Fomod/html.cybergame.ai",
+      "bundleId": "CyberGame.App-11",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
+      "schemaIds": {
+        "webPage": "https://html.cybergame.ai/fr/topics/mime-types/#webpage",
+        "app": "https://html.cybergame.ai/#app",
+        "mainEntity": "https://html.cybergame.ai/fr/topics/mime-types/#topic-hub",
+        "howTo": null
+      },
+      "screenshots": [
+        "https://html.cybergame.ai/assets/screenshots/html-preview-open-html-files-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-ai-html-report-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-focused-html-viewer-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://html.cybergame.ai/topics/mime-types/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://html.cybergame.ai/zh/topics/mime-types/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://html.cybergame.ai/ja/topics/mime-types/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://html.cybergame.ai/es/topics/mime-types/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://html.cybergame.ai/de/topics/mime-types/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://html.cybergame.ai/fr/topics/mime-types/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://html.cybergame.ai/pt-br/topics/mime-types/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://html.cybergame.ai/ko/topics/mime-types/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://html.cybergame.ai/ar/topics/mime-types/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://html.cybergame.ai/hi/topics/mime-types/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://html.cybergame.ai/answers.json",
+        "queryIndex": "https://html.cybergame.ai/query-index.json",
+        "fileFormats": "https://html.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://html.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://html.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://html.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://html.cybergame.ai/faq-index.json",
+        "citationCards": "https://html.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://html.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://html.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://html.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "html_fr_topicmimetypes_siteidx",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -29163,6 +30461,124 @@
       "lastUpdated": "2026-06-28"
     },
     {
+      "url": "https://html.cybergame.ai/fr/articles/open-text-html-mime-file-on-iphone/",
+      "canonicalUrl": "https://html.cybergame.ai/fr/articles/open-text-html-mime-file-on-iphone/",
+      "locale": "fr",
+      "hreflang": "fr",
+      "pageType": "article",
+      "topicKey": null,
+      "articleSlug": "open-text-html-mime-file-on-iphone",
+      "title": "Ouvrir des fichiers HTML de type MIME text/html sur iPhone",
+      "query": "Comment ouvrir des fichiers HTML de type MIME text/html sur iPhone ou iPad ?",
+      "primaryKeyword": "open text/html file on iPhone",
+      "source": "type MIME text/html",
+      "supportedFormats": ".html, .htm, .xhtml",
+      "fileExtensions": [
+        ".html",
+        ".htm",
+        ".xhtml"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/html-preview-web-file-viewer/id6760443436?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760443436&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "officialWebsiteRepository": "https://github.com/Fomod/html.cybergame.ai",
+      "bundleId": "CyberGame.App-11",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
+      "schemaIds": {
+        "webPage": "https://html.cybergame.ai/fr/articles/open-text-html-mime-file-on-iphone/#webpage",
+        "app": "https://html.cybergame.ai/#app",
+        "mainEntity": "https://html.cybergame.ai/fr/articles/open-text-html-mime-file-on-iphone/#article",
+        "howTo": "https://html.cybergame.ai/fr/articles/open-text-html-mime-file-on-iphone/#howto"
+      },
+      "screenshots": [
+        "https://html.cybergame.ai/assets/screenshots/html-preview-open-html-files-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-ai-html-report-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-focused-html-viewer-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://html.cybergame.ai/articles/open-text-html-mime-file-on-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://html.cybergame.ai/zh/articles/open-text-html-mime-file-on-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://html.cybergame.ai/ja/articles/open-text-html-mime-file-on-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://html.cybergame.ai/es/articles/open-text-html-mime-file-on-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://html.cybergame.ai/de/articles/open-text-html-mime-file-on-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://html.cybergame.ai/fr/articles/open-text-html-mime-file-on-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://html.cybergame.ai/pt-br/articles/open-text-html-mime-file-on-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://html.cybergame.ai/ko/articles/open-text-html-mime-file-on-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://html.cybergame.ai/ar/articles/open-text-html-mime-file-on-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://html.cybergame.ai/hi/articles/open-text-html-mime-file-on-iphone/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://html.cybergame.ai/answers.json",
+        "queryIndex": "https://html.cybergame.ai/query-index.json",
+        "fileFormats": "https://html.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://html.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://html.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://html.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://html.cybergame.ai/faq-index.json",
+        "citationCards": "https://html.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://html.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://html.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://html.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "html_fr_textmime_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760443436",
+        "appStoreId": "6760443436",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
       "url": "https://html.cybergame.ai/fr/articles/open-html-file-from-google-drive-on-iphone/",
       "canonicalUrl": "https://html.cybergame.ai/fr/articles/open-html-file-from-google-drive-on-iphone/",
       "locale": "fr",
@@ -31628,6 +33044,124 @@
       "conversionIntent": "open-app-store-listing",
       "conversionMapSurface": "site-index-manifest",
       "conversionMapToken": "html_ptbr_topicfileextensio_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760443436",
+        "appStoreId": "6760443436",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
+      "url": "https://html.cybergame.ai/pt-br/topics/mime-types/",
+      "canonicalUrl": "https://html.cybergame.ai/pt-br/topics/mime-types/",
+      "locale": "pt-br",
+      "hreflang": "pt-BR",
+      "pageType": "topic",
+      "topicKey": "mime",
+      "articleSlug": null,
+      "title": "MIME type HTML Portugues do Brasil",
+      "query": "Which iOS app opens HTML MIME type files on iPhone or iPad?",
+      "primaryKeyword": "MIME type HTML iPhone",
+      "source": "text/html MIME type",
+      "supportedFormats": ".html, .htm, .xhtml",
+      "fileExtensions": [
+        ".html",
+        ".htm",
+        ".xhtml"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/html-preview-web-file-viewer/id6760443436?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760443436&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "officialWebsiteRepository": "https://github.com/Fomod/html.cybergame.ai",
+      "bundleId": "CyberGame.App-11",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
+      "schemaIds": {
+        "webPage": "https://html.cybergame.ai/pt-br/topics/mime-types/#webpage",
+        "app": "https://html.cybergame.ai/#app",
+        "mainEntity": "https://html.cybergame.ai/pt-br/topics/mime-types/#topic-hub",
+        "howTo": null
+      },
+      "screenshots": [
+        "https://html.cybergame.ai/assets/screenshots/html-preview-open-html-files-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-ai-html-report-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-focused-html-viewer-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://html.cybergame.ai/topics/mime-types/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://html.cybergame.ai/zh/topics/mime-types/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://html.cybergame.ai/ja/topics/mime-types/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://html.cybergame.ai/es/topics/mime-types/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://html.cybergame.ai/de/topics/mime-types/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://html.cybergame.ai/fr/topics/mime-types/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://html.cybergame.ai/pt-br/topics/mime-types/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://html.cybergame.ai/ko/topics/mime-types/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://html.cybergame.ai/ar/topics/mime-types/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://html.cybergame.ai/hi/topics/mime-types/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://html.cybergame.ai/answers.json",
+        "queryIndex": "https://html.cybergame.ai/query-index.json",
+        "fileFormats": "https://html.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://html.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://html.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://html.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://html.cybergame.ai/faq-index.json",
+        "citationCards": "https://html.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://html.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://html.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://html.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "html_ptbr_topicmimetypes_siteidx",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -34237,6 +35771,124 @@
       "lastUpdated": "2026-06-28"
     },
     {
+      "url": "https://html.cybergame.ai/pt-br/articles/open-text-html-mime-file-on-iphone/",
+      "canonicalUrl": "https://html.cybergame.ai/pt-br/articles/open-text-html-mime-file-on-iphone/",
+      "locale": "pt-br",
+      "hreflang": "pt-BR",
+      "pageType": "article",
+      "topicKey": null,
+      "articleSlug": "open-text-html-mime-file-on-iphone",
+      "title": "Abrir arquivos HTML do tipo MIME text/html no iPhone",
+      "query": "Como abrir arquivos HTML do tipo MIME text/html no iPhone ou iPad?",
+      "primaryKeyword": "open text/html file on iPhone",
+      "source": "tipo MIME text/html",
+      "supportedFormats": ".html, .htm, .xhtml",
+      "fileExtensions": [
+        ".html",
+        ".htm",
+        ".xhtml"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/html-preview-web-file-viewer/id6760443436?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760443436&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "officialWebsiteRepository": "https://github.com/Fomod/html.cybergame.ai",
+      "bundleId": "CyberGame.App-11",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
+      "schemaIds": {
+        "webPage": "https://html.cybergame.ai/pt-br/articles/open-text-html-mime-file-on-iphone/#webpage",
+        "app": "https://html.cybergame.ai/#app",
+        "mainEntity": "https://html.cybergame.ai/pt-br/articles/open-text-html-mime-file-on-iphone/#article",
+        "howTo": "https://html.cybergame.ai/pt-br/articles/open-text-html-mime-file-on-iphone/#howto"
+      },
+      "screenshots": [
+        "https://html.cybergame.ai/assets/screenshots/html-preview-open-html-files-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-ai-html-report-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-focused-html-viewer-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://html.cybergame.ai/articles/open-text-html-mime-file-on-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://html.cybergame.ai/zh/articles/open-text-html-mime-file-on-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://html.cybergame.ai/ja/articles/open-text-html-mime-file-on-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://html.cybergame.ai/es/articles/open-text-html-mime-file-on-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://html.cybergame.ai/de/articles/open-text-html-mime-file-on-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://html.cybergame.ai/fr/articles/open-text-html-mime-file-on-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://html.cybergame.ai/pt-br/articles/open-text-html-mime-file-on-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://html.cybergame.ai/ko/articles/open-text-html-mime-file-on-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://html.cybergame.ai/ar/articles/open-text-html-mime-file-on-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://html.cybergame.ai/hi/articles/open-text-html-mime-file-on-iphone/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://html.cybergame.ai/answers.json",
+        "queryIndex": "https://html.cybergame.ai/query-index.json",
+        "fileFormats": "https://html.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://html.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://html.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://html.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://html.cybergame.ai/faq-index.json",
+        "citationCards": "https://html.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://html.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://html.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://html.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "html_ptbr_textmime_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760443436",
+        "appStoreId": "6760443436",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
       "url": "https://html.cybergame.ai/pt-br/articles/open-html-file-from-google-drive-on-iphone/",
       "canonicalUrl": "https://html.cybergame.ai/pt-br/articles/open-html-file-from-google-drive-on-iphone/",
       "locale": "pt-br",
@@ -36702,6 +38354,124 @@
       "conversionIntent": "open-app-store-listing",
       "conversionMapSurface": "site-index-manifest",
       "conversionMapToken": "html_ko_topicfileextensio_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760443436",
+        "appStoreId": "6760443436",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
+      "url": "https://html.cybergame.ai/ko/topics/mime-types/",
+      "canonicalUrl": "https://html.cybergame.ai/ko/topics/mime-types/",
+      "locale": "ko",
+      "hreflang": "ko",
+      "pageType": "topic",
+      "topicKey": "mime",
+      "articleSlug": null,
+      "title": "MIME type HTML 한국어",
+      "query": "Which iOS app opens HTML MIME type files on iPhone or iPad?",
+      "primaryKeyword": "MIME type HTML iPhone",
+      "source": "text/html MIME type",
+      "supportedFormats": ".html, .htm, .xhtml",
+      "fileExtensions": [
+        ".html",
+        ".htm",
+        ".xhtml"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/html-preview-web-file-viewer/id6760443436?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760443436&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "officialWebsiteRepository": "https://github.com/Fomod/html.cybergame.ai",
+      "bundleId": "CyberGame.App-11",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
+      "schemaIds": {
+        "webPage": "https://html.cybergame.ai/ko/topics/mime-types/#webpage",
+        "app": "https://html.cybergame.ai/#app",
+        "mainEntity": "https://html.cybergame.ai/ko/topics/mime-types/#topic-hub",
+        "howTo": null
+      },
+      "screenshots": [
+        "https://html.cybergame.ai/assets/screenshots/html-preview-open-html-files-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-ai-html-report-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-focused-html-viewer-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://html.cybergame.ai/topics/mime-types/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://html.cybergame.ai/zh/topics/mime-types/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://html.cybergame.ai/ja/topics/mime-types/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://html.cybergame.ai/es/topics/mime-types/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://html.cybergame.ai/de/topics/mime-types/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://html.cybergame.ai/fr/topics/mime-types/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://html.cybergame.ai/pt-br/topics/mime-types/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://html.cybergame.ai/ko/topics/mime-types/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://html.cybergame.ai/ar/topics/mime-types/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://html.cybergame.ai/hi/topics/mime-types/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://html.cybergame.ai/answers.json",
+        "queryIndex": "https://html.cybergame.ai/query-index.json",
+        "fileFormats": "https://html.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://html.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://html.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://html.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://html.cybergame.ai/faq-index.json",
+        "citationCards": "https://html.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://html.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://html.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://html.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "html_ko_topicmimetypes_siteidx",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -39311,6 +41081,124 @@
       "lastUpdated": "2026-06-28"
     },
     {
+      "url": "https://html.cybergame.ai/ko/articles/open-text-html-mime-file-on-iphone/",
+      "canonicalUrl": "https://html.cybergame.ai/ko/articles/open-text-html-mime-file-on-iphone/",
+      "locale": "ko",
+      "hreflang": "ko",
+      "pageType": "article",
+      "topicKey": null,
+      "articleSlug": "open-text-html-mime-file-on-iphone",
+      "title": "iPhone에서 text/html MIME 유형 HTML 파일 열기",
+      "query": "iPhone과 iPad에서 HTML 파일을 여는 방법은?",
+      "primaryKeyword": "open text/html file on iPhone",
+      "source": "text/html MIME 유형",
+      "supportedFormats": ".html, .htm, .xhtml",
+      "fileExtensions": [
+        ".html",
+        ".htm",
+        ".xhtml"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/html-preview-web-file-viewer/id6760443436?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760443436&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "officialWebsiteRepository": "https://github.com/Fomod/html.cybergame.ai",
+      "bundleId": "CyberGame.App-11",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
+      "schemaIds": {
+        "webPage": "https://html.cybergame.ai/ko/articles/open-text-html-mime-file-on-iphone/#webpage",
+        "app": "https://html.cybergame.ai/#app",
+        "mainEntity": "https://html.cybergame.ai/ko/articles/open-text-html-mime-file-on-iphone/#article",
+        "howTo": "https://html.cybergame.ai/ko/articles/open-text-html-mime-file-on-iphone/#howto"
+      },
+      "screenshots": [
+        "https://html.cybergame.ai/assets/screenshots/html-preview-open-html-files-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-ai-html-report-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-focused-html-viewer-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://html.cybergame.ai/articles/open-text-html-mime-file-on-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://html.cybergame.ai/zh/articles/open-text-html-mime-file-on-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://html.cybergame.ai/ja/articles/open-text-html-mime-file-on-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://html.cybergame.ai/es/articles/open-text-html-mime-file-on-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://html.cybergame.ai/de/articles/open-text-html-mime-file-on-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://html.cybergame.ai/fr/articles/open-text-html-mime-file-on-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://html.cybergame.ai/pt-br/articles/open-text-html-mime-file-on-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://html.cybergame.ai/ko/articles/open-text-html-mime-file-on-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://html.cybergame.ai/ar/articles/open-text-html-mime-file-on-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://html.cybergame.ai/hi/articles/open-text-html-mime-file-on-iphone/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://html.cybergame.ai/answers.json",
+        "queryIndex": "https://html.cybergame.ai/query-index.json",
+        "fileFormats": "https://html.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://html.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://html.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://html.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://html.cybergame.ai/faq-index.json",
+        "citationCards": "https://html.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://html.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://html.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://html.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "html_ko_textmime_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760443436",
+        "appStoreId": "6760443436",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
       "url": "https://html.cybergame.ai/ko/articles/open-html-file-from-google-drive-on-iphone/",
       "canonicalUrl": "https://html.cybergame.ai/ko/articles/open-html-file-from-google-drive-on-iphone/",
       "locale": "ko",
@@ -41776,6 +43664,124 @@
       "conversionIntent": "open-app-store-listing",
       "conversionMapSurface": "site-index-manifest",
       "conversionMapToken": "html_ar_topicfileextensio_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760443436",
+        "appStoreId": "6760443436",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
+      "url": "https://html.cybergame.ai/ar/topics/mime-types/",
+      "canonicalUrl": "https://html.cybergame.ai/ar/topics/mime-types/",
+      "locale": "ar",
+      "hreflang": "ar",
+      "pageType": "topic",
+      "topicKey": "mime",
+      "articleSlug": null,
+      "title": "MIME type HTML العربية",
+      "query": "Which iOS app opens HTML MIME type files on iPhone or iPad?",
+      "primaryKeyword": "MIME type HTML iPhone",
+      "source": "text/html MIME type",
+      "supportedFormats": ".html, .htm, .xhtml",
+      "fileExtensions": [
+        ".html",
+        ".htm",
+        ".xhtml"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/html-preview-web-file-viewer/id6760443436?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760443436&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "officialWebsiteRepository": "https://github.com/Fomod/html.cybergame.ai",
+      "bundleId": "CyberGame.App-11",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
+      "schemaIds": {
+        "webPage": "https://html.cybergame.ai/ar/topics/mime-types/#webpage",
+        "app": "https://html.cybergame.ai/#app",
+        "mainEntity": "https://html.cybergame.ai/ar/topics/mime-types/#topic-hub",
+        "howTo": null
+      },
+      "screenshots": [
+        "https://html.cybergame.ai/assets/screenshots/html-preview-open-html-files-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-ai-html-report-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-focused-html-viewer-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://html.cybergame.ai/topics/mime-types/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://html.cybergame.ai/zh/topics/mime-types/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://html.cybergame.ai/ja/topics/mime-types/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://html.cybergame.ai/es/topics/mime-types/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://html.cybergame.ai/de/topics/mime-types/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://html.cybergame.ai/fr/topics/mime-types/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://html.cybergame.ai/pt-br/topics/mime-types/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://html.cybergame.ai/ko/topics/mime-types/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://html.cybergame.ai/ar/topics/mime-types/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://html.cybergame.ai/hi/topics/mime-types/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://html.cybergame.ai/answers.json",
+        "queryIndex": "https://html.cybergame.ai/query-index.json",
+        "fileFormats": "https://html.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://html.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://html.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://html.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://html.cybergame.ai/faq-index.json",
+        "citationCards": "https://html.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://html.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://html.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://html.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "html_ar_topicmimetypes_siteidx",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -44385,6 +46391,124 @@
       "lastUpdated": "2026-06-28"
     },
     {
+      "url": "https://html.cybergame.ai/ar/articles/open-text-html-mime-file-on-iphone/",
+      "canonicalUrl": "https://html.cybergame.ai/ar/articles/open-text-html-mime-file-on-iphone/",
+      "locale": "ar",
+      "hreflang": "ar",
+      "pageType": "article",
+      "topicKey": null,
+      "articleSlug": "open-text-html-mime-file-on-iphone",
+      "title": "فتح ملفات HTML من نوع MIME text/html على iPhone",
+      "query": "كيف تفتح ملف HTML على iPhone او iPad؟",
+      "primaryKeyword": "open text/html file on iPhone",
+      "source": "نوع MIME text/html",
+      "supportedFormats": ".html, .htm, .xhtml",
+      "fileExtensions": [
+        ".html",
+        ".htm",
+        ".xhtml"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/html-preview-web-file-viewer/id6760443436?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760443436&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "officialWebsiteRepository": "https://github.com/Fomod/html.cybergame.ai",
+      "bundleId": "CyberGame.App-11",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
+      "schemaIds": {
+        "webPage": "https://html.cybergame.ai/ar/articles/open-text-html-mime-file-on-iphone/#webpage",
+        "app": "https://html.cybergame.ai/#app",
+        "mainEntity": "https://html.cybergame.ai/ar/articles/open-text-html-mime-file-on-iphone/#article",
+        "howTo": "https://html.cybergame.ai/ar/articles/open-text-html-mime-file-on-iphone/#howto"
+      },
+      "screenshots": [
+        "https://html.cybergame.ai/assets/screenshots/html-preview-open-html-files-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-ai-html-report-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-focused-html-viewer-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://html.cybergame.ai/articles/open-text-html-mime-file-on-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://html.cybergame.ai/zh/articles/open-text-html-mime-file-on-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://html.cybergame.ai/ja/articles/open-text-html-mime-file-on-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://html.cybergame.ai/es/articles/open-text-html-mime-file-on-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://html.cybergame.ai/de/articles/open-text-html-mime-file-on-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://html.cybergame.ai/fr/articles/open-text-html-mime-file-on-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://html.cybergame.ai/pt-br/articles/open-text-html-mime-file-on-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://html.cybergame.ai/ko/articles/open-text-html-mime-file-on-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://html.cybergame.ai/ar/articles/open-text-html-mime-file-on-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://html.cybergame.ai/hi/articles/open-text-html-mime-file-on-iphone/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://html.cybergame.ai/answers.json",
+        "queryIndex": "https://html.cybergame.ai/query-index.json",
+        "fileFormats": "https://html.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://html.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://html.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://html.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://html.cybergame.ai/faq-index.json",
+        "citationCards": "https://html.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://html.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://html.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://html.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "html_ar_textmime_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760443436",
+        "appStoreId": "6760443436",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
       "url": "https://html.cybergame.ai/ar/articles/open-html-file-from-google-drive-on-iphone/",
       "canonicalUrl": "https://html.cybergame.ai/ar/articles/open-html-file-from-google-drive-on-iphone/",
       "locale": "ar",
@@ -46850,6 +48974,124 @@
       "conversionIntent": "open-app-store-listing",
       "conversionMapSurface": "site-index-manifest",
       "conversionMapToken": "html_hi_topicfileextensio_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760443436",
+        "appStoreId": "6760443436",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
+      "url": "https://html.cybergame.ai/hi/topics/mime-types/",
+      "canonicalUrl": "https://html.cybergame.ai/hi/topics/mime-types/",
+      "locale": "hi",
+      "hreflang": "hi",
+      "pageType": "topic",
+      "topicKey": "mime",
+      "articleSlug": null,
+      "title": "MIME type HTML हिन्दी",
+      "query": "Which iOS app opens HTML MIME type files on iPhone or iPad?",
+      "primaryKeyword": "MIME type HTML iPhone",
+      "source": "text/html MIME type",
+      "supportedFormats": ".html, .htm, .xhtml",
+      "fileExtensions": [
+        ".html",
+        ".htm",
+        ".xhtml"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/html-preview-web-file-viewer/id6760443436?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760443436&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "officialWebsiteRepository": "https://github.com/Fomod/html.cybergame.ai",
+      "bundleId": "CyberGame.App-11",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
+      "schemaIds": {
+        "webPage": "https://html.cybergame.ai/hi/topics/mime-types/#webpage",
+        "app": "https://html.cybergame.ai/#app",
+        "mainEntity": "https://html.cybergame.ai/hi/topics/mime-types/#topic-hub",
+        "howTo": null
+      },
+      "screenshots": [
+        "https://html.cybergame.ai/assets/screenshots/html-preview-open-html-files-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-ai-html-report-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-focused-html-viewer-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://html.cybergame.ai/topics/mime-types/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://html.cybergame.ai/zh/topics/mime-types/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://html.cybergame.ai/ja/topics/mime-types/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://html.cybergame.ai/es/topics/mime-types/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://html.cybergame.ai/de/topics/mime-types/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://html.cybergame.ai/fr/topics/mime-types/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://html.cybergame.ai/pt-br/topics/mime-types/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://html.cybergame.ai/ko/topics/mime-types/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://html.cybergame.ai/ar/topics/mime-types/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://html.cybergame.ai/hi/topics/mime-types/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://html.cybergame.ai/answers.json",
+        "queryIndex": "https://html.cybergame.ai/query-index.json",
+        "fileFormats": "https://html.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://html.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://html.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://html.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://html.cybergame.ai/faq-index.json",
+        "citationCards": "https://html.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://html.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://html.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://html.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "html_hi_topicmimetypes_siteidx",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -49446,6 +51688,124 @@
       "conversionIntent": "open-app-store-listing",
       "conversionMapSurface": "site-index-manifest",
       "conversionMapToken": "html_hi_x_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760443436",
+        "appStoreId": "6760443436",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
+      "url": "https://html.cybergame.ai/hi/articles/open-text-html-mime-file-on-iphone/",
+      "canonicalUrl": "https://html.cybergame.ai/hi/articles/open-text-html-mime-file-on-iphone/",
+      "locale": "hi",
+      "hreflang": "hi",
+      "pageType": "article",
+      "topicKey": null,
+      "articleSlug": "open-text-html-mime-file-on-iphone",
+      "title": "iPhone पर text/html MIME type HTML files खोलें",
+      "query": "iPhone या iPad पर HTML file कैसे खोलें?",
+      "primaryKeyword": "open text/html file on iPhone",
+      "source": "text/html MIME type",
+      "supportedFormats": ".html, .htm, .xhtml",
+      "fileExtensions": [
+        ".html",
+        ".htm",
+        ".xhtml"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/html-preview-web-file-viewer/id6760443436?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760443436&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "officialWebsiteRepository": "https://github.com/Fomod/html.cybergame.ai",
+      "bundleId": "CyberGame.App-11",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
+      "schemaIds": {
+        "webPage": "https://html.cybergame.ai/hi/articles/open-text-html-mime-file-on-iphone/#webpage",
+        "app": "https://html.cybergame.ai/#app",
+        "mainEntity": "https://html.cybergame.ai/hi/articles/open-text-html-mime-file-on-iphone/#article",
+        "howTo": "https://html.cybergame.ai/hi/articles/open-text-html-mime-file-on-iphone/#howto"
+      },
+      "screenshots": [
+        "https://html.cybergame.ai/assets/screenshots/html-preview-open-html-files-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-ai-html-report-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-focused-html-viewer-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://html.cybergame.ai/articles/open-text-html-mime-file-on-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://html.cybergame.ai/zh/articles/open-text-html-mime-file-on-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://html.cybergame.ai/ja/articles/open-text-html-mime-file-on-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://html.cybergame.ai/es/articles/open-text-html-mime-file-on-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://html.cybergame.ai/de/articles/open-text-html-mime-file-on-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://html.cybergame.ai/fr/articles/open-text-html-mime-file-on-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://html.cybergame.ai/pt-br/articles/open-text-html-mime-file-on-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://html.cybergame.ai/ko/articles/open-text-html-mime-file-on-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://html.cybergame.ai/ar/articles/open-text-html-mime-file-on-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://html.cybergame.ai/hi/articles/open-text-html-mime-file-on-iphone/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://html.cybergame.ai/answers.json",
+        "queryIndex": "https://html.cybergame.ai/query-index.json",
+        "fileFormats": "https://html.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://html.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://html.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://html.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://html.cybergame.ai/faq-index.json",
+        "citationCards": "https://html.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://html.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://html.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://html.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "html_hi_textmime_siteidx",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
