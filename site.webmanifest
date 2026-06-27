@@ -36,21 +36,21 @@
   ],
   "screenshots": [
     {
-      "src": "/assets/screenshots/app-store-screenshot-1.png",
+      "src": "/assets/screenshots/html-preview-open-html-files-iphone.png",
       "sizes": "1242x2688",
       "type": "image/png",
       "form_factor": "narrow",
       "label": "Open any HTML in one tap"
     },
     {
-      "src": "/assets/screenshots/app-store-screenshot-2.png",
+      "src": "/assets/screenshots/html-preview-ai-html-report-iphone.png",
       "sizes": "1242x2688",
       "type": "image/png",
       "form_factor": "narrow",
       "label": "AI chatbots make HTML"
     },
     {
-      "src": "/assets/screenshots/app-store-screenshot-3.png",
+      "src": "/assets/screenshots/html-preview-focused-html-viewer-iphone.png",
       "sizes": "1242x2688",
       "type": "image/png",
       "form_factor": "narrow",
