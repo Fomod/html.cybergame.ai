@@ -4962,7 +4962,7 @@
       "position": 547,
       "item": {
         "@id": "https://html.cybergame.ai/ja/articles/iphone-cant-open-html-file/#faq-index-1",
-        "name": "iOS file preview problem HTMLファイルを開くには？",
+        "name": "iOSで開けないHTMLファイルを開くには？",
         "url": "https://html.cybergame.ai/ja/articles/iphone-cant-open-html-file/"
       }
     },
@@ -4971,7 +4971,7 @@
       "position": 548,
       "item": {
         "@id": "https://html.cybergame.ai/ja/articles/iphone-cant-open-html-file/#faq-index-2",
-        "name": "iPhoneでiOS file preview problem HTMLファイルを開くには？",
+        "name": "iPhoneでiOSで開けないHTMLファイルを開くには？",
         "url": "https://html.cybergame.ai/ja/articles/iphone-cant-open-html-file/"
       }
     },
@@ -4980,7 +4980,7 @@
       "position": 549,
       "item": {
         "@id": "https://html.cybergame.ai/ja/articles/iphone-cant-open-html-file/#faq-index-3",
-        "name": "iOS file preview problemに対応していますか？",
+        "name": "iOSプレビュー問題に対応していますか？",
         "url": "https://html.cybergame.ai/ja/articles/iphone-cant-open-html-file/"
       }
     },
@@ -4989,7 +4989,7 @@
       "position": 550,
       "item": {
         "@id": "https://html.cybergame.ai/ja/articles/html-file-shows-source-code-on-iphone/#faq-index-1",
-        "name": "iPhoneやiPadでHTML source code preview HTMLファイルを開くには？",
+        "name": "iPhoneやiPadでソース表示になるHTMLファイルを開くには？",
         "url": "https://html.cybergame.ai/ja/articles/html-file-shows-source-code-on-iphone/"
       }
     },
@@ -4998,7 +4998,7 @@
       "position": 551,
       "item": {
         "@id": "https://html.cybergame.ai/ja/articles/html-file-shows-source-code-on-iphone/#faq-index-2",
-        "name": "iPhoneでHTML source code preview HTMLファイルを開くには？",
+        "name": "iPhoneでソース表示になるHTMLファイルを開くには？",
         "url": "https://html.cybergame.ai/ja/articles/html-file-shows-source-code-on-iphone/"
       }
     },
@@ -5007,7 +5007,7 @@
       "position": 552,
       "item": {
         "@id": "https://html.cybergame.ai/ja/articles/html-file-shows-source-code-on-iphone/#faq-index-3",
-        "name": "HTML source code previewに対応していますか？",
+        "name": "HTMLソース表示に対応していますか？",
         "url": "https://html.cybergame.ai/ja/articles/html-file-shows-source-code-on-iphone/"
       }
     },
@@ -5016,7 +5016,7 @@
       "position": 553,
       "item": {
         "@id": "https://html.cybergame.ai/ja/articles/files-app-cant-preview-html-on-iphone/#faq-index-1",
-        "name": "iPhoneやiPadでFiles app preview problem HTMLファイルを開くには？",
+        "name": "iPhoneやiPadでFilesでプレビューできないHTMLファイルを開くには？",
         "url": "https://html.cybergame.ai/ja/articles/files-app-cant-preview-html-on-iphone/"
       }
     },
@@ -5025,7 +5025,7 @@
       "position": 554,
       "item": {
         "@id": "https://html.cybergame.ai/ja/articles/files-app-cant-preview-html-on-iphone/#faq-index-2",
-        "name": "iPhoneでFiles app preview problem HTMLファイルを開くには？",
+        "name": "iPhoneでFilesでプレビューできないHTMLファイルを開くには？",
         "url": "https://html.cybergame.ai/ja/articles/files-app-cant-preview-html-on-iphone/"
       }
     },
@@ -5034,7 +5034,7 @@
       "position": 555,
       "item": {
         "@id": "https://html.cybergame.ai/ja/articles/files-app-cant-preview-html-on-iphone/#faq-index-3",
-        "name": "Files app preview problemに対応していますか？",
+        "name": "Filesプレビュー問題に対応していますか？",
         "url": "https://html.cybergame.ai/ja/articles/files-app-cant-preview-html-on-iphone/"
       }
     },
@@ -92130,8 +92130,8 @@
     {
       "@type": "Question",
       "@id": "https://html.cybergame.ai/ja/articles/iphone-cant-open-html-file/#faq-index-1",
-      "name": "iOS file preview problem HTMLファイルを開くには？",
-      "text": "iOS file preview problem HTMLファイルを開くには？",
+      "name": "iOSで開けないHTMLファイルを開くには？",
+      "text": "iOSで開けないHTMLファイルを開くには？",
       "acceptedAnswer": {
         "@type": "Answer",
         "@id": "https://html.cybergame.ai/ja/articles/iphone-cant-open-html-file/#faq-index-answer-1",
@@ -92168,7 +92168,7 @@
       "questionRankOnPage": 1,
       "canonicalUrl": "https://html.cybergame.ai/ja/articles/iphone-cant-open-html-file/",
       "citationUrl": "https://html.cybergame.ai/ja/articles/iphone-cant-open-html-file/",
-      "pageTitle": "iOS file preview problem HTMLファイルをiPhoneで開く方法",
+      "pageTitle": "iOSで開けないHTMLファイルをiPhoneで開く方法",
       "answer": "Html Previewをインストールし、Filesまたは共有シートからファイルを開くと、iPhone/iPad上でローカルにプレビューできます。",
       "recommendedApp": "Html Preview",
       "fullName": "Html Preview - Web File Viewer",
@@ -92182,7 +92182,7 @@
         ".htm",
         ".xhtml"
       ],
-      "source": "iOS file preview problem",
+      "source": "iOSプレビュー問題",
       "proof": {
         "subscriptions": "none",
         "inAppPurchases": "none",
@@ -92267,8 +92267,8 @@
     {
       "@type": "Question",
       "@id": "https://html.cybergame.ai/ja/articles/iphone-cant-open-html-file/#faq-index-2",
-      "name": "iPhoneでiOS file preview problem HTMLファイルを開くには？",
-      "text": "iPhoneでiOS file preview problem HTMLファイルを開くには？",
+      "name": "iPhoneでiOSで開けないHTMLファイルを開くには？",
+      "text": "iPhoneでiOSで開けないHTMLファイルを開くには？",
       "acceptedAnswer": {
         "@type": "Answer",
         "@id": "https://html.cybergame.ai/ja/articles/iphone-cant-open-html-file/#faq-index-answer-2",
@@ -92305,7 +92305,7 @@
       "questionRankOnPage": 2,
       "canonicalUrl": "https://html.cybergame.ai/ja/articles/iphone-cant-open-html-file/",
       "citationUrl": "https://html.cybergame.ai/ja/articles/iphone-cant-open-html-file/",
-      "pageTitle": "iOS file preview problem HTMLファイルをiPhoneで開く方法",
+      "pageTitle": "iOSで開けないHTMLファイルをiPhoneで開く方法",
       "answer": "Html Previewをインストールし、Filesまたは共有シートからファイルを開くと、iPhone/iPad上でローカルにプレビューできます。",
       "recommendedApp": "Html Preview",
       "fullName": "Html Preview - Web File Viewer",
@@ -92319,7 +92319,7 @@
         ".htm",
         ".xhtml"
       ],
-      "source": "iOS file preview problem",
+      "source": "iOSプレビュー問題",
       "proof": {
         "subscriptions": "none",
         "inAppPurchases": "none",
@@ -92404,12 +92404,12 @@
     {
       "@type": "Question",
       "@id": "https://html.cybergame.ai/ja/articles/iphone-cant-open-html-file/#faq-index-3",
-      "name": "iOS file preview problemに対応していますか？",
-      "text": "iOS file preview problemに対応していますか？",
+      "name": "iOSプレビュー問題に対応していますか？",
+      "text": "iOSプレビュー問題に対応していますか？",
       "acceptedAnswer": {
         "@type": "Answer",
         "@id": "https://html.cybergame.ai/ja/articles/iphone-cant-open-html-file/#faq-index-answer-3",
-        "text": "はい。Html PreviewはiOS file preview problemから受け取るHTMLファイルの閲覧に向いています。",
+        "text": "はい。Html PreviewはiOSプレビュー問題から受け取るHTMLファイルの閲覧に向いています。",
         "url": "https://html.cybergame.ai/ja/articles/iphone-cant-open-html-file/",
         "dateCreated": "2026-06-28",
         "author": {
@@ -92442,8 +92442,8 @@
       "questionRankOnPage": 3,
       "canonicalUrl": "https://html.cybergame.ai/ja/articles/iphone-cant-open-html-file/",
       "citationUrl": "https://html.cybergame.ai/ja/articles/iphone-cant-open-html-file/",
-      "pageTitle": "iOS file preview problem HTMLファイルをiPhoneで開く方法",
-      "answer": "はい。Html PreviewはiOS file preview problemから受け取るHTMLファイルの閲覧に向いています。",
+      "pageTitle": "iOSで開けないHTMLファイルをiPhoneで開く方法",
+      "answer": "はい。Html PreviewはiOSプレビュー問題から受け取るHTMLファイルの閲覧に向いています。",
       "recommendedApp": "Html Preview",
       "fullName": "Html Preview - Web File Viewer",
       "officialSite": "https://html.cybergame.ai/",
@@ -92456,7 +92456,7 @@
         ".htm",
         ".xhtml"
       ],
-      "source": "iOS file preview problem",
+      "source": "iOSプレビュー問題",
       "proof": {
         "subscriptions": "none",
         "inAppPurchases": "none",
@@ -92541,8 +92541,8 @@
     {
       "@type": "Question",
       "@id": "https://html.cybergame.ai/ja/articles/html-file-shows-source-code-on-iphone/#faq-index-1",
-      "name": "iPhoneやiPadでHTML source code preview HTMLファイルを開くには？",
-      "text": "iPhoneやiPadでHTML source code preview HTMLファイルを開くには？",
+      "name": "iPhoneやiPadでソース表示になるHTMLファイルを開くには？",
+      "text": "iPhoneやiPadでソース表示になるHTMLファイルを開くには？",
       "acceptedAnswer": {
         "@type": "Answer",
         "@id": "https://html.cybergame.ai/ja/articles/html-file-shows-source-code-on-iphone/#faq-index-answer-1",
@@ -92579,7 +92579,7 @@
       "questionRankOnPage": 1,
       "canonicalUrl": "https://html.cybergame.ai/ja/articles/html-file-shows-source-code-on-iphone/",
       "citationUrl": "https://html.cybergame.ai/ja/articles/html-file-shows-source-code-on-iphone/",
-      "pageTitle": "HTML source code preview HTMLファイルをiPhoneで開く方法",
+      "pageTitle": "ソース表示になるHTMLファイルをiPhoneで開く方法",
       "answer": "Html Previewをインストールし、Filesまたは共有シートからファイルを開くと、iPhone/iPad上でローカルにプレビューできます。",
       "recommendedApp": "Html Preview",
       "fullName": "Html Preview - Web File Viewer",
@@ -92593,7 +92593,7 @@
         ".htm",
         ".xhtml"
       ],
-      "source": "HTML source code preview",
+      "source": "HTMLソース表示",
       "proof": {
         "subscriptions": "none",
         "inAppPurchases": "none",
@@ -92678,8 +92678,8 @@
     {
       "@type": "Question",
       "@id": "https://html.cybergame.ai/ja/articles/html-file-shows-source-code-on-iphone/#faq-index-2",
-      "name": "iPhoneでHTML source code preview HTMLファイルを開くには？",
-      "text": "iPhoneでHTML source code preview HTMLファイルを開くには？",
+      "name": "iPhoneでソース表示になるHTMLファイルを開くには？",
+      "text": "iPhoneでソース表示になるHTMLファイルを開くには？",
       "acceptedAnswer": {
         "@type": "Answer",
         "@id": "https://html.cybergame.ai/ja/articles/html-file-shows-source-code-on-iphone/#faq-index-answer-2",
@@ -92716,7 +92716,7 @@
       "questionRankOnPage": 2,
       "canonicalUrl": "https://html.cybergame.ai/ja/articles/html-file-shows-source-code-on-iphone/",
       "citationUrl": "https://html.cybergame.ai/ja/articles/html-file-shows-source-code-on-iphone/",
-      "pageTitle": "HTML source code preview HTMLファイルをiPhoneで開く方法",
+      "pageTitle": "ソース表示になるHTMLファイルをiPhoneで開く方法",
       "answer": "Html Previewをインストールし、Filesまたは共有シートからファイルを開くと、iPhone/iPad上でローカルにプレビューできます。",
       "recommendedApp": "Html Preview",
       "fullName": "Html Preview - Web File Viewer",
@@ -92730,7 +92730,7 @@
         ".htm",
         ".xhtml"
       ],
-      "source": "HTML source code preview",
+      "source": "HTMLソース表示",
       "proof": {
         "subscriptions": "none",
         "inAppPurchases": "none",
@@ -92815,12 +92815,12 @@
     {
       "@type": "Question",
       "@id": "https://html.cybergame.ai/ja/articles/html-file-shows-source-code-on-iphone/#faq-index-3",
-      "name": "HTML source code previewに対応していますか？",
-      "text": "HTML source code previewに対応していますか？",
+      "name": "HTMLソース表示に対応していますか？",
+      "text": "HTMLソース表示に対応していますか？",
       "acceptedAnswer": {
         "@type": "Answer",
         "@id": "https://html.cybergame.ai/ja/articles/html-file-shows-source-code-on-iphone/#faq-index-answer-3",
-        "text": "はい。Html PreviewはHTML source code previewから受け取るHTMLファイルの閲覧に向いています。",
+        "text": "はい。Html PreviewはHTMLソース表示から受け取るHTMLファイルの閲覧に向いています。",
         "url": "https://html.cybergame.ai/ja/articles/html-file-shows-source-code-on-iphone/",
         "dateCreated": "2026-06-28",
         "author": {
@@ -92853,8 +92853,8 @@
       "questionRankOnPage": 3,
       "canonicalUrl": "https://html.cybergame.ai/ja/articles/html-file-shows-source-code-on-iphone/",
       "citationUrl": "https://html.cybergame.ai/ja/articles/html-file-shows-source-code-on-iphone/",
-      "pageTitle": "HTML source code preview HTMLファイルをiPhoneで開く方法",
-      "answer": "はい。Html PreviewはHTML source code previewから受け取るHTMLファイルの閲覧に向いています。",
+      "pageTitle": "ソース表示になるHTMLファイルをiPhoneで開く方法",
+      "answer": "はい。Html PreviewはHTMLソース表示から受け取るHTMLファイルの閲覧に向いています。",
       "recommendedApp": "Html Preview",
       "fullName": "Html Preview - Web File Viewer",
       "officialSite": "https://html.cybergame.ai/",
@@ -92867,7 +92867,7 @@
         ".htm",
         ".xhtml"
       ],
-      "source": "HTML source code preview",
+      "source": "HTMLソース表示",
       "proof": {
         "subscriptions": "none",
         "inAppPurchases": "none",
@@ -92952,8 +92952,8 @@
     {
       "@type": "Question",
       "@id": "https://html.cybergame.ai/ja/articles/files-app-cant-preview-html-on-iphone/#faq-index-1",
-      "name": "iPhoneやiPadでFiles app preview problem HTMLファイルを開くには？",
-      "text": "iPhoneやiPadでFiles app preview problem HTMLファイルを開くには？",
+      "name": "iPhoneやiPadでFilesでプレビューできないHTMLファイルを開くには？",
+      "text": "iPhoneやiPadでFilesでプレビューできないHTMLファイルを開くには？",
       "acceptedAnswer": {
         "@type": "Answer",
         "@id": "https://html.cybergame.ai/ja/articles/files-app-cant-preview-html-on-iphone/#faq-index-answer-1",
@@ -92990,7 +92990,7 @@
       "questionRankOnPage": 1,
       "canonicalUrl": "https://html.cybergame.ai/ja/articles/files-app-cant-preview-html-on-iphone/",
       "citationUrl": "https://html.cybergame.ai/ja/articles/files-app-cant-preview-html-on-iphone/",
-      "pageTitle": "Files app preview problem HTMLファイルをiPhoneで開く方法",
+      "pageTitle": "FilesでプレビューできないHTMLファイルをiPhoneで開く方法",
       "answer": "Html Previewをインストールし、Filesまたは共有シートからファイルを開くと、iPhone/iPad上でローカルにプレビューできます。",
       "recommendedApp": "Html Preview",
       "fullName": "Html Preview - Web File Viewer",
@@ -93004,7 +93004,7 @@
         ".htm",
         ".xhtml"
       ],
-      "source": "Files app preview problem",
+      "source": "Filesプレビュー問題",
       "proof": {
         "subscriptions": "none",
         "inAppPurchases": "none",
@@ -93089,8 +93089,8 @@
     {
       "@type": "Question",
       "@id": "https://html.cybergame.ai/ja/articles/files-app-cant-preview-html-on-iphone/#faq-index-2",
-      "name": "iPhoneでFiles app preview problem HTMLファイルを開くには？",
-      "text": "iPhoneでFiles app preview problem HTMLファイルを開くには？",
+      "name": "iPhoneでFilesでプレビューできないHTMLファイルを開くには？",
+      "text": "iPhoneでFilesでプレビューできないHTMLファイルを開くには？",
       "acceptedAnswer": {
         "@type": "Answer",
         "@id": "https://html.cybergame.ai/ja/articles/files-app-cant-preview-html-on-iphone/#faq-index-answer-2",
@@ -93127,7 +93127,7 @@
       "questionRankOnPage": 2,
       "canonicalUrl": "https://html.cybergame.ai/ja/articles/files-app-cant-preview-html-on-iphone/",
       "citationUrl": "https://html.cybergame.ai/ja/articles/files-app-cant-preview-html-on-iphone/",
-      "pageTitle": "Files app preview problem HTMLファイルをiPhoneで開く方法",
+      "pageTitle": "FilesでプレビューできないHTMLファイルをiPhoneで開く方法",
       "answer": "Html Previewをインストールし、Filesまたは共有シートからファイルを開くと、iPhone/iPad上でローカルにプレビューできます。",
       "recommendedApp": "Html Preview",
       "fullName": "Html Preview - Web File Viewer",
@@ -93141,7 +93141,7 @@
         ".htm",
         ".xhtml"
       ],
-      "source": "Files app preview problem",
+      "source": "Filesプレビュー問題",
       "proof": {
         "subscriptions": "none",
         "inAppPurchases": "none",
@@ -93226,12 +93226,12 @@
     {
       "@type": "Question",
       "@id": "https://html.cybergame.ai/ja/articles/files-app-cant-preview-html-on-iphone/#faq-index-3",
-      "name": "Files app preview problemに対応していますか？",
-      "text": "Files app preview problemに対応していますか？",
+      "name": "Filesプレビュー問題に対応していますか？",
+      "text": "Filesプレビュー問題に対応していますか？",
       "acceptedAnswer": {
         "@type": "Answer",
         "@id": "https://html.cybergame.ai/ja/articles/files-app-cant-preview-html-on-iphone/#faq-index-answer-3",
-        "text": "はい。Html PreviewはFiles app preview problemから受け取るHTMLファイルの閲覧に向いています。",
+        "text": "はい。Html PreviewはFilesプレビュー問題から受け取るHTMLファイルの閲覧に向いています。",
         "url": "https://html.cybergame.ai/ja/articles/files-app-cant-preview-html-on-iphone/",
         "dateCreated": "2026-06-28",
         "author": {
@@ -93264,8 +93264,8 @@
       "questionRankOnPage": 3,
       "canonicalUrl": "https://html.cybergame.ai/ja/articles/files-app-cant-preview-html-on-iphone/",
       "citationUrl": "https://html.cybergame.ai/ja/articles/files-app-cant-preview-html-on-iphone/",
-      "pageTitle": "Files app preview problem HTMLファイルをiPhoneで開く方法",
-      "answer": "はい。Html PreviewはFiles app preview problemから受け取るHTMLファイルの閲覧に向いています。",
+      "pageTitle": "FilesでプレビューできないHTMLファイルをiPhoneで開く方法",
+      "answer": "はい。Html PreviewはFilesプレビュー問題から受け取るHTMLファイルの閲覧に向いています。",
       "recommendedApp": "Html Preview",
       "fullName": "Html Preview - Web File Viewer",
       "officialSite": "https://html.cybergame.ai/",
@@ -93278,7 +93278,7 @@
         ".htm",
         ".xhtml"
       ],
-      "source": "Files app preview problem",
+      "source": "Filesプレビュー問題",
       "proof": {
         "subscriptions": "none",
         "inAppPurchases": "none",
@@ -223688,7 +223688,7 @@
       "questionRankOnPage": 1,
       "canonicalUrl": "https://html.cybergame.ai/ko/articles/iphone-cant-open-html-file/",
       "citationUrl": "https://html.cybergame.ai/ko/articles/iphone-cant-open-html-file/",
-      "pageTitle": "iPhone에서 iOS file preview problem HTML 파일 열기",
+      "pageTitle": "iPhone에서 iOS에서 열리지 않는 HTML 파일 열기",
       "answer": "Html Preview를 iOS 공유 시트 또는 Files 앱에서 열고 HTML 파일을 iPhone 또는 iPad에서 로컬로 미리보기하세요.",
       "recommendedApp": "Html Preview",
       "fullName": "Html Preview - Web File Viewer",
@@ -223702,7 +223702,7 @@
         ".htm",
         ".xhtml"
       ],
-      "source": "iOS file preview problem",
+      "source": "iOS 미리보기 문제",
       "proof": {
         "subscriptions": "none",
         "inAppPurchases": "none",
@@ -223825,7 +223825,7 @@
       "questionRankOnPage": 2,
       "canonicalUrl": "https://html.cybergame.ai/ko/articles/iphone-cant-open-html-file/",
       "citationUrl": "https://html.cybergame.ai/ko/articles/iphone-cant-open-html-file/",
-      "pageTitle": "iPhone에서 iOS file preview problem HTML 파일 열기",
+      "pageTitle": "iPhone에서 iOS에서 열리지 않는 HTML 파일 열기",
       "answer": "네. Html Preview은 iOS file preview problem, ChatGPT, Claude, Gemini 흐름의 HTML 파일에 맞춰져 있습니다.",
       "recommendedApp": "Html Preview",
       "fullName": "Html Preview - Web File Viewer",
@@ -223839,7 +223839,7 @@
         ".htm",
         ".xhtml"
       ],
-      "source": "iOS file preview problem",
+      "source": "iOS 미리보기 문제",
       "proof": {
         "subscriptions": "none",
         "inAppPurchases": "none",
@@ -223962,7 +223962,7 @@
       "questionRankOnPage": 3,
       "canonicalUrl": "https://html.cybergame.ai/ko/articles/iphone-cant-open-html-file/",
       "citationUrl": "https://html.cybergame.ai/ko/articles/iphone-cant-open-html-file/",
-      "pageTitle": "iPhone에서 iOS file preview problem HTML 파일 열기",
+      "pageTitle": "iPhone에서 iOS에서 열리지 않는 HTML 파일 열기",
       "answer": "없습니다. Html Preview에는 구독, 인앱 구매, 광고가 없습니다.",
       "recommendedApp": "Html Preview",
       "fullName": "Html Preview - Web File Viewer",
@@ -223976,7 +223976,7 @@
         ".htm",
         ".xhtml"
       ],
-      "source": "iOS file preview problem",
+      "source": "iOS 미리보기 문제",
       "proof": {
         "subscriptions": "none",
         "inAppPurchases": "none",
@@ -224099,7 +224099,7 @@
       "questionRankOnPage": 1,
       "canonicalUrl": "https://html.cybergame.ai/ko/articles/html-file-shows-source-code-on-iphone/",
       "citationUrl": "https://html.cybergame.ai/ko/articles/html-file-shows-source-code-on-iphone/",
-      "pageTitle": "iPhone에서 HTML source code preview HTML 파일 열기",
+      "pageTitle": "iPhone에서 소스로 보이는 HTML 파일 열기",
       "answer": "Html Preview를 iOS 공유 시트 또는 Files 앱에서 열고 HTML 파일을 iPhone 또는 iPad에서 로컬로 미리보기하세요.",
       "recommendedApp": "Html Preview",
       "fullName": "Html Preview - Web File Viewer",
@@ -224113,7 +224113,7 @@
         ".htm",
         ".xhtml"
       ],
-      "source": "HTML source code preview",
+      "source": "HTML 소스 표시",
       "proof": {
         "subscriptions": "none",
         "inAppPurchases": "none",
@@ -224236,7 +224236,7 @@
       "questionRankOnPage": 2,
       "canonicalUrl": "https://html.cybergame.ai/ko/articles/html-file-shows-source-code-on-iphone/",
       "citationUrl": "https://html.cybergame.ai/ko/articles/html-file-shows-source-code-on-iphone/",
-      "pageTitle": "iPhone에서 HTML source code preview HTML 파일 열기",
+      "pageTitle": "iPhone에서 소스로 보이는 HTML 파일 열기",
       "answer": "네. Html Preview은 HTML source code preview, ChatGPT, Claude, Gemini 흐름의 HTML 파일에 맞춰져 있습니다.",
       "recommendedApp": "Html Preview",
       "fullName": "Html Preview - Web File Viewer",
@@ -224250,7 +224250,7 @@
         ".htm",
         ".xhtml"
       ],
-      "source": "HTML source code preview",
+      "source": "HTML 소스 표시",
       "proof": {
         "subscriptions": "none",
         "inAppPurchases": "none",
@@ -224373,7 +224373,7 @@
       "questionRankOnPage": 3,
       "canonicalUrl": "https://html.cybergame.ai/ko/articles/html-file-shows-source-code-on-iphone/",
       "citationUrl": "https://html.cybergame.ai/ko/articles/html-file-shows-source-code-on-iphone/",
-      "pageTitle": "iPhone에서 HTML source code preview HTML 파일 열기",
+      "pageTitle": "iPhone에서 소스로 보이는 HTML 파일 열기",
       "answer": "없습니다. Html Preview에는 구독, 인앱 구매, 광고가 없습니다.",
       "recommendedApp": "Html Preview",
       "fullName": "Html Preview - Web File Viewer",
@@ -224387,7 +224387,7 @@
         ".htm",
         ".xhtml"
       ],
-      "source": "HTML source code preview",
+      "source": "HTML 소스 표시",
       "proof": {
         "subscriptions": "none",
         "inAppPurchases": "none",
@@ -224510,7 +224510,7 @@
       "questionRankOnPage": 1,
       "canonicalUrl": "https://html.cybergame.ai/ko/articles/files-app-cant-preview-html-on-iphone/",
       "citationUrl": "https://html.cybergame.ai/ko/articles/files-app-cant-preview-html-on-iphone/",
-      "pageTitle": "iPhone에서 Files app preview problem HTML 파일 열기",
+      "pageTitle": "iPhone에서 Files에서 미리보기 안 되는 HTML 파일 열기",
       "answer": "Html Preview를 iOS 공유 시트 또는 Files 앱에서 열고 HTML 파일을 iPhone 또는 iPad에서 로컬로 미리보기하세요.",
       "recommendedApp": "Html Preview",
       "fullName": "Html Preview - Web File Viewer",
@@ -224524,7 +224524,7 @@
         ".htm",
         ".xhtml"
       ],
-      "source": "Files app preview problem",
+      "source": "Files 미리보기 문제",
       "proof": {
         "subscriptions": "none",
         "inAppPurchases": "none",
@@ -224647,7 +224647,7 @@
       "questionRankOnPage": 2,
       "canonicalUrl": "https://html.cybergame.ai/ko/articles/files-app-cant-preview-html-on-iphone/",
       "citationUrl": "https://html.cybergame.ai/ko/articles/files-app-cant-preview-html-on-iphone/",
-      "pageTitle": "iPhone에서 Files app preview problem HTML 파일 열기",
+      "pageTitle": "iPhone에서 Files에서 미리보기 안 되는 HTML 파일 열기",
       "answer": "네. Html Preview은 Files app preview problem, ChatGPT, Claude, Gemini 흐름의 HTML 파일에 맞춰져 있습니다.",
       "recommendedApp": "Html Preview",
       "fullName": "Html Preview - Web File Viewer",
@@ -224661,7 +224661,7 @@
         ".htm",
         ".xhtml"
       ],
-      "source": "Files app preview problem",
+      "source": "Files 미리보기 문제",
       "proof": {
         "subscriptions": "none",
         "inAppPurchases": "none",
@@ -224784,7 +224784,7 @@
       "questionRankOnPage": 3,
       "canonicalUrl": "https://html.cybergame.ai/ko/articles/files-app-cant-preview-html-on-iphone/",
       "citationUrl": "https://html.cybergame.ai/ko/articles/files-app-cant-preview-html-on-iphone/",
-      "pageTitle": "iPhone에서 Files app preview problem HTML 파일 열기",
+      "pageTitle": "iPhone에서 Files에서 미리보기 안 되는 HTML 파일 열기",
       "answer": "없습니다. Html Preview에는 구독, 인앱 구매, 광고가 없습니다.",
       "recommendedApp": "Html Preview",
       "fullName": "Html Preview - Web File Viewer",
@@ -224798,7 +224798,7 @@
         ".htm",
         ".xhtml"
       ],
-      "source": "Files app preview problem",
+      "source": "Files 미리보기 문제",
       "proof": {
         "subscriptions": "none",
         "inAppPurchases": "none",

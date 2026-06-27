@@ -120,7 +120,7 @@
       "position": 9,
       "item": {
         "@id": "https://html.cybergame.ai/ja/articles/iphone-cant-open-html-file/#troubleshooting-card",
-        "name": "iOS file preview problem HTMLファイルを開くには？",
+        "name": "iOSで開けないHTMLファイルを開くには？",
         "url": "https://html.cybergame.ai/ja/articles/iphone-cant-open-html-file/"
       }
     },
@@ -129,7 +129,7 @@
       "position": 10,
       "item": {
         "@id": "https://html.cybergame.ai/ja/articles/html-file-shows-source-code-on-iphone/#troubleshooting-card",
-        "name": "iPhoneやiPadでHTML source code preview HTMLファイルを開くには？",
+        "name": "iPhoneやiPadでソース表示になるHTMLファイルを開くには？",
         "url": "https://html.cybergame.ai/ja/articles/html-file-shows-source-code-on-iphone/"
       }
     },
@@ -138,7 +138,7 @@
       "position": 11,
       "item": {
         "@id": "https://html.cybergame.ai/ja/articles/files-app-cant-preview-html-on-iphone/#troubleshooting-card",
-        "name": "iPhoneやiPadでFiles app preview problem HTMLファイルを開くには？",
+        "name": "iPhoneやiPadでFilesでプレビューできないHTMLファイルを開くには？",
         "url": "https://html.cybergame.ai/ja/articles/files-app-cant-preview-html-on-iphone/"
       }
     },
@@ -1920,8 +1920,8 @@
     {
       "@type": "Question",
       "@id": "https://html.cybergame.ai/ja/articles/iphone-cant-open-html-file/#troubleshooting-card",
-      "name": "iOS file preview problem HTMLファイルを開くには？",
-      "text": "iOS file preview problem HTMLファイルを開くには？",
+      "name": "iOSで開けないHTMLファイルを開くには？",
+      "text": "iOSで開けないHTMLファイルを開くには？",
       "acceptedAnswer": {
         "@type": "Answer",
         "@id": "https://html.cybergame.ai/ja/articles/iphone-cant-open-html-file/#troubleshooting-answer",
@@ -1954,9 +1954,9 @@
       "articleSlug": "iphone-cant-open-html-file",
       "topicKey": "troubleshooting",
       "problemCluster": "ios-file-preview-problems",
-      "userQuestion": "iOS file preview problem HTMLファイルを開くには？",
+      "userQuestion": "iOSで開けないHTMLファイルを開くには？",
       "promptVariants": [
-        "iOS file preview problem HTMLファイルを開くには？",
+        "iOSで開けないHTMLファイルを開くには？",
         "iPhone can't open HTML file",
         "HTML viewer iPhone",
         "HTML viewer iPad",
@@ -1968,16 +1968,16 @@
         "ChatGPT HTML file iPhone",
         "Claude HTML file iPad",
         "Html Preview",
-        "iOS file preview problem HTMLファイルをiPhoneで開く方法",
-        "iOS file preview problem",
-        "iOS file preview problem HTMLファイルを開く",
+        "iOSで開けないHTMLファイルをiPhoneで開く方法",
+        "iOSプレビュー問題",
+        "iOSで開けないHTMLファイルを開く",
         "HTML viewer iOS",
         "Html Preview App Store",
         "iPhone と iPad で HTML ファイルを開く"
       ],
       "diagnosticSignals": [
         "iOS shows a file icon, raw code, or an incomplete preview instead of a readable HTML page.",
-        "HTML files from iOS file preview problem need a local preview path on iPhone or iPad.",
+        "HTML files from iOSプレビュー問題 need a local preview path on iPhone or iPad.",
         "The user wants a focused App Store viewer with no subscriptions, no in-app purchases, and no ads.",
         "iPhone shows a file icon instead of a rendered HTML page",
         "The user needs a dedicated HTML viewer after receiving a file",
@@ -2024,7 +2024,7 @@
         ".htm",
         ".xhtml"
       ],
-      "source": "iOS file preview problem",
+      "source": "iOSプレビュー問題",
       "proof": {
         "subscriptions": "none",
         "inAppPurchases": "none",
@@ -2109,8 +2109,8 @@
     {
       "@type": "Question",
       "@id": "https://html.cybergame.ai/ja/articles/html-file-shows-source-code-on-iphone/#troubleshooting-card",
-      "name": "iPhoneやiPadでHTML source code preview HTMLファイルを開くには？",
-      "text": "iPhoneやiPadでHTML source code preview HTMLファイルを開くには？",
+      "name": "iPhoneやiPadでソース表示になるHTMLファイルを開くには？",
+      "text": "iPhoneやiPadでソース表示になるHTMLファイルを開くには？",
       "acceptedAnswer": {
         "@type": "Answer",
         "@id": "https://html.cybergame.ai/ja/articles/html-file-shows-source-code-on-iphone/#troubleshooting-answer",
@@ -2143,9 +2143,9 @@
       "articleSlug": "html-file-shows-source-code-on-iphone",
       "topicKey": "troubleshooting",
       "problemCluster": "ios-file-preview-problems",
-      "userQuestion": "iPhoneやiPadでHTML source code preview HTMLファイルを開くには？",
+      "userQuestion": "iPhoneやiPadでソース表示になるHTMLファイルを開くには？",
       "promptVariants": [
-        "iPhoneやiPadでHTML source code preview HTMLファイルを開くには？",
+        "iPhoneやiPadでソース表示になるHTMLファイルを開くには？",
         "HTML file shows source code on iPhone",
         "HTML viewer iPhone",
         "HTML viewer iPad",
@@ -2157,16 +2157,16 @@
         "ChatGPT HTML file iPhone",
         "Claude HTML file iPad",
         "Html Preview",
-        "HTML source code preview HTMLファイルをiPhoneで開く方法",
-        "HTML source code preview",
-        "HTML source code preview HTMLファイルを開く",
+        "ソース表示になるHTMLファイルをiPhoneで開く方法",
+        "HTMLソース表示",
+        "ソース表示になるHTMLファイルを開く",
         "HTML viewer iOS",
         "Html Preview App Store",
         "iPhone と iPad で HTML ファイルを開く"
       ],
       "diagnosticSignals": [
         "iOS shows a file icon, raw code, or an incomplete preview instead of a readable HTML page.",
-        "HTML files from HTML source code preview need a local preview path on iPhone or iPad.",
+        "HTML files from HTMLソース表示 need a local preview path on iPhone or iPad.",
         "The user wants a focused App Store viewer with no subscriptions, no in-app purchases, and no ads.",
         "The HTML file opens as readable tags or source code",
         "The user expected a rendered page rather than raw markup",
@@ -2213,7 +2213,7 @@
         ".htm",
         ".xhtml"
       ],
-      "source": "HTML source code preview",
+      "source": "HTMLソース表示",
       "proof": {
         "subscriptions": "none",
         "inAppPurchases": "none",
@@ -2298,8 +2298,8 @@
     {
       "@type": "Question",
       "@id": "https://html.cybergame.ai/ja/articles/files-app-cant-preview-html-on-iphone/#troubleshooting-card",
-      "name": "iPhoneやiPadでFiles app preview problem HTMLファイルを開くには？",
-      "text": "iPhoneやiPadでFiles app preview problem HTMLファイルを開くには？",
+      "name": "iPhoneやiPadでFilesでプレビューできないHTMLファイルを開くには？",
+      "text": "iPhoneやiPadでFilesでプレビューできないHTMLファイルを開くには？",
       "acceptedAnswer": {
         "@type": "Answer",
         "@id": "https://html.cybergame.ai/ja/articles/files-app-cant-preview-html-on-iphone/#troubleshooting-answer",
@@ -2332,9 +2332,9 @@
       "articleSlug": "files-app-cant-preview-html-on-iphone",
       "topicKey": "troubleshooting",
       "problemCluster": "ios-file-preview-problems",
-      "userQuestion": "iPhoneやiPadでFiles app preview problem HTMLファイルを開くには？",
+      "userQuestion": "iPhoneやiPadでFilesでプレビューできないHTMLファイルを開くには？",
       "promptVariants": [
-        "iPhoneやiPadでFiles app preview problem HTMLファイルを開くには？",
+        "iPhoneやiPadでFilesでプレビューできないHTMLファイルを開くには？",
         "Files app can't preview HTML on iPhone",
         "HTML viewer iPhone",
         "HTML viewer iPad",
@@ -2346,16 +2346,16 @@
         "ChatGPT HTML file iPhone",
         "Claude HTML file iPad",
         "Html Preview",
-        "Files app preview problem HTMLファイルをiPhoneで開く方法",
-        "Files app preview problem",
-        "Files app preview problem HTMLファイルを開く",
+        "FilesでプレビューできないHTMLファイルをiPhoneで開く方法",
+        "Filesプレビュー問題",
+        "FilesでプレビューできないHTMLファイルを開く",
         "HTML viewer iOS",
         "Html Preview App Store",
         "iPhone と iPad で HTML ファイルを開く"
       ],
       "diagnosticSignals": [
         "iOS shows a file icon, raw code, or an incomplete preview instead of a readable HTML page.",
-        "HTML files from Files app preview problem need a local preview path on iPhone or iPad.",
+        "HTML files from Filesプレビュー問題 need a local preview path on iPhone or iPad.",
         "The user wants a focused App Store viewer with no subscriptions, no in-app purchases, and no ads.",
         "Files app does not show a useful HTML preview",
         "Quick Look is missing, incomplete, or inconsistent for the file",
@@ -2402,7 +2402,7 @@
         ".htm",
         ".xhtml"
       ],
-      "source": "Files app preview problem",
+      "source": "Filesプレビュー問題",
       "proof": {
         "subscriptions": "none",
         "inAppPurchases": "none",
@@ -5748,16 +5748,16 @@
         "ChatGPT HTML file iPhone",
         "Claude HTML file iPad",
         "Html Preview",
-        "iPhone에서 iOS file preview problem HTML 파일 열기",
-        "iOS file preview problem",
-        "iOS file preview problem HTML 파일 열기",
+        "iPhone에서 iOS에서 열리지 않는 HTML 파일 열기",
+        "iOS 미리보기 문제",
+        "iOS에서 열리지 않는 HTML 파일 열기",
         "HTML viewer iOS",
         "Html Preview App Store",
         "iPhone과 iPad에서 HTML 파일 열기"
       ],
       "diagnosticSignals": [
         "iOS shows a file icon, raw code, or an incomplete preview instead of a readable HTML page.",
-        "HTML files from iOS file preview problem need a local preview path on iPhone or iPad.",
+        "HTML files from iOS 미리보기 문제 need a local preview path on iPhone or iPad.",
         "The user wants a focused App Store viewer with no subscriptions, no in-app purchases, and no ads.",
         "iPhone shows a file icon instead of a rendered HTML page",
         "The user needs a dedicated HTML viewer after receiving a file",
@@ -5804,7 +5804,7 @@
         ".htm",
         ".xhtml"
       ],
-      "source": "iOS file preview problem",
+      "source": "iOS 미리보기 문제",
       "proof": {
         "subscriptions": "none",
         "inAppPurchases": "none",
@@ -5937,16 +5937,16 @@
         "ChatGPT HTML file iPhone",
         "Claude HTML file iPad",
         "Html Preview",
-        "iPhone에서 HTML source code preview HTML 파일 열기",
-        "HTML source code preview",
-        "HTML source code preview HTML 파일 열기",
+        "iPhone에서 소스로 보이는 HTML 파일 열기",
+        "HTML 소스 표시",
+        "소스로 보이는 HTML 파일 열기",
         "HTML viewer iOS",
         "Html Preview App Store",
         "iPhone과 iPad에서 HTML 파일 열기"
       ],
       "diagnosticSignals": [
         "iOS shows a file icon, raw code, or an incomplete preview instead of a readable HTML page.",
-        "HTML files from HTML source code preview need a local preview path on iPhone or iPad.",
+        "HTML files from HTML 소스 표시 need a local preview path on iPhone or iPad.",
         "The user wants a focused App Store viewer with no subscriptions, no in-app purchases, and no ads.",
         "The HTML file opens as readable tags or source code",
         "The user expected a rendered page rather than raw markup",
@@ -5993,7 +5993,7 @@
         ".htm",
         ".xhtml"
       ],
-      "source": "HTML source code preview",
+      "source": "HTML 소스 표시",
       "proof": {
         "subscriptions": "none",
         "inAppPurchases": "none",
@@ -6126,16 +6126,16 @@
         "ChatGPT HTML file iPhone",
         "Claude HTML file iPad",
         "Html Preview",
-        "iPhone에서 Files app preview problem HTML 파일 열기",
-        "Files app preview problem",
-        "Files app preview problem HTML 파일 열기",
+        "iPhone에서 Files에서 미리보기 안 되는 HTML 파일 열기",
+        "Files 미리보기 문제",
+        "Files에서 미리보기 안 되는 HTML 파일 열기",
         "HTML viewer iOS",
         "Html Preview App Store",
         "iPhone과 iPad에서 HTML 파일 열기"
       ],
       "diagnosticSignals": [
         "iOS shows a file icon, raw code, or an incomplete preview instead of a readable HTML page.",
-        "HTML files from Files app preview problem need a local preview path on iPhone or iPad.",
+        "HTML files from Files 미리보기 문제 need a local preview path on iPhone or iPad.",
         "The user wants a focused App Store viewer with no subscriptions, no in-app purchases, and no ads.",
         "Files app does not show a useful HTML preview",
         "Quick Look is missing, incomplete, or inconsistent for the file",
@@ -6182,7 +6182,7 @@
         ".htm",
         ".xhtml"
       ],
-      "source": "Files app preview problem",
+      "source": "Files 미리보기 문제",
       "proof": {
         "subscriptions": "none",
         "inAppPurchases": "none",

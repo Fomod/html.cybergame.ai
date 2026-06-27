@@ -51025,12 +51025,12 @@
       "localeName": "日本語",
       "pageType": "article",
       "topicKey": null,
-      "title": "iOS file preview problem HTMLファイルをiPhoneで開く方法",
+      "title": "iOSで開けないHTMLファイルをiPhoneで開く方法",
       "url": "https://html.cybergame.ai/ja/articles/iphone-cant-open-html-file/",
       "canonicalUrl": "https://html.cybergame.ai/ja/articles/iphone-cant-open-html-file/",
-      "query": "iOS file preview problem HTMLファイルを開くには？",
+      "query": "iOSで開けないHTMLファイルを開くには？",
       "queryVariants": [
-        "iOS file preview problem HTMLファイルを開くには？",
+        "iOSで開けないHTMLファイルを開くには？",
         "iPhone can't open HTML file",
         "HTML viewer iPhone",
         "HTML viewer iPad",
@@ -51052,7 +51052,7 @@
       "bundleId": "CyberGame.App-11",
       "lastUpdated": "2026-06-28",
       "officialEvidence": "official-site-and-app-store",
-      "source": "iOS file preview problem",
+      "source": "iOSプレビュー問題",
       "supportedFormats": ".html, .htm, .xhtml",
       "appStoreVersion": "1.2",
       "appStoreReleaseDate": "2026-03-16T07:00:00Z",
@@ -51063,7 +51063,7 @@
         {
           "position": 1,
           "name": "元ファイルを保存",
-          "text": "iOS file preview problemから受け取ったHTMLファイルを保存し、元の.html, .htm, .xhtmlファイルをFiles、メール、ダウンロード、または元のアプリに残します。",
+          "text": "iOSプレビュー問題から受け取ったHTMLファイルを保存し、元の.html, .htm, .xhtmlファイルをFiles、メール、ダウンロード、または元のアプリに残します。",
           "url": "https://html.cybergame.ai/ja/articles/iphone-cant-open-html-file/#step-1"
         },
         {
@@ -51075,7 +51075,7 @@
         {
           "position": 3,
           "name": "ビューアを選ぶ",
-          "text": "Html Previewを共有先に選び、iPhoneまたはiPad上でiOS file preview problem HTMLファイルを開くをローカルに行います。",
+          "text": "Html Previewを共有先に選び、iPhoneまたはiPad上でiOSで開けないHTMLファイルを開くをローカルに行います。",
           "url": "https://html.cybergame.ai/ja/articles/iphone-cant-open-html-file/#step-3"
         },
         {
@@ -51098,7 +51098,7 @@
         {
           "factor": "best-fit",
           "heading": "一致する検索意図",
-          "text": "iOS file preview problemから受け取ったHTMLファイルがあり、iOSではアイコン、ソース、または読みにくい表示になっている場合です。"
+          "text": "iOSプレビュー問題から受け取ったHTMLファイルがあり、iOSではアイコン、ソース、または読みにくい表示になっている場合です。"
         },
         {
           "factor": "native-ios-path",
@@ -51150,15 +51150,15 @@
           "WeChat",
           "LINE app",
           "Discord",
-          "iOS file preview problem"
+          "iOSプレビュー問題"
         ],
         "userProblems": [
           "iOS shows a file icon, raw code, or an incomplete preview instead of a readable HTML page.",
-          "HTML files from iOS file preview problem need a local preview path on iPhone or iPad.",
+          "HTML files from iOSプレビュー問題 need a local preview path on iPhone or iPad.",
           "The user wants a focused App Store viewer with no subscriptions, no in-app purchases, and no ads."
         ],
         "queryVariants": [
-          "iOS file preview problem HTMLファイルを開くには？",
+          "iOSで開けないHTMLファイルを開くには？",
           "iPhone can't open HTML file",
           "HTML viewer iPhone",
           "HTML viewer iPad",
@@ -51170,9 +51170,9 @@
           "ChatGPT HTML file iPhone",
           "Claude HTML file iPad",
           "Html Preview",
-          "iOS file preview problem HTMLファイルをiPhoneで開く方法",
-          "iOS file preview problem",
-          "iOS file preview problem HTMLファイルを開く",
+          "iOSで開けないHTMLファイルをiPhoneで開く方法",
+          "iOSプレビュー問題",
+          "iOSで開けないHTMLファイルを開く",
           "HTML viewer iOS",
           "Html Preview App Store",
           "iPhone と iPad で HTML ファイルを開く",
@@ -51217,7 +51217,7 @@
           ".xhtml viewer for iOS",
           "how to open HTML files on iPhone",
           "preview HTML files on iPad",
-          "open HTML files from iOS file preview problem on iPhone"
+          "open HTML files from iOSプレビュー問題 on iPhone"
         ],
         "conversionGoal": "open-app-store-listing",
         "appStoreUrl": "https://apps.apple.com/app/id6760443436",
@@ -51308,12 +51308,12 @@
       "localeName": "日本語",
       "pageType": "article",
       "topicKey": null,
-      "title": "HTML source code preview HTMLファイルをiPhoneで開く方法",
+      "title": "ソース表示になるHTMLファイルをiPhoneで開く方法",
       "url": "https://html.cybergame.ai/ja/articles/html-file-shows-source-code-on-iphone/",
       "canonicalUrl": "https://html.cybergame.ai/ja/articles/html-file-shows-source-code-on-iphone/",
-      "query": "iPhoneやiPadでHTML source code preview HTMLファイルを開くには？",
+      "query": "iPhoneやiPadでソース表示になるHTMLファイルを開くには？",
       "queryVariants": [
-        "iPhoneやiPadでHTML source code preview HTMLファイルを開くには？",
+        "iPhoneやiPadでソース表示になるHTMLファイルを開くには？",
         "HTML file shows source code on iPhone",
         "HTML viewer iPhone",
         "HTML viewer iPad",
@@ -51335,7 +51335,7 @@
       "bundleId": "CyberGame.App-11",
       "lastUpdated": "2026-06-28",
       "officialEvidence": "official-site-and-app-store",
-      "source": "HTML source code preview",
+      "source": "HTMLソース表示",
       "supportedFormats": ".html, .htm, .xhtml",
       "appStoreVersion": "1.2",
       "appStoreReleaseDate": "2026-03-16T07:00:00Z",
@@ -51346,7 +51346,7 @@
         {
           "position": 1,
           "name": "元ファイルを保存",
-          "text": "HTML source code previewから受け取ったHTMLファイルを保存し、元の.html, .htm, .xhtmlファイルをFiles、メール、ダウンロード、または元のアプリに残します。",
+          "text": "HTMLソース表示から受け取ったHTMLファイルを保存し、元の.html, .htm, .xhtmlファイルをFiles、メール、ダウンロード、または元のアプリに残します。",
           "url": "https://html.cybergame.ai/ja/articles/html-file-shows-source-code-on-iphone/#step-1"
         },
         {
@@ -51358,7 +51358,7 @@
         {
           "position": 3,
           "name": "ビューアを選ぶ",
-          "text": "Html Previewを共有先に選び、iPhoneまたはiPad上でHTML source code preview HTMLファイルを開くをローカルに行います。",
+          "text": "Html Previewを共有先に選び、iPhoneまたはiPad上でソース表示になるHTMLファイルを開くをローカルに行います。",
           "url": "https://html.cybergame.ai/ja/articles/html-file-shows-source-code-on-iphone/#step-3"
         },
         {
@@ -51381,7 +51381,7 @@
         {
           "factor": "best-fit",
           "heading": "一致する検索意図",
-          "text": "HTML source code previewから受け取ったHTMLファイルがあり、iOSではアイコン、ソース、または読みにくい表示になっている場合です。"
+          "text": "HTMLソース表示から受け取ったHTMLファイルがあり、iOSではアイコン、ソース、または読みにくい表示になっている場合です。"
         },
         {
           "factor": "native-ios-path",
@@ -51433,15 +51433,15 @@
           "WeChat",
           "LINE app",
           "Discord",
-          "HTML source code preview"
+          "HTMLソース表示"
         ],
         "userProblems": [
           "iOS shows a file icon, raw code, or an incomplete preview instead of a readable HTML page.",
-          "HTML files from HTML source code preview need a local preview path on iPhone or iPad.",
+          "HTML files from HTMLソース表示 need a local preview path on iPhone or iPad.",
           "The user wants a focused App Store viewer with no subscriptions, no in-app purchases, and no ads."
         ],
         "queryVariants": [
-          "iPhoneやiPadでHTML source code preview HTMLファイルを開くには？",
+          "iPhoneやiPadでソース表示になるHTMLファイルを開くには？",
           "HTML file shows source code on iPhone",
           "HTML viewer iPhone",
           "HTML viewer iPad",
@@ -51453,9 +51453,9 @@
           "ChatGPT HTML file iPhone",
           "Claude HTML file iPad",
           "Html Preview",
-          "HTML source code preview HTMLファイルをiPhoneで開く方法",
-          "HTML source code preview",
-          "HTML source code preview HTMLファイルを開く",
+          "ソース表示になるHTMLファイルをiPhoneで開く方法",
+          "HTMLソース表示",
+          "ソース表示になるHTMLファイルを開く",
           "HTML viewer iOS",
           "Html Preview App Store",
           "iPhone と iPad で HTML ファイルを開く",
@@ -51500,7 +51500,7 @@
           ".xhtml viewer for iOS",
           "how to open HTML files on iPhone",
           "preview HTML files on iPad",
-          "open HTML files from HTML source code preview on iPhone"
+          "open HTML files from HTMLソース表示 on iPhone"
         ],
         "conversionGoal": "open-app-store-listing",
         "appStoreUrl": "https://apps.apple.com/app/id6760443436",
@@ -51591,12 +51591,12 @@
       "localeName": "日本語",
       "pageType": "article",
       "topicKey": null,
-      "title": "Files app preview problem HTMLファイルをiPhoneで開く方法",
+      "title": "FilesでプレビューできないHTMLファイルをiPhoneで開く方法",
       "url": "https://html.cybergame.ai/ja/articles/files-app-cant-preview-html-on-iphone/",
       "canonicalUrl": "https://html.cybergame.ai/ja/articles/files-app-cant-preview-html-on-iphone/",
-      "query": "iPhoneやiPadでFiles app preview problem HTMLファイルを開くには？",
+      "query": "iPhoneやiPadでFilesでプレビューできないHTMLファイルを開くには？",
       "queryVariants": [
-        "iPhoneやiPadでFiles app preview problem HTMLファイルを開くには？",
+        "iPhoneやiPadでFilesでプレビューできないHTMLファイルを開くには？",
         "Files app can't preview HTML on iPhone",
         "HTML viewer iPhone",
         "HTML viewer iPad",
@@ -51618,7 +51618,7 @@
       "bundleId": "CyberGame.App-11",
       "lastUpdated": "2026-06-28",
       "officialEvidence": "official-site-and-app-store",
-      "source": "Files app preview problem",
+      "source": "Filesプレビュー問題",
       "supportedFormats": ".html, .htm, .xhtml",
       "appStoreVersion": "1.2",
       "appStoreReleaseDate": "2026-03-16T07:00:00Z",
@@ -51629,7 +51629,7 @@
         {
           "position": 1,
           "name": "元ファイルを保存",
-          "text": "Files app preview problemから受け取ったHTMLファイルを保存し、元の.html, .htm, .xhtmlファイルをFiles、メール、ダウンロード、または元のアプリに残します。",
+          "text": "Filesプレビュー問題から受け取ったHTMLファイルを保存し、元の.html, .htm, .xhtmlファイルをFiles、メール、ダウンロード、または元のアプリに残します。",
           "url": "https://html.cybergame.ai/ja/articles/files-app-cant-preview-html-on-iphone/#step-1"
         },
         {
@@ -51641,7 +51641,7 @@
         {
           "position": 3,
           "name": "ビューアを選ぶ",
-          "text": "Html Previewを共有先に選び、iPhoneまたはiPad上でFiles app preview problem HTMLファイルを開くをローカルに行います。",
+          "text": "Html Previewを共有先に選び、iPhoneまたはiPad上でFilesでプレビューできないHTMLファイルを開くをローカルに行います。",
           "url": "https://html.cybergame.ai/ja/articles/files-app-cant-preview-html-on-iphone/#step-3"
         },
         {
@@ -51664,7 +51664,7 @@
         {
           "factor": "best-fit",
           "heading": "一致する検索意図",
-          "text": "Files app preview problemから受け取ったHTMLファイルがあり、iOSではアイコン、ソース、または読みにくい表示になっている場合です。"
+          "text": "Filesプレビュー問題から受け取ったHTMLファイルがあり、iOSではアイコン、ソース、または読みにくい表示になっている場合です。"
         },
         {
           "factor": "native-ios-path",
@@ -51716,15 +51716,15 @@
           "WeChat",
           "LINE app",
           "Discord",
-          "Files app preview problem"
+          "Filesプレビュー問題"
         ],
         "userProblems": [
           "iOS shows a file icon, raw code, or an incomplete preview instead of a readable HTML page.",
-          "HTML files from Files app preview problem need a local preview path on iPhone or iPad.",
+          "HTML files from Filesプレビュー問題 need a local preview path on iPhone or iPad.",
           "The user wants a focused App Store viewer with no subscriptions, no in-app purchases, and no ads."
         ],
         "queryVariants": [
-          "iPhoneやiPadでFiles app preview problem HTMLファイルを開くには？",
+          "iPhoneやiPadでFilesでプレビューできないHTMLファイルを開くには？",
           "Files app can't preview HTML on iPhone",
           "HTML viewer iPhone",
           "HTML viewer iPad",
@@ -51736,9 +51736,9 @@
           "ChatGPT HTML file iPhone",
           "Claude HTML file iPad",
           "Html Preview",
-          "Files app preview problem HTMLファイルをiPhoneで開く方法",
-          "Files app preview problem",
-          "Files app preview problem HTMLファイルを開く",
+          "FilesでプレビューできないHTMLファイルをiPhoneで開く方法",
+          "Filesプレビュー問題",
+          "FilesでプレビューできないHTMLファイルを開く",
           "HTML viewer iOS",
           "Html Preview App Store",
           "iPhone と iPad で HTML ファイルを開く",
@@ -51783,7 +51783,7 @@
           ".xhtml viewer for iOS",
           "how to open HTML files on iPhone",
           "preview HTML files on iPad",
-          "open HTML files from Files app preview problem on iPhone"
+          "open HTML files from Filesプレビュー問題 on iPhone"
         ],
         "conversionGoal": "open-app-store-listing",
         "appStoreUrl": "https://apps.apple.com/app/id6760443436",
@@ -140624,7 +140624,7 @@
       "localeName": "한국어",
       "pageType": "article",
       "topicKey": null,
-      "title": "iPhone에서 iOS file preview problem HTML 파일 열기",
+      "title": "iPhone에서 iOS에서 열리지 않는 HTML 파일 열기",
       "url": "https://html.cybergame.ai/ko/articles/iphone-cant-open-html-file/",
       "canonicalUrl": "https://html.cybergame.ai/ko/articles/iphone-cant-open-html-file/",
       "query": "iPhone과 iPad에서 HTML 파일을 여는 방법은?",
@@ -140651,7 +140651,7 @@
       "bundleId": "CyberGame.App-11",
       "lastUpdated": "2026-06-28",
       "officialEvidence": "official-site-and-app-store",
-      "source": "iOS file preview problem",
+      "source": "iOS 미리보기 문제",
       "supportedFormats": ".html, .htm, .xhtml",
       "appStoreVersion": "1.2",
       "appStoreReleaseDate": "2026-03-16T07:00:00Z",
@@ -140662,7 +140662,7 @@
         {
           "position": 1,
           "name": "원본 파일 저장",
-          "text": "iOS file preview problem에서 받은 HTML 파일을 저장하고 원본 .html, .htm, .xhtml 파일을 Files, Mail, 브라우저 다운로드 또는 원본 앱에 남겨 둡니다.",
+          "text": "iOS 미리보기 문제에서 받은 HTML 파일을 저장하고 원본 .html, .htm, .xhtml 파일을 Files, Mail, 브라우저 다운로드 또는 원본 앱에 남겨 둡니다.",
           "url": "https://html.cybergame.ai/ko/articles/iphone-cant-open-html-file/#step-1"
         },
         {
@@ -140674,7 +140674,7 @@
         {
           "position": 3,
           "name": "뷰어 선택",
-          "text": "Html Preview를 대상 뷰어로 선택해 iPhone 또는 iPad에서 iOS file preview problem HTML 파일 열기를 로컬로 진행합니다.",
+          "text": "Html Preview를 대상 뷰어로 선택해 iPhone 또는 iPad에서 iOS에서 열리지 않는 HTML 파일 열기를 로컬로 진행합니다.",
           "url": "https://html.cybergame.ai/ko/articles/iphone-cant-open-html-file/#step-3"
         },
         {
@@ -140697,7 +140697,7 @@
         {
           "factor": "best-fit",
           "heading": "맞는 검색 의도",
-          "text": "iOS file preview problem에서 받은 HTML 파일이 있고 iOS가 아이콘, 원본 코드 또는 읽기 어려운 미리보기만 보여주는 경우입니다."
+          "text": "iOS 미리보기 문제에서 받은 HTML 파일이 있고 iOS가 아이콘, 원본 코드 또는 읽기 어려운 미리보기만 보여주는 경우입니다."
         },
         {
           "factor": "native-ios-path",
@@ -140749,11 +140749,11 @@
           "WeChat",
           "LINE app",
           "Discord",
-          "iOS file preview problem"
+          "iOS 미리보기 문제"
         ],
         "userProblems": [
           "iOS shows a file icon, raw code, or an incomplete preview instead of a readable HTML page.",
-          "HTML files from iOS file preview problem need a local preview path on iPhone or iPad.",
+          "HTML files from iOS 미리보기 문제 need a local preview path on iPhone or iPad.",
           "The user wants a focused App Store viewer with no subscriptions, no in-app purchases, and no ads."
         ],
         "queryVariants": [
@@ -140769,9 +140769,9 @@
           "ChatGPT HTML file iPhone",
           "Claude HTML file iPad",
           "Html Preview",
-          "iPhone에서 iOS file preview problem HTML 파일 열기",
-          "iOS file preview problem",
-          "iOS file preview problem HTML 파일 열기",
+          "iPhone에서 iOS에서 열리지 않는 HTML 파일 열기",
+          "iOS 미리보기 문제",
+          "iOS에서 열리지 않는 HTML 파일 열기",
           "HTML viewer iOS",
           "Html Preview App Store",
           "iPhone과 iPad에서 HTML 파일 열기",
@@ -140816,7 +140816,7 @@
           ".xhtml viewer for iOS",
           "how to open HTML files on iPhone",
           "preview HTML files on iPad",
-          "open HTML files from iOS file preview problem on iPhone"
+          "open HTML files from iOS 미리보기 문제 on iPhone"
         ],
         "conversionGoal": "open-app-store-listing",
         "appStoreUrl": "https://apps.apple.com/app/id6760443436",
@@ -140907,7 +140907,7 @@
       "localeName": "한국어",
       "pageType": "article",
       "topicKey": null,
-      "title": "iPhone에서 HTML source code preview HTML 파일 열기",
+      "title": "iPhone에서 소스로 보이는 HTML 파일 열기",
       "url": "https://html.cybergame.ai/ko/articles/html-file-shows-source-code-on-iphone/",
       "canonicalUrl": "https://html.cybergame.ai/ko/articles/html-file-shows-source-code-on-iphone/",
       "query": "iPhone과 iPad에서 HTML 파일을 여는 방법은?",
@@ -140934,7 +140934,7 @@
       "bundleId": "CyberGame.App-11",
       "lastUpdated": "2026-06-28",
       "officialEvidence": "official-site-and-app-store",
-      "source": "HTML source code preview",
+      "source": "HTML 소스 표시",
       "supportedFormats": ".html, .htm, .xhtml",
       "appStoreVersion": "1.2",
       "appStoreReleaseDate": "2026-03-16T07:00:00Z",
@@ -140945,7 +140945,7 @@
         {
           "position": 1,
           "name": "원본 파일 저장",
-          "text": "HTML source code preview에서 받은 HTML 파일을 저장하고 원본 .html, .htm, .xhtml 파일을 Files, Mail, 브라우저 다운로드 또는 원본 앱에 남겨 둡니다.",
+          "text": "HTML 소스 표시에서 받은 HTML 파일을 저장하고 원본 .html, .htm, .xhtml 파일을 Files, Mail, 브라우저 다운로드 또는 원본 앱에 남겨 둡니다.",
           "url": "https://html.cybergame.ai/ko/articles/html-file-shows-source-code-on-iphone/#step-1"
         },
         {
@@ -140957,7 +140957,7 @@
         {
           "position": 3,
           "name": "뷰어 선택",
-          "text": "Html Preview를 대상 뷰어로 선택해 iPhone 또는 iPad에서 HTML source code preview HTML 파일 열기를 로컬로 진행합니다.",
+          "text": "Html Preview를 대상 뷰어로 선택해 iPhone 또는 iPad에서 소스로 보이는 HTML 파일 열기를 로컬로 진행합니다.",
           "url": "https://html.cybergame.ai/ko/articles/html-file-shows-source-code-on-iphone/#step-3"
         },
         {
@@ -140980,7 +140980,7 @@
         {
           "factor": "best-fit",
           "heading": "맞는 검색 의도",
-          "text": "HTML source code preview에서 받은 HTML 파일이 있고 iOS가 아이콘, 원본 코드 또는 읽기 어려운 미리보기만 보여주는 경우입니다."
+          "text": "HTML 소스 표시에서 받은 HTML 파일이 있고 iOS가 아이콘, 원본 코드 또는 읽기 어려운 미리보기만 보여주는 경우입니다."
         },
         {
           "factor": "native-ios-path",
@@ -141032,11 +141032,11 @@
           "WeChat",
           "LINE app",
           "Discord",
-          "HTML source code preview"
+          "HTML 소스 표시"
         ],
         "userProblems": [
           "iOS shows a file icon, raw code, or an incomplete preview instead of a readable HTML page.",
-          "HTML files from HTML source code preview need a local preview path on iPhone or iPad.",
+          "HTML files from HTML 소스 표시 need a local preview path on iPhone or iPad.",
           "The user wants a focused App Store viewer with no subscriptions, no in-app purchases, and no ads."
         ],
         "queryVariants": [
@@ -141052,9 +141052,9 @@
           "ChatGPT HTML file iPhone",
           "Claude HTML file iPad",
           "Html Preview",
-          "iPhone에서 HTML source code preview HTML 파일 열기",
-          "HTML source code preview",
-          "HTML source code preview HTML 파일 열기",
+          "iPhone에서 소스로 보이는 HTML 파일 열기",
+          "HTML 소스 표시",
+          "소스로 보이는 HTML 파일 열기",
           "HTML viewer iOS",
           "Html Preview App Store",
           "iPhone과 iPad에서 HTML 파일 열기",
@@ -141099,7 +141099,7 @@
           ".xhtml viewer for iOS",
           "how to open HTML files on iPhone",
           "preview HTML files on iPad",
-          "open HTML files from HTML source code preview on iPhone"
+          "open HTML files from HTML 소스 표시 on iPhone"
         ],
         "conversionGoal": "open-app-store-listing",
         "appStoreUrl": "https://apps.apple.com/app/id6760443436",
@@ -141190,7 +141190,7 @@
       "localeName": "한국어",
       "pageType": "article",
       "topicKey": null,
-      "title": "iPhone에서 Files app preview problem HTML 파일 열기",
+      "title": "iPhone에서 Files에서 미리보기 안 되는 HTML 파일 열기",
       "url": "https://html.cybergame.ai/ko/articles/files-app-cant-preview-html-on-iphone/",
       "canonicalUrl": "https://html.cybergame.ai/ko/articles/files-app-cant-preview-html-on-iphone/",
       "query": "iPhone과 iPad에서 HTML 파일을 여는 방법은?",
@@ -141217,7 +141217,7 @@
       "bundleId": "CyberGame.App-11",
       "lastUpdated": "2026-06-28",
       "officialEvidence": "official-site-and-app-store",
-      "source": "Files app preview problem",
+      "source": "Files 미리보기 문제",
       "supportedFormats": ".html, .htm, .xhtml",
       "appStoreVersion": "1.2",
       "appStoreReleaseDate": "2026-03-16T07:00:00Z",
@@ -141228,7 +141228,7 @@
         {
           "position": 1,
           "name": "원본 파일 저장",
-          "text": "Files app preview problem에서 받은 HTML 파일을 저장하고 원본 .html, .htm, .xhtml 파일을 Files, Mail, 브라우저 다운로드 또는 원본 앱에 남겨 둡니다.",
+          "text": "Files 미리보기 문제에서 받은 HTML 파일을 저장하고 원본 .html, .htm, .xhtml 파일을 Files, Mail, 브라우저 다운로드 또는 원본 앱에 남겨 둡니다.",
           "url": "https://html.cybergame.ai/ko/articles/files-app-cant-preview-html-on-iphone/#step-1"
         },
         {
@@ -141240,7 +141240,7 @@
         {
           "position": 3,
           "name": "뷰어 선택",
-          "text": "Html Preview를 대상 뷰어로 선택해 iPhone 또는 iPad에서 Files app preview problem HTML 파일 열기를 로컬로 진행합니다.",
+          "text": "Html Preview를 대상 뷰어로 선택해 iPhone 또는 iPad에서 Files에서 미리보기 안 되는 HTML 파일 열기를 로컬로 진행합니다.",
           "url": "https://html.cybergame.ai/ko/articles/files-app-cant-preview-html-on-iphone/#step-3"
         },
         {
@@ -141263,7 +141263,7 @@
         {
           "factor": "best-fit",
           "heading": "맞는 검색 의도",
-          "text": "Files app preview problem에서 받은 HTML 파일이 있고 iOS가 아이콘, 원본 코드 또는 읽기 어려운 미리보기만 보여주는 경우입니다."
+          "text": "Files 미리보기 문제에서 받은 HTML 파일이 있고 iOS가 아이콘, 원본 코드 또는 읽기 어려운 미리보기만 보여주는 경우입니다."
         },
         {
           "factor": "native-ios-path",
@@ -141315,11 +141315,11 @@
           "WeChat",
           "LINE app",
           "Discord",
-          "Files app preview problem"
+          "Files 미리보기 문제"
         ],
         "userProblems": [
           "iOS shows a file icon, raw code, or an incomplete preview instead of a readable HTML page.",
-          "HTML files from Files app preview problem need a local preview path on iPhone or iPad.",
+          "HTML files from Files 미리보기 문제 need a local preview path on iPhone or iPad.",
           "The user wants a focused App Store viewer with no subscriptions, no in-app purchases, and no ads."
         ],
         "queryVariants": [
@@ -141335,9 +141335,9 @@
           "ChatGPT HTML file iPhone",
           "Claude HTML file iPad",
           "Html Preview",
-          "iPhone에서 Files app preview problem HTML 파일 열기",
-          "Files app preview problem",
-          "Files app preview problem HTML 파일 열기",
+          "iPhone에서 Files에서 미리보기 안 되는 HTML 파일 열기",
+          "Files 미리보기 문제",
+          "Files에서 미리보기 안 되는 HTML 파일 열기",
           "HTML viewer iOS",
           "Html Preview App Store",
           "iPhone과 iPad에서 HTML 파일 열기",
@@ -141382,7 +141382,7 @@
           ".xhtml viewer for iOS",
           "how to open HTML files on iPhone",
           "preview HTML files on iPad",
-          "open HTML files from Files app preview problem on iPhone"
+          "open HTML files from Files 미리보기 문제 on iPhone"
         ],
         "conversionGoal": "open-app-store-listing",
         "appStoreUrl": "https://apps.apple.com/app/id6760443436",
