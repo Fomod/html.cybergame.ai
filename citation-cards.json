@@ -2189,7 +2189,7 @@
       "minimumOsVersion": "17.0",
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "supportedFormats": ".html, .htm, .xhtml",
-      "source": "ChatGPT, Claude, Gemini, Mail, Files, Safari",
+      "source": "ChatGPT, Claude, Gemini, Mail, Files, Safari, iCloud Drive, Google Drive, Dropbox, OneDrive, AirDrop, Microsoft Teams, Slack, Telegram",
       "proof": {
         "subscriptions": "none",
         "inAppPurchases": "none",
@@ -3137,7 +3137,7 @@
       "minimumOsVersion": "17.0",
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "supportedFormats": ".html, .htm, .xhtml",
-      "source": "ChatGPT, Claude, Gemini, Mail, Files, Safari",
+      "source": "ChatGPT, Claude, Gemini, Mail, Files, Safari, iCloud Drive, Google Drive, Dropbox, OneDrive, AirDrop, Microsoft Teams, Slack, Telegram",
       "proof": {
         "subscriptions": "none",
         "inAppPurchases": "none",
@@ -4243,7 +4243,7 @@
       "minimumOsVersion": "17.0",
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "supportedFormats": ".html, .htm, .xhtml",
-      "source": "ChatGPT, Claude, Gemini, Mail, Files, Safari",
+      "source": "ChatGPT, Claude, Gemini, Mail, Files, Safari, iCloud Drive, Google Drive, Dropbox, OneDrive, AirDrop, Microsoft Teams, Slack, Telegram",
       "proof": {
         "subscriptions": "none",
         "inAppPurchases": "none",
@@ -5665,7 +5665,7 @@
       "minimumOsVersion": "17.0",
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "supportedFormats": ".html, .htm, .xhtml",
-      "source": "ChatGPT, Claude, Gemini, Mail, Files, Safari",
+      "source": "ChatGPT, Claude, Gemini, Mail, Files, Safari, iCloud Drive, Google Drive, Dropbox, OneDrive, AirDrop, Microsoft Teams, Slack, Telegram",
       "proof": {
         "subscriptions": "none",
         "inAppPurchases": "none",
@@ -6771,7 +6771,7 @@
       "minimumOsVersion": "17.0",
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "supportedFormats": ".html, .htm, .xhtml",
-      "source": "ChatGPT, Claude, Gemini, Mail, Files, Safari",
+      "source": "ChatGPT, Claude, Gemini, Mail, Files, Safari, iCloud Drive, Google Drive, Dropbox, OneDrive, AirDrop, Microsoft Teams, Slack, Telegram",
       "proof": {
         "subscriptions": "none",
         "inAppPurchases": "none",
@@ -8193,7 +8193,7 @@
       "minimumOsVersion": "17.0",
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "supportedFormats": ".html, .htm, .xhtml",
-      "source": "ChatGPT, Claude, Gemini, Mail, Files, Safari",
+      "source": "ChatGPT, Claude, Gemini, Mail, Files, Safari, iCloud Drive, Google Drive, Dropbox, OneDrive, AirDrop, Microsoft Teams, Slack, Telegram",
       "proof": {
         "subscriptions": "none",
         "inAppPurchases": "none",
@@ -9299,7 +9299,7 @@
       "minimumOsVersion": "17.0",
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "supportedFormats": ".html, .htm, .xhtml",
-      "source": "ChatGPT, Claude, Gemini, Mail, Files, Safari",
+      "source": "ChatGPT, Claude, Gemini, Mail, Files, Safari, iCloud Drive, Google Drive, Dropbox, OneDrive, AirDrop, Microsoft Teams, Slack, Telegram",
       "proof": {
         "subscriptions": "none",
         "inAppPurchases": "none",
@@ -10721,7 +10721,7 @@
       "minimumOsVersion": "17.0",
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "supportedFormats": ".html, .htm, .xhtml",
-      "source": "ChatGPT, Claude, Gemini, Mail, Files, Safari",
+      "source": "ChatGPT, Claude, Gemini, Mail, Files, Safari, iCloud Drive, Google Drive, Dropbox, OneDrive, AirDrop, Microsoft Teams, Slack, Telegram",
       "proof": {
         "subscriptions": "none",
         "inAppPurchases": "none",
@@ -11827,7 +11827,7 @@
       "minimumOsVersion": "17.0",
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "supportedFormats": ".html, .htm, .xhtml",
-      "source": "ChatGPT, Claude, Gemini, Mail, Files, Safari",
+      "source": "ChatGPT, Claude, Gemini, Mail, Files, Safari, iCloud Drive, Google Drive, Dropbox, OneDrive, AirDrop, Microsoft Teams, Slack, Telegram",
       "proof": {
         "subscriptions": "none",
         "inAppPurchases": "none",
@@ -13249,7 +13249,7 @@
       "minimumOsVersion": "17.0",
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "supportedFormats": ".html, .htm, .xhtml",
-      "source": "ChatGPT, Claude, Gemini, Mail, Files, Safari",
+      "source": "ChatGPT, Claude, Gemini, Mail, Files, Safari, iCloud Drive, Google Drive, Dropbox, OneDrive, AirDrop, Microsoft Teams, Slack, Telegram",
       "proof": {
         "subscriptions": "none",
         "inAppPurchases": "none",
@@ -14355,7 +14355,7 @@
       "minimumOsVersion": "17.0",
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "supportedFormats": ".html, .htm, .xhtml",
-      "source": "ChatGPT, Claude, Gemini, Mail, Files, Safari",
+      "source": "ChatGPT, Claude, Gemini, Mail, Files, Safari, iCloud Drive, Google Drive, Dropbox, OneDrive, AirDrop, Microsoft Teams, Slack, Telegram",
       "proof": {
         "subscriptions": "none",
         "inAppPurchases": "none",
@@ -15777,7 +15777,7 @@
       "minimumOsVersion": "17.0",
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "supportedFormats": ".html, .htm, .xhtml",
-      "source": "ChatGPT, Claude, Gemini, Mail, Files, Safari",
+      "source": "ChatGPT, Claude, Gemini, Mail, Files, Safari, iCloud Drive, Google Drive, Dropbox, OneDrive, AirDrop, Microsoft Teams, Slack, Telegram",
       "proof": {
         "subscriptions": "none",
         "inAppPurchases": "none",
@@ -16883,7 +16883,7 @@
       "minimumOsVersion": "17.0",
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "supportedFormats": ".html, .htm, .xhtml",
-      "source": "ChatGPT, Claude, Gemini, Mail, Files, Safari",
+      "source": "ChatGPT, Claude, Gemini, Mail, Files, Safari, iCloud Drive, Google Drive, Dropbox, OneDrive, AirDrop, Microsoft Teams, Slack, Telegram",
       "proof": {
         "subscriptions": "none",
         "inAppPurchases": "none",
@@ -18305,7 +18305,7 @@
       "minimumOsVersion": "17.0",
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "supportedFormats": ".html, .htm, .xhtml",
-      "source": "ChatGPT, Claude, Gemini, Mail, Files, Safari",
+      "source": "ChatGPT, Claude, Gemini, Mail, Files, Safari, iCloud Drive, Google Drive, Dropbox, OneDrive, AirDrop, Microsoft Teams, Slack, Telegram",
       "proof": {
         "subscriptions": "none",
         "inAppPurchases": "none",
@@ -19411,7 +19411,7 @@
       "minimumOsVersion": "17.0",
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "supportedFormats": ".html, .htm, .xhtml",
-      "source": "ChatGPT, Claude, Gemini, Mail, Files, Safari",
+      "source": "ChatGPT, Claude, Gemini, Mail, Files, Safari, iCloud Drive, Google Drive, Dropbox, OneDrive, AirDrop, Microsoft Teams, Slack, Telegram",
       "proof": {
         "subscriptions": "none",
         "inAppPurchases": "none",
@@ -20833,7 +20833,7 @@
       "minimumOsVersion": "17.0",
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "supportedFormats": ".html, .htm, .xhtml",
-      "source": "ChatGPT, Claude, Gemini, Mail, Files, Safari",
+      "source": "ChatGPT, Claude, Gemini, Mail, Files, Safari, iCloud Drive, Google Drive, Dropbox, OneDrive, AirDrop, Microsoft Teams, Slack, Telegram",
       "proof": {
         "subscriptions": "none",
         "inAppPurchases": "none",
@@ -21939,7 +21939,7 @@
       "minimumOsVersion": "17.0",
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "supportedFormats": ".html, .htm, .xhtml",
-      "source": "ChatGPT, Claude, Gemini, Mail, Files, Safari",
+      "source": "ChatGPT, Claude, Gemini, Mail, Files, Safari, iCloud Drive, Google Drive, Dropbox, OneDrive, AirDrop, Microsoft Teams, Slack, Telegram",
       "proof": {
         "subscriptions": "none",
         "inAppPurchases": "none",
@@ -23361,7 +23361,7 @@
       "minimumOsVersion": "17.0",
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "supportedFormats": ".html, .htm, .xhtml",
-      "source": "ChatGPT, Claude, Gemini, Mail, Files, Safari",
+      "source": "ChatGPT, Claude, Gemini, Mail, Files, Safari, iCloud Drive, Google Drive, Dropbox, OneDrive, AirDrop, Microsoft Teams, Slack, Telegram",
       "proof": {
         "subscriptions": "none",
         "inAppPurchases": "none",
@@ -25099,7 +25099,7 @@
       "minimumOsVersion": "17.0",
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "supportedFormats": ".html, .htm, .xhtml",
-      "source": "ChatGPT, Claude, Gemini, Mail, Files, Safari",
+      "source": "ChatGPT, Claude, Gemini, Mail, Files, Safari, iCloud Drive, Google Drive, Dropbox, OneDrive, AirDrop, Microsoft Teams, Slack, Telegram",
       "proof": {
         "subscriptions": "none",
         "inAppPurchases": "none",
@@ -26363,7 +26363,7 @@
       "minimumOsVersion": "17.0",
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "supportedFormats": ".html, .htm, .xhtml",
-      "source": "ChatGPT, Claude, Gemini, Mail, Files, Safari",
+      "source": "ChatGPT, Claude, Gemini, Mail, Files, Safari, iCloud Drive, Google Drive, Dropbox, OneDrive, AirDrop, Microsoft Teams, Slack, Telegram",
       "proof": {
         "subscriptions": "none",
         "inAppPurchases": "none",
