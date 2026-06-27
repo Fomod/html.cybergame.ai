@@ -4664,7 +4664,7 @@
       "position": 514,
       "item": {
         "@id": "https://html.cybergame.ai/hi/articles/quick-look-cant-preview-html-on-iphone/#howto-index",
-        "name": "iPhone पर Quick Look preview problem HTML files खोलें",
+        "name": "iPhone पर Quick Look preview issue HTML files खोलें",
         "url": "https://html.cybergame.ai/hi/articles/quick-look-cant-preview-html-on-iphone/"
       }
     },
@@ -58980,7 +58980,7 @@
       "pageType": "article",
       "articleSlug": "best-html-viewer-for-iphone-ipad",
       "topicKey": null,
-      "source": "iPhone and iPad",
+      "source": "iPhone과 iPad",
       "query": "iPhone과 iPad에서 HTML 파일을 여는 방법은?",
       "primaryKeyword": "best HTML viewer for iPhone",
       "supportedFormats": ".html, .htm, .xhtml",
@@ -59002,7 +59002,7 @@
           "@type": "HowToStep",
           "position": 1,
           "name": "원본 파일 저장",
-          "text": "iPhone and iPad에서 받은 HTML 파일을 저장하고 원본 .html, .htm, .xhtml 파일을 Files, Mail, 브라우저 다운로드 또는 원본 앱에 남겨 둡니다.",
+          "text": "iPhone과 iPad에서 받은 HTML 파일을 저장하고 원본 .html, .htm, .xhtml 파일을 Files, Mail, 브라우저 다운로드 또는 원본 앱에 남겨 둡니다.",
           "url": "https://html.cybergame.ai/ko/articles/best-html-viewer-for-iphone-ipad/#step-1"
         },
         {
@@ -60303,7 +60303,7 @@
       "pageType": "article",
       "articleSlug": "open-html-file-from-safari-downloads-on-iphone",
       "topicKey": null,
-      "source": "Safari Downloads",
+      "source": "Safari 다운로드",
       "query": "iPhone과 iPad에서 HTML 파일을 여는 방법은?",
       "primaryKeyword": "open HTML file from Safari downloads on iPhone",
       "supportedFormats": ".html, .htm, .xhtml",
@@ -60325,7 +60325,7 @@
           "@type": "HowToStep",
           "position": 1,
           "name": "원본 파일 저장",
-          "text": "Safari Downloads에서 받은 HTML 파일을 저장하고 원본 .html, .htm, .xhtml 파일을 Files, Mail, 브라우저 다운로드 또는 원본 앱에 남겨 둡니다.",
+          "text": "Safari 다운로드에서 받은 HTML 파일을 저장하고 원본 .html, .htm, .xhtml 파일을 Files, Mail, 브라우저 다운로드 또는 원본 앱에 남겨 둡니다.",
           "url": "https://html.cybergame.ai/ko/articles/open-html-file-from-safari-downloads-on-iphone/#step-1"
         },
         {
@@ -61038,7 +61038,7 @@
       "pageType": "article",
       "articleSlug": "offline-html-viewer-for-iphone",
       "topicKey": null,
-      "source": "offline files",
+      "source": "오프라인 파일",
       "query": "iPhone과 iPad에서 HTML 파일을 여는 방법은?",
       "primaryKeyword": "offline HTML viewer for iPhone",
       "supportedFormats": ".html, .htm, .xhtml",
@@ -61060,7 +61060,7 @@
           "@type": "HowToStep",
           "position": 1,
           "name": "원본 파일 저장",
-          "text": "offline files에서 받은 HTML 파일을 저장하고 원본 .html, .htm, .xhtml 파일을 Files, Mail, 브라우저 다운로드 또는 원본 앱에 남겨 둡니다.",
+          "text": "오프라인 파일에서 받은 HTML 파일을 저장하고 원본 .html, .htm, .xhtml 파일을 Files, Mail, 브라우저 다운로드 또는 원본 앱에 남겨 둡니다.",
           "url": "https://html.cybergame.ai/ko/articles/offline-html-viewer-for-iphone/#step-1"
         },
         {
@@ -61920,7 +61920,7 @@
       "pageType": "article",
       "articleSlug": "view-ai-generated-html-report-on-ipad",
       "topicKey": null,
-      "source": "AI-generated reports",
+      "source": "AI 생성 보고서",
       "query": "iPhone과 iPad에서 HTML 파일을 여는 방법은?",
       "primaryKeyword": "view AI generated HTML report on iPad",
       "supportedFormats": ".html, .htm, .xhtml",
@@ -61942,7 +61942,7 @@
           "@type": "HowToStep",
           "position": 1,
           "name": "원본 파일 저장",
-          "text": "AI-generated reports에서 받은 HTML 파일을 저장하고 원본 .html, .htm, .xhtml 파일을 Files, Mail, 브라우저 다운로드 또는 원본 앱에 남겨 둡니다.",
+          "text": "AI 생성 보고서에서 받은 HTML 파일을 저장하고 원본 .html, .htm, .xhtml 파일을 Files, Mail, 브라우저 다운로드 또는 원본 앱에 남겨 둡니다.",
           "url": "https://html.cybergame.ai/ko/articles/view-ai-generated-html-report-on-ipad/#step-1"
         },
         {
@@ -66624,7 +66624,7 @@
       "pageType": "article",
       "articleSlug": "best-html-viewer-for-iphone-ipad",
       "topicKey": null,
-      "source": "iPhone and iPad",
+      "source": "iPhone و iPad",
       "query": "كيف تفتح ملف HTML على iPhone او iPad؟",
       "primaryKeyword": "best HTML viewer for iPhone",
       "supportedFormats": ".html, .htm, .xhtml",
@@ -66646,7 +66646,7 @@
           "@type": "HowToStep",
           "position": 1,
           "name": "حفظ ملف المصدر",
-          "text": "احفظ ملف HTML من iPhone and iPad. ابق ملف .html, .htm, .xhtml الاصلي في Files او Mail او تنزيل المتصفح او التطبيق المصدر.",
+          "text": "احفظ ملف HTML من iPhone و iPad. ابق ملف .html, .htm, .xhtml الاصلي في Files او Mail او تنزيل المتصفح او التطبيق المصدر.",
           "url": "https://html.cybergame.ai/ar/articles/best-html-viewer-for-iphone-ipad/#step-1"
         },
         {
@@ -67947,7 +67947,7 @@
       "pageType": "article",
       "articleSlug": "open-html-file-from-safari-downloads-on-iphone",
       "topicKey": null,
-      "source": "Safari Downloads",
+      "source": "تنزيلات Safari",
       "query": "كيف تفتح ملف HTML على iPhone او iPad؟",
       "primaryKeyword": "open HTML file from Safari downloads on iPhone",
       "supportedFormats": ".html, .htm, .xhtml",
@@ -67969,7 +67969,7 @@
           "@type": "HowToStep",
           "position": 1,
           "name": "حفظ ملف المصدر",
-          "text": "احفظ ملف HTML من Safari Downloads. ابق ملف .html, .htm, .xhtml الاصلي في Files او Mail او تنزيل المتصفح او التطبيق المصدر.",
+          "text": "احفظ ملف HTML من تنزيلات Safari. ابق ملف .html, .htm, .xhtml الاصلي في Files او Mail او تنزيل المتصفح او التطبيق المصدر.",
           "url": "https://html.cybergame.ai/ar/articles/open-html-file-from-safari-downloads-on-iphone/#step-1"
         },
         {
@@ -68682,7 +68682,7 @@
       "pageType": "article",
       "articleSlug": "offline-html-viewer-for-iphone",
       "topicKey": null,
-      "source": "offline files",
+      "source": "ملفات بدون اتصال",
       "query": "كيف تفتح ملف HTML على iPhone او iPad؟",
       "primaryKeyword": "offline HTML viewer for iPhone",
       "supportedFormats": ".html, .htm, .xhtml",
@@ -68704,7 +68704,7 @@
           "@type": "HowToStep",
           "position": 1,
           "name": "حفظ ملف المصدر",
-          "text": "احفظ ملف HTML من offline files. ابق ملف .html, .htm, .xhtml الاصلي في Files او Mail او تنزيل المتصفح او التطبيق المصدر.",
+          "text": "احفظ ملف HTML من ملفات بدون اتصال. ابق ملف .html, .htm, .xhtml الاصلي في Files او Mail او تنزيل المتصفح او التطبيق المصدر.",
           "url": "https://html.cybergame.ai/ar/articles/offline-html-viewer-for-iphone/#step-1"
         },
         {
@@ -69564,7 +69564,7 @@
       "pageType": "article",
       "articleSlug": "view-ai-generated-html-report-on-ipad",
       "topicKey": null,
-      "source": "AI-generated reports",
+      "source": "تقارير الذكاء الاصطناعي",
       "query": "كيف تفتح ملف HTML على iPhone او iPad؟",
       "primaryKeyword": "view AI generated HTML report on iPad",
       "supportedFormats": ".html, .htm, .xhtml",
@@ -69586,7 +69586,7 @@
           "@type": "HowToStep",
           "position": 1,
           "name": "حفظ ملف المصدر",
-          "text": "احفظ ملف HTML من AI-generated reports. ابق ملف .html, .htm, .xhtml الاصلي في Files او Mail او تنزيل المتصفح او التطبيق المصدر.",
+          "text": "احفظ ملف HTML من تقارير الذكاء الاصطناعي. ابق ملف .html, .htm, .xhtml الاصلي في Files او Mail او تنزيل المتصفح او التطبيق المصدر.",
           "url": "https://html.cybergame.ai/ar/articles/view-ai-generated-html-report-on-ipad/#step-1"
         },
         {
@@ -74268,7 +74268,7 @@
       "pageType": "article",
       "articleSlug": "best-html-viewer-for-iphone-ipad",
       "topicKey": null,
-      "source": "iPhone and iPad",
+      "source": "iPhone और iPad",
       "query": "iPhone या iPad पर HTML file कैसे खोलें?",
       "primaryKeyword": "best HTML viewer for iPhone",
       "supportedFormats": ".html, .htm, .xhtml",
@@ -74290,7 +74290,7 @@
           "@type": "HowToStep",
           "position": 1,
           "name": "Source file save करें",
-          "text": "iPhone and iPad से मिली HTML file save करें. Original .html, .htm, .xhtml file को Files, Mail, browser download या source app में रखें.",
+          "text": "iPhone और iPad से मिली HTML file save करें. Original .html, .htm, .xhtml file को Files, Mail, browser download या source app में रखें.",
           "url": "https://html.cybergame.ai/hi/articles/best-html-viewer-for-iphone-ipad/#step-1"
         },
         {
@@ -74415,7 +74415,7 @@
       "pageType": "article",
       "articleSlug": "download-html-viewer-for-iphone",
       "topicKey": null,
-      "source": "App Store download searches",
+      "source": "App Store इंस्टॉल खोज",
       "query": "iPhone या iPad पर HTML file कैसे खोलें?",
       "primaryKeyword": "download HTML viewer for iPhone",
       "supportedFormats": ".html, .htm, .xhtml",
@@ -74437,7 +74437,7 @@
           "@type": "HowToStep",
           "position": 1,
           "name": "Source file save करें",
-          "text": "App Store download searches से मिली HTML file save करें. Original .html, .htm, .xhtml file को Files, Mail, browser download या source app में रखें.",
+          "text": "App Store इंस्टॉल खोज से मिली HTML file save करें. Original .html, .htm, .xhtml file को Files, Mail, browser download या source app में रखें.",
           "url": "https://html.cybergame.ai/hi/articles/download-html-viewer-for-iphone/#step-1"
         },
         {
@@ -75591,7 +75591,7 @@
       "pageType": "article",
       "articleSlug": "open-html-file-from-safari-downloads-on-iphone",
       "topicKey": null,
-      "source": "Safari Downloads",
+      "source": "Safari downloads",
       "query": "iPhone या iPad पर HTML file कैसे खोलें?",
       "primaryKeyword": "open HTML file from Safari downloads on iPhone",
       "supportedFormats": ".html, .htm, .xhtml",
@@ -75613,7 +75613,7 @@
           "@type": "HowToStep",
           "position": 1,
           "name": "Source file save करें",
-          "text": "Safari Downloads से मिली HTML file save करें. Original .html, .htm, .xhtml file को Files, Mail, browser download या source app में रखें.",
+          "text": "Safari downloads से मिली HTML file save करें. Original .html, .htm, .xhtml file को Files, Mail, browser download या source app में रखें.",
           "url": "https://html.cybergame.ai/hi/articles/open-html-file-from-safari-downloads-on-iphone/#step-1"
         },
         {
@@ -80138,7 +80138,7 @@
     {
       "@type": "HowTo",
       "@id": "https://html.cybergame.ai/hi/articles/quick-look-cant-preview-html-on-iphone/#howto-index",
-      "name": "iPhone पर Quick Look preview problem HTML files खोलें",
+      "name": "iPhone पर Quick Look preview issue HTML files खोलें",
       "description": "Html Preview को iOS Share Sheet या Files app से खोलें और HTML file को iPhone या iPad पर local preview करें.",
       "inLanguage": "hi",
       "url": "https://html.cybergame.ai/hi/articles/quick-look-cant-preview-html-on-iphone/",
@@ -80148,7 +80148,7 @@
       "pageType": "article",
       "articleSlug": "quick-look-cant-preview-html-on-iphone",
       "topicKey": null,
-      "source": "Quick Look preview problem",
+      "source": "Quick Look preview issue",
       "query": "iPhone या iPad पर HTML file कैसे खोलें?",
       "primaryKeyword": "Quick Look can't preview HTML on iPhone",
       "supportedFormats": ".html, .htm, .xhtml",
@@ -80170,7 +80170,7 @@
           "@type": "HowToStep",
           "position": 1,
           "name": "Source file save करें",
-          "text": "Quick Look preview problem से मिली HTML file save करें. Original .html, .htm, .xhtml file को Files, Mail, browser download या source app में रखें.",
+          "text": "Quick Look preview issue से मिली HTML file save करें. Original .html, .htm, .xhtml file को Files, Mail, browser download या source app में रखें.",
           "url": "https://html.cybergame.ai/hi/articles/quick-look-cant-preview-html-on-iphone/#step-1"
         },
         {
@@ -80184,7 +80184,7 @@
           "@type": "HowToStep",
           "position": 3,
           "name": "Viewer चुनें",
-          "text": "Html Preview को target viewer चुनें ताकि आप iPhone या iPad पर Quick Look preview problem HTML files खोलना local रूप से कर सकें.",
+          "text": "Html Preview को target viewer चुनें ताकि आप iPhone या iPad पर Quick Look preview issue HTML files खोलना local रूप से कर सकें.",
           "url": "https://html.cybergame.ai/hi/articles/quick-look-cant-preview-html-on-iphone/#step-3"
         },
         {

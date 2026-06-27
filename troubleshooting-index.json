@@ -7827,16 +7827,16 @@
         "ChatGPT HTML file iPhone",
         "Claude HTML file iPad",
         "Html Preview",
-        "iPhone पर Quick Look preview problem HTML files खोलें",
-        "Quick Look preview problem",
-        "Quick Look preview problem HTML files खोलना",
+        "iPhone पर Quick Look preview issue HTML files खोलें",
+        "Quick Look preview issue",
+        "Quick Look preview issue HTML files खोलना",
         "HTML viewer iOS",
         "Html Preview App Store",
         "iPhone और iPad पर HTML फाइल खोलें"
       ],
       "diagnosticSignals": [
         "iOS shows a file icon, raw code, or an incomplete preview instead of a readable HTML page.",
-        "HTML files from Quick Look preview problem need a local preview path on iPhone or iPad.",
+        "HTML files from Quick Look preview issue need a local preview path on iPhone or iPad.",
         "The user wants a focused App Store viewer with no subscriptions, no in-app purchases, and no ads.",
         "Quick Look can't preview HTML on iPhone",
         "Quick Look cannot render the standalone HTML file",
@@ -7883,7 +7883,7 @@
         ".htm",
         ".xhtml"
       ],
-      "source": "Quick Look preview problem",
+      "source": "Quick Look preview issue",
       "proof": {
         "subscriptions": "none",
         "inAppPurchases": "none",
