@@ -1010,7 +1010,7 @@
       "position": 108,
       "item": {
         "@id": "https://html.cybergame.ai/ja/articles/open-ai-generated-html-file-on-ipad/#howto-index",
-        "name": "iPadのAI生成HTMLファイルをiPadで開く方法",
+        "name": "iPadのAI生成HTMLファイルを開く方法",
         "url": "https://html.cybergame.ai/ja/articles/open-ai-generated-html-file-on-ipad/"
       }
     },
@@ -1019,7 +1019,7 @@
       "position": 109,
       "item": {
         "@id": "https://html.cybergame.ai/ja/articles/open-chatgpt-html-file-on-ipad/#howto-index",
-        "name": "ChatGPT on iPad HTMLファイルをiPadで開く方法",
+        "name": "ChatGPT on iPad HTMLファイルを開く方法",
         "url": "https://html.cybergame.ai/ja/articles/open-chatgpt-html-file-on-ipad/"
       }
     },
@@ -1100,7 +1100,7 @@
       "position": 118,
       "item": {
         "@id": "https://html.cybergame.ai/ja/articles/open-html-file-from-files-app-on-ipad/#howto-index",
-        "name": "iPadのFilesアプリのHTMLファイルをiPadで開く方法",
+        "name": "iPadのFilesアプリのHTMLファイルを開く方法",
         "url": "https://html.cybergame.ai/ja/articles/open-html-file-from-files-app-on-ipad/"
       }
     },
@@ -1118,7 +1118,7 @@
       "position": 120,
       "item": {
         "@id": "https://html.cybergame.ai/ja/articles/open-html-file-from-safari-downloads-on-ipad/#howto-index",
-        "name": "iPadのSafariダウンロードHTMLファイルをiPadで開く方法",
+        "name": "iPadのSafariダウンロードHTMLファイルを開く方法",
         "url": "https://html.cybergame.ai/ja/articles/open-html-file-from-safari-downloads-on-ipad/"
       }
     },
@@ -1190,7 +1190,7 @@
       "position": 128,
       "item": {
         "@id": "https://html.cybergame.ai/ja/articles/open-local-html-file-on-ipad/#howto-index",
-        "name": "iPadのローカルHTMLファイルをiPadで開く方法",
+        "name": "iPadのローカルHTMLファイルを開く方法",
         "url": "https://html.cybergame.ai/ja/articles/open-local-html-file-on-ipad/"
       }
     },
@@ -1478,7 +1478,7 @@
       "position": 160,
       "item": {
         "@id": "https://html.cybergame.ai/es/articles/open-ai-generated-html-file-on-ipad/#howto-index",
-        "name": "Cómo abrir archivos HTML generados por IA en iPad en iPad",
+        "name": "Cómo abrir archivos HTML generados por IA en iPad",
         "url": "https://html.cybergame.ai/es/articles/open-ai-generated-html-file-on-ipad/"
       }
     },
@@ -1487,7 +1487,7 @@
       "position": 161,
       "item": {
         "@id": "https://html.cybergame.ai/es/articles/open-chatgpt-html-file-on-ipad/#howto-index",
-        "name": "Cómo abrir archivos HTML de ChatGPT on iPad en iPad",
+        "name": "Cómo abrir archivos HTML de ChatGPT on iPad",
         "url": "https://html.cybergame.ai/es/articles/open-chatgpt-html-file-on-ipad/"
       }
     },
@@ -1568,7 +1568,7 @@
       "position": 170,
       "item": {
         "@id": "https://html.cybergame.ai/es/articles/open-html-file-from-files-app-on-ipad/#howto-index",
-        "name": "Cómo abrir archivos HTML de Files en iPad en iPad",
+        "name": "Cómo abrir archivos HTML de Files en iPad",
         "url": "https://html.cybergame.ai/es/articles/open-html-file-from-files-app-on-ipad/"
       }
     },
@@ -1586,7 +1586,7 @@
       "position": 172,
       "item": {
         "@id": "https://html.cybergame.ai/es/articles/open-html-file-from-safari-downloads-on-ipad/#howto-index",
-        "name": "Cómo abrir archivos HTML de Safari descargados en iPad en iPad",
+        "name": "Cómo abrir archivos HTML de Safari descargados en iPad",
         "url": "https://html.cybergame.ai/es/articles/open-html-file-from-safari-downloads-on-ipad/"
       }
     },
@@ -1658,7 +1658,7 @@
       "position": 180,
       "item": {
         "@id": "https://html.cybergame.ai/es/articles/open-local-html-file-on-ipad/#howto-index",
-        "name": "Cómo abrir archivos HTML locales en iPad en iPad",
+        "name": "Cómo abrir archivos HTML locales en iPad",
         "url": "https://html.cybergame.ai/es/articles/open-local-html-file-on-ipad/"
       }
     },
@@ -1829,7 +1829,7 @@
       "position": 199,
       "item": {
         "@id": "https://html.cybergame.ai/es/articles/iphone-cant-open-html-file/#howto-index",
-        "name": "Cómo abrir archivos HTML de iOS file preview problem en iPhone",
+        "name": "Cómo abrir HTML que iOS no abre en iPhone",
         "url": "https://html.cybergame.ai/es/articles/iphone-cant-open-html-file/"
       }
     },
@@ -1838,7 +1838,7 @@
       "position": 200,
       "item": {
         "@id": "https://html.cybergame.ai/es/articles/html-file-shows-source-code-on-iphone/#howto-index",
-        "name": "Cómo abrir archivos HTML de HTML source code preview en iPhone",
+        "name": "Cómo abrir HTML mostrado como codigo en iPhone",
         "url": "https://html.cybergame.ai/es/articles/html-file-shows-source-code-on-iphone/"
       }
     },
@@ -1847,7 +1847,7 @@
       "position": 201,
       "item": {
         "@id": "https://html.cybergame.ai/es/articles/files-app-cant-preview-html-on-iphone/#howto-index",
-        "name": "Cómo abrir archivos HTML de Files app preview problem en iPhone",
+        "name": "Cómo abrir HTML que Files no previsualiza en iPhone",
         "url": "https://html.cybergame.ai/es/articles/files-app-cant-preview-html-on-iphone/"
       }
     },
@@ -1946,7 +1946,7 @@
       "position": 212,
       "item": {
         "@id": "https://html.cybergame.ai/de/articles/open-ai-generated-html-file-on-ipad/#howto-index",
-        "name": "KI-generierte HTML-Dateien auf dem iPad auf iPad öffnen",
+        "name": "KI-generierte HTML-Dateien auf dem iPad öffnen",
         "url": "https://html.cybergame.ai/de/articles/open-ai-generated-html-file-on-ipad/"
       }
     },
@@ -1955,7 +1955,7 @@
       "position": 213,
       "item": {
         "@id": "https://html.cybergame.ai/de/articles/open-chatgpt-html-file-on-ipad/#howto-index",
-        "name": "ChatGPT on iPad HTML-Dateien auf iPad öffnen",
+        "name": "ChatGPT on iPad HTML-Dateien öffnen",
         "url": "https://html.cybergame.ai/de/articles/open-chatgpt-html-file-on-ipad/"
       }
     },
@@ -2036,7 +2036,7 @@
       "position": 222,
       "item": {
         "@id": "https://html.cybergame.ai/de/articles/open-html-file-from-files-app-on-ipad/#howto-index",
-        "name": "HTML-Dateien aus der Files-App auf dem iPad auf iPad öffnen",
+        "name": "HTML-Dateien aus der Files-App auf dem iPad öffnen",
         "url": "https://html.cybergame.ai/de/articles/open-html-file-from-files-app-on-ipad/"
       }
     },
@@ -2054,7 +2054,7 @@
       "position": 224,
       "item": {
         "@id": "https://html.cybergame.ai/de/articles/open-html-file-from-safari-downloads-on-ipad/#howto-index",
-        "name": "HTML-Dateien aus Safari-Downloads auf dem iPad auf iPad öffnen",
+        "name": "HTML-Dateien aus Safari-Downloads auf dem iPad öffnen",
         "url": "https://html.cybergame.ai/de/articles/open-html-file-from-safari-downloads-on-ipad/"
       }
     },
@@ -2126,7 +2126,7 @@
       "position": 232,
       "item": {
         "@id": "https://html.cybergame.ai/de/articles/open-local-html-file-on-ipad/#howto-index",
-        "name": "lokale HTML-Dateien auf dem iPad auf iPad öffnen",
+        "name": "lokale HTML-Dateien auf dem iPad öffnen",
         "url": "https://html.cybergame.ai/de/articles/open-local-html-file-on-ipad/"
       }
     },
@@ -2297,7 +2297,7 @@
       "position": 251,
       "item": {
         "@id": "https://html.cybergame.ai/de/articles/iphone-cant-open-html-file/#howto-index",
-        "name": "iOS file preview problem HTML-Dateien auf iPhone öffnen",
+        "name": "HTML-Dateien mit iOS-Problem auf iPhone öffnen",
         "url": "https://html.cybergame.ai/de/articles/iphone-cant-open-html-file/"
       }
     },
@@ -2306,7 +2306,7 @@
       "position": 252,
       "item": {
         "@id": "https://html.cybergame.ai/de/articles/html-file-shows-source-code-on-iphone/#howto-index",
-        "name": "HTML source code preview HTML-Dateien auf iPhone öffnen",
+        "name": "HTML als Quellcode auf iPhone öffnen",
         "url": "https://html.cybergame.ai/de/articles/html-file-shows-source-code-on-iphone/"
       }
     },
@@ -2315,7 +2315,7 @@
       "position": 253,
       "item": {
         "@id": "https://html.cybergame.ai/de/articles/files-app-cant-preview-html-on-iphone/#howto-index",
-        "name": "Files app preview problem HTML-Dateien auf iPhone öffnen",
+        "name": "HTML-Dateien ohne Files-Vorschau auf iPhone öffnen",
         "url": "https://html.cybergame.ai/de/articles/files-app-cant-preview-html-on-iphone/"
       }
     },
@@ -2414,7 +2414,7 @@
       "position": 264,
       "item": {
         "@id": "https://html.cybergame.ai/fr/articles/open-ai-generated-html-file-on-ipad/#howto-index",
-        "name": "Ouvrir fichiers HTML générés par IA sur iPad sur iPad",
+        "name": "Ouvrir fichiers HTML générés par IA sur iPad",
         "url": "https://html.cybergame.ai/fr/articles/open-ai-generated-html-file-on-ipad/"
       }
     },
@@ -2423,7 +2423,7 @@
       "position": 265,
       "item": {
         "@id": "https://html.cybergame.ai/fr/articles/open-chatgpt-html-file-on-ipad/#howto-index",
-        "name": "Ouvrir des fichiers HTML de ChatGPT on iPad sur iPad",
+        "name": "Ouvrir des fichiers HTML de ChatGPT on iPad",
         "url": "https://html.cybergame.ai/fr/articles/open-chatgpt-html-file-on-ipad/"
       }
     },
@@ -2504,7 +2504,7 @@
       "position": 274,
       "item": {
         "@id": "https://html.cybergame.ai/fr/articles/open-html-file-from-files-app-on-ipad/#howto-index",
-        "name": "Ouvrir fichiers HTML depuis Files sur iPad sur iPad",
+        "name": "Ouvrir fichiers HTML depuis Files sur iPad",
         "url": "https://html.cybergame.ai/fr/articles/open-html-file-from-files-app-on-ipad/"
       }
     },
@@ -2522,7 +2522,7 @@
       "position": 276,
       "item": {
         "@id": "https://html.cybergame.ai/fr/articles/open-html-file-from-safari-downloads-on-ipad/#howto-index",
-        "name": "Ouvrir fichiers HTML téléchargés par Safari sur iPad sur iPad",
+        "name": "Ouvrir fichiers HTML téléchargés par Safari sur iPad",
         "url": "https://html.cybergame.ai/fr/articles/open-html-file-from-safari-downloads-on-ipad/"
       }
     },
@@ -2594,7 +2594,7 @@
       "position": 284,
       "item": {
         "@id": "https://html.cybergame.ai/fr/articles/open-local-html-file-on-ipad/#howto-index",
-        "name": "Ouvrir fichiers HTML locaux sur iPad sur iPad",
+        "name": "Ouvrir fichiers HTML locaux sur iPad",
         "url": "https://html.cybergame.ai/fr/articles/open-local-html-file-on-ipad/"
       }
     },
@@ -2765,7 +2765,7 @@
       "position": 303,
       "item": {
         "@id": "https://html.cybergame.ai/fr/articles/iphone-cant-open-html-file/#howto-index",
-        "name": "Ouvrir des fichiers HTML de iOS file preview problem sur iPhone",
+        "name": "Ouvrir HTML bloqué par iOS sur iPhone",
         "url": "https://html.cybergame.ai/fr/articles/iphone-cant-open-html-file/"
       }
     },
@@ -2774,7 +2774,7 @@
       "position": 304,
       "item": {
         "@id": "https://html.cybergame.ai/fr/articles/html-file-shows-source-code-on-iphone/#howto-index",
-        "name": "Ouvrir des fichiers HTML de HTML source code preview sur iPhone",
+        "name": "Ouvrir HTML affiché en code sur iPhone",
         "url": "https://html.cybergame.ai/fr/articles/html-file-shows-source-code-on-iphone/"
       }
     },
@@ -2783,7 +2783,7 @@
       "position": 305,
       "item": {
         "@id": "https://html.cybergame.ai/fr/articles/files-app-cant-preview-html-on-iphone/#howto-index",
-        "name": "Ouvrir des fichiers HTML de Files app preview problem sur iPhone",
+        "name": "Ouvrir HTML sans aperçu Files sur iPhone",
         "url": "https://html.cybergame.ai/fr/articles/files-app-cant-preview-html-on-iphone/"
       }
     },
@@ -2882,7 +2882,7 @@
       "position": 316,
       "item": {
         "@id": "https://html.cybergame.ai/pt-br/articles/open-ai-generated-html-file-on-ipad/#howto-index",
-        "name": "Abrir arquivos HTML gerados por IA no iPad no iPad",
+        "name": "Abrir arquivos HTML gerados por IA no iPad",
         "url": "https://html.cybergame.ai/pt-br/articles/open-ai-generated-html-file-on-ipad/"
       }
     },
@@ -2891,7 +2891,7 @@
       "position": 317,
       "item": {
         "@id": "https://html.cybergame.ai/pt-br/articles/open-chatgpt-html-file-on-ipad/#howto-index",
-        "name": "Abrir arquivos HTML do ChatGPT on iPad no iPad",
+        "name": "Abrir arquivos HTML do ChatGPT on iPad",
         "url": "https://html.cybergame.ai/pt-br/articles/open-chatgpt-html-file-on-ipad/"
       }
     },
@@ -2972,7 +2972,7 @@
       "position": 326,
       "item": {
         "@id": "https://html.cybergame.ai/pt-br/articles/open-html-file-from-files-app-on-ipad/#howto-index",
-        "name": "Abrir arquivos HTML do Files no iPad no iPad",
+        "name": "Abrir arquivos HTML do Files no iPad",
         "url": "https://html.cybergame.ai/pt-br/articles/open-html-file-from-files-app-on-ipad/"
       }
     },
@@ -2990,7 +2990,7 @@
       "position": 328,
       "item": {
         "@id": "https://html.cybergame.ai/pt-br/articles/open-html-file-from-safari-downloads-on-ipad/#howto-index",
-        "name": "Abrir arquivos HTML baixados pelo Safari no iPad no iPad",
+        "name": "Abrir arquivos HTML baixados pelo Safari no iPad",
         "url": "https://html.cybergame.ai/pt-br/articles/open-html-file-from-safari-downloads-on-ipad/"
       }
     },
@@ -3062,7 +3062,7 @@
       "position": 336,
       "item": {
         "@id": "https://html.cybergame.ai/pt-br/articles/open-local-html-file-on-ipad/#howto-index",
-        "name": "Abrir arquivos HTML locais no iPad no iPad",
+        "name": "Abrir arquivos HTML locais no iPad",
         "url": "https://html.cybergame.ai/pt-br/articles/open-local-html-file-on-ipad/"
       }
     },
@@ -3233,7 +3233,7 @@
       "position": 355,
       "item": {
         "@id": "https://html.cybergame.ai/pt-br/articles/iphone-cant-open-html-file/#howto-index",
-        "name": "Abrir arquivos HTML do iOS file preview problem no iPhone",
+        "name": "Abrir HTML que o iOS nao abre no iPhone",
         "url": "https://html.cybergame.ai/pt-br/articles/iphone-cant-open-html-file/"
       }
     },
@@ -3242,7 +3242,7 @@
       "position": 356,
       "item": {
         "@id": "https://html.cybergame.ai/pt-br/articles/html-file-shows-source-code-on-iphone/#howto-index",
-        "name": "Abrir arquivos HTML do HTML source code preview no iPhone",
+        "name": "Abrir HTML como codigo-fonte no iPhone",
         "url": "https://html.cybergame.ai/pt-br/articles/html-file-shows-source-code-on-iphone/"
       }
     },
@@ -3251,7 +3251,7 @@
       "position": 357,
       "item": {
         "@id": "https://html.cybergame.ai/pt-br/articles/files-app-cant-preview-html-on-iphone/#howto-index",
-        "name": "Abrir arquivos HTML do Files app preview problem no iPhone",
+        "name": "Abrir HTML sem previa no Files no iPhone",
         "url": "https://html.cybergame.ai/pt-br/articles/files-app-cant-preview-html-on-iphone/"
       }
     },
@@ -3350,7 +3350,7 @@
       "position": 368,
       "item": {
         "@id": "https://html.cybergame.ai/ko/articles/open-ai-generated-html-file-on-ipad/#howto-index",
-        "name": "iPad에서 iPad의 AI 생성 HTML 파일 열기",
+        "name": "iPad의 AI 생성 HTML 파일 열기",
         "url": "https://html.cybergame.ai/ko/articles/open-ai-generated-html-file-on-ipad/"
       }
     },
@@ -3359,7 +3359,7 @@
       "position": 369,
       "item": {
         "@id": "https://html.cybergame.ai/ko/articles/open-chatgpt-html-file-on-ipad/#howto-index",
-        "name": "iPad에서 ChatGPT on iPad HTML 파일 열기",
+        "name": "ChatGPT on iPad HTML 파일 열기",
         "url": "https://html.cybergame.ai/ko/articles/open-chatgpt-html-file-on-ipad/"
       }
     },
@@ -3368,7 +3368,7 @@
       "position": 370,
       "item": {
         "@id": "https://html.cybergame.ai/ko/articles/best-html-viewer-for-iphone-ipad/#howto-index",
-        "name": "iPad에서 iPhone and iPad HTML 파일 열기",
+        "name": "iPhone and iPad HTML 파일 열기",
         "url": "https://html.cybergame.ai/ko/articles/best-html-viewer-for-iphone-ipad/"
       }
     },
@@ -3440,7 +3440,7 @@
       "position": 378,
       "item": {
         "@id": "https://html.cybergame.ai/ko/articles/open-html-file-from-files-app-on-ipad/#howto-index",
-        "name": "iPad에서 iPad Files 앱의 HTML 파일 열기",
+        "name": "iPad Files 앱의 HTML 파일 열기",
         "url": "https://html.cybergame.ai/ko/articles/open-html-file-from-files-app-on-ipad/"
       }
     },
@@ -3458,7 +3458,7 @@
       "position": 380,
       "item": {
         "@id": "https://html.cybergame.ai/ko/articles/open-html-file-from-safari-downloads-on-ipad/#howto-index",
-        "name": "iPad에서 iPad Safari 다운로드 HTML 파일 열기",
+        "name": "iPad Safari 다운로드 HTML 파일 열기",
         "url": "https://html.cybergame.ai/ko/articles/open-html-file-from-safari-downloads-on-ipad/"
       }
     },
@@ -3530,7 +3530,7 @@
       "position": 388,
       "item": {
         "@id": "https://html.cybergame.ai/ko/articles/open-local-html-file-on-ipad/#howto-index",
-        "name": "iPad에서 iPad 로컬 HTML 파일 열기",
+        "name": "iPad 로컬 HTML 파일 열기",
         "url": "https://html.cybergame.ai/ko/articles/open-local-html-file-on-ipad/"
       }
     },
@@ -3818,7 +3818,7 @@
       "position": 420,
       "item": {
         "@id": "https://html.cybergame.ai/ar/articles/open-ai-generated-html-file-on-ipad/#howto-index",
-        "name": "فتح ملفات HTML من AI على iPad على iPad",
+        "name": "فتح ملفات HTML من AI على iPad",
         "url": "https://html.cybergame.ai/ar/articles/open-ai-generated-html-file-on-ipad/"
       }
     },
@@ -3827,7 +3827,7 @@
       "position": 421,
       "item": {
         "@id": "https://html.cybergame.ai/ar/articles/open-chatgpt-html-file-on-ipad/#howto-index",
-        "name": "فتح ملفات HTML من ChatGPT on iPad على iPad",
+        "name": "فتح ملفات HTML من ChatGPT on iPad",
         "url": "https://html.cybergame.ai/ar/articles/open-chatgpt-html-file-on-ipad/"
       }
     },
@@ -3836,7 +3836,7 @@
       "position": 422,
       "item": {
         "@id": "https://html.cybergame.ai/ar/articles/best-html-viewer-for-iphone-ipad/#howto-index",
-        "name": "فتح ملفات HTML من iPhone and iPad على iPad",
+        "name": "فتح ملفات HTML من iPhone and iPad",
         "url": "https://html.cybergame.ai/ar/articles/best-html-viewer-for-iphone-ipad/"
       }
     },
@@ -3854,7 +3854,7 @@
       "position": 424,
       "item": {
         "@id": "https://html.cybergame.ai/ar/articles/open-html-email-attachment-on-iphone/#howto-index",
-        "name": "فتح ملفات HTML من Mail, Gmail, Outlook على iPhone",
+        "name": "فتح HTML من البريد على iPhone",
         "url": "https://html.cybergame.ai/ar/articles/open-html-email-attachment-on-iphone/"
       }
     },
@@ -3899,7 +3899,7 @@
       "position": 429,
       "item": {
         "@id": "https://html.cybergame.ai/ar/articles/open-html-file-from-files-app-on-iphone/#howto-index",
-        "name": "فتح ملفات HTML من Files, AirDrop, iCloud Drive على iPhone",
+        "name": "فتح ملفات HTML من Files و AirDrop و iCloud على iPhone",
         "url": "https://html.cybergame.ai/ar/articles/open-html-file-from-files-app-on-iphone/"
       }
     },
@@ -3908,7 +3908,7 @@
       "position": 430,
       "item": {
         "@id": "https://html.cybergame.ai/ar/articles/open-html-file-from-files-app-on-ipad/#howto-index",
-        "name": "فتح ملفات HTML من تطبيق Files على iPad على iPad",
+        "name": "فتح ملفات HTML من تطبيق Files على iPad",
         "url": "https://html.cybergame.ai/ar/articles/open-html-file-from-files-app-on-ipad/"
       }
     },
@@ -3926,7 +3926,7 @@
       "position": 432,
       "item": {
         "@id": "https://html.cybergame.ai/ar/articles/open-html-file-from-safari-downloads-on-ipad/#howto-index",
-        "name": "فتح ملفات HTML من تنزيلات Safari على iPad على iPad",
+        "name": "فتح ملفات HTML من تنزيلات Safari على iPad",
         "url": "https://html.cybergame.ai/ar/articles/open-html-file-from-safari-downloads-on-ipad/"
       }
     },
@@ -3998,7 +3998,7 @@
       "position": 440,
       "item": {
         "@id": "https://html.cybergame.ai/ar/articles/open-local-html-file-on-ipad/#howto-index",
-        "name": "فتح ملفات HTML المحلية على iPad على iPad",
+        "name": "فتح ملفات HTML المحلية على iPad",
         "url": "https://html.cybergame.ai/ar/articles/open-local-html-file-on-ipad/"
       }
     },
@@ -4169,7 +4169,7 @@
       "position": 459,
       "item": {
         "@id": "https://html.cybergame.ai/ar/articles/iphone-cant-open-html-file/#howto-index",
-        "name": "فتح ملفات HTML من iOS file preview problem على iPhone",
+        "name": "فتح ملفات HTML لا يفتحها iOS على iPhone",
         "url": "https://html.cybergame.ai/ar/articles/iphone-cant-open-html-file/"
       }
     },
@@ -4178,7 +4178,7 @@
       "position": 460,
       "item": {
         "@id": "https://html.cybergame.ai/ar/articles/html-file-shows-source-code-on-iphone/#howto-index",
-        "name": "فتح ملفات HTML من HTML source code preview على iPhone",
+        "name": "فتح HTML يظهر ككود على iPhone",
         "url": "https://html.cybergame.ai/ar/articles/html-file-shows-source-code-on-iphone/"
       }
     },
@@ -4187,7 +4187,7 @@
       "position": 461,
       "item": {
         "@id": "https://html.cybergame.ai/ar/articles/files-app-cant-preview-html-on-iphone/#howto-index",
-        "name": "فتح ملفات HTML من Files app preview problem على iPhone",
+        "name": "فتح ملفات HTML لا يعاينها Files على iPhone",
         "url": "https://html.cybergame.ai/ar/articles/files-app-cant-preview-html-on-iphone/"
       }
     },
@@ -4286,7 +4286,7 @@
       "position": 472,
       "item": {
         "@id": "https://html.cybergame.ai/hi/articles/open-ai-generated-html-file-on-ipad/#howto-index",
-        "name": "iPad पर iPad पर AI से बनी HTML files खोलें",
+        "name": "iPad पर AI से बनी HTML files खोलें",
         "url": "https://html.cybergame.ai/hi/articles/open-ai-generated-html-file-on-ipad/"
       }
     },
@@ -4295,7 +4295,7 @@
       "position": 473,
       "item": {
         "@id": "https://html.cybergame.ai/hi/articles/open-chatgpt-html-file-on-ipad/#howto-index",
-        "name": "iPad पर ChatGPT on iPad HTML files खोलें",
+        "name": "ChatGPT on iPad HTML files खोलें",
         "url": "https://html.cybergame.ai/hi/articles/open-chatgpt-html-file-on-ipad/"
       }
     },
@@ -4304,7 +4304,7 @@
       "position": 474,
       "item": {
         "@id": "https://html.cybergame.ai/hi/articles/best-html-viewer-for-iphone-ipad/#howto-index",
-        "name": "iPad पर iPhone and iPad HTML files खोलें",
+        "name": "iPhone and iPad HTML files खोलें",
         "url": "https://html.cybergame.ai/hi/articles/best-html-viewer-for-iphone-ipad/"
       }
     },
@@ -4376,7 +4376,7 @@
       "position": 482,
       "item": {
         "@id": "https://html.cybergame.ai/hi/articles/open-html-file-from-files-app-on-ipad/#howto-index",
-        "name": "iPad पर iPad Files app से HTML files खोलें",
+        "name": "iPad Files app से HTML files खोलें",
         "url": "https://html.cybergame.ai/hi/articles/open-html-file-from-files-app-on-ipad/"
       }
     },
@@ -4394,7 +4394,7 @@
       "position": 484,
       "item": {
         "@id": "https://html.cybergame.ai/hi/articles/open-html-file-from-safari-downloads-on-ipad/#howto-index",
-        "name": "iPad पर iPad Safari downloads से HTML files खोलें",
+        "name": "iPad Safari downloads से HTML files खोलें",
         "url": "https://html.cybergame.ai/hi/articles/open-html-file-from-safari-downloads-on-ipad/"
       }
     },
@@ -4439,7 +4439,7 @@
       "position": 489,
       "item": {
         "@id": "https://html.cybergame.ai/hi/articles/online-html-converter-alternative-iphone/#howto-index",
-        "name": "iPhone पर a local alternative to online HTML converters खोलें",
+        "name": "iPhone पर online HTML converter alternative खोलें",
         "url": "https://html.cybergame.ai/hi/articles/online-html-converter-alternative-iphone/"
       }
     },
@@ -4466,7 +4466,7 @@
       "position": 492,
       "item": {
         "@id": "https://html.cybergame.ai/hi/articles/open-local-html-file-on-ipad/#howto-index",
-        "name": "iPad पर iPad पर HTML की local files खोलें",
+        "name": "iPad पर HTML की local files खोलें",
         "url": "https://html.cybergame.ai/hi/articles/open-local-html-file-on-ipad/"
       }
     },
@@ -4637,7 +4637,7 @@
       "position": 511,
       "item": {
         "@id": "https://html.cybergame.ai/hi/articles/iphone-cant-open-html-file/#howto-index",
-        "name": "iPhone पर iOS file preview problem HTML files खोलें",
+        "name": "iPhone पर iOS preview issue HTML files खोलें",
         "url": "https://html.cybergame.ai/hi/articles/iphone-cant-open-html-file/"
       }
     },
@@ -4646,7 +4646,7 @@
       "position": 512,
       "item": {
         "@id": "https://html.cybergame.ai/hi/articles/html-file-shows-source-code-on-iphone/#howto-index",
-        "name": "iPhone पर HTML source code preview HTML files खोलें",
+        "name": "iPhone पर HTML source preview खोलें",
         "url": "https://html.cybergame.ai/hi/articles/html-file-shows-source-code-on-iphone/"
       }
     },
@@ -4655,7 +4655,7 @@
       "position": 513,
       "item": {
         "@id": "https://html.cybergame.ai/hi/articles/files-app-cant-preview-html-on-iphone/#howto-index",
-        "name": "iPhone पर Files app preview problem HTML files खोलें",
+        "name": "iPhone पर Files preview issue HTML files खोलें",
         "url": "https://html.cybergame.ai/hi/articles/files-app-cant-preview-html-on-iphone/"
       }
     },
@@ -20456,7 +20456,7 @@
     {
       "@type": "HowTo",
       "@id": "https://html.cybergame.ai/ja/articles/open-ai-generated-html-file-on-ipad/#howto-index",
-      "name": "iPadのAI生成HTMLファイルをiPadで開く方法",
+      "name": "iPadのAI生成HTMLファイルを開く方法",
       "description": "Html Previewをインストールし、Filesまたは共有シートからファイルを開くと、iPhone/iPad上でローカルにプレビューできます。",
       "inLanguage": "ja",
       "url": "https://html.cybergame.ai/ja/articles/open-ai-generated-html-file-on-ipad/",
@@ -20603,7 +20603,7 @@
     {
       "@type": "HowTo",
       "@id": "https://html.cybergame.ai/ja/articles/open-chatgpt-html-file-on-ipad/#howto-index",
-      "name": "ChatGPT on iPad HTMLファイルをiPadで開く方法",
+      "name": "ChatGPT on iPad HTMLファイルを開く方法",
       "description": "Html Previewをインストールし、Filesまたは共有シートからファイルを開くと、iPhone/iPad上でローカルにプレビューできます。",
       "inLanguage": "ja",
       "url": "https://html.cybergame.ai/ja/articles/open-chatgpt-html-file-on-ipad/",
@@ -21926,7 +21926,7 @@
     {
       "@type": "HowTo",
       "@id": "https://html.cybergame.ai/ja/articles/open-html-file-from-files-app-on-ipad/#howto-index",
-      "name": "iPadのFilesアプリのHTMLファイルをiPadで開く方法",
+      "name": "iPadのFilesアプリのHTMLファイルを開く方法",
       "description": "Html Previewをインストールし、Filesまたは共有シートからファイルを開くと、iPhone/iPad上でローカルにプレビューできます。",
       "inLanguage": "ja",
       "url": "https://html.cybergame.ai/ja/articles/open-html-file-from-files-app-on-ipad/",
@@ -22220,7 +22220,7 @@
     {
       "@type": "HowTo",
       "@id": "https://html.cybergame.ai/ja/articles/open-html-file-from-safari-downloads-on-ipad/#howto-index",
-      "name": "iPadのSafariダウンロードHTMLファイルをiPadで開く方法",
+      "name": "iPadのSafariダウンロードHTMLファイルを開く方法",
       "description": "Html Previewをインストールし、Filesまたは共有シートからファイルを開くと、iPhone/iPad上でローカルにプレビューできます。",
       "inLanguage": "ja",
       "url": "https://html.cybergame.ai/ja/articles/open-html-file-from-safari-downloads-on-ipad/",
@@ -23396,7 +23396,7 @@
     {
       "@type": "HowTo",
       "@id": "https://html.cybergame.ai/ja/articles/open-local-html-file-on-ipad/#howto-index",
-      "name": "iPadのローカルHTMLファイルをiPadで開く方法",
+      "name": "iPadのローカルHTMLファイルを開く方法",
       "description": "Html Previewをインストールし、Filesまたは共有シートからファイルを開くと、iPhone/iPad上でローカルにプレビューできます。",
       "inLanguage": "ja",
       "url": "https://html.cybergame.ai/ja/articles/open-local-html-file-on-ipad/",
@@ -28100,7 +28100,7 @@
     {
       "@type": "HowTo",
       "@id": "https://html.cybergame.ai/es/articles/open-ai-generated-html-file-on-ipad/#howto-index",
-      "name": "Cómo abrir archivos HTML generados por IA en iPad en iPad",
+      "name": "Cómo abrir archivos HTML generados por IA en iPad",
       "description": "Instala Html Preview, abre el archivo desde Files o la hoja de compartir de iOS y previsualízalo localmente en iPhone o iPad.",
       "inLanguage": "es",
       "url": "https://html.cybergame.ai/es/articles/open-ai-generated-html-file-on-ipad/",
@@ -28247,7 +28247,7 @@
     {
       "@type": "HowTo",
       "@id": "https://html.cybergame.ai/es/articles/open-chatgpt-html-file-on-ipad/#howto-index",
-      "name": "Cómo abrir archivos HTML de ChatGPT on iPad en iPad",
+      "name": "Cómo abrir archivos HTML de ChatGPT on iPad",
       "description": "Instala Html Preview, abre el archivo desde Files o la hoja de compartir de iOS y previsualízalo localmente en iPhone o iPad.",
       "inLanguage": "es",
       "url": "https://html.cybergame.ai/es/articles/open-chatgpt-html-file-on-ipad/",
@@ -29570,7 +29570,7 @@
     {
       "@type": "HowTo",
       "@id": "https://html.cybergame.ai/es/articles/open-html-file-from-files-app-on-ipad/#howto-index",
-      "name": "Cómo abrir archivos HTML de Files en iPad en iPad",
+      "name": "Cómo abrir archivos HTML de Files en iPad",
       "description": "Instala Html Preview, abre el archivo desde Files o la hoja de compartir de iOS y previsualízalo localmente en iPhone o iPad.",
       "inLanguage": "es",
       "url": "https://html.cybergame.ai/es/articles/open-html-file-from-files-app-on-ipad/",
@@ -29864,7 +29864,7 @@
     {
       "@type": "HowTo",
       "@id": "https://html.cybergame.ai/es/articles/open-html-file-from-safari-downloads-on-ipad/#howto-index",
-      "name": "Cómo abrir archivos HTML de Safari descargados en iPad en iPad",
+      "name": "Cómo abrir archivos HTML de Safari descargados en iPad",
       "description": "Instala Html Preview, abre el archivo desde Files o la hoja de compartir de iOS y previsualízalo localmente en iPhone o iPad.",
       "inLanguage": "es",
       "url": "https://html.cybergame.ai/es/articles/open-html-file-from-safari-downloads-on-ipad/",
@@ -31040,7 +31040,7 @@
     {
       "@type": "HowTo",
       "@id": "https://html.cybergame.ai/es/articles/open-local-html-file-on-ipad/#howto-index",
-      "name": "Cómo abrir archivos HTML locales en iPad en iPad",
+      "name": "Cómo abrir archivos HTML locales en iPad",
       "description": "Instala Html Preview, abre el archivo desde Files o la hoja de compartir de iOS y previsualízalo localmente en iPhone o iPad.",
       "inLanguage": "es",
       "url": "https://html.cybergame.ai/es/articles/open-local-html-file-on-ipad/",
@@ -33833,7 +33833,7 @@
     {
       "@type": "HowTo",
       "@id": "https://html.cybergame.ai/es/articles/iphone-cant-open-html-file/#howto-index",
-      "name": "Cómo abrir archivos HTML de iOS file preview problem en iPhone",
+      "name": "Cómo abrir HTML que iOS no abre en iPhone",
       "description": "Instala Html Preview, abre el archivo desde Files o la hoja de compartir de iOS y previsualízalo localmente en iPhone o iPad.",
       "inLanguage": "es",
       "url": "https://html.cybergame.ai/es/articles/iphone-cant-open-html-file/",
@@ -33843,8 +33843,8 @@
       "pageType": "article",
       "articleSlug": "iphone-cant-open-html-file",
       "topicKey": null,
-      "source": "iOS file preview problem",
-      "query": "¿Cómo abrir archivos HTML de iOS file preview problem?",
+      "source": "problema de vista previa en iOS",
+      "query": "¿Cómo abrir HTML que iOS no abre?",
       "primaryKeyword": "iPhone can't open HTML file",
       "supportedFormats": ".html, .htm, .xhtml",
       "fileExtensions": [
@@ -33865,7 +33865,7 @@
           "@type": "HowToStep",
           "position": 1,
           "name": "Guarda el archivo",
-          "text": "Guarda el archivo HTML recibido desde iOS file preview problem. Mantén el archivo original .html, .htm, .xhtml en Files, Mail, una descarga del navegador o la app de origen.",
+          "text": "Guarda el archivo HTML recibido desde problema de vista previa en iOS. Mantén el archivo original .html, .htm, .xhtml en Files, Mail, una descarga del navegador o la app de origen.",
           "url": "https://html.cybergame.ai/es/articles/iphone-cant-open-html-file/#step-1"
         },
         {
@@ -33879,7 +33879,7 @@
           "@type": "HowToStep",
           "position": 3,
           "name": "Elige el visor",
-          "text": "Elige Html Preview como visor para abrir archivos HTML de iOS file preview problem localmente en iPhone o iPad.",
+          "text": "Elige Html Preview como visor para abrir HTML que iOS no abre localmente en iPhone o iPad.",
           "url": "https://html.cybergame.ai/es/articles/iphone-cant-open-html-file/#step-3"
         },
         {
@@ -33980,7 +33980,7 @@
     {
       "@type": "HowTo",
       "@id": "https://html.cybergame.ai/es/articles/html-file-shows-source-code-on-iphone/#howto-index",
-      "name": "Cómo abrir archivos HTML de HTML source code preview en iPhone",
+      "name": "Cómo abrir HTML mostrado como codigo en iPhone",
       "description": "Instala Html Preview, abre el archivo desde Files o la hoja de compartir de iOS y previsualízalo localmente en iPhone o iPad.",
       "inLanguage": "es",
       "url": "https://html.cybergame.ai/es/articles/html-file-shows-source-code-on-iphone/",
@@ -33990,8 +33990,8 @@
       "pageType": "article",
       "articleSlug": "html-file-shows-source-code-on-iphone",
       "topicKey": null,
-      "source": "HTML source code preview",
-      "query": "¿Cómo abrir archivos HTML de HTML source code preview en iPhone o iPad?",
+      "source": "HTML mostrado como codigo",
+      "query": "¿Cómo abrir HTML mostrado como codigo en iPhone o iPad?",
       "primaryKeyword": "HTML file shows source code on iPhone",
       "supportedFormats": ".html, .htm, .xhtml",
       "fileExtensions": [
@@ -34012,7 +34012,7 @@
           "@type": "HowToStep",
           "position": 1,
           "name": "Guarda el archivo",
-          "text": "Guarda el archivo HTML recibido desde HTML source code preview. Mantén el archivo original .html, .htm, .xhtml en Files, Mail, una descarga del navegador o la app de origen.",
+          "text": "Guarda el archivo HTML recibido desde HTML mostrado como codigo. Mantén el archivo original .html, .htm, .xhtml en Files, Mail, una descarga del navegador o la app de origen.",
           "url": "https://html.cybergame.ai/es/articles/html-file-shows-source-code-on-iphone/#step-1"
         },
         {
@@ -34026,7 +34026,7 @@
           "@type": "HowToStep",
           "position": 3,
           "name": "Elige el visor",
-          "text": "Elige Html Preview como visor para abrir archivos HTML de HTML source code preview localmente en iPhone o iPad.",
+          "text": "Elige Html Preview como visor para abrir HTML mostrado como codigo localmente en iPhone o iPad.",
           "url": "https://html.cybergame.ai/es/articles/html-file-shows-source-code-on-iphone/#step-3"
         },
         {
@@ -34127,7 +34127,7 @@
     {
       "@type": "HowTo",
       "@id": "https://html.cybergame.ai/es/articles/files-app-cant-preview-html-on-iphone/#howto-index",
-      "name": "Cómo abrir archivos HTML de Files app preview problem en iPhone",
+      "name": "Cómo abrir HTML que Files no previsualiza en iPhone",
       "description": "Instala Html Preview, abre el archivo desde Files o la hoja de compartir de iOS y previsualízalo localmente en iPhone o iPad.",
       "inLanguage": "es",
       "url": "https://html.cybergame.ai/es/articles/files-app-cant-preview-html-on-iphone/",
@@ -34137,8 +34137,8 @@
       "pageType": "article",
       "articleSlug": "files-app-cant-preview-html-on-iphone",
       "topicKey": null,
-      "source": "Files app preview problem",
-      "query": "¿Cómo abrir archivos HTML de Files app preview problem en iPhone o iPad?",
+      "source": "problema de vista previa en Files",
+      "query": "¿Cómo abrir HTML que Files no previsualiza en iPhone o iPad?",
       "primaryKeyword": "Files app can't preview HTML on iPhone",
       "supportedFormats": ".html, .htm, .xhtml",
       "fileExtensions": [
@@ -34159,7 +34159,7 @@
           "@type": "HowToStep",
           "position": 1,
           "name": "Guarda el archivo",
-          "text": "Guarda el archivo HTML recibido desde Files app preview problem. Mantén el archivo original .html, .htm, .xhtml en Files, Mail, una descarga del navegador o la app de origen.",
+          "text": "Guarda el archivo HTML recibido desde problema de vista previa en Files. Mantén el archivo original .html, .htm, .xhtml en Files, Mail, una descarga del navegador o la app de origen.",
           "url": "https://html.cybergame.ai/es/articles/files-app-cant-preview-html-on-iphone/#step-1"
         },
         {
@@ -34173,7 +34173,7 @@
           "@type": "HowToStep",
           "position": 3,
           "name": "Elige el visor",
-          "text": "Elige Html Preview como visor para abrir archivos HTML de Files app preview problem localmente en iPhone o iPad.",
+          "text": "Elige Html Preview como visor para abrir HTML que Files no previsualiza localmente en iPhone o iPad.",
           "url": "https://html.cybergame.ai/es/articles/files-app-cant-preview-html-on-iphone/#step-3"
         },
         {
@@ -35744,7 +35744,7 @@
     {
       "@type": "HowTo",
       "@id": "https://html.cybergame.ai/de/articles/open-ai-generated-html-file-on-ipad/#howto-index",
-      "name": "KI-generierte HTML-Dateien auf dem iPad auf iPad öffnen",
+      "name": "KI-generierte HTML-Dateien auf dem iPad öffnen",
       "description": "Installiere Html Preview, öffne die Datei aus Files oder dem iOS-Teilen-Menü und zeige sie lokal auf iPhone oder iPad an.",
       "inLanguage": "de",
       "url": "https://html.cybergame.ai/de/articles/open-ai-generated-html-file-on-ipad/",
@@ -35891,7 +35891,7 @@
     {
       "@type": "HowTo",
       "@id": "https://html.cybergame.ai/de/articles/open-chatgpt-html-file-on-ipad/#howto-index",
-      "name": "ChatGPT on iPad HTML-Dateien auf iPad öffnen",
+      "name": "ChatGPT on iPad HTML-Dateien öffnen",
       "description": "Installiere Html Preview, öffne die Datei aus Files oder dem iOS-Teilen-Menü und zeige sie lokal auf iPhone oder iPad an.",
       "inLanguage": "de",
       "url": "https://html.cybergame.ai/de/articles/open-chatgpt-html-file-on-ipad/",
@@ -37214,7 +37214,7 @@
     {
       "@type": "HowTo",
       "@id": "https://html.cybergame.ai/de/articles/open-html-file-from-files-app-on-ipad/#howto-index",
-      "name": "HTML-Dateien aus der Files-App auf dem iPad auf iPad öffnen",
+      "name": "HTML-Dateien aus der Files-App auf dem iPad öffnen",
       "description": "Installiere Html Preview, öffne die Datei aus Files oder dem iOS-Teilen-Menü und zeige sie lokal auf iPhone oder iPad an.",
       "inLanguage": "de",
       "url": "https://html.cybergame.ai/de/articles/open-html-file-from-files-app-on-ipad/",
@@ -37508,7 +37508,7 @@
     {
       "@type": "HowTo",
       "@id": "https://html.cybergame.ai/de/articles/open-html-file-from-safari-downloads-on-ipad/#howto-index",
-      "name": "HTML-Dateien aus Safari-Downloads auf dem iPad auf iPad öffnen",
+      "name": "HTML-Dateien aus Safari-Downloads auf dem iPad öffnen",
       "description": "Installiere Html Preview, öffne die Datei aus Files oder dem iOS-Teilen-Menü und zeige sie lokal auf iPhone oder iPad an.",
       "inLanguage": "de",
       "url": "https://html.cybergame.ai/de/articles/open-html-file-from-safari-downloads-on-ipad/",
@@ -38684,7 +38684,7 @@
     {
       "@type": "HowTo",
       "@id": "https://html.cybergame.ai/de/articles/open-local-html-file-on-ipad/#howto-index",
-      "name": "lokale HTML-Dateien auf dem iPad auf iPad öffnen",
+      "name": "lokale HTML-Dateien auf dem iPad öffnen",
       "description": "Installiere Html Preview, öffne die Datei aus Files oder dem iOS-Teilen-Menü und zeige sie lokal auf iPhone oder iPad an.",
       "inLanguage": "de",
       "url": "https://html.cybergame.ai/de/articles/open-local-html-file-on-ipad/",
@@ -41477,7 +41477,7 @@
     {
       "@type": "HowTo",
       "@id": "https://html.cybergame.ai/de/articles/iphone-cant-open-html-file/#howto-index",
-      "name": "iOS file preview problem HTML-Dateien auf iPhone öffnen",
+      "name": "HTML-Dateien mit iOS-Problem auf iPhone öffnen",
       "description": "Installiere Html Preview, öffne die Datei aus Files oder dem iOS-Teilen-Menü und zeige sie lokal auf iPhone oder iPad an.",
       "inLanguage": "de",
       "url": "https://html.cybergame.ai/de/articles/iphone-cant-open-html-file/",
@@ -41487,8 +41487,8 @@
       "pageType": "article",
       "articleSlug": "iphone-cant-open-html-file",
       "topicKey": null,
-      "source": "iOS file preview problem",
-      "query": "Wie kann ich iOS file preview problem HTML-Dateien öffnen?",
+      "source": "iOS-Vorschauproblem",
+      "query": "Wie kann ich HTML-Dateien mit iOS-Problem öffnen?",
       "primaryKeyword": "iPhone can't open HTML file",
       "supportedFormats": ".html, .htm, .xhtml",
       "fileExtensions": [
@@ -41509,7 +41509,7 @@
           "@type": "HowToStep",
           "position": 1,
           "name": "Quelldatei speichern",
-          "text": "Speichere die HTML-Datei aus iOS file preview problem. Behalte die originale .html, .htm, .xhtml-Datei in Files, Mail, einem Browser-Download oder der Quell-App.",
+          "text": "Speichere die HTML-Datei aus iOS-Vorschauproblem. Behalte die originale .html, .htm, .xhtml-Datei in Files, Mail, einem Browser-Download oder der Quell-App.",
           "url": "https://html.cybergame.ai/de/articles/iphone-cant-open-html-file/#step-1"
         },
         {
@@ -41523,7 +41523,7 @@
           "@type": "HowToStep",
           "position": 3,
           "name": "Viewer auswählen",
-          "text": "Wähle Html Preview als Viewer. Die Datei wird lokal auf iPhone oder iPad für diesen Ablauf geöffnet: iOS file preview problem HTML-Dateien öffnen.",
+          "text": "Wähle Html Preview als Viewer. Die Datei wird lokal auf iPhone oder iPad für diesen Ablauf geöffnet: HTML-Dateien mit iOS-Problem öffnen.",
           "url": "https://html.cybergame.ai/de/articles/iphone-cant-open-html-file/#step-3"
         },
         {
@@ -41624,7 +41624,7 @@
     {
       "@type": "HowTo",
       "@id": "https://html.cybergame.ai/de/articles/html-file-shows-source-code-on-iphone/#howto-index",
-      "name": "HTML source code preview HTML-Dateien auf iPhone öffnen",
+      "name": "HTML als Quellcode auf iPhone öffnen",
       "description": "Installiere Html Preview, öffne die Datei aus Files oder dem iOS-Teilen-Menü und zeige sie lokal auf iPhone oder iPad an.",
       "inLanguage": "de",
       "url": "https://html.cybergame.ai/de/articles/html-file-shows-source-code-on-iphone/",
@@ -41634,8 +41634,8 @@
       "pageType": "article",
       "articleSlug": "html-file-shows-source-code-on-iphone",
       "topicKey": null,
-      "source": "HTML source code preview",
-      "query": "Wie kann ich HTML source code preview HTML-Dateien öffnen auf iPhone oder iPad?",
+      "source": "HTML als Quellcode",
+      "query": "Wie kann ich HTML als Quellcode öffnen auf iPhone oder iPad?",
       "primaryKeyword": "HTML file shows source code on iPhone",
       "supportedFormats": ".html, .htm, .xhtml",
       "fileExtensions": [
@@ -41656,7 +41656,7 @@
           "@type": "HowToStep",
           "position": 1,
           "name": "Quelldatei speichern",
-          "text": "Speichere die HTML-Datei aus HTML source code preview. Behalte die originale .html, .htm, .xhtml-Datei in Files, Mail, einem Browser-Download oder der Quell-App.",
+          "text": "Speichere die HTML-Datei aus HTML als Quellcode. Behalte die originale .html, .htm, .xhtml-Datei in Files, Mail, einem Browser-Download oder der Quell-App.",
           "url": "https://html.cybergame.ai/de/articles/html-file-shows-source-code-on-iphone/#step-1"
         },
         {
@@ -41670,7 +41670,7 @@
           "@type": "HowToStep",
           "position": 3,
           "name": "Viewer auswählen",
-          "text": "Wähle Html Preview als Viewer. Die Datei wird lokal auf iPhone oder iPad für diesen Ablauf geöffnet: HTML source code preview HTML-Dateien öffnen.",
+          "text": "Wähle Html Preview als Viewer. Die Datei wird lokal auf iPhone oder iPad für diesen Ablauf geöffnet: HTML als Quellcode öffnen.",
           "url": "https://html.cybergame.ai/de/articles/html-file-shows-source-code-on-iphone/#step-3"
         },
         {
@@ -41771,7 +41771,7 @@
     {
       "@type": "HowTo",
       "@id": "https://html.cybergame.ai/de/articles/files-app-cant-preview-html-on-iphone/#howto-index",
-      "name": "Files app preview problem HTML-Dateien auf iPhone öffnen",
+      "name": "HTML-Dateien ohne Files-Vorschau auf iPhone öffnen",
       "description": "Installiere Html Preview, öffne die Datei aus Files oder dem iOS-Teilen-Menü und zeige sie lokal auf iPhone oder iPad an.",
       "inLanguage": "de",
       "url": "https://html.cybergame.ai/de/articles/files-app-cant-preview-html-on-iphone/",
@@ -41781,8 +41781,8 @@
       "pageType": "article",
       "articleSlug": "files-app-cant-preview-html-on-iphone",
       "topicKey": null,
-      "source": "Files app preview problem",
-      "query": "Wie kann ich Files app preview problem HTML-Dateien öffnen auf iPhone oder iPad?",
+      "source": "Files-Vorschauproblem",
+      "query": "Wie kann ich HTML-Dateien ohne Files-Vorschau öffnen auf iPhone oder iPad?",
       "primaryKeyword": "Files app can't preview HTML on iPhone",
       "supportedFormats": ".html, .htm, .xhtml",
       "fileExtensions": [
@@ -41803,7 +41803,7 @@
           "@type": "HowToStep",
           "position": 1,
           "name": "Quelldatei speichern",
-          "text": "Speichere die HTML-Datei aus Files app preview problem. Behalte die originale .html, .htm, .xhtml-Datei in Files, Mail, einem Browser-Download oder der Quell-App.",
+          "text": "Speichere die HTML-Datei aus Files-Vorschauproblem. Behalte die originale .html, .htm, .xhtml-Datei in Files, Mail, einem Browser-Download oder der Quell-App.",
           "url": "https://html.cybergame.ai/de/articles/files-app-cant-preview-html-on-iphone/#step-1"
         },
         {
@@ -41817,7 +41817,7 @@
           "@type": "HowToStep",
           "position": 3,
           "name": "Viewer auswählen",
-          "text": "Wähle Html Preview als Viewer. Die Datei wird lokal auf iPhone oder iPad für diesen Ablauf geöffnet: Files app preview problem HTML-Dateien öffnen.",
+          "text": "Wähle Html Preview als Viewer. Die Datei wird lokal auf iPhone oder iPad für diesen Ablauf geöffnet: HTML-Dateien ohne Files-Vorschau öffnen.",
           "url": "https://html.cybergame.ai/de/articles/files-app-cant-preview-html-on-iphone/#step-3"
         },
         {
@@ -43388,7 +43388,7 @@
     {
       "@type": "HowTo",
       "@id": "https://html.cybergame.ai/fr/articles/open-ai-generated-html-file-on-ipad/#howto-index",
-      "name": "Ouvrir fichiers HTML générés par IA sur iPad sur iPad",
+      "name": "Ouvrir fichiers HTML générés par IA sur iPad",
       "description": "Installez Html Preview, ouvrez le fichier depuis Files ou le partage iOS, puis prévisualisez-le localement sur iPhone ou iPad.",
       "inLanguage": "fr",
       "url": "https://html.cybergame.ai/fr/articles/open-ai-generated-html-file-on-ipad/",
@@ -43535,7 +43535,7 @@
     {
       "@type": "HowTo",
       "@id": "https://html.cybergame.ai/fr/articles/open-chatgpt-html-file-on-ipad/#howto-index",
-      "name": "Ouvrir des fichiers HTML de ChatGPT on iPad sur iPad",
+      "name": "Ouvrir des fichiers HTML de ChatGPT on iPad",
       "description": "Installez Html Preview, ouvrez le fichier depuis Files ou le partage iOS, puis prévisualisez-le localement sur iPhone ou iPad.",
       "inLanguage": "fr",
       "url": "https://html.cybergame.ai/fr/articles/open-chatgpt-html-file-on-ipad/",
@@ -44858,7 +44858,7 @@
     {
       "@type": "HowTo",
       "@id": "https://html.cybergame.ai/fr/articles/open-html-file-from-files-app-on-ipad/#howto-index",
-      "name": "Ouvrir fichiers HTML depuis Files sur iPad sur iPad",
+      "name": "Ouvrir fichiers HTML depuis Files sur iPad",
       "description": "Installez Html Preview, ouvrez le fichier depuis Files ou le partage iOS, puis prévisualisez-le localement sur iPhone ou iPad.",
       "inLanguage": "fr",
       "url": "https://html.cybergame.ai/fr/articles/open-html-file-from-files-app-on-ipad/",
@@ -45152,7 +45152,7 @@
     {
       "@type": "HowTo",
       "@id": "https://html.cybergame.ai/fr/articles/open-html-file-from-safari-downloads-on-ipad/#howto-index",
-      "name": "Ouvrir fichiers HTML téléchargés par Safari sur iPad sur iPad",
+      "name": "Ouvrir fichiers HTML téléchargés par Safari sur iPad",
       "description": "Installez Html Preview, ouvrez le fichier depuis Files ou le partage iOS, puis prévisualisez-le localement sur iPhone ou iPad.",
       "inLanguage": "fr",
       "url": "https://html.cybergame.ai/fr/articles/open-html-file-from-safari-downloads-on-ipad/",
@@ -46328,7 +46328,7 @@
     {
       "@type": "HowTo",
       "@id": "https://html.cybergame.ai/fr/articles/open-local-html-file-on-ipad/#howto-index",
-      "name": "Ouvrir fichiers HTML locaux sur iPad sur iPad",
+      "name": "Ouvrir fichiers HTML locaux sur iPad",
       "description": "Installez Html Preview, ouvrez le fichier depuis Files ou le partage iOS, puis prévisualisez-le localement sur iPhone ou iPad.",
       "inLanguage": "fr",
       "url": "https://html.cybergame.ai/fr/articles/open-local-html-file-on-ipad/",
@@ -49121,7 +49121,7 @@
     {
       "@type": "HowTo",
       "@id": "https://html.cybergame.ai/fr/articles/iphone-cant-open-html-file/#howto-index",
-      "name": "Ouvrir des fichiers HTML de iOS file preview problem sur iPhone",
+      "name": "Ouvrir HTML bloqué par iOS sur iPhone",
       "description": "Installez Html Preview, ouvrez le fichier depuis Files ou le partage iOS, puis prévisualisez-le localement sur iPhone ou iPad.",
       "inLanguage": "fr",
       "url": "https://html.cybergame.ai/fr/articles/iphone-cant-open-html-file/",
@@ -49131,8 +49131,8 @@
       "pageType": "article",
       "articleSlug": "iphone-cant-open-html-file",
       "topicKey": null,
-      "source": "iOS file preview problem",
-      "query": "Comment ouvrir des fichiers HTML de iOS file preview problem ?",
+      "source": "problème d'aperçu iOS",
+      "query": "Comment ouvrir HTML bloqué par iOS ?",
       "primaryKeyword": "iPhone can't open HTML file",
       "supportedFormats": ".html, .htm, .xhtml",
       "fileExtensions": [
@@ -49153,7 +49153,7 @@
           "@type": "HowToStep",
           "position": 1,
           "name": "Enregistrer le fichier",
-          "text": "Enregistrez le fichier HTML reçu depuis iOS file preview problem. Gardez le fichier original .html, .htm, .xhtml dans Files, Mail, un téléchargement navigateur ou l'app source.",
+          "text": "Enregistrez le fichier HTML reçu depuis problème d'aperçu iOS. Gardez le fichier original .html, .htm, .xhtml dans Files, Mail, un téléchargement navigateur ou l'app source.",
           "url": "https://html.cybergame.ai/fr/articles/iphone-cant-open-html-file/#step-1"
         },
         {
@@ -49167,7 +49167,7 @@
           "@type": "HowToStep",
           "position": 3,
           "name": "Choisir le lecteur",
-          "text": "Choisissez Html Preview comme lecteur pour ouvrir des fichiers HTML de iOS file preview problem localement sur iPhone ou iPad.",
+          "text": "Choisissez Html Preview comme lecteur pour ouvrir HTML bloqué par iOS localement sur iPhone ou iPad.",
           "url": "https://html.cybergame.ai/fr/articles/iphone-cant-open-html-file/#step-3"
         },
         {
@@ -49268,7 +49268,7 @@
     {
       "@type": "HowTo",
       "@id": "https://html.cybergame.ai/fr/articles/html-file-shows-source-code-on-iphone/#howto-index",
-      "name": "Ouvrir des fichiers HTML de HTML source code preview sur iPhone",
+      "name": "Ouvrir HTML affiché en code sur iPhone",
       "description": "Installez Html Preview, ouvrez le fichier depuis Files ou le partage iOS, puis prévisualisez-le localement sur iPhone ou iPad.",
       "inLanguage": "fr",
       "url": "https://html.cybergame.ai/fr/articles/html-file-shows-source-code-on-iphone/",
@@ -49278,8 +49278,8 @@
       "pageType": "article",
       "articleSlug": "html-file-shows-source-code-on-iphone",
       "topicKey": null,
-      "source": "HTML source code preview",
-      "query": "Comment ouvrir des fichiers HTML de HTML source code preview sur iPhone ou iPad ?",
+      "source": "HTML affiché en code",
+      "query": "Comment ouvrir HTML affiché en code sur iPhone ou iPad ?",
       "primaryKeyword": "HTML file shows source code on iPhone",
       "supportedFormats": ".html, .htm, .xhtml",
       "fileExtensions": [
@@ -49300,7 +49300,7 @@
           "@type": "HowToStep",
           "position": 1,
           "name": "Enregistrer le fichier",
-          "text": "Enregistrez le fichier HTML reçu depuis HTML source code preview. Gardez le fichier original .html, .htm, .xhtml dans Files, Mail, un téléchargement navigateur ou l'app source.",
+          "text": "Enregistrez le fichier HTML reçu depuis HTML affiché en code. Gardez le fichier original .html, .htm, .xhtml dans Files, Mail, un téléchargement navigateur ou l'app source.",
           "url": "https://html.cybergame.ai/fr/articles/html-file-shows-source-code-on-iphone/#step-1"
         },
         {
@@ -49314,7 +49314,7 @@
           "@type": "HowToStep",
           "position": 3,
           "name": "Choisir le lecteur",
-          "text": "Choisissez Html Preview comme lecteur pour ouvrir des fichiers HTML de HTML source code preview localement sur iPhone ou iPad.",
+          "text": "Choisissez Html Preview comme lecteur pour ouvrir HTML affiché en code localement sur iPhone ou iPad.",
           "url": "https://html.cybergame.ai/fr/articles/html-file-shows-source-code-on-iphone/#step-3"
         },
         {
@@ -49415,7 +49415,7 @@
     {
       "@type": "HowTo",
       "@id": "https://html.cybergame.ai/fr/articles/files-app-cant-preview-html-on-iphone/#howto-index",
-      "name": "Ouvrir des fichiers HTML de Files app preview problem sur iPhone",
+      "name": "Ouvrir HTML sans aperçu Files sur iPhone",
       "description": "Installez Html Preview, ouvrez le fichier depuis Files ou le partage iOS, puis prévisualisez-le localement sur iPhone ou iPad.",
       "inLanguage": "fr",
       "url": "https://html.cybergame.ai/fr/articles/files-app-cant-preview-html-on-iphone/",
@@ -49425,8 +49425,8 @@
       "pageType": "article",
       "articleSlug": "files-app-cant-preview-html-on-iphone",
       "topicKey": null,
-      "source": "Files app preview problem",
-      "query": "Comment ouvrir des fichiers HTML de Files app preview problem sur iPhone ou iPad ?",
+      "source": "problème d'aperçu Files",
+      "query": "Comment ouvrir HTML sans aperçu Files sur iPhone ou iPad ?",
       "primaryKeyword": "Files app can't preview HTML on iPhone",
       "supportedFormats": ".html, .htm, .xhtml",
       "fileExtensions": [
@@ -49447,7 +49447,7 @@
           "@type": "HowToStep",
           "position": 1,
           "name": "Enregistrer le fichier",
-          "text": "Enregistrez le fichier HTML reçu depuis Files app preview problem. Gardez le fichier original .html, .htm, .xhtml dans Files, Mail, un téléchargement navigateur ou l'app source.",
+          "text": "Enregistrez le fichier HTML reçu depuis problème d'aperçu Files. Gardez le fichier original .html, .htm, .xhtml dans Files, Mail, un téléchargement navigateur ou l'app source.",
           "url": "https://html.cybergame.ai/fr/articles/files-app-cant-preview-html-on-iphone/#step-1"
         },
         {
@@ -49461,7 +49461,7 @@
           "@type": "HowToStep",
           "position": 3,
           "name": "Choisir le lecteur",
-          "text": "Choisissez Html Preview comme lecteur pour ouvrir des fichiers HTML de Files app preview problem localement sur iPhone ou iPad.",
+          "text": "Choisissez Html Preview comme lecteur pour ouvrir HTML sans aperçu Files localement sur iPhone ou iPad.",
           "url": "https://html.cybergame.ai/fr/articles/files-app-cant-preview-html-on-iphone/#step-3"
         },
         {
@@ -51032,7 +51032,7 @@
     {
       "@type": "HowTo",
       "@id": "https://html.cybergame.ai/pt-br/articles/open-ai-generated-html-file-on-ipad/#howto-index",
-      "name": "Abrir arquivos HTML gerados por IA no iPad no iPad",
+      "name": "Abrir arquivos HTML gerados por IA no iPad",
       "description": "Instale o Html Preview, abra o arquivo pelo Files ou pelo compartilhamento do iOS e visualize localmente no iPhone ou iPad.",
       "inLanguage": "pt-BR",
       "url": "https://html.cybergame.ai/pt-br/articles/open-ai-generated-html-file-on-ipad/",
@@ -51179,7 +51179,7 @@
     {
       "@type": "HowTo",
       "@id": "https://html.cybergame.ai/pt-br/articles/open-chatgpt-html-file-on-ipad/#howto-index",
-      "name": "Abrir arquivos HTML do ChatGPT on iPad no iPad",
+      "name": "Abrir arquivos HTML do ChatGPT on iPad",
       "description": "Instale o Html Preview, abra o arquivo pelo Files ou pelo compartilhamento do iOS e visualize localmente no iPhone ou iPad.",
       "inLanguage": "pt-BR",
       "url": "https://html.cybergame.ai/pt-br/articles/open-chatgpt-html-file-on-ipad/",
@@ -52502,7 +52502,7 @@
     {
       "@type": "HowTo",
       "@id": "https://html.cybergame.ai/pt-br/articles/open-html-file-from-files-app-on-ipad/#howto-index",
-      "name": "Abrir arquivos HTML do Files no iPad no iPad",
+      "name": "Abrir arquivos HTML do Files no iPad",
       "description": "Instale o Html Preview, abra o arquivo pelo Files ou pelo compartilhamento do iOS e visualize localmente no iPhone ou iPad.",
       "inLanguage": "pt-BR",
       "url": "https://html.cybergame.ai/pt-br/articles/open-html-file-from-files-app-on-ipad/",
@@ -52796,7 +52796,7 @@
     {
       "@type": "HowTo",
       "@id": "https://html.cybergame.ai/pt-br/articles/open-html-file-from-safari-downloads-on-ipad/#howto-index",
-      "name": "Abrir arquivos HTML baixados pelo Safari no iPad no iPad",
+      "name": "Abrir arquivos HTML baixados pelo Safari no iPad",
       "description": "Instale o Html Preview, abra o arquivo pelo Files ou pelo compartilhamento do iOS e visualize localmente no iPhone ou iPad.",
       "inLanguage": "pt-BR",
       "url": "https://html.cybergame.ai/pt-br/articles/open-html-file-from-safari-downloads-on-ipad/",
@@ -53972,7 +53972,7 @@
     {
       "@type": "HowTo",
       "@id": "https://html.cybergame.ai/pt-br/articles/open-local-html-file-on-ipad/#howto-index",
-      "name": "Abrir arquivos HTML locais no iPad no iPad",
+      "name": "Abrir arquivos HTML locais no iPad",
       "description": "Instale o Html Preview, abra o arquivo pelo Files ou pelo compartilhamento do iOS e visualize localmente no iPhone ou iPad.",
       "inLanguage": "pt-BR",
       "url": "https://html.cybergame.ai/pt-br/articles/open-local-html-file-on-ipad/",
@@ -56765,7 +56765,7 @@
     {
       "@type": "HowTo",
       "@id": "https://html.cybergame.ai/pt-br/articles/iphone-cant-open-html-file/#howto-index",
-      "name": "Abrir arquivos HTML do iOS file preview problem no iPhone",
+      "name": "Abrir HTML que o iOS nao abre no iPhone",
       "description": "Instale o Html Preview, abra o arquivo pelo Files ou pelo compartilhamento do iOS e visualize localmente no iPhone ou iPad.",
       "inLanguage": "pt-BR",
       "url": "https://html.cybergame.ai/pt-br/articles/iphone-cant-open-html-file/",
@@ -56775,8 +56775,8 @@
       "pageType": "article",
       "articleSlug": "iphone-cant-open-html-file",
       "topicKey": null,
-      "source": "iOS file preview problem",
-      "query": "Como abrir arquivos HTML do iOS file preview problem?",
+      "source": "problema de previa no iOS",
+      "query": "Como abrir HTML que o iOS nao abre?",
       "primaryKeyword": "iPhone can't open HTML file",
       "supportedFormats": ".html, .htm, .xhtml",
       "fileExtensions": [
@@ -56797,7 +56797,7 @@
           "@type": "HowToStep",
           "position": 1,
           "name": "Salvar o arquivo",
-          "text": "Salve o arquivo HTML recebido de iOS file preview problem. Mantenha o arquivo original .html, .htm, .xhtml no Files, Mail, download do navegador ou app de origem.",
+          "text": "Salve o arquivo HTML recebido de problema de previa no iOS. Mantenha o arquivo original .html, .htm, .xhtml no Files, Mail, download do navegador ou app de origem.",
           "url": "https://html.cybergame.ai/pt-br/articles/iphone-cant-open-html-file/#step-1"
         },
         {
@@ -56811,7 +56811,7 @@
           "@type": "HowToStep",
           "position": 3,
           "name": "Escolher o visualizador",
-          "text": "Escolha Html Preview como visualizador para abrir arquivos HTML do iOS file preview problem localmente no iPhone ou iPad.",
+          "text": "Escolha Html Preview como visualizador para abrir HTML que o iOS nao abre localmente no iPhone ou iPad.",
           "url": "https://html.cybergame.ai/pt-br/articles/iphone-cant-open-html-file/#step-3"
         },
         {
@@ -56912,7 +56912,7 @@
     {
       "@type": "HowTo",
       "@id": "https://html.cybergame.ai/pt-br/articles/html-file-shows-source-code-on-iphone/#howto-index",
-      "name": "Abrir arquivos HTML do HTML source code preview no iPhone",
+      "name": "Abrir HTML como codigo-fonte no iPhone",
       "description": "Instale o Html Preview, abra o arquivo pelo Files ou pelo compartilhamento do iOS e visualize localmente no iPhone ou iPad.",
       "inLanguage": "pt-BR",
       "url": "https://html.cybergame.ai/pt-br/articles/html-file-shows-source-code-on-iphone/",
@@ -56922,8 +56922,8 @@
       "pageType": "article",
       "articleSlug": "html-file-shows-source-code-on-iphone",
       "topicKey": null,
-      "source": "HTML source code preview",
-      "query": "Como abrir arquivos HTML do HTML source code preview no iPhone ou iPad?",
+      "source": "HTML como codigo-fonte",
+      "query": "Como abrir HTML como codigo-fonte no iPhone ou iPad?",
       "primaryKeyword": "HTML file shows source code on iPhone",
       "supportedFormats": ".html, .htm, .xhtml",
       "fileExtensions": [
@@ -56944,7 +56944,7 @@
           "@type": "HowToStep",
           "position": 1,
           "name": "Salvar o arquivo",
-          "text": "Salve o arquivo HTML recebido de HTML source code preview. Mantenha o arquivo original .html, .htm, .xhtml no Files, Mail, download do navegador ou app de origem.",
+          "text": "Salve o arquivo HTML recebido de HTML como codigo-fonte. Mantenha o arquivo original .html, .htm, .xhtml no Files, Mail, download do navegador ou app de origem.",
           "url": "https://html.cybergame.ai/pt-br/articles/html-file-shows-source-code-on-iphone/#step-1"
         },
         {
@@ -56958,7 +56958,7 @@
           "@type": "HowToStep",
           "position": 3,
           "name": "Escolher o visualizador",
-          "text": "Escolha Html Preview como visualizador para abrir arquivos HTML do HTML source code preview localmente no iPhone ou iPad.",
+          "text": "Escolha Html Preview como visualizador para abrir HTML como codigo-fonte localmente no iPhone ou iPad.",
           "url": "https://html.cybergame.ai/pt-br/articles/html-file-shows-source-code-on-iphone/#step-3"
         },
         {
@@ -57059,7 +57059,7 @@
     {
       "@type": "HowTo",
       "@id": "https://html.cybergame.ai/pt-br/articles/files-app-cant-preview-html-on-iphone/#howto-index",
-      "name": "Abrir arquivos HTML do Files app preview problem no iPhone",
+      "name": "Abrir HTML sem previa no Files no iPhone",
       "description": "Instale o Html Preview, abra o arquivo pelo Files ou pelo compartilhamento do iOS e visualize localmente no iPhone ou iPad.",
       "inLanguage": "pt-BR",
       "url": "https://html.cybergame.ai/pt-br/articles/files-app-cant-preview-html-on-iphone/",
@@ -57069,8 +57069,8 @@
       "pageType": "article",
       "articleSlug": "files-app-cant-preview-html-on-iphone",
       "topicKey": null,
-      "source": "Files app preview problem",
-      "query": "Como abrir arquivos HTML do Files app preview problem no iPhone ou iPad?",
+      "source": "problema de previa no Files",
+      "query": "Como abrir HTML sem previa no Files no iPhone ou iPad?",
       "primaryKeyword": "Files app can't preview HTML on iPhone",
       "supportedFormats": ".html, .htm, .xhtml",
       "fileExtensions": [
@@ -57091,7 +57091,7 @@
           "@type": "HowToStep",
           "position": 1,
           "name": "Salvar o arquivo",
-          "text": "Salve o arquivo HTML recebido de Files app preview problem. Mantenha o arquivo original .html, .htm, .xhtml no Files, Mail, download do navegador ou app de origem.",
+          "text": "Salve o arquivo HTML recebido de problema de previa no Files. Mantenha o arquivo original .html, .htm, .xhtml no Files, Mail, download do navegador ou app de origem.",
           "url": "https://html.cybergame.ai/pt-br/articles/files-app-cant-preview-html-on-iphone/#step-1"
         },
         {
@@ -57105,7 +57105,7 @@
           "@type": "HowToStep",
           "position": 3,
           "name": "Escolher o visualizador",
-          "text": "Escolha Html Preview como visualizador para abrir arquivos HTML do Files app preview problem localmente no iPhone ou iPad.",
+          "text": "Escolha Html Preview como visualizador para abrir HTML sem previa no Files localmente no iPhone ou iPad.",
           "url": "https://html.cybergame.ai/pt-br/articles/files-app-cant-preview-html-on-iphone/#step-3"
         },
         {
@@ -58676,7 +58676,7 @@
     {
       "@type": "HowTo",
       "@id": "https://html.cybergame.ai/ko/articles/open-ai-generated-html-file-on-ipad/#howto-index",
-      "name": "iPad에서 iPad의 AI 생성 HTML 파일 열기",
+      "name": "iPad의 AI 생성 HTML 파일 열기",
       "description": "Html Preview를 iOS 공유 시트 또는 Files 앱에서 열고 HTML 파일을 iPhone 또는 iPad에서 로컬로 미리보기하세요.",
       "inLanguage": "ko",
       "url": "https://html.cybergame.ai/ko/articles/open-ai-generated-html-file-on-ipad/",
@@ -58823,7 +58823,7 @@
     {
       "@type": "HowTo",
       "@id": "https://html.cybergame.ai/ko/articles/open-chatgpt-html-file-on-ipad/#howto-index",
-      "name": "iPad에서 ChatGPT on iPad HTML 파일 열기",
+      "name": "ChatGPT on iPad HTML 파일 열기",
       "description": "Html Preview를 iOS 공유 시트 또는 Files 앱에서 열고 HTML 파일을 iPhone 또는 iPad에서 로컬로 미리보기하세요.",
       "inLanguage": "ko",
       "url": "https://html.cybergame.ai/ko/articles/open-chatgpt-html-file-on-ipad/",
@@ -58970,7 +58970,7 @@
     {
       "@type": "HowTo",
       "@id": "https://html.cybergame.ai/ko/articles/best-html-viewer-for-iphone-ipad/#howto-index",
-      "name": "iPad에서 iPhone and iPad HTML 파일 열기",
+      "name": "iPhone and iPad HTML 파일 열기",
       "description": "Html Preview를 iOS 공유 시트 또는 Files 앱에서 열고 HTML 파일을 iPhone 또는 iPad에서 로컬로 미리보기하세요.",
       "inLanguage": "ko",
       "url": "https://html.cybergame.ai/ko/articles/best-html-viewer-for-iphone-ipad/",
@@ -60146,7 +60146,7 @@
     {
       "@type": "HowTo",
       "@id": "https://html.cybergame.ai/ko/articles/open-html-file-from-files-app-on-ipad/#howto-index",
-      "name": "iPad에서 iPad Files 앱의 HTML 파일 열기",
+      "name": "iPad Files 앱의 HTML 파일 열기",
       "description": "Html Preview를 iOS 공유 시트 또는 Files 앱에서 열고 HTML 파일을 iPhone 또는 iPad에서 로컬로 미리보기하세요.",
       "inLanguage": "ko",
       "url": "https://html.cybergame.ai/ko/articles/open-html-file-from-files-app-on-ipad/",
@@ -60440,7 +60440,7 @@
     {
       "@type": "HowTo",
       "@id": "https://html.cybergame.ai/ko/articles/open-html-file-from-safari-downloads-on-ipad/#howto-index",
-      "name": "iPad에서 iPad Safari 다운로드 HTML 파일 열기",
+      "name": "iPad Safari 다운로드 HTML 파일 열기",
       "description": "Html Preview를 iOS 공유 시트 또는 Files 앱에서 열고 HTML 파일을 iPhone 또는 iPad에서 로컬로 미리보기하세요.",
       "inLanguage": "ko",
       "url": "https://html.cybergame.ai/ko/articles/open-html-file-from-safari-downloads-on-ipad/",
@@ -61616,7 +61616,7 @@
     {
       "@type": "HowTo",
       "@id": "https://html.cybergame.ai/ko/articles/open-local-html-file-on-ipad/#howto-index",
-      "name": "iPad에서 iPad 로컬 HTML 파일 열기",
+      "name": "iPad 로컬 HTML 파일 열기",
       "description": "Html Preview를 iOS 공유 시트 또는 Files 앱에서 열고 HTML 파일을 iPhone 또는 iPad에서 로컬로 미리보기하세요.",
       "inLanguage": "ko",
       "url": "https://html.cybergame.ai/ko/articles/open-local-html-file-on-ipad/",
@@ -66320,7 +66320,7 @@
     {
       "@type": "HowTo",
       "@id": "https://html.cybergame.ai/ar/articles/open-ai-generated-html-file-on-ipad/#howto-index",
-      "name": "فتح ملفات HTML من AI على iPad على iPad",
+      "name": "فتح ملفات HTML من AI على iPad",
       "description": "افتح ملف HTML في Html Preview من قائمة مشاركة iOS او تطبيق Files، ثم عاينه محليا على iPhone او iPad.",
       "inLanguage": "ar",
       "url": "https://html.cybergame.ai/ar/articles/open-ai-generated-html-file-on-ipad/",
@@ -66467,7 +66467,7 @@
     {
       "@type": "HowTo",
       "@id": "https://html.cybergame.ai/ar/articles/open-chatgpt-html-file-on-ipad/#howto-index",
-      "name": "فتح ملفات HTML من ChatGPT on iPad على iPad",
+      "name": "فتح ملفات HTML من ChatGPT on iPad",
       "description": "افتح ملف HTML في Html Preview من قائمة مشاركة iOS او تطبيق Files، ثم عاينه محليا على iPhone او iPad.",
       "inLanguage": "ar",
       "url": "https://html.cybergame.ai/ar/articles/open-chatgpt-html-file-on-ipad/",
@@ -66614,7 +66614,7 @@
     {
       "@type": "HowTo",
       "@id": "https://html.cybergame.ai/ar/articles/best-html-viewer-for-iphone-ipad/#howto-index",
-      "name": "فتح ملفات HTML من iPhone and iPad على iPad",
+      "name": "فتح ملفات HTML من iPhone and iPad",
       "description": "افتح ملف HTML في Html Preview من قائمة مشاركة iOS او تطبيق Files، ثم عاينه محليا على iPhone او iPad.",
       "inLanguage": "ar",
       "url": "https://html.cybergame.ai/ar/articles/best-html-viewer-for-iphone-ipad/",
@@ -66908,7 +66908,7 @@
     {
       "@type": "HowTo",
       "@id": "https://html.cybergame.ai/ar/articles/open-html-email-attachment-on-iphone/#howto-index",
-      "name": "فتح ملفات HTML من Mail, Gmail, Outlook على iPhone",
+      "name": "فتح HTML من البريد على iPhone",
       "description": "افتح ملف HTML في Html Preview من قائمة مشاركة iOS او تطبيق Files، ثم عاينه محليا على iPhone او iPad.",
       "inLanguage": "ar",
       "url": "https://html.cybergame.ai/ar/articles/open-html-email-attachment-on-iphone/",
@@ -66918,7 +66918,7 @@
       "pageType": "article",
       "articleSlug": "open-html-email-attachment-on-iphone",
       "topicKey": null,
-      "source": "Mail, Gmail, Outlook",
+      "source": "البريد",
       "query": "كيف تفتح ملف HTML على iPhone او iPad؟",
       "primaryKeyword": "open HTML email attachment on iPhone",
       "supportedFormats": ".html, .htm, .xhtml",
@@ -66940,7 +66940,7 @@
           "@type": "HowToStep",
           "position": 1,
           "name": "حفظ ملف المصدر",
-          "text": "احفظ ملف HTML من Mail, Gmail, Outlook. ابق ملف .html, .htm, .xhtml الاصلي في Files او Mail او تنزيل المتصفح او التطبيق المصدر.",
+          "text": "احفظ ملف HTML من البريد. ابق ملف .html, .htm, .xhtml الاصلي في Files او Mail او تنزيل المتصفح او التطبيق المصدر.",
           "url": "https://html.cybergame.ai/ar/articles/open-html-email-attachment-on-iphone/#step-1"
         },
         {
@@ -66954,7 +66954,7 @@
           "@type": "HowToStep",
           "position": 3,
           "name": "اختيار العارض",
-          "text": "اختر Html Preview كعارض لكي تتمكن من فتح ملفات HTML من Mail, Gmail, Outlook محليا على iPhone او iPad.",
+          "text": "اختر Html Preview كعارض لكي تتمكن من فتح HTML من البريد محليا على iPhone او iPad.",
           "url": "https://html.cybergame.ai/ar/articles/open-html-email-attachment-on-iphone/#step-3"
         },
         {
@@ -67643,7 +67643,7 @@
     {
       "@type": "HowTo",
       "@id": "https://html.cybergame.ai/ar/articles/open-html-file-from-files-app-on-iphone/#howto-index",
-      "name": "فتح ملفات HTML من Files, AirDrop, iCloud Drive على iPhone",
+      "name": "فتح ملفات HTML من Files و AirDrop و iCloud على iPhone",
       "description": "افتح ملف HTML في Html Preview من قائمة مشاركة iOS او تطبيق Files، ثم عاينه محليا على iPhone او iPad.",
       "inLanguage": "ar",
       "url": "https://html.cybergame.ai/ar/articles/open-html-file-from-files-app-on-iphone/",
@@ -67653,7 +67653,7 @@
       "pageType": "article",
       "articleSlug": "open-html-file-from-files-app-on-iphone",
       "topicKey": null,
-      "source": "Files, AirDrop, iCloud Drive",
+      "source": "Files و AirDrop و iCloud",
       "query": "كيف تفتح ملف HTML على iPhone او iPad؟",
       "primaryKeyword": "open HTML file from Files app on iPhone",
       "supportedFormats": ".html, .htm, .xhtml",
@@ -67675,7 +67675,7 @@
           "@type": "HowToStep",
           "position": 1,
           "name": "حفظ ملف المصدر",
-          "text": "احفظ ملف HTML من Files, AirDrop, iCloud Drive. ابق ملف .html, .htm, .xhtml الاصلي في Files او Mail او تنزيل المتصفح او التطبيق المصدر.",
+          "text": "احفظ ملف HTML من Files و AirDrop و iCloud. ابق ملف .html, .htm, .xhtml الاصلي في Files او Mail او تنزيل المتصفح او التطبيق المصدر.",
           "url": "https://html.cybergame.ai/ar/articles/open-html-file-from-files-app-on-iphone/#step-1"
         },
         {
@@ -67689,7 +67689,7 @@
           "@type": "HowToStep",
           "position": 3,
           "name": "اختيار العارض",
-          "text": "اختر Html Preview كعارض لكي تتمكن من فتح ملفات HTML من Files, AirDrop, iCloud Drive محليا على iPhone او iPad.",
+          "text": "اختر Html Preview كعارض لكي تتمكن من فتح ملفات HTML من Files و AirDrop و iCloud محليا على iPhone او iPad.",
           "url": "https://html.cybergame.ai/ar/articles/open-html-file-from-files-app-on-iphone/#step-3"
         },
         {
@@ -67790,7 +67790,7 @@
     {
       "@type": "HowTo",
       "@id": "https://html.cybergame.ai/ar/articles/open-html-file-from-files-app-on-ipad/#howto-index",
-      "name": "فتح ملفات HTML من تطبيق Files على iPad على iPad",
+      "name": "فتح ملفات HTML من تطبيق Files على iPad",
       "description": "افتح ملف HTML في Html Preview من قائمة مشاركة iOS او تطبيق Files، ثم عاينه محليا على iPhone او iPad.",
       "inLanguage": "ar",
       "url": "https://html.cybergame.ai/ar/articles/open-html-file-from-files-app-on-ipad/",
@@ -68084,7 +68084,7 @@
     {
       "@type": "HowTo",
       "@id": "https://html.cybergame.ai/ar/articles/open-html-file-from-safari-downloads-on-ipad/#howto-index",
-      "name": "فتح ملفات HTML من تنزيلات Safari على iPad على iPad",
+      "name": "فتح ملفات HTML من تنزيلات Safari على iPad",
       "description": "افتح ملف HTML في Html Preview من قائمة مشاركة iOS او تطبيق Files، ثم عاينه محليا على iPhone او iPad.",
       "inLanguage": "ar",
       "url": "https://html.cybergame.ai/ar/articles/open-html-file-from-safari-downloads-on-ipad/",
@@ -69260,7 +69260,7 @@
     {
       "@type": "HowTo",
       "@id": "https://html.cybergame.ai/ar/articles/open-local-html-file-on-ipad/#howto-index",
-      "name": "فتح ملفات HTML المحلية على iPad على iPad",
+      "name": "فتح ملفات HTML المحلية على iPad",
       "description": "افتح ملف HTML في Html Preview من قائمة مشاركة iOS او تطبيق Files، ثم عاينه محليا على iPhone او iPad.",
       "inLanguage": "ar",
       "url": "https://html.cybergame.ai/ar/articles/open-local-html-file-on-ipad/",
@@ -72053,7 +72053,7 @@
     {
       "@type": "HowTo",
       "@id": "https://html.cybergame.ai/ar/articles/iphone-cant-open-html-file/#howto-index",
-      "name": "فتح ملفات HTML من iOS file preview problem على iPhone",
+      "name": "فتح ملفات HTML لا يفتحها iOS على iPhone",
       "description": "افتح ملف HTML في Html Preview من قائمة مشاركة iOS او تطبيق Files، ثم عاينه محليا على iPhone او iPad.",
       "inLanguage": "ar",
       "url": "https://html.cybergame.ai/ar/articles/iphone-cant-open-html-file/",
@@ -72063,7 +72063,7 @@
       "pageType": "article",
       "articleSlug": "iphone-cant-open-html-file",
       "topicKey": null,
-      "source": "iOS file preview problem",
+      "source": "مشكلة معاينة iOS",
       "query": "كيف تفتح ملف HTML على iPhone او iPad؟",
       "primaryKeyword": "iPhone can't open HTML file",
       "supportedFormats": ".html, .htm, .xhtml",
@@ -72085,7 +72085,7 @@
           "@type": "HowToStep",
           "position": 1,
           "name": "حفظ ملف المصدر",
-          "text": "احفظ ملف HTML من iOS file preview problem. ابق ملف .html, .htm, .xhtml الاصلي في Files او Mail او تنزيل المتصفح او التطبيق المصدر.",
+          "text": "احفظ ملف HTML من مشكلة معاينة iOS. ابق ملف .html, .htm, .xhtml الاصلي في Files او Mail او تنزيل المتصفح او التطبيق المصدر.",
           "url": "https://html.cybergame.ai/ar/articles/iphone-cant-open-html-file/#step-1"
         },
         {
@@ -72099,7 +72099,7 @@
           "@type": "HowToStep",
           "position": 3,
           "name": "اختيار العارض",
-          "text": "اختر Html Preview كعارض لكي تتمكن من فتح ملفات HTML من iOS file preview problem محليا على iPhone او iPad.",
+          "text": "اختر Html Preview كعارض لكي تتمكن من فتح ملفات HTML لا يفتحها iOS محليا على iPhone او iPad.",
           "url": "https://html.cybergame.ai/ar/articles/iphone-cant-open-html-file/#step-3"
         },
         {
@@ -72200,7 +72200,7 @@
     {
       "@type": "HowTo",
       "@id": "https://html.cybergame.ai/ar/articles/html-file-shows-source-code-on-iphone/#howto-index",
-      "name": "فتح ملفات HTML من HTML source code preview على iPhone",
+      "name": "فتح HTML يظهر ككود على iPhone",
       "description": "افتح ملف HTML في Html Preview من قائمة مشاركة iOS او تطبيق Files، ثم عاينه محليا على iPhone او iPad.",
       "inLanguage": "ar",
       "url": "https://html.cybergame.ai/ar/articles/html-file-shows-source-code-on-iphone/",
@@ -72210,7 +72210,7 @@
       "pageType": "article",
       "articleSlug": "html-file-shows-source-code-on-iphone",
       "topicKey": null,
-      "source": "HTML source code preview",
+      "source": "HTML يظهر ككود",
       "query": "كيف تفتح ملف HTML على iPhone او iPad؟",
       "primaryKeyword": "HTML file shows source code on iPhone",
       "supportedFormats": ".html, .htm, .xhtml",
@@ -72232,7 +72232,7 @@
           "@type": "HowToStep",
           "position": 1,
           "name": "حفظ ملف المصدر",
-          "text": "احفظ ملف HTML من HTML source code preview. ابق ملف .html, .htm, .xhtml الاصلي في Files او Mail او تنزيل المتصفح او التطبيق المصدر.",
+          "text": "احفظ ملف HTML من HTML يظهر ككود. ابق ملف .html, .htm, .xhtml الاصلي في Files او Mail او تنزيل المتصفح او التطبيق المصدر.",
           "url": "https://html.cybergame.ai/ar/articles/html-file-shows-source-code-on-iphone/#step-1"
         },
         {
@@ -72246,7 +72246,7 @@
           "@type": "HowToStep",
           "position": 3,
           "name": "اختيار العارض",
-          "text": "اختر Html Preview كعارض لكي تتمكن من فتح ملفات HTML من HTML source code preview محليا على iPhone او iPad.",
+          "text": "اختر Html Preview كعارض لكي تتمكن من فتح HTML يظهر ككود محليا على iPhone او iPad.",
           "url": "https://html.cybergame.ai/ar/articles/html-file-shows-source-code-on-iphone/#step-3"
         },
         {
@@ -72347,7 +72347,7 @@
     {
       "@type": "HowTo",
       "@id": "https://html.cybergame.ai/ar/articles/files-app-cant-preview-html-on-iphone/#howto-index",
-      "name": "فتح ملفات HTML من Files app preview problem على iPhone",
+      "name": "فتح ملفات HTML لا يعاينها Files على iPhone",
       "description": "افتح ملف HTML في Html Preview من قائمة مشاركة iOS او تطبيق Files، ثم عاينه محليا على iPhone او iPad.",
       "inLanguage": "ar",
       "url": "https://html.cybergame.ai/ar/articles/files-app-cant-preview-html-on-iphone/",
@@ -72357,7 +72357,7 @@
       "pageType": "article",
       "articleSlug": "files-app-cant-preview-html-on-iphone",
       "topicKey": null,
-      "source": "Files app preview problem",
+      "source": "مشكلة معاينة Files",
       "query": "كيف تفتح ملف HTML على iPhone او iPad؟",
       "primaryKeyword": "Files app can't preview HTML on iPhone",
       "supportedFormats": ".html, .htm, .xhtml",
@@ -72379,7 +72379,7 @@
           "@type": "HowToStep",
           "position": 1,
           "name": "حفظ ملف المصدر",
-          "text": "احفظ ملف HTML من Files app preview problem. ابق ملف .html, .htm, .xhtml الاصلي في Files او Mail او تنزيل المتصفح او التطبيق المصدر.",
+          "text": "احفظ ملف HTML من مشكلة معاينة Files. ابق ملف .html, .htm, .xhtml الاصلي في Files او Mail او تنزيل المتصفح او التطبيق المصدر.",
           "url": "https://html.cybergame.ai/ar/articles/files-app-cant-preview-html-on-iphone/#step-1"
         },
         {
@@ -72393,7 +72393,7 @@
           "@type": "HowToStep",
           "position": 3,
           "name": "اختيار العارض",
-          "text": "اختر Html Preview كعارض لكي تتمكن من فتح ملفات HTML من Files app preview problem محليا على iPhone او iPad.",
+          "text": "اختر Html Preview كعارض لكي تتمكن من فتح ملفات HTML لا يعاينها Files محليا على iPhone او iPad.",
           "url": "https://html.cybergame.ai/ar/articles/files-app-cant-preview-html-on-iphone/#step-3"
         },
         {
@@ -73964,7 +73964,7 @@
     {
       "@type": "HowTo",
       "@id": "https://html.cybergame.ai/hi/articles/open-ai-generated-html-file-on-ipad/#howto-index",
-      "name": "iPad पर iPad पर AI से बनी HTML files खोलें",
+      "name": "iPad पर AI से बनी HTML files खोलें",
       "description": "Html Preview को iOS Share Sheet या Files app से खोलें और HTML file को iPhone या iPad पर local preview करें.",
       "inLanguage": "hi",
       "url": "https://html.cybergame.ai/hi/articles/open-ai-generated-html-file-on-ipad/",
@@ -74111,7 +74111,7 @@
     {
       "@type": "HowTo",
       "@id": "https://html.cybergame.ai/hi/articles/open-chatgpt-html-file-on-ipad/#howto-index",
-      "name": "iPad पर ChatGPT on iPad HTML files खोलें",
+      "name": "ChatGPT on iPad HTML files खोलें",
       "description": "Html Preview को iOS Share Sheet या Files app से खोलें और HTML file को iPhone या iPad पर local preview करें.",
       "inLanguage": "hi",
       "url": "https://html.cybergame.ai/hi/articles/open-chatgpt-html-file-on-ipad/",
@@ -74258,7 +74258,7 @@
     {
       "@type": "HowTo",
       "@id": "https://html.cybergame.ai/hi/articles/best-html-viewer-for-iphone-ipad/#howto-index",
-      "name": "iPad पर iPhone and iPad HTML files खोलें",
+      "name": "iPhone and iPad HTML files खोलें",
       "description": "Html Preview को iOS Share Sheet या Files app से खोलें और HTML file को iPhone या iPad पर local preview करें.",
       "inLanguage": "hi",
       "url": "https://html.cybergame.ai/hi/articles/best-html-viewer-for-iphone-ipad/",
@@ -75434,7 +75434,7 @@
     {
       "@type": "HowTo",
       "@id": "https://html.cybergame.ai/hi/articles/open-html-file-from-files-app-on-ipad/#howto-index",
-      "name": "iPad पर iPad Files app से HTML files खोलें",
+      "name": "iPad Files app से HTML files खोलें",
       "description": "Html Preview को iOS Share Sheet या Files app से खोलें और HTML file को iPhone या iPad पर local preview करें.",
       "inLanguage": "hi",
       "url": "https://html.cybergame.ai/hi/articles/open-html-file-from-files-app-on-ipad/",
@@ -75728,7 +75728,7 @@
     {
       "@type": "HowTo",
       "@id": "https://html.cybergame.ai/hi/articles/open-html-file-from-safari-downloads-on-ipad/#howto-index",
-      "name": "iPad पर iPad Safari downloads से HTML files खोलें",
+      "name": "iPad Safari downloads से HTML files खोलें",
       "description": "Html Preview को iOS Share Sheet या Files app से खोलें और HTML file को iPhone या iPad पर local preview करें.",
       "inLanguage": "hi",
       "url": "https://html.cybergame.ai/hi/articles/open-html-file-from-safari-downloads-on-ipad/",
@@ -76463,7 +76463,7 @@
     {
       "@type": "HowTo",
       "@id": "https://html.cybergame.ai/hi/articles/online-html-converter-alternative-iphone/#howto-index",
-      "name": "iPhone पर a local alternative to online HTML converters खोलें",
+      "name": "iPhone पर online HTML converter alternative खोलें",
       "description": "Html Preview को iOS Share Sheet या Files app से खोलें और HTML file को iPhone या iPad पर local preview करें.",
       "inLanguage": "hi",
       "url": "https://html.cybergame.ai/hi/articles/online-html-converter-alternative-iphone/",
@@ -76509,7 +76509,7 @@
           "@type": "HowToStep",
           "position": 3,
           "name": "Viewer चुनें",
-          "text": "Html Preview को target viewer चुनें ताकि आप iPhone या iPad पर a local alternative to online HTML converters खोलना local रूप से कर सकें.",
+          "text": "Html Preview को target viewer चुनें ताकि आप iPhone या iPad पर online HTML converter alternative खोलना local रूप से कर सकें.",
           "url": "https://html.cybergame.ai/hi/articles/online-html-converter-alternative-iphone/#step-3"
         },
         {
@@ -76904,7 +76904,7 @@
     {
       "@type": "HowTo",
       "@id": "https://html.cybergame.ai/hi/articles/open-local-html-file-on-ipad/#howto-index",
-      "name": "iPad पर iPad पर HTML की local files खोलें",
+      "name": "iPad पर HTML की local files खोलें",
       "description": "Html Preview को iOS Share Sheet या Files app से खोलें और HTML file को iPhone या iPad पर local preview करें.",
       "inLanguage": "hi",
       "url": "https://html.cybergame.ai/hi/articles/open-local-html-file-on-ipad/",
@@ -79697,7 +79697,7 @@
     {
       "@type": "HowTo",
       "@id": "https://html.cybergame.ai/hi/articles/iphone-cant-open-html-file/#howto-index",
-      "name": "iPhone पर iOS file preview problem HTML files खोलें",
+      "name": "iPhone पर iOS preview issue HTML files खोलें",
       "description": "Html Preview को iOS Share Sheet या Files app से खोलें और HTML file को iPhone या iPad पर local preview करें.",
       "inLanguage": "hi",
       "url": "https://html.cybergame.ai/hi/articles/iphone-cant-open-html-file/",
@@ -79707,7 +79707,7 @@
       "pageType": "article",
       "articleSlug": "iphone-cant-open-html-file",
       "topicKey": null,
-      "source": "iOS file preview problem",
+      "source": "iOS preview problem",
       "query": "iPhone या iPad पर HTML file कैसे खोलें?",
       "primaryKeyword": "iPhone can't open HTML file",
       "supportedFormats": ".html, .htm, .xhtml",
@@ -79729,7 +79729,7 @@
           "@type": "HowToStep",
           "position": 1,
           "name": "Source file save करें",
-          "text": "iOS file preview problem से मिली HTML file save करें. Original .html, .htm, .xhtml file को Files, Mail, browser download या source app में रखें.",
+          "text": "iOS preview problem से मिली HTML file save करें. Original .html, .htm, .xhtml file को Files, Mail, browser download या source app में रखें.",
           "url": "https://html.cybergame.ai/hi/articles/iphone-cant-open-html-file/#step-1"
         },
         {
@@ -79743,7 +79743,7 @@
           "@type": "HowToStep",
           "position": 3,
           "name": "Viewer चुनें",
-          "text": "Html Preview को target viewer चुनें ताकि आप iPhone या iPad पर iOS file preview problem HTML files खोलना local रूप से कर सकें.",
+          "text": "Html Preview को target viewer चुनें ताकि आप iPhone या iPad पर iOS preview issue HTML files खोलना local रूप से कर सकें.",
           "url": "https://html.cybergame.ai/hi/articles/iphone-cant-open-html-file/#step-3"
         },
         {
@@ -79844,7 +79844,7 @@
     {
       "@type": "HowTo",
       "@id": "https://html.cybergame.ai/hi/articles/html-file-shows-source-code-on-iphone/#howto-index",
-      "name": "iPhone पर HTML source code preview HTML files खोलें",
+      "name": "iPhone पर HTML source preview खोलें",
       "description": "Html Preview को iOS Share Sheet या Files app से खोलें और HTML file को iPhone या iPad पर local preview करें.",
       "inLanguage": "hi",
       "url": "https://html.cybergame.ai/hi/articles/html-file-shows-source-code-on-iphone/",
@@ -79854,7 +79854,7 @@
       "pageType": "article",
       "articleSlug": "html-file-shows-source-code-on-iphone",
       "topicKey": null,
-      "source": "HTML source code preview",
+      "source": "HTML source preview",
       "query": "iPhone या iPad पर HTML file कैसे खोलें?",
       "primaryKeyword": "HTML file shows source code on iPhone",
       "supportedFormats": ".html, .htm, .xhtml",
@@ -79876,7 +79876,7 @@
           "@type": "HowToStep",
           "position": 1,
           "name": "Source file save करें",
-          "text": "HTML source code preview से मिली HTML file save करें. Original .html, .htm, .xhtml file को Files, Mail, browser download या source app में रखें.",
+          "text": "HTML source preview से मिली HTML file save करें. Original .html, .htm, .xhtml file को Files, Mail, browser download या source app में रखें.",
           "url": "https://html.cybergame.ai/hi/articles/html-file-shows-source-code-on-iphone/#step-1"
         },
         {
@@ -79890,7 +79890,7 @@
           "@type": "HowToStep",
           "position": 3,
           "name": "Viewer चुनें",
-          "text": "Html Preview को target viewer चुनें ताकि आप iPhone या iPad पर HTML source code preview HTML files खोलना local रूप से कर सकें.",
+          "text": "Html Preview को target viewer चुनें ताकि आप iPhone या iPad पर HTML source preview खोलना local रूप से कर सकें.",
           "url": "https://html.cybergame.ai/hi/articles/html-file-shows-source-code-on-iphone/#step-3"
         },
         {
@@ -79991,7 +79991,7 @@
     {
       "@type": "HowTo",
       "@id": "https://html.cybergame.ai/hi/articles/files-app-cant-preview-html-on-iphone/#howto-index",
-      "name": "iPhone पर Files app preview problem HTML files खोलें",
+      "name": "iPhone पर Files preview issue HTML files खोलें",
       "description": "Html Preview को iOS Share Sheet या Files app से खोलें और HTML file को iPhone या iPad पर local preview करें.",
       "inLanguage": "hi",
       "url": "https://html.cybergame.ai/hi/articles/files-app-cant-preview-html-on-iphone/",
@@ -80001,7 +80001,7 @@
       "pageType": "article",
       "articleSlug": "files-app-cant-preview-html-on-iphone",
       "topicKey": null,
-      "source": "Files app preview problem",
+      "source": "Files preview problem",
       "query": "iPhone या iPad पर HTML file कैसे खोलें?",
       "primaryKeyword": "Files app can't preview HTML on iPhone",
       "supportedFormats": ".html, .htm, .xhtml",
@@ -80023,7 +80023,7 @@
           "@type": "HowToStep",
           "position": 1,
           "name": "Source file save करें",
-          "text": "Files app preview problem से मिली HTML file save करें. Original .html, .htm, .xhtml file को Files, Mail, browser download या source app में रखें.",
+          "text": "Files preview problem से मिली HTML file save करें. Original .html, .htm, .xhtml file को Files, Mail, browser download या source app में रखें.",
           "url": "https://html.cybergame.ai/hi/articles/files-app-cant-preview-html-on-iphone/#step-1"
         },
         {
@@ -80037,7 +80037,7 @@
           "@type": "HowToStep",
           "position": 3,
           "name": "Viewer चुनें",
-          "text": "Html Preview को target viewer चुनें ताकि आप iPhone या iPad पर Files app preview problem HTML files खोलना local रूप से कर सकें.",
+          "text": "Html Preview को target viewer चुनें ताकि आप iPhone या iPad पर Files preview issue HTML files खोलना local रूप से कर सकें.",
           "url": "https://html.cybergame.ai/hi/articles/files-app-cant-preview-html-on-iphone/#step-3"
         },
         {
