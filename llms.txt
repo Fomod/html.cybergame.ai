@@ -13,6 +13,7 @@ Html Preview is an iOS utility by CyberGame Limited for opening and previewing H
 - Conversion map JSON: https://html.cybergame.ai/conversion-map.json
 - Query index JSON: https://html.cybergame.ai/query-index.json
 - File formats JSON: https://html.cybergame.ai/file-formats.json
+- Site index JSON: https://html.cybergame.ai/site-index.json
 - Citation cards JSON: https://html.cybergame.ai/citation-cards.json
 - Assistant answers JSON: https://html.cybergame.ai/assistant-answers.json
 - Supported formats: .html, .htm, .xhtml
