@@ -1,6 +1,283 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://html.cybergame.ai/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://html.cybergame.ai/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://html.cybergame.ai/zh/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://html.cybergame.ai/ja/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://html.cybergame.ai/es/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://html.cybergame.ai/de/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://html.cybergame.ai/fr/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://html.cybergame.ai/pt-br/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://html.cybergame.ai/ko/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://html.cybergame.ai/ar/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://html.cybergame.ai/hi/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://html.cybergame.ai/" />
+  </url>
+  <url>
+    <loc>https://html.cybergame.ai/zh/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://html.cybergame.ai/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://html.cybergame.ai/zh/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://html.cybergame.ai/ja/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://html.cybergame.ai/es/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://html.cybergame.ai/de/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://html.cybergame.ai/fr/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://html.cybergame.ai/pt-br/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://html.cybergame.ai/ko/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://html.cybergame.ai/ar/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://html.cybergame.ai/hi/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://html.cybergame.ai/" />
+  </url>
+  <url>
+    <loc>https://html.cybergame.ai/ja/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://html.cybergame.ai/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://html.cybergame.ai/zh/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://html.cybergame.ai/ja/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://html.cybergame.ai/es/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://html.cybergame.ai/de/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://html.cybergame.ai/fr/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://html.cybergame.ai/pt-br/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://html.cybergame.ai/ko/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://html.cybergame.ai/ar/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://html.cybergame.ai/hi/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://html.cybergame.ai/" />
+  </url>
+  <url>
+    <loc>https://html.cybergame.ai/es/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://html.cybergame.ai/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://html.cybergame.ai/zh/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://html.cybergame.ai/ja/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://html.cybergame.ai/es/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://html.cybergame.ai/de/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://html.cybergame.ai/fr/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://html.cybergame.ai/pt-br/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://html.cybergame.ai/ko/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://html.cybergame.ai/ar/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://html.cybergame.ai/hi/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://html.cybergame.ai/" />
+  </url>
+  <url>
+    <loc>https://html.cybergame.ai/de/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://html.cybergame.ai/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://html.cybergame.ai/zh/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://html.cybergame.ai/ja/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://html.cybergame.ai/es/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://html.cybergame.ai/de/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://html.cybergame.ai/fr/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://html.cybergame.ai/pt-br/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://html.cybergame.ai/ko/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://html.cybergame.ai/ar/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://html.cybergame.ai/hi/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://html.cybergame.ai/" />
+  </url>
+  <url>
+    <loc>https://html.cybergame.ai/fr/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://html.cybergame.ai/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://html.cybergame.ai/zh/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://html.cybergame.ai/ja/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://html.cybergame.ai/es/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://html.cybergame.ai/de/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://html.cybergame.ai/fr/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://html.cybergame.ai/pt-br/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://html.cybergame.ai/ko/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://html.cybergame.ai/ar/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://html.cybergame.ai/hi/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://html.cybergame.ai/" />
+  </url>
+  <url>
+    <loc>https://html.cybergame.ai/pt-br/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://html.cybergame.ai/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://html.cybergame.ai/zh/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://html.cybergame.ai/ja/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://html.cybergame.ai/es/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://html.cybergame.ai/de/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://html.cybergame.ai/fr/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://html.cybergame.ai/pt-br/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://html.cybergame.ai/ko/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://html.cybergame.ai/ar/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://html.cybergame.ai/hi/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://html.cybergame.ai/" />
+  </url>
+  <url>
+    <loc>https://html.cybergame.ai/ko/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://html.cybergame.ai/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://html.cybergame.ai/zh/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://html.cybergame.ai/ja/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://html.cybergame.ai/es/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://html.cybergame.ai/de/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://html.cybergame.ai/fr/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://html.cybergame.ai/pt-br/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://html.cybergame.ai/ko/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://html.cybergame.ai/ar/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://html.cybergame.ai/hi/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://html.cybergame.ai/" />
+  </url>
+  <url>
+    <loc>https://html.cybergame.ai/ar/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://html.cybergame.ai/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://html.cybergame.ai/zh/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://html.cybergame.ai/ja/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://html.cybergame.ai/es/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://html.cybergame.ai/de/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://html.cybergame.ai/fr/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://html.cybergame.ai/pt-br/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://html.cybergame.ai/ko/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://html.cybergame.ai/ar/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://html.cybergame.ai/hi/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://html.cybergame.ai/" />
+  </url>
+  <url>
+    <loc>https://html.cybergame.ai/hi/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://html.cybergame.ai/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://html.cybergame.ai/zh/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://html.cybergame.ai/ja/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://html.cybergame.ai/es/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://html.cybergame.ai/de/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://html.cybergame.ai/fr/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://html.cybergame.ai/pt-br/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://html.cybergame.ai/ko/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://html.cybergame.ai/ar/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://html.cybergame.ai/hi/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://html.cybergame.ai/" />
+  </url>
+  <url>
+    <loc>https://html.cybergame.ai/open-html-file-iphone/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://html.cybergame.ai/open-html-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://html.cybergame.ai/zh/open-html-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://html.cybergame.ai/ja/open-html-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://html.cybergame.ai/es/open-html-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://html.cybergame.ai/de/open-html-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://html.cybergame.ai/fr/open-html-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://html.cybergame.ai/pt-br/open-html-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://html.cybergame.ai/ko/open-html-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://html.cybergame.ai/ar/open-html-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://html.cybergame.ai/hi/open-html-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://html.cybergame.ai/open-html-file-iphone/" />
+  </url>
+  <url>
+    <loc>https://html.cybergame.ai/zh/open-html-file-iphone/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://html.cybergame.ai/open-html-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://html.cybergame.ai/zh/open-html-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://html.cybergame.ai/ja/open-html-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://html.cybergame.ai/es/open-html-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://html.cybergame.ai/de/open-html-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://html.cybergame.ai/fr/open-html-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://html.cybergame.ai/pt-br/open-html-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://html.cybergame.ai/ko/open-html-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://html.cybergame.ai/ar/open-html-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://html.cybergame.ai/hi/open-html-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://html.cybergame.ai/open-html-file-iphone/" />
+  </url>
+  <url>
+    <loc>https://html.cybergame.ai/ja/open-html-file-iphone/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://html.cybergame.ai/open-html-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://html.cybergame.ai/zh/open-html-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://html.cybergame.ai/ja/open-html-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://html.cybergame.ai/es/open-html-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://html.cybergame.ai/de/open-html-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://html.cybergame.ai/fr/open-html-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://html.cybergame.ai/pt-br/open-html-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://html.cybergame.ai/ko/open-html-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://html.cybergame.ai/ar/open-html-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://html.cybergame.ai/hi/open-html-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://html.cybergame.ai/open-html-file-iphone/" />
+  </url>
+  <url>
+    <loc>https://html.cybergame.ai/es/open-html-file-iphone/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://html.cybergame.ai/open-html-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://html.cybergame.ai/zh/open-html-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://html.cybergame.ai/ja/open-html-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://html.cybergame.ai/es/open-html-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://html.cybergame.ai/de/open-html-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://html.cybergame.ai/fr/open-html-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://html.cybergame.ai/pt-br/open-html-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://html.cybergame.ai/ko/open-html-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://html.cybergame.ai/ar/open-html-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://html.cybergame.ai/hi/open-html-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://html.cybergame.ai/open-html-file-iphone/" />
+  </url>
+  <url>
+    <loc>https://html.cybergame.ai/de/open-html-file-iphone/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://html.cybergame.ai/open-html-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://html.cybergame.ai/zh/open-html-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://html.cybergame.ai/ja/open-html-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://html.cybergame.ai/es/open-html-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://html.cybergame.ai/de/open-html-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://html.cybergame.ai/fr/open-html-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://html.cybergame.ai/pt-br/open-html-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://html.cybergame.ai/ko/open-html-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://html.cybergame.ai/ar/open-html-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://html.cybergame.ai/hi/open-html-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://html.cybergame.ai/open-html-file-iphone/" />
+  </url>
+  <url>
+    <loc>https://html.cybergame.ai/fr/open-html-file-iphone/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://html.cybergame.ai/open-html-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://html.cybergame.ai/zh/open-html-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://html.cybergame.ai/ja/open-html-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://html.cybergame.ai/es/open-html-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://html.cybergame.ai/de/open-html-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://html.cybergame.ai/fr/open-html-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://html.cybergame.ai/pt-br/open-html-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://html.cybergame.ai/ko/open-html-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://html.cybergame.ai/ar/open-html-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://html.cybergame.ai/hi/open-html-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://html.cybergame.ai/open-html-file-iphone/" />
+  </url>
+  <url>
+    <loc>https://html.cybergame.ai/pt-br/open-html-file-iphone/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://html.cybergame.ai/open-html-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://html.cybergame.ai/zh/open-html-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://html.cybergame.ai/ja/open-html-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://html.cybergame.ai/es/open-html-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://html.cybergame.ai/de/open-html-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://html.cybergame.ai/fr/open-html-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://html.cybergame.ai/pt-br/open-html-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://html.cybergame.ai/ko/open-html-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://html.cybergame.ai/ar/open-html-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://html.cybergame.ai/hi/open-html-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://html.cybergame.ai/open-html-file-iphone/" />
+  </url>
+  <url>
+    <loc>https://html.cybergame.ai/ko/open-html-file-iphone/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://html.cybergame.ai/open-html-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://html.cybergame.ai/zh/open-html-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://html.cybergame.ai/ja/open-html-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://html.cybergame.ai/es/open-html-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://html.cybergame.ai/de/open-html-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://html.cybergame.ai/fr/open-html-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://html.cybergame.ai/pt-br/open-html-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://html.cybergame.ai/ko/open-html-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://html.cybergame.ai/ar/open-html-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://html.cybergame.ai/hi/open-html-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://html.cybergame.ai/open-html-file-iphone/" />
+  </url>
+  <url>
+    <loc>https://html.cybergame.ai/ar/open-html-file-iphone/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://html.cybergame.ai/open-html-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://html.cybergame.ai/zh/open-html-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://html.cybergame.ai/ja/open-html-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://html.cybergame.ai/es/open-html-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://html.cybergame.ai/de/open-html-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://html.cybergame.ai/fr/open-html-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://html.cybergame.ai/pt-br/open-html-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://html.cybergame.ai/ko/open-html-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://html.cybergame.ai/ar/open-html-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://html.cybergame.ai/hi/open-html-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://html.cybergame.ai/open-html-file-iphone/" />
+  </url>
+  <url>
+    <loc>https://html.cybergame.ai/hi/open-html-file-iphone/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://html.cybergame.ai/open-html-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://html.cybergame.ai/zh/open-html-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://html.cybergame.ai/ja/open-html-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://html.cybergame.ai/es/open-html-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://html.cybergame.ai/de/open-html-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://html.cybergame.ai/fr/open-html-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://html.cybergame.ai/pt-br/open-html-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://html.cybergame.ai/ko/open-html-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://html.cybergame.ai/ar/open-html-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://html.cybergame.ai/hi/open-html-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://html.cybergame.ai/open-html-file-iphone/" />
   </url>
 </urlset>
