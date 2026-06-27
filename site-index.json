@@ -257,7 +257,7 @@
       "height": 2688
     }
   ],
-  "pageCount": 560,
+  "pageCount": 590,
   "localeCount": 10,
   "pages": [
     {
@@ -747,7 +747,7 @@
       "title": "AI files HTML guides",
       "query": "How do I open AI-generated HTML files on iPhone or iPad?",
       "primaryKeyword": "AI files HTML iPhone",
-      "source": "ChatGPT, Claude, Gemini, ChatGPT on iPad, AI-generated reports, Claude Artifacts, ChatGPT downloads, Gemini",
+      "source": "ChatGPT, Claude, Gemini, AI-generated files, ChatGPT on iPad, AI-generated reports, Claude Artifacts, ChatGPT downloads",
       "supportedFormats": ".html, .htm, .xhtml",
       "fileExtensions": [
         ".html",
@@ -866,7 +866,7 @@
       "title": "Files and Share Sheet HTML guides",
       "query": "How do I open HTML files from Files, Mail, or the iOS Share Sheet?",
       "primaryKeyword": "Files and Share Sheet HTML iPhone",
-      "source": "Mail, Files, Safari, WeChat, WhatsApp, Gmail, Outlook, Files, AirDrop, iCloud Drive, Safari Downloads, browser downloads",
+      "source": "Mail, Files, Safari, WeChat, WhatsApp, Apple Mail, Gmail, Outlook, Files, AirDrop, iCloud Drive, Safari Downloads",
       "supportedFormats": ".html, .htm, .xhtml",
       "fileExtensions": [
         ".html",
@@ -1927,6 +1927,125 @@
       "lastUpdated": "2026-06-28"
     },
     {
+      "url": "https://html.cybergame.ai/articles/open-ai-generated-html-file-on-iphone/",
+      "canonicalUrl": "https://html.cybergame.ai/articles/open-ai-generated-html-file-on-iphone/",
+      "locale": "en",
+      "hreflang": "en",
+      "pageType": "article",
+      "topicKey": null,
+      "articleSlug": "open-ai-generated-html-file-on-iphone",
+      "title": "How to Open AI-Generated HTML Files on iPhone",
+      "query": "How do I open an AI-generated HTML file on iPhone or iPad?",
+      "primaryKeyword": "open AI generated HTML file on iPhone",
+      "source": "AI-generated files",
+      "supportedFormats": ".html, .htm, .xhtml",
+      "fileExtensions": [
+        ".html",
+        ".htm",
+        ".xhtml"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/html-preview-web-file-viewer/id6760443436?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760443436&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "officialWebsiteRepository": "https://github.com/Fomod/html.cybergame.ai",
+      "bundleId": "CyberGame.App-11",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
+      "schemaIds": {
+        "webPage": "https://html.cybergame.ai/articles/open-ai-generated-html-file-on-iphone/#webpage",
+        "app": "https://html.cybergame.ai/#app",
+        "mainEntity": "https://html.cybergame.ai/articles/open-ai-generated-html-file-on-iphone/#article",
+        "howTo": "https://html.cybergame.ai/articles/open-ai-generated-html-file-on-iphone/#howto"
+      },
+      "screenshots": [
+        "https://html.cybergame.ai/assets/screenshots/html-preview-open-html-files-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-ai-html-report-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-focused-html-viewer-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://html.cybergame.ai/articles/open-ai-generated-html-file-on-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://html.cybergame.ai/zh/articles/open-ai-generated-html-file-on-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://html.cybergame.ai/ja/articles/open-ai-generated-html-file-on-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://html.cybergame.ai/es/articles/open-ai-generated-html-file-on-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://html.cybergame.ai/de/articles/open-ai-generated-html-file-on-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://html.cybergame.ai/fr/articles/open-ai-generated-html-file-on-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://html.cybergame.ai/pt-br/articles/open-ai-generated-html-file-on-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://html.cybergame.ai/ko/articles/open-ai-generated-html-file-on-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://html.cybergame.ai/ar/articles/open-ai-generated-html-file-on-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://html.cybergame.ai/hi/articles/open-ai-generated-html-file-on-iphone/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://html.cybergame.ai/answers.json",
+        "aiCitation": "https://html.cybergame.ai/ai-citation.json",
+        "queryIndex": "https://html.cybergame.ai/query-index.json",
+        "fileFormats": "https://html.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://html.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://html.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://html.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://html.cybergame.ai/faq-index.json",
+        "citationCards": "https://html.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://html.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://html.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://html.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "html_en_aigenerated_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760443436",
+        "appStoreId": "6760443436",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
       "url": "https://html.cybergame.ai/articles/open-chatgpt-html-file-on-ipad/",
       "canonicalUrl": "https://html.cybergame.ai/articles/open-chatgpt-html-file-on-ipad/",
       "locale": "en",
@@ -2390,6 +2509,125 @@
       "conversionIntent": "open-app-store-listing",
       "conversionMapSurface": "site-index-manifest",
       "conversionMapToken": "html_en_email_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760443436",
+        "appStoreId": "6760443436",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
+      "url": "https://html.cybergame.ai/articles/open-apple-mail-html-attachment-on-iphone/",
+      "canonicalUrl": "https://html.cybergame.ai/articles/open-apple-mail-html-attachment-on-iphone/",
+      "locale": "en",
+      "hreflang": "en",
+      "pageType": "article",
+      "topicKey": null,
+      "articleSlug": "open-apple-mail-html-attachment-on-iphone",
+      "title": "How to Open Apple Mail HTML Attachments on iPhone",
+      "query": "How do I open an Apple Mail HTML attachment on iPhone or iPad?",
+      "primaryKeyword": "open Apple Mail HTML attachment on iPhone",
+      "source": "Apple Mail",
+      "supportedFormats": ".html, .htm, .xhtml",
+      "fileExtensions": [
+        ".html",
+        ".htm",
+        ".xhtml"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/html-preview-web-file-viewer/id6760443436?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760443436&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "officialWebsiteRepository": "https://github.com/Fomod/html.cybergame.ai",
+      "bundleId": "CyberGame.App-11",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
+      "schemaIds": {
+        "webPage": "https://html.cybergame.ai/articles/open-apple-mail-html-attachment-on-iphone/#webpage",
+        "app": "https://html.cybergame.ai/#app",
+        "mainEntity": "https://html.cybergame.ai/articles/open-apple-mail-html-attachment-on-iphone/#article",
+        "howTo": "https://html.cybergame.ai/articles/open-apple-mail-html-attachment-on-iphone/#howto"
+      },
+      "screenshots": [
+        "https://html.cybergame.ai/assets/screenshots/html-preview-open-html-files-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-ai-html-report-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-focused-html-viewer-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://html.cybergame.ai/articles/open-apple-mail-html-attachment-on-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://html.cybergame.ai/zh/articles/open-apple-mail-html-attachment-on-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://html.cybergame.ai/ja/articles/open-apple-mail-html-attachment-on-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://html.cybergame.ai/es/articles/open-apple-mail-html-attachment-on-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://html.cybergame.ai/de/articles/open-apple-mail-html-attachment-on-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://html.cybergame.ai/fr/articles/open-apple-mail-html-attachment-on-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://html.cybergame.ai/pt-br/articles/open-apple-mail-html-attachment-on-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://html.cybergame.ai/ko/articles/open-apple-mail-html-attachment-on-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://html.cybergame.ai/ar/articles/open-apple-mail-html-attachment-on-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://html.cybergame.ai/hi/articles/open-apple-mail-html-attachment-on-iphone/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://html.cybergame.ai/answers.json",
+        "aiCitation": "https://html.cybergame.ai/ai-citation.json",
+        "queryIndex": "https://html.cybergame.ai/query-index.json",
+        "fileFormats": "https://html.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://html.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://html.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://html.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://html.cybergame.ai/faq-index.json",
+        "citationCards": "https://html.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://html.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://html.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://html.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "html_en_applemail_siteidx",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -3593,6 +3831,125 @@
       "lastUpdated": "2026-06-28"
     },
     {
+      "url": "https://html.cybergame.ai/articles/open-local-html-file-on-iphone/",
+      "canonicalUrl": "https://html.cybergame.ai/articles/open-local-html-file-on-iphone/",
+      "locale": "en",
+      "hreflang": "en",
+      "pageType": "article",
+      "topicKey": null,
+      "articleSlug": "open-local-html-file-on-iphone",
+      "title": "How to Open a Local HTML File on iPhone",
+      "query": "How do I open a local HTML file on iPhone or iPad?",
+      "primaryKeyword": "open local HTML file on iPhone",
+      "source": "local HTML files",
+      "supportedFormats": ".html, .htm, .xhtml",
+      "fileExtensions": [
+        ".html",
+        ".htm",
+        ".xhtml"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/html-preview-web-file-viewer/id6760443436?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760443436&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "officialWebsiteRepository": "https://github.com/Fomod/html.cybergame.ai",
+      "bundleId": "CyberGame.App-11",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
+      "schemaIds": {
+        "webPage": "https://html.cybergame.ai/articles/open-local-html-file-on-iphone/#webpage",
+        "app": "https://html.cybergame.ai/#app",
+        "mainEntity": "https://html.cybergame.ai/articles/open-local-html-file-on-iphone/#article",
+        "howTo": "https://html.cybergame.ai/articles/open-local-html-file-on-iphone/#howto"
+      },
+      "screenshots": [
+        "https://html.cybergame.ai/assets/screenshots/html-preview-open-html-files-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-ai-html-report-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-focused-html-viewer-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://html.cybergame.ai/articles/open-local-html-file-on-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://html.cybergame.ai/zh/articles/open-local-html-file-on-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://html.cybergame.ai/ja/articles/open-local-html-file-on-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://html.cybergame.ai/es/articles/open-local-html-file-on-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://html.cybergame.ai/de/articles/open-local-html-file-on-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://html.cybergame.ai/fr/articles/open-local-html-file-on-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://html.cybergame.ai/pt-br/articles/open-local-html-file-on-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://html.cybergame.ai/ko/articles/open-local-html-file-on-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://html.cybergame.ai/ar/articles/open-local-html-file-on-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://html.cybergame.ai/hi/articles/open-local-html-file-on-iphone/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://html.cybergame.ai/answers.json",
+        "aiCitation": "https://html.cybergame.ai/ai-citation.json",
+        "queryIndex": "https://html.cybergame.ai/query-index.json",
+        "fileFormats": "https://html.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://html.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://html.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://html.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://html.cybergame.ai/faq-index.json",
+        "citationCards": "https://html.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://html.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://html.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://html.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "html_en_local_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760443436",
+        "appStoreId": "6760443436",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
       "url": "https://html.cybergame.ai/articles/open-local-html-file-without-safari-on-iphone/",
       "canonicalUrl": "https://html.cybergame.ai/articles/open-local-html-file-without-safari-on-iphone/",
       "locale": "en",
@@ -3603,7 +3960,7 @@
       "title": "How to Open a Local HTML File on iPhone Without Safari",
       "query": "How do I open a local HTML file without Safari on iPhone or iPad?",
       "primaryKeyword": "open local HTML file on iPhone without Safari",
-      "source": "local HTML files",
+      "source": "Files without Safari",
       "supportedFormats": ".html, .htm, .xhtml",
       "fileExtensions": [
         ".html",
@@ -7411,7 +7768,7 @@
       "title": "AI files HTML 简体中文",
       "query": "How do I open AI-generated HTML files on iPhone or iPad?",
       "primaryKeyword": "AI files HTML iPhone",
-      "source": "ChatGPT, Claude, Gemini, ChatGPT on iPad, AI-generated reports, Claude Artifacts, ChatGPT downloads, Gemini",
+      "source": "ChatGPT, Claude, Gemini, AI-generated files, ChatGPT on iPad, AI-generated reports, Claude Artifacts, ChatGPT downloads",
       "supportedFormats": ".html, .htm, .xhtml",
       "fileExtensions": [
         ".html",
@@ -7530,7 +7887,7 @@
       "title": "Files and Share Sheet HTML 简体中文",
       "query": "How do I open HTML files from Files, Mail, or the iOS Share Sheet?",
       "primaryKeyword": "Files and Share Sheet HTML iPhone",
-      "source": "Mail, Files, Safari, WeChat, WhatsApp, Gmail, Outlook, Files, AirDrop, iCloud Drive, Safari Downloads, browser downloads",
+      "source": "Mail, Files, Safari, WeChat, WhatsApp, Apple Mail, Gmail, Outlook, Files, AirDrop, iCloud Drive, Safari Downloads",
       "supportedFormats": ".html, .htm, .xhtml",
       "fileExtensions": [
         ".html",
@@ -8479,7 +8836,7 @@
       "pageType": "article",
       "topicKey": null,
       "articleSlug": "open-chatgpt-html-file-on-iphone",
-      "title": "如何在 iPhone 上打开 AI 生成的 HTML 文件",
+      "title": "如何在 iPhone 上打开 ChatGPT、Claude、Gemini 的 HTML 文件",
       "query": "如何在 iPhone 或 iPad 上打开 AI 生成的 HTML 文件？",
       "primaryKeyword": "open ChatGPT HTML file on iPhone",
       "source": "ChatGPT, Claude, Gemini",
@@ -8578,6 +8935,125 @@
       "conversionIntent": "open-app-store-listing",
       "conversionMapSurface": "site-index-manifest",
       "conversionMapToken": "html_zh_ai_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760443436",
+        "appStoreId": "6760443436",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
+      "url": "https://html.cybergame.ai/zh/articles/open-ai-generated-html-file-on-iphone/",
+      "canonicalUrl": "https://html.cybergame.ai/zh/articles/open-ai-generated-html-file-on-iphone/",
+      "locale": "zh",
+      "hreflang": "zh-Hans",
+      "pageType": "article",
+      "topicKey": null,
+      "articleSlug": "open-ai-generated-html-file-on-iphone",
+      "title": "如何在 iPhone 上打开 AI 生成的 HTML 文件",
+      "query": "如何在 iPhone 或 iPad 上打开 AI 生成的 HTML 文件？",
+      "primaryKeyword": "open AI generated HTML file on iPhone",
+      "source": "AI 生成文件",
+      "supportedFormats": ".html, .htm, .xhtml",
+      "fileExtensions": [
+        ".html",
+        ".htm",
+        ".xhtml"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/html-preview-web-file-viewer/id6760443436?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760443436&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "officialWebsiteRepository": "https://github.com/Fomod/html.cybergame.ai",
+      "bundleId": "CyberGame.App-11",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
+      "schemaIds": {
+        "webPage": "https://html.cybergame.ai/zh/articles/open-ai-generated-html-file-on-iphone/#webpage",
+        "app": "https://html.cybergame.ai/#app",
+        "mainEntity": "https://html.cybergame.ai/zh/articles/open-ai-generated-html-file-on-iphone/#article",
+        "howTo": "https://html.cybergame.ai/zh/articles/open-ai-generated-html-file-on-iphone/#howto"
+      },
+      "screenshots": [
+        "https://html.cybergame.ai/assets/screenshots/html-preview-open-html-files-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-ai-html-report-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-focused-html-viewer-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://html.cybergame.ai/articles/open-ai-generated-html-file-on-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://html.cybergame.ai/zh/articles/open-ai-generated-html-file-on-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://html.cybergame.ai/ja/articles/open-ai-generated-html-file-on-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://html.cybergame.ai/es/articles/open-ai-generated-html-file-on-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://html.cybergame.ai/de/articles/open-ai-generated-html-file-on-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://html.cybergame.ai/fr/articles/open-ai-generated-html-file-on-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://html.cybergame.ai/pt-br/articles/open-ai-generated-html-file-on-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://html.cybergame.ai/ko/articles/open-ai-generated-html-file-on-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://html.cybergame.ai/ar/articles/open-ai-generated-html-file-on-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://html.cybergame.ai/hi/articles/open-ai-generated-html-file-on-iphone/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://html.cybergame.ai/answers.json",
+        "aiCitation": "https://html.cybergame.ai/ai-citation.json",
+        "queryIndex": "https://html.cybergame.ai/query-index.json",
+        "fileFormats": "https://html.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://html.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://html.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://html.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://html.cybergame.ai/faq-index.json",
+        "citationCards": "https://html.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://html.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://html.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://html.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "html_zh_aigenerated_siteidx",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -9054,6 +9530,125 @@
       "conversionIntent": "open-app-store-listing",
       "conversionMapSurface": "site-index-manifest",
       "conversionMapToken": "html_zh_email_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760443436",
+        "appStoreId": "6760443436",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
+      "url": "https://html.cybergame.ai/zh/articles/open-apple-mail-html-attachment-on-iphone/",
+      "canonicalUrl": "https://html.cybergame.ai/zh/articles/open-apple-mail-html-attachment-on-iphone/",
+      "locale": "zh",
+      "hreflang": "zh-Hans",
+      "pageType": "article",
+      "topicKey": null,
+      "articleSlug": "open-apple-mail-html-attachment-on-iphone",
+      "title": "如何在 iPhone 上打开 Apple Mail 的 HTML 附件",
+      "query": "如何在 iPhone 或 iPad 上打开 Apple Mail 中的 HTML 附件？",
+      "primaryKeyword": "open Apple Mail HTML attachment on iPhone",
+      "source": "Apple Mail",
+      "supportedFormats": ".html, .htm, .xhtml",
+      "fileExtensions": [
+        ".html",
+        ".htm",
+        ".xhtml"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/html-preview-web-file-viewer/id6760443436?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760443436&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "officialWebsiteRepository": "https://github.com/Fomod/html.cybergame.ai",
+      "bundleId": "CyberGame.App-11",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
+      "schemaIds": {
+        "webPage": "https://html.cybergame.ai/zh/articles/open-apple-mail-html-attachment-on-iphone/#webpage",
+        "app": "https://html.cybergame.ai/#app",
+        "mainEntity": "https://html.cybergame.ai/zh/articles/open-apple-mail-html-attachment-on-iphone/#article",
+        "howTo": "https://html.cybergame.ai/zh/articles/open-apple-mail-html-attachment-on-iphone/#howto"
+      },
+      "screenshots": [
+        "https://html.cybergame.ai/assets/screenshots/html-preview-open-html-files-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-ai-html-report-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-focused-html-viewer-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://html.cybergame.ai/articles/open-apple-mail-html-attachment-on-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://html.cybergame.ai/zh/articles/open-apple-mail-html-attachment-on-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://html.cybergame.ai/ja/articles/open-apple-mail-html-attachment-on-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://html.cybergame.ai/es/articles/open-apple-mail-html-attachment-on-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://html.cybergame.ai/de/articles/open-apple-mail-html-attachment-on-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://html.cybergame.ai/fr/articles/open-apple-mail-html-attachment-on-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://html.cybergame.ai/pt-br/articles/open-apple-mail-html-attachment-on-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://html.cybergame.ai/ko/articles/open-apple-mail-html-attachment-on-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://html.cybergame.ai/ar/articles/open-apple-mail-html-attachment-on-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://html.cybergame.ai/hi/articles/open-apple-mail-html-attachment-on-iphone/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://html.cybergame.ai/answers.json",
+        "aiCitation": "https://html.cybergame.ai/ai-citation.json",
+        "queryIndex": "https://html.cybergame.ai/query-index.json",
+        "fileFormats": "https://html.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://html.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://html.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://html.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://html.cybergame.ai/faq-index.json",
+        "citationCards": "https://html.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://html.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://html.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://html.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "html_zh_applemail_siteidx",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -10244,6 +10839,125 @@
       "conversionIntent": "open-app-store-listing",
       "conversionMapSurface": "site-index-manifest",
       "conversionMapToken": "html_zh_zip_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760443436",
+        "appStoreId": "6760443436",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
+      "url": "https://html.cybergame.ai/zh/articles/open-local-html-file-on-iphone/",
+      "canonicalUrl": "https://html.cybergame.ai/zh/articles/open-local-html-file-on-iphone/",
+      "locale": "zh",
+      "hreflang": "zh-Hans",
+      "pageType": "article",
+      "topicKey": null,
+      "articleSlug": "open-local-html-file-on-iphone",
+      "title": "如何在 iPhone 上打开本地 HTML 文件",
+      "query": "如何在 iPhone 或 iPad 上打开本地 HTML 文件？",
+      "primaryKeyword": "open local HTML file on iPhone",
+      "source": "本地 HTML 文件",
+      "supportedFormats": ".html, .htm, .xhtml",
+      "fileExtensions": [
+        ".html",
+        ".htm",
+        ".xhtml"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/html-preview-web-file-viewer/id6760443436?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760443436&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "officialWebsiteRepository": "https://github.com/Fomod/html.cybergame.ai",
+      "bundleId": "CyberGame.App-11",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
+      "schemaIds": {
+        "webPage": "https://html.cybergame.ai/zh/articles/open-local-html-file-on-iphone/#webpage",
+        "app": "https://html.cybergame.ai/#app",
+        "mainEntity": "https://html.cybergame.ai/zh/articles/open-local-html-file-on-iphone/#article",
+        "howTo": "https://html.cybergame.ai/zh/articles/open-local-html-file-on-iphone/#howto"
+      },
+      "screenshots": [
+        "https://html.cybergame.ai/assets/screenshots/html-preview-open-html-files-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-ai-html-report-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-focused-html-viewer-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://html.cybergame.ai/articles/open-local-html-file-on-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://html.cybergame.ai/zh/articles/open-local-html-file-on-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://html.cybergame.ai/ja/articles/open-local-html-file-on-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://html.cybergame.ai/es/articles/open-local-html-file-on-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://html.cybergame.ai/de/articles/open-local-html-file-on-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://html.cybergame.ai/fr/articles/open-local-html-file-on-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://html.cybergame.ai/pt-br/articles/open-local-html-file-on-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://html.cybergame.ai/ko/articles/open-local-html-file-on-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://html.cybergame.ai/ar/articles/open-local-html-file-on-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://html.cybergame.ai/hi/articles/open-local-html-file-on-iphone/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://html.cybergame.ai/answers.json",
+        "aiCitation": "https://html.cybergame.ai/ai-citation.json",
+        "queryIndex": "https://html.cybergame.ai/query-index.json",
+        "fileFormats": "https://html.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://html.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://html.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://html.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://html.cybergame.ai/faq-index.json",
+        "citationCards": "https://html.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://html.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://html.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://html.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "html_zh_local_siteidx",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -14075,7 +14789,7 @@
       "title": "AI files HTML 日本語",
       "query": "How do I open AI-generated HTML files on iPhone or iPad?",
       "primaryKeyword": "AI files HTML iPhone",
-      "source": "ChatGPT, Claude, Gemini, ChatGPT on iPad, AI-generated reports, Claude Artifacts, ChatGPT downloads, Gemini",
+      "source": "ChatGPT, Claude, Gemini, AI-generated files, ChatGPT on iPad, AI-generated reports, Claude Artifacts, ChatGPT downloads",
       "supportedFormats": ".html, .htm, .xhtml",
       "fileExtensions": [
         ".html",
@@ -14194,7 +14908,7 @@
       "title": "Files and Share Sheet HTML 日本語",
       "query": "How do I open HTML files from Files, Mail, or the iOS Share Sheet?",
       "primaryKeyword": "Files and Share Sheet HTML iPhone",
-      "source": "Mail, Files, Safari, WeChat, WhatsApp, Gmail, Outlook, Files, AirDrop, iCloud Drive, Safari Downloads, browser downloads",
+      "source": "Mail, Files, Safari, WeChat, WhatsApp, Apple Mail, Gmail, Outlook, Files, AirDrop, iCloud Drive, Safari Downloads",
       "supportedFormats": ".html, .htm, .xhtml",
       "fileExtensions": [
         ".html",
@@ -15255,6 +15969,125 @@
       "lastUpdated": "2026-06-28"
     },
     {
+      "url": "https://html.cybergame.ai/ja/articles/open-ai-generated-html-file-on-iphone/",
+      "canonicalUrl": "https://html.cybergame.ai/ja/articles/open-ai-generated-html-file-on-iphone/",
+      "locale": "ja",
+      "hreflang": "ja",
+      "pageType": "article",
+      "topicKey": null,
+      "articleSlug": "open-ai-generated-html-file-on-iphone",
+      "title": "AI-generated files HTMLファイルをiPhoneで開く方法",
+      "query": "iPhoneやiPadでAI-generated files HTMLファイルを開くには？",
+      "primaryKeyword": "open AI generated HTML file on iPhone",
+      "source": "AI-generated files",
+      "supportedFormats": ".html, .htm, .xhtml",
+      "fileExtensions": [
+        ".html",
+        ".htm",
+        ".xhtml"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/html-preview-web-file-viewer/id6760443436?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760443436&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "officialWebsiteRepository": "https://github.com/Fomod/html.cybergame.ai",
+      "bundleId": "CyberGame.App-11",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
+      "schemaIds": {
+        "webPage": "https://html.cybergame.ai/ja/articles/open-ai-generated-html-file-on-iphone/#webpage",
+        "app": "https://html.cybergame.ai/#app",
+        "mainEntity": "https://html.cybergame.ai/ja/articles/open-ai-generated-html-file-on-iphone/#article",
+        "howTo": "https://html.cybergame.ai/ja/articles/open-ai-generated-html-file-on-iphone/#howto"
+      },
+      "screenshots": [
+        "https://html.cybergame.ai/assets/screenshots/html-preview-open-html-files-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-ai-html-report-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-focused-html-viewer-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://html.cybergame.ai/articles/open-ai-generated-html-file-on-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://html.cybergame.ai/zh/articles/open-ai-generated-html-file-on-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://html.cybergame.ai/ja/articles/open-ai-generated-html-file-on-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://html.cybergame.ai/es/articles/open-ai-generated-html-file-on-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://html.cybergame.ai/de/articles/open-ai-generated-html-file-on-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://html.cybergame.ai/fr/articles/open-ai-generated-html-file-on-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://html.cybergame.ai/pt-br/articles/open-ai-generated-html-file-on-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://html.cybergame.ai/ko/articles/open-ai-generated-html-file-on-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://html.cybergame.ai/ar/articles/open-ai-generated-html-file-on-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://html.cybergame.ai/hi/articles/open-ai-generated-html-file-on-iphone/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://html.cybergame.ai/answers.json",
+        "aiCitation": "https://html.cybergame.ai/ai-citation.json",
+        "queryIndex": "https://html.cybergame.ai/query-index.json",
+        "fileFormats": "https://html.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://html.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://html.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://html.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://html.cybergame.ai/faq-index.json",
+        "citationCards": "https://html.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://html.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://html.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://html.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "html_ja_aigenerated_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760443436",
+        "appStoreId": "6760443436",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
       "url": "https://html.cybergame.ai/ja/articles/open-chatgpt-html-file-on-ipad/",
       "canonicalUrl": "https://html.cybergame.ai/ja/articles/open-chatgpt-html-file-on-ipad/",
       "locale": "ja",
@@ -15718,6 +16551,125 @@
       "conversionIntent": "open-app-store-listing",
       "conversionMapSurface": "site-index-manifest",
       "conversionMapToken": "html_ja_email_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760443436",
+        "appStoreId": "6760443436",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
+      "url": "https://html.cybergame.ai/ja/articles/open-apple-mail-html-attachment-on-iphone/",
+      "canonicalUrl": "https://html.cybergame.ai/ja/articles/open-apple-mail-html-attachment-on-iphone/",
+      "locale": "ja",
+      "hreflang": "ja",
+      "pageType": "article",
+      "topicKey": null,
+      "articleSlug": "open-apple-mail-html-attachment-on-iphone",
+      "title": "Apple Mail HTMLファイルをiPhoneで開く方法",
+      "query": "iPhoneやiPadでApple Mail HTMLファイルを開くには？",
+      "primaryKeyword": "open Apple Mail HTML attachment on iPhone",
+      "source": "Apple Mail",
+      "supportedFormats": ".html, .htm, .xhtml",
+      "fileExtensions": [
+        ".html",
+        ".htm",
+        ".xhtml"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/html-preview-web-file-viewer/id6760443436?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760443436&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "officialWebsiteRepository": "https://github.com/Fomod/html.cybergame.ai",
+      "bundleId": "CyberGame.App-11",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
+      "schemaIds": {
+        "webPage": "https://html.cybergame.ai/ja/articles/open-apple-mail-html-attachment-on-iphone/#webpage",
+        "app": "https://html.cybergame.ai/#app",
+        "mainEntity": "https://html.cybergame.ai/ja/articles/open-apple-mail-html-attachment-on-iphone/#article",
+        "howTo": "https://html.cybergame.ai/ja/articles/open-apple-mail-html-attachment-on-iphone/#howto"
+      },
+      "screenshots": [
+        "https://html.cybergame.ai/assets/screenshots/html-preview-open-html-files-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-ai-html-report-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-focused-html-viewer-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://html.cybergame.ai/articles/open-apple-mail-html-attachment-on-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://html.cybergame.ai/zh/articles/open-apple-mail-html-attachment-on-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://html.cybergame.ai/ja/articles/open-apple-mail-html-attachment-on-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://html.cybergame.ai/es/articles/open-apple-mail-html-attachment-on-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://html.cybergame.ai/de/articles/open-apple-mail-html-attachment-on-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://html.cybergame.ai/fr/articles/open-apple-mail-html-attachment-on-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://html.cybergame.ai/pt-br/articles/open-apple-mail-html-attachment-on-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://html.cybergame.ai/ko/articles/open-apple-mail-html-attachment-on-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://html.cybergame.ai/ar/articles/open-apple-mail-html-attachment-on-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://html.cybergame.ai/hi/articles/open-apple-mail-html-attachment-on-iphone/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://html.cybergame.ai/answers.json",
+        "aiCitation": "https://html.cybergame.ai/ai-citation.json",
+        "queryIndex": "https://html.cybergame.ai/query-index.json",
+        "fileFormats": "https://html.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://html.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://html.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://html.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://html.cybergame.ai/faq-index.json",
+        "citationCards": "https://html.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://html.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://html.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://html.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "html_ja_applemail_siteidx",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -16921,6 +17873,125 @@
       "lastUpdated": "2026-06-28"
     },
     {
+      "url": "https://html.cybergame.ai/ja/articles/open-local-html-file-on-iphone/",
+      "canonicalUrl": "https://html.cybergame.ai/ja/articles/open-local-html-file-on-iphone/",
+      "locale": "ja",
+      "hreflang": "ja",
+      "pageType": "article",
+      "topicKey": null,
+      "articleSlug": "open-local-html-file-on-iphone",
+      "title": "local HTML files HTMLファイルをiPhoneで開く方法",
+      "query": "iPhoneやiPadでlocal HTML files HTMLファイルを開くには？",
+      "primaryKeyword": "open local HTML file on iPhone",
+      "source": "local HTML files",
+      "supportedFormats": ".html, .htm, .xhtml",
+      "fileExtensions": [
+        ".html",
+        ".htm",
+        ".xhtml"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/html-preview-web-file-viewer/id6760443436?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760443436&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "officialWebsiteRepository": "https://github.com/Fomod/html.cybergame.ai",
+      "bundleId": "CyberGame.App-11",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
+      "schemaIds": {
+        "webPage": "https://html.cybergame.ai/ja/articles/open-local-html-file-on-iphone/#webpage",
+        "app": "https://html.cybergame.ai/#app",
+        "mainEntity": "https://html.cybergame.ai/ja/articles/open-local-html-file-on-iphone/#article",
+        "howTo": "https://html.cybergame.ai/ja/articles/open-local-html-file-on-iphone/#howto"
+      },
+      "screenshots": [
+        "https://html.cybergame.ai/assets/screenshots/html-preview-open-html-files-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-ai-html-report-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-focused-html-viewer-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://html.cybergame.ai/articles/open-local-html-file-on-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://html.cybergame.ai/zh/articles/open-local-html-file-on-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://html.cybergame.ai/ja/articles/open-local-html-file-on-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://html.cybergame.ai/es/articles/open-local-html-file-on-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://html.cybergame.ai/de/articles/open-local-html-file-on-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://html.cybergame.ai/fr/articles/open-local-html-file-on-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://html.cybergame.ai/pt-br/articles/open-local-html-file-on-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://html.cybergame.ai/ko/articles/open-local-html-file-on-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://html.cybergame.ai/ar/articles/open-local-html-file-on-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://html.cybergame.ai/hi/articles/open-local-html-file-on-iphone/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://html.cybergame.ai/answers.json",
+        "aiCitation": "https://html.cybergame.ai/ai-citation.json",
+        "queryIndex": "https://html.cybergame.ai/query-index.json",
+        "fileFormats": "https://html.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://html.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://html.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://html.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://html.cybergame.ai/faq-index.json",
+        "citationCards": "https://html.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://html.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://html.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://html.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "html_ja_local_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760443436",
+        "appStoreId": "6760443436",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
       "url": "https://html.cybergame.ai/ja/articles/open-local-html-file-without-safari-on-iphone/",
       "canonicalUrl": "https://html.cybergame.ai/ja/articles/open-local-html-file-without-safari-on-iphone/",
       "locale": "ja",
@@ -16928,10 +17999,10 @@
       "pageType": "article",
       "topicKey": null,
       "articleSlug": "open-local-html-file-without-safari-on-iphone",
-      "title": "local HTML files HTMLファイルをiPhoneで開く方法",
-      "query": "iPhoneやiPadでlocal HTML files HTMLファイルを開くには？",
+      "title": "Files without Safari HTMLファイルをiPhoneで開く方法",
+      "query": "iPhoneやiPadでFiles without Safari HTMLファイルを開くには？",
       "primaryKeyword": "open local HTML file on iPhone without Safari",
-      "source": "local HTML files",
+      "source": "Files without Safari",
       "supportedFormats": ".html, .htm, .xhtml",
       "fileExtensions": [
         ".html",
@@ -20739,7 +21810,7 @@
       "title": "AI files HTML Español",
       "query": "How do I open AI-generated HTML files on iPhone or iPad?",
       "primaryKeyword": "AI files HTML iPhone",
-      "source": "ChatGPT, Claude, Gemini, ChatGPT on iPad, AI-generated reports, Claude Artifacts, ChatGPT downloads, Gemini",
+      "source": "ChatGPT, Claude, Gemini, AI-generated files, ChatGPT on iPad, AI-generated reports, Claude Artifacts, ChatGPT downloads",
       "supportedFormats": ".html, .htm, .xhtml",
       "fileExtensions": [
         ".html",
@@ -20858,7 +21929,7 @@
       "title": "Files and Share Sheet HTML Español",
       "query": "How do I open HTML files from Files, Mail, or the iOS Share Sheet?",
       "primaryKeyword": "Files and Share Sheet HTML iPhone",
-      "source": "Mail, Files, Safari, WeChat, WhatsApp, Gmail, Outlook, Files, AirDrop, iCloud Drive, Safari Downloads, browser downloads",
+      "source": "Mail, Files, Safari, WeChat, WhatsApp, Apple Mail, Gmail, Outlook, Files, AirDrop, iCloud Drive, Safari Downloads",
       "supportedFormats": ".html, .htm, .xhtml",
       "fileExtensions": [
         ".html",
@@ -21919,6 +22990,125 @@
       "lastUpdated": "2026-06-28"
     },
     {
+      "url": "https://html.cybergame.ai/es/articles/open-ai-generated-html-file-on-iphone/",
+      "canonicalUrl": "https://html.cybergame.ai/es/articles/open-ai-generated-html-file-on-iphone/",
+      "locale": "es",
+      "hreflang": "es",
+      "pageType": "article",
+      "topicKey": null,
+      "articleSlug": "open-ai-generated-html-file-on-iphone",
+      "title": "Cómo abrir archivos HTML de AI-generated files en iPhone",
+      "query": "¿Cómo abrir archivos HTML de AI-generated files en iPhone o iPad?",
+      "primaryKeyword": "open AI generated HTML file on iPhone",
+      "source": "AI-generated files",
+      "supportedFormats": ".html, .htm, .xhtml",
+      "fileExtensions": [
+        ".html",
+        ".htm",
+        ".xhtml"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/html-preview-web-file-viewer/id6760443436?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760443436&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "officialWebsiteRepository": "https://github.com/Fomod/html.cybergame.ai",
+      "bundleId": "CyberGame.App-11",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
+      "schemaIds": {
+        "webPage": "https://html.cybergame.ai/es/articles/open-ai-generated-html-file-on-iphone/#webpage",
+        "app": "https://html.cybergame.ai/#app",
+        "mainEntity": "https://html.cybergame.ai/es/articles/open-ai-generated-html-file-on-iphone/#article",
+        "howTo": "https://html.cybergame.ai/es/articles/open-ai-generated-html-file-on-iphone/#howto"
+      },
+      "screenshots": [
+        "https://html.cybergame.ai/assets/screenshots/html-preview-open-html-files-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-ai-html-report-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-focused-html-viewer-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://html.cybergame.ai/articles/open-ai-generated-html-file-on-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://html.cybergame.ai/zh/articles/open-ai-generated-html-file-on-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://html.cybergame.ai/ja/articles/open-ai-generated-html-file-on-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://html.cybergame.ai/es/articles/open-ai-generated-html-file-on-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://html.cybergame.ai/de/articles/open-ai-generated-html-file-on-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://html.cybergame.ai/fr/articles/open-ai-generated-html-file-on-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://html.cybergame.ai/pt-br/articles/open-ai-generated-html-file-on-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://html.cybergame.ai/ko/articles/open-ai-generated-html-file-on-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://html.cybergame.ai/ar/articles/open-ai-generated-html-file-on-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://html.cybergame.ai/hi/articles/open-ai-generated-html-file-on-iphone/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://html.cybergame.ai/answers.json",
+        "aiCitation": "https://html.cybergame.ai/ai-citation.json",
+        "queryIndex": "https://html.cybergame.ai/query-index.json",
+        "fileFormats": "https://html.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://html.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://html.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://html.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://html.cybergame.ai/faq-index.json",
+        "citationCards": "https://html.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://html.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://html.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://html.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "html_es_aigenerated_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760443436",
+        "appStoreId": "6760443436",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
       "url": "https://html.cybergame.ai/es/articles/open-chatgpt-html-file-on-ipad/",
       "canonicalUrl": "https://html.cybergame.ai/es/articles/open-chatgpt-html-file-on-ipad/",
       "locale": "es",
@@ -22382,6 +23572,125 @@
       "conversionIntent": "open-app-store-listing",
       "conversionMapSurface": "site-index-manifest",
       "conversionMapToken": "html_es_email_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760443436",
+        "appStoreId": "6760443436",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
+      "url": "https://html.cybergame.ai/es/articles/open-apple-mail-html-attachment-on-iphone/",
+      "canonicalUrl": "https://html.cybergame.ai/es/articles/open-apple-mail-html-attachment-on-iphone/",
+      "locale": "es",
+      "hreflang": "es",
+      "pageType": "article",
+      "topicKey": null,
+      "articleSlug": "open-apple-mail-html-attachment-on-iphone",
+      "title": "Cómo abrir archivos HTML de Apple Mail en iPhone",
+      "query": "¿Cómo abrir archivos HTML de Apple Mail en iPhone o iPad?",
+      "primaryKeyword": "open Apple Mail HTML attachment on iPhone",
+      "source": "Apple Mail",
+      "supportedFormats": ".html, .htm, .xhtml",
+      "fileExtensions": [
+        ".html",
+        ".htm",
+        ".xhtml"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/html-preview-web-file-viewer/id6760443436?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760443436&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "officialWebsiteRepository": "https://github.com/Fomod/html.cybergame.ai",
+      "bundleId": "CyberGame.App-11",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
+      "schemaIds": {
+        "webPage": "https://html.cybergame.ai/es/articles/open-apple-mail-html-attachment-on-iphone/#webpage",
+        "app": "https://html.cybergame.ai/#app",
+        "mainEntity": "https://html.cybergame.ai/es/articles/open-apple-mail-html-attachment-on-iphone/#article",
+        "howTo": "https://html.cybergame.ai/es/articles/open-apple-mail-html-attachment-on-iphone/#howto"
+      },
+      "screenshots": [
+        "https://html.cybergame.ai/assets/screenshots/html-preview-open-html-files-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-ai-html-report-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-focused-html-viewer-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://html.cybergame.ai/articles/open-apple-mail-html-attachment-on-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://html.cybergame.ai/zh/articles/open-apple-mail-html-attachment-on-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://html.cybergame.ai/ja/articles/open-apple-mail-html-attachment-on-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://html.cybergame.ai/es/articles/open-apple-mail-html-attachment-on-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://html.cybergame.ai/de/articles/open-apple-mail-html-attachment-on-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://html.cybergame.ai/fr/articles/open-apple-mail-html-attachment-on-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://html.cybergame.ai/pt-br/articles/open-apple-mail-html-attachment-on-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://html.cybergame.ai/ko/articles/open-apple-mail-html-attachment-on-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://html.cybergame.ai/ar/articles/open-apple-mail-html-attachment-on-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://html.cybergame.ai/hi/articles/open-apple-mail-html-attachment-on-iphone/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://html.cybergame.ai/answers.json",
+        "aiCitation": "https://html.cybergame.ai/ai-citation.json",
+        "queryIndex": "https://html.cybergame.ai/query-index.json",
+        "fileFormats": "https://html.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://html.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://html.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://html.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://html.cybergame.ai/faq-index.json",
+        "citationCards": "https://html.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://html.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://html.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://html.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "html_es_applemail_siteidx",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -23585,6 +24894,125 @@
       "lastUpdated": "2026-06-28"
     },
     {
+      "url": "https://html.cybergame.ai/es/articles/open-local-html-file-on-iphone/",
+      "canonicalUrl": "https://html.cybergame.ai/es/articles/open-local-html-file-on-iphone/",
+      "locale": "es",
+      "hreflang": "es",
+      "pageType": "article",
+      "topicKey": null,
+      "articleSlug": "open-local-html-file-on-iphone",
+      "title": "Cómo abrir archivos HTML de local HTML files en iPhone",
+      "query": "¿Cómo abrir archivos HTML de local HTML files en iPhone o iPad?",
+      "primaryKeyword": "open local HTML file on iPhone",
+      "source": "local HTML files",
+      "supportedFormats": ".html, .htm, .xhtml",
+      "fileExtensions": [
+        ".html",
+        ".htm",
+        ".xhtml"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/html-preview-web-file-viewer/id6760443436?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760443436&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "officialWebsiteRepository": "https://github.com/Fomod/html.cybergame.ai",
+      "bundleId": "CyberGame.App-11",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
+      "schemaIds": {
+        "webPage": "https://html.cybergame.ai/es/articles/open-local-html-file-on-iphone/#webpage",
+        "app": "https://html.cybergame.ai/#app",
+        "mainEntity": "https://html.cybergame.ai/es/articles/open-local-html-file-on-iphone/#article",
+        "howTo": "https://html.cybergame.ai/es/articles/open-local-html-file-on-iphone/#howto"
+      },
+      "screenshots": [
+        "https://html.cybergame.ai/assets/screenshots/html-preview-open-html-files-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-ai-html-report-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-focused-html-viewer-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://html.cybergame.ai/articles/open-local-html-file-on-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://html.cybergame.ai/zh/articles/open-local-html-file-on-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://html.cybergame.ai/ja/articles/open-local-html-file-on-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://html.cybergame.ai/es/articles/open-local-html-file-on-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://html.cybergame.ai/de/articles/open-local-html-file-on-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://html.cybergame.ai/fr/articles/open-local-html-file-on-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://html.cybergame.ai/pt-br/articles/open-local-html-file-on-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://html.cybergame.ai/ko/articles/open-local-html-file-on-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://html.cybergame.ai/ar/articles/open-local-html-file-on-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://html.cybergame.ai/hi/articles/open-local-html-file-on-iphone/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://html.cybergame.ai/answers.json",
+        "aiCitation": "https://html.cybergame.ai/ai-citation.json",
+        "queryIndex": "https://html.cybergame.ai/query-index.json",
+        "fileFormats": "https://html.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://html.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://html.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://html.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://html.cybergame.ai/faq-index.json",
+        "citationCards": "https://html.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://html.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://html.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://html.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "html_es_local_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760443436",
+        "appStoreId": "6760443436",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
       "url": "https://html.cybergame.ai/es/articles/open-local-html-file-without-safari-on-iphone/",
       "canonicalUrl": "https://html.cybergame.ai/es/articles/open-local-html-file-without-safari-on-iphone/",
       "locale": "es",
@@ -23592,10 +25020,10 @@
       "pageType": "article",
       "topicKey": null,
       "articleSlug": "open-local-html-file-without-safari-on-iphone",
-      "title": "Cómo abrir archivos HTML de local HTML files en iPhone",
-      "query": "¿Cómo abrir archivos HTML de local HTML files en iPhone o iPad?",
+      "title": "Cómo abrir archivos HTML de Files without Safari en iPhone",
+      "query": "¿Cómo abrir archivos HTML de Files without Safari en iPhone o iPad?",
       "primaryKeyword": "open local HTML file on iPhone without Safari",
-      "source": "local HTML files",
+      "source": "Files without Safari",
       "supportedFormats": ".html, .htm, .xhtml",
       "fileExtensions": [
         ".html",
@@ -27403,7 +28831,7 @@
       "title": "AI files HTML Deutsch",
       "query": "How do I open AI-generated HTML files on iPhone or iPad?",
       "primaryKeyword": "AI files HTML iPhone",
-      "source": "ChatGPT, Claude, Gemini, ChatGPT on iPad, AI-generated reports, Claude Artifacts, ChatGPT downloads, Gemini",
+      "source": "ChatGPT, Claude, Gemini, AI-generated files, ChatGPT on iPad, AI-generated reports, Claude Artifacts, ChatGPT downloads",
       "supportedFormats": ".html, .htm, .xhtml",
       "fileExtensions": [
         ".html",
@@ -27522,7 +28950,7 @@
       "title": "Files and Share Sheet HTML Deutsch",
       "query": "How do I open HTML files from Files, Mail, or the iOS Share Sheet?",
       "primaryKeyword": "Files and Share Sheet HTML iPhone",
-      "source": "Mail, Files, Safari, WeChat, WhatsApp, Gmail, Outlook, Files, AirDrop, iCloud Drive, Safari Downloads, browser downloads",
+      "source": "Mail, Files, Safari, WeChat, WhatsApp, Apple Mail, Gmail, Outlook, Files, AirDrop, iCloud Drive, Safari Downloads",
       "supportedFormats": ".html, .htm, .xhtml",
       "fileExtensions": [
         ".html",
@@ -28583,6 +30011,125 @@
       "lastUpdated": "2026-06-28"
     },
     {
+      "url": "https://html.cybergame.ai/de/articles/open-ai-generated-html-file-on-iphone/",
+      "canonicalUrl": "https://html.cybergame.ai/de/articles/open-ai-generated-html-file-on-iphone/",
+      "locale": "de",
+      "hreflang": "de",
+      "pageType": "article",
+      "topicKey": null,
+      "articleSlug": "open-ai-generated-html-file-on-iphone",
+      "title": "AI-generated files HTML-Dateien auf iPhone öffnen",
+      "query": "Wie kann ich AI-generated files HTML-Dateien öffnen auf iPhone oder iPad?",
+      "primaryKeyword": "open AI generated HTML file on iPhone",
+      "source": "AI-generated files",
+      "supportedFormats": ".html, .htm, .xhtml",
+      "fileExtensions": [
+        ".html",
+        ".htm",
+        ".xhtml"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/html-preview-web-file-viewer/id6760443436?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760443436&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "officialWebsiteRepository": "https://github.com/Fomod/html.cybergame.ai",
+      "bundleId": "CyberGame.App-11",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
+      "schemaIds": {
+        "webPage": "https://html.cybergame.ai/de/articles/open-ai-generated-html-file-on-iphone/#webpage",
+        "app": "https://html.cybergame.ai/#app",
+        "mainEntity": "https://html.cybergame.ai/de/articles/open-ai-generated-html-file-on-iphone/#article",
+        "howTo": "https://html.cybergame.ai/de/articles/open-ai-generated-html-file-on-iphone/#howto"
+      },
+      "screenshots": [
+        "https://html.cybergame.ai/assets/screenshots/html-preview-open-html-files-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-ai-html-report-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-focused-html-viewer-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://html.cybergame.ai/articles/open-ai-generated-html-file-on-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://html.cybergame.ai/zh/articles/open-ai-generated-html-file-on-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://html.cybergame.ai/ja/articles/open-ai-generated-html-file-on-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://html.cybergame.ai/es/articles/open-ai-generated-html-file-on-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://html.cybergame.ai/de/articles/open-ai-generated-html-file-on-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://html.cybergame.ai/fr/articles/open-ai-generated-html-file-on-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://html.cybergame.ai/pt-br/articles/open-ai-generated-html-file-on-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://html.cybergame.ai/ko/articles/open-ai-generated-html-file-on-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://html.cybergame.ai/ar/articles/open-ai-generated-html-file-on-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://html.cybergame.ai/hi/articles/open-ai-generated-html-file-on-iphone/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://html.cybergame.ai/answers.json",
+        "aiCitation": "https://html.cybergame.ai/ai-citation.json",
+        "queryIndex": "https://html.cybergame.ai/query-index.json",
+        "fileFormats": "https://html.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://html.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://html.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://html.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://html.cybergame.ai/faq-index.json",
+        "citationCards": "https://html.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://html.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://html.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://html.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "html_de_aigenerated_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760443436",
+        "appStoreId": "6760443436",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
       "url": "https://html.cybergame.ai/de/articles/open-chatgpt-html-file-on-ipad/",
       "canonicalUrl": "https://html.cybergame.ai/de/articles/open-chatgpt-html-file-on-ipad/",
       "locale": "de",
@@ -29046,6 +30593,125 @@
       "conversionIntent": "open-app-store-listing",
       "conversionMapSurface": "site-index-manifest",
       "conversionMapToken": "html_de_email_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760443436",
+        "appStoreId": "6760443436",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
+      "url": "https://html.cybergame.ai/de/articles/open-apple-mail-html-attachment-on-iphone/",
+      "canonicalUrl": "https://html.cybergame.ai/de/articles/open-apple-mail-html-attachment-on-iphone/",
+      "locale": "de",
+      "hreflang": "de",
+      "pageType": "article",
+      "topicKey": null,
+      "articleSlug": "open-apple-mail-html-attachment-on-iphone",
+      "title": "Apple Mail HTML-Dateien auf iPhone öffnen",
+      "query": "Wie kann ich Apple Mail HTML-Dateien öffnen auf iPhone oder iPad?",
+      "primaryKeyword": "open Apple Mail HTML attachment on iPhone",
+      "source": "Apple Mail",
+      "supportedFormats": ".html, .htm, .xhtml",
+      "fileExtensions": [
+        ".html",
+        ".htm",
+        ".xhtml"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/html-preview-web-file-viewer/id6760443436?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760443436&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "officialWebsiteRepository": "https://github.com/Fomod/html.cybergame.ai",
+      "bundleId": "CyberGame.App-11",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
+      "schemaIds": {
+        "webPage": "https://html.cybergame.ai/de/articles/open-apple-mail-html-attachment-on-iphone/#webpage",
+        "app": "https://html.cybergame.ai/#app",
+        "mainEntity": "https://html.cybergame.ai/de/articles/open-apple-mail-html-attachment-on-iphone/#article",
+        "howTo": "https://html.cybergame.ai/de/articles/open-apple-mail-html-attachment-on-iphone/#howto"
+      },
+      "screenshots": [
+        "https://html.cybergame.ai/assets/screenshots/html-preview-open-html-files-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-ai-html-report-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-focused-html-viewer-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://html.cybergame.ai/articles/open-apple-mail-html-attachment-on-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://html.cybergame.ai/zh/articles/open-apple-mail-html-attachment-on-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://html.cybergame.ai/ja/articles/open-apple-mail-html-attachment-on-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://html.cybergame.ai/es/articles/open-apple-mail-html-attachment-on-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://html.cybergame.ai/de/articles/open-apple-mail-html-attachment-on-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://html.cybergame.ai/fr/articles/open-apple-mail-html-attachment-on-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://html.cybergame.ai/pt-br/articles/open-apple-mail-html-attachment-on-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://html.cybergame.ai/ko/articles/open-apple-mail-html-attachment-on-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://html.cybergame.ai/ar/articles/open-apple-mail-html-attachment-on-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://html.cybergame.ai/hi/articles/open-apple-mail-html-attachment-on-iphone/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://html.cybergame.ai/answers.json",
+        "aiCitation": "https://html.cybergame.ai/ai-citation.json",
+        "queryIndex": "https://html.cybergame.ai/query-index.json",
+        "fileFormats": "https://html.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://html.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://html.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://html.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://html.cybergame.ai/faq-index.json",
+        "citationCards": "https://html.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://html.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://html.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://html.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "html_de_applemail_siteidx",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -30249,6 +31915,125 @@
       "lastUpdated": "2026-06-28"
     },
     {
+      "url": "https://html.cybergame.ai/de/articles/open-local-html-file-on-iphone/",
+      "canonicalUrl": "https://html.cybergame.ai/de/articles/open-local-html-file-on-iphone/",
+      "locale": "de",
+      "hreflang": "de",
+      "pageType": "article",
+      "topicKey": null,
+      "articleSlug": "open-local-html-file-on-iphone",
+      "title": "local HTML files HTML-Dateien auf iPhone öffnen",
+      "query": "Wie kann ich local HTML files HTML-Dateien öffnen auf iPhone oder iPad?",
+      "primaryKeyword": "open local HTML file on iPhone",
+      "source": "local HTML files",
+      "supportedFormats": ".html, .htm, .xhtml",
+      "fileExtensions": [
+        ".html",
+        ".htm",
+        ".xhtml"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/html-preview-web-file-viewer/id6760443436?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760443436&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "officialWebsiteRepository": "https://github.com/Fomod/html.cybergame.ai",
+      "bundleId": "CyberGame.App-11",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
+      "schemaIds": {
+        "webPage": "https://html.cybergame.ai/de/articles/open-local-html-file-on-iphone/#webpage",
+        "app": "https://html.cybergame.ai/#app",
+        "mainEntity": "https://html.cybergame.ai/de/articles/open-local-html-file-on-iphone/#article",
+        "howTo": "https://html.cybergame.ai/de/articles/open-local-html-file-on-iphone/#howto"
+      },
+      "screenshots": [
+        "https://html.cybergame.ai/assets/screenshots/html-preview-open-html-files-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-ai-html-report-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-focused-html-viewer-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://html.cybergame.ai/articles/open-local-html-file-on-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://html.cybergame.ai/zh/articles/open-local-html-file-on-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://html.cybergame.ai/ja/articles/open-local-html-file-on-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://html.cybergame.ai/es/articles/open-local-html-file-on-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://html.cybergame.ai/de/articles/open-local-html-file-on-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://html.cybergame.ai/fr/articles/open-local-html-file-on-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://html.cybergame.ai/pt-br/articles/open-local-html-file-on-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://html.cybergame.ai/ko/articles/open-local-html-file-on-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://html.cybergame.ai/ar/articles/open-local-html-file-on-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://html.cybergame.ai/hi/articles/open-local-html-file-on-iphone/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://html.cybergame.ai/answers.json",
+        "aiCitation": "https://html.cybergame.ai/ai-citation.json",
+        "queryIndex": "https://html.cybergame.ai/query-index.json",
+        "fileFormats": "https://html.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://html.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://html.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://html.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://html.cybergame.ai/faq-index.json",
+        "citationCards": "https://html.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://html.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://html.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://html.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "html_de_local_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760443436",
+        "appStoreId": "6760443436",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
       "url": "https://html.cybergame.ai/de/articles/open-local-html-file-without-safari-on-iphone/",
       "canonicalUrl": "https://html.cybergame.ai/de/articles/open-local-html-file-without-safari-on-iphone/",
       "locale": "de",
@@ -30256,10 +32041,10 @@
       "pageType": "article",
       "topicKey": null,
       "articleSlug": "open-local-html-file-without-safari-on-iphone",
-      "title": "local HTML files HTML-Dateien auf iPhone öffnen",
-      "query": "Wie kann ich local HTML files HTML-Dateien öffnen auf iPhone oder iPad?",
+      "title": "Files without Safari HTML-Dateien auf iPhone öffnen",
+      "query": "Wie kann ich Files without Safari HTML-Dateien öffnen auf iPhone oder iPad?",
       "primaryKeyword": "open local HTML file on iPhone without Safari",
-      "source": "local HTML files",
+      "source": "Files without Safari",
       "supportedFormats": ".html, .htm, .xhtml",
       "fileExtensions": [
         ".html",
@@ -34067,7 +35852,7 @@
       "title": "AI files HTML Francais",
       "query": "How do I open AI-generated HTML files on iPhone or iPad?",
       "primaryKeyword": "AI files HTML iPhone",
-      "source": "ChatGPT, Claude, Gemini, ChatGPT on iPad, AI-generated reports, Claude Artifacts, ChatGPT downloads, Gemini",
+      "source": "ChatGPT, Claude, Gemini, AI-generated files, ChatGPT on iPad, AI-generated reports, Claude Artifacts, ChatGPT downloads",
       "supportedFormats": ".html, .htm, .xhtml",
       "fileExtensions": [
         ".html",
@@ -34186,7 +35971,7 @@
       "title": "Files and Share Sheet HTML Francais",
       "query": "How do I open HTML files from Files, Mail, or the iOS Share Sheet?",
       "primaryKeyword": "Files and Share Sheet HTML iPhone",
-      "source": "Mail, Files, Safari, WeChat, WhatsApp, Gmail, Outlook, Files, AirDrop, iCloud Drive, Safari Downloads, browser downloads",
+      "source": "Mail, Files, Safari, WeChat, WhatsApp, Apple Mail, Gmail, Outlook, Files, AirDrop, iCloud Drive, Safari Downloads",
       "supportedFormats": ".html, .htm, .xhtml",
       "fileExtensions": [
         ".html",
@@ -35247,6 +37032,125 @@
       "lastUpdated": "2026-06-28"
     },
     {
+      "url": "https://html.cybergame.ai/fr/articles/open-ai-generated-html-file-on-iphone/",
+      "canonicalUrl": "https://html.cybergame.ai/fr/articles/open-ai-generated-html-file-on-iphone/",
+      "locale": "fr",
+      "hreflang": "fr",
+      "pageType": "article",
+      "topicKey": null,
+      "articleSlug": "open-ai-generated-html-file-on-iphone",
+      "title": "Ouvrir des fichiers HTML de AI-generated files sur iPhone",
+      "query": "Comment ouvrir des fichiers HTML de AI-generated files sur iPhone ou iPad ?",
+      "primaryKeyword": "open AI generated HTML file on iPhone",
+      "source": "AI-generated files",
+      "supportedFormats": ".html, .htm, .xhtml",
+      "fileExtensions": [
+        ".html",
+        ".htm",
+        ".xhtml"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/html-preview-web-file-viewer/id6760443436?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760443436&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "officialWebsiteRepository": "https://github.com/Fomod/html.cybergame.ai",
+      "bundleId": "CyberGame.App-11",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
+      "schemaIds": {
+        "webPage": "https://html.cybergame.ai/fr/articles/open-ai-generated-html-file-on-iphone/#webpage",
+        "app": "https://html.cybergame.ai/#app",
+        "mainEntity": "https://html.cybergame.ai/fr/articles/open-ai-generated-html-file-on-iphone/#article",
+        "howTo": "https://html.cybergame.ai/fr/articles/open-ai-generated-html-file-on-iphone/#howto"
+      },
+      "screenshots": [
+        "https://html.cybergame.ai/assets/screenshots/html-preview-open-html-files-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-ai-html-report-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-focused-html-viewer-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://html.cybergame.ai/articles/open-ai-generated-html-file-on-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://html.cybergame.ai/zh/articles/open-ai-generated-html-file-on-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://html.cybergame.ai/ja/articles/open-ai-generated-html-file-on-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://html.cybergame.ai/es/articles/open-ai-generated-html-file-on-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://html.cybergame.ai/de/articles/open-ai-generated-html-file-on-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://html.cybergame.ai/fr/articles/open-ai-generated-html-file-on-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://html.cybergame.ai/pt-br/articles/open-ai-generated-html-file-on-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://html.cybergame.ai/ko/articles/open-ai-generated-html-file-on-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://html.cybergame.ai/ar/articles/open-ai-generated-html-file-on-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://html.cybergame.ai/hi/articles/open-ai-generated-html-file-on-iphone/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://html.cybergame.ai/answers.json",
+        "aiCitation": "https://html.cybergame.ai/ai-citation.json",
+        "queryIndex": "https://html.cybergame.ai/query-index.json",
+        "fileFormats": "https://html.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://html.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://html.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://html.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://html.cybergame.ai/faq-index.json",
+        "citationCards": "https://html.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://html.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://html.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://html.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "html_fr_aigenerated_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760443436",
+        "appStoreId": "6760443436",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
       "url": "https://html.cybergame.ai/fr/articles/open-chatgpt-html-file-on-ipad/",
       "canonicalUrl": "https://html.cybergame.ai/fr/articles/open-chatgpt-html-file-on-ipad/",
       "locale": "fr",
@@ -35710,6 +37614,125 @@
       "conversionIntent": "open-app-store-listing",
       "conversionMapSurface": "site-index-manifest",
       "conversionMapToken": "html_fr_email_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760443436",
+        "appStoreId": "6760443436",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
+      "url": "https://html.cybergame.ai/fr/articles/open-apple-mail-html-attachment-on-iphone/",
+      "canonicalUrl": "https://html.cybergame.ai/fr/articles/open-apple-mail-html-attachment-on-iphone/",
+      "locale": "fr",
+      "hreflang": "fr",
+      "pageType": "article",
+      "topicKey": null,
+      "articleSlug": "open-apple-mail-html-attachment-on-iphone",
+      "title": "Ouvrir des fichiers HTML de Apple Mail sur iPhone",
+      "query": "Comment ouvrir des fichiers HTML de Apple Mail sur iPhone ou iPad ?",
+      "primaryKeyword": "open Apple Mail HTML attachment on iPhone",
+      "source": "Apple Mail",
+      "supportedFormats": ".html, .htm, .xhtml",
+      "fileExtensions": [
+        ".html",
+        ".htm",
+        ".xhtml"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/html-preview-web-file-viewer/id6760443436?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760443436&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "officialWebsiteRepository": "https://github.com/Fomod/html.cybergame.ai",
+      "bundleId": "CyberGame.App-11",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
+      "schemaIds": {
+        "webPage": "https://html.cybergame.ai/fr/articles/open-apple-mail-html-attachment-on-iphone/#webpage",
+        "app": "https://html.cybergame.ai/#app",
+        "mainEntity": "https://html.cybergame.ai/fr/articles/open-apple-mail-html-attachment-on-iphone/#article",
+        "howTo": "https://html.cybergame.ai/fr/articles/open-apple-mail-html-attachment-on-iphone/#howto"
+      },
+      "screenshots": [
+        "https://html.cybergame.ai/assets/screenshots/html-preview-open-html-files-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-ai-html-report-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-focused-html-viewer-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://html.cybergame.ai/articles/open-apple-mail-html-attachment-on-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://html.cybergame.ai/zh/articles/open-apple-mail-html-attachment-on-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://html.cybergame.ai/ja/articles/open-apple-mail-html-attachment-on-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://html.cybergame.ai/es/articles/open-apple-mail-html-attachment-on-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://html.cybergame.ai/de/articles/open-apple-mail-html-attachment-on-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://html.cybergame.ai/fr/articles/open-apple-mail-html-attachment-on-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://html.cybergame.ai/pt-br/articles/open-apple-mail-html-attachment-on-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://html.cybergame.ai/ko/articles/open-apple-mail-html-attachment-on-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://html.cybergame.ai/ar/articles/open-apple-mail-html-attachment-on-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://html.cybergame.ai/hi/articles/open-apple-mail-html-attachment-on-iphone/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://html.cybergame.ai/answers.json",
+        "aiCitation": "https://html.cybergame.ai/ai-citation.json",
+        "queryIndex": "https://html.cybergame.ai/query-index.json",
+        "fileFormats": "https://html.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://html.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://html.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://html.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://html.cybergame.ai/faq-index.json",
+        "citationCards": "https://html.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://html.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://html.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://html.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "html_fr_applemail_siteidx",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -36913,6 +38936,125 @@
       "lastUpdated": "2026-06-28"
     },
     {
+      "url": "https://html.cybergame.ai/fr/articles/open-local-html-file-on-iphone/",
+      "canonicalUrl": "https://html.cybergame.ai/fr/articles/open-local-html-file-on-iphone/",
+      "locale": "fr",
+      "hreflang": "fr",
+      "pageType": "article",
+      "topicKey": null,
+      "articleSlug": "open-local-html-file-on-iphone",
+      "title": "Ouvrir des fichiers HTML de local HTML files sur iPhone",
+      "query": "Comment ouvrir des fichiers HTML de local HTML files sur iPhone ou iPad ?",
+      "primaryKeyword": "open local HTML file on iPhone",
+      "source": "local HTML files",
+      "supportedFormats": ".html, .htm, .xhtml",
+      "fileExtensions": [
+        ".html",
+        ".htm",
+        ".xhtml"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/html-preview-web-file-viewer/id6760443436?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760443436&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "officialWebsiteRepository": "https://github.com/Fomod/html.cybergame.ai",
+      "bundleId": "CyberGame.App-11",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
+      "schemaIds": {
+        "webPage": "https://html.cybergame.ai/fr/articles/open-local-html-file-on-iphone/#webpage",
+        "app": "https://html.cybergame.ai/#app",
+        "mainEntity": "https://html.cybergame.ai/fr/articles/open-local-html-file-on-iphone/#article",
+        "howTo": "https://html.cybergame.ai/fr/articles/open-local-html-file-on-iphone/#howto"
+      },
+      "screenshots": [
+        "https://html.cybergame.ai/assets/screenshots/html-preview-open-html-files-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-ai-html-report-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-focused-html-viewer-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://html.cybergame.ai/articles/open-local-html-file-on-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://html.cybergame.ai/zh/articles/open-local-html-file-on-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://html.cybergame.ai/ja/articles/open-local-html-file-on-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://html.cybergame.ai/es/articles/open-local-html-file-on-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://html.cybergame.ai/de/articles/open-local-html-file-on-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://html.cybergame.ai/fr/articles/open-local-html-file-on-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://html.cybergame.ai/pt-br/articles/open-local-html-file-on-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://html.cybergame.ai/ko/articles/open-local-html-file-on-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://html.cybergame.ai/ar/articles/open-local-html-file-on-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://html.cybergame.ai/hi/articles/open-local-html-file-on-iphone/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://html.cybergame.ai/answers.json",
+        "aiCitation": "https://html.cybergame.ai/ai-citation.json",
+        "queryIndex": "https://html.cybergame.ai/query-index.json",
+        "fileFormats": "https://html.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://html.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://html.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://html.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://html.cybergame.ai/faq-index.json",
+        "citationCards": "https://html.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://html.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://html.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://html.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "html_fr_local_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760443436",
+        "appStoreId": "6760443436",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
       "url": "https://html.cybergame.ai/fr/articles/open-local-html-file-without-safari-on-iphone/",
       "canonicalUrl": "https://html.cybergame.ai/fr/articles/open-local-html-file-without-safari-on-iphone/",
       "locale": "fr",
@@ -36920,10 +39062,10 @@
       "pageType": "article",
       "topicKey": null,
       "articleSlug": "open-local-html-file-without-safari-on-iphone",
-      "title": "Ouvrir des fichiers HTML de local HTML files sur iPhone",
-      "query": "Comment ouvrir des fichiers HTML de local HTML files sur iPhone ou iPad ?",
+      "title": "Ouvrir des fichiers HTML de Files without Safari sur iPhone",
+      "query": "Comment ouvrir des fichiers HTML de Files without Safari sur iPhone ou iPad ?",
       "primaryKeyword": "open local HTML file on iPhone without Safari",
-      "source": "local HTML files",
+      "source": "Files without Safari",
       "supportedFormats": ".html, .htm, .xhtml",
       "fileExtensions": [
         ".html",
@@ -40731,7 +42873,7 @@
       "title": "AI files HTML Portugues do Brasil",
       "query": "How do I open AI-generated HTML files on iPhone or iPad?",
       "primaryKeyword": "AI files HTML iPhone",
-      "source": "ChatGPT, Claude, Gemini, ChatGPT on iPad, AI-generated reports, Claude Artifacts, ChatGPT downloads, Gemini",
+      "source": "ChatGPT, Claude, Gemini, AI-generated files, ChatGPT on iPad, AI-generated reports, Claude Artifacts, ChatGPT downloads",
       "supportedFormats": ".html, .htm, .xhtml",
       "fileExtensions": [
         ".html",
@@ -40850,7 +42992,7 @@
       "title": "Files and Share Sheet HTML Portugues do Brasil",
       "query": "How do I open HTML files from Files, Mail, or the iOS Share Sheet?",
       "primaryKeyword": "Files and Share Sheet HTML iPhone",
-      "source": "Mail, Files, Safari, WeChat, WhatsApp, Gmail, Outlook, Files, AirDrop, iCloud Drive, Safari Downloads, browser downloads",
+      "source": "Mail, Files, Safari, WeChat, WhatsApp, Apple Mail, Gmail, Outlook, Files, AirDrop, iCloud Drive, Safari Downloads",
       "supportedFormats": ".html, .htm, .xhtml",
       "fileExtensions": [
         ".html",
@@ -41911,6 +44053,125 @@
       "lastUpdated": "2026-06-28"
     },
     {
+      "url": "https://html.cybergame.ai/pt-br/articles/open-ai-generated-html-file-on-iphone/",
+      "canonicalUrl": "https://html.cybergame.ai/pt-br/articles/open-ai-generated-html-file-on-iphone/",
+      "locale": "pt-br",
+      "hreflang": "pt-BR",
+      "pageType": "article",
+      "topicKey": null,
+      "articleSlug": "open-ai-generated-html-file-on-iphone",
+      "title": "Abrir arquivos HTML do AI-generated files no iPhone",
+      "query": "Como abrir arquivos HTML do AI-generated files no iPhone ou iPad?",
+      "primaryKeyword": "open AI generated HTML file on iPhone",
+      "source": "AI-generated files",
+      "supportedFormats": ".html, .htm, .xhtml",
+      "fileExtensions": [
+        ".html",
+        ".htm",
+        ".xhtml"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/html-preview-web-file-viewer/id6760443436?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760443436&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "officialWebsiteRepository": "https://github.com/Fomod/html.cybergame.ai",
+      "bundleId": "CyberGame.App-11",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
+      "schemaIds": {
+        "webPage": "https://html.cybergame.ai/pt-br/articles/open-ai-generated-html-file-on-iphone/#webpage",
+        "app": "https://html.cybergame.ai/#app",
+        "mainEntity": "https://html.cybergame.ai/pt-br/articles/open-ai-generated-html-file-on-iphone/#article",
+        "howTo": "https://html.cybergame.ai/pt-br/articles/open-ai-generated-html-file-on-iphone/#howto"
+      },
+      "screenshots": [
+        "https://html.cybergame.ai/assets/screenshots/html-preview-open-html-files-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-ai-html-report-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-focused-html-viewer-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://html.cybergame.ai/articles/open-ai-generated-html-file-on-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://html.cybergame.ai/zh/articles/open-ai-generated-html-file-on-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://html.cybergame.ai/ja/articles/open-ai-generated-html-file-on-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://html.cybergame.ai/es/articles/open-ai-generated-html-file-on-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://html.cybergame.ai/de/articles/open-ai-generated-html-file-on-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://html.cybergame.ai/fr/articles/open-ai-generated-html-file-on-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://html.cybergame.ai/pt-br/articles/open-ai-generated-html-file-on-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://html.cybergame.ai/ko/articles/open-ai-generated-html-file-on-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://html.cybergame.ai/ar/articles/open-ai-generated-html-file-on-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://html.cybergame.ai/hi/articles/open-ai-generated-html-file-on-iphone/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://html.cybergame.ai/answers.json",
+        "aiCitation": "https://html.cybergame.ai/ai-citation.json",
+        "queryIndex": "https://html.cybergame.ai/query-index.json",
+        "fileFormats": "https://html.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://html.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://html.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://html.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://html.cybergame.ai/faq-index.json",
+        "citationCards": "https://html.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://html.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://html.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://html.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "html_ptbr_aigenerated_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760443436",
+        "appStoreId": "6760443436",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
       "url": "https://html.cybergame.ai/pt-br/articles/open-chatgpt-html-file-on-ipad/",
       "canonicalUrl": "https://html.cybergame.ai/pt-br/articles/open-chatgpt-html-file-on-ipad/",
       "locale": "pt-br",
@@ -42374,6 +44635,125 @@
       "conversionIntent": "open-app-store-listing",
       "conversionMapSurface": "site-index-manifest",
       "conversionMapToken": "html_ptbr_email_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760443436",
+        "appStoreId": "6760443436",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
+      "url": "https://html.cybergame.ai/pt-br/articles/open-apple-mail-html-attachment-on-iphone/",
+      "canonicalUrl": "https://html.cybergame.ai/pt-br/articles/open-apple-mail-html-attachment-on-iphone/",
+      "locale": "pt-br",
+      "hreflang": "pt-BR",
+      "pageType": "article",
+      "topicKey": null,
+      "articleSlug": "open-apple-mail-html-attachment-on-iphone",
+      "title": "Abrir arquivos HTML do Apple Mail no iPhone",
+      "query": "Como abrir arquivos HTML do Apple Mail no iPhone ou iPad?",
+      "primaryKeyword": "open Apple Mail HTML attachment on iPhone",
+      "source": "Apple Mail",
+      "supportedFormats": ".html, .htm, .xhtml",
+      "fileExtensions": [
+        ".html",
+        ".htm",
+        ".xhtml"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/html-preview-web-file-viewer/id6760443436?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760443436&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "officialWebsiteRepository": "https://github.com/Fomod/html.cybergame.ai",
+      "bundleId": "CyberGame.App-11",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
+      "schemaIds": {
+        "webPage": "https://html.cybergame.ai/pt-br/articles/open-apple-mail-html-attachment-on-iphone/#webpage",
+        "app": "https://html.cybergame.ai/#app",
+        "mainEntity": "https://html.cybergame.ai/pt-br/articles/open-apple-mail-html-attachment-on-iphone/#article",
+        "howTo": "https://html.cybergame.ai/pt-br/articles/open-apple-mail-html-attachment-on-iphone/#howto"
+      },
+      "screenshots": [
+        "https://html.cybergame.ai/assets/screenshots/html-preview-open-html-files-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-ai-html-report-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-focused-html-viewer-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://html.cybergame.ai/articles/open-apple-mail-html-attachment-on-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://html.cybergame.ai/zh/articles/open-apple-mail-html-attachment-on-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://html.cybergame.ai/ja/articles/open-apple-mail-html-attachment-on-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://html.cybergame.ai/es/articles/open-apple-mail-html-attachment-on-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://html.cybergame.ai/de/articles/open-apple-mail-html-attachment-on-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://html.cybergame.ai/fr/articles/open-apple-mail-html-attachment-on-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://html.cybergame.ai/pt-br/articles/open-apple-mail-html-attachment-on-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://html.cybergame.ai/ko/articles/open-apple-mail-html-attachment-on-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://html.cybergame.ai/ar/articles/open-apple-mail-html-attachment-on-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://html.cybergame.ai/hi/articles/open-apple-mail-html-attachment-on-iphone/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://html.cybergame.ai/answers.json",
+        "aiCitation": "https://html.cybergame.ai/ai-citation.json",
+        "queryIndex": "https://html.cybergame.ai/query-index.json",
+        "fileFormats": "https://html.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://html.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://html.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://html.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://html.cybergame.ai/faq-index.json",
+        "citationCards": "https://html.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://html.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://html.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://html.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "html_ptbr_applemail_siteidx",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -43577,6 +45957,125 @@
       "lastUpdated": "2026-06-28"
     },
     {
+      "url": "https://html.cybergame.ai/pt-br/articles/open-local-html-file-on-iphone/",
+      "canonicalUrl": "https://html.cybergame.ai/pt-br/articles/open-local-html-file-on-iphone/",
+      "locale": "pt-br",
+      "hreflang": "pt-BR",
+      "pageType": "article",
+      "topicKey": null,
+      "articleSlug": "open-local-html-file-on-iphone",
+      "title": "Abrir arquivos HTML do local HTML files no iPhone",
+      "query": "Como abrir arquivos HTML do local HTML files no iPhone ou iPad?",
+      "primaryKeyword": "open local HTML file on iPhone",
+      "source": "local HTML files",
+      "supportedFormats": ".html, .htm, .xhtml",
+      "fileExtensions": [
+        ".html",
+        ".htm",
+        ".xhtml"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/html-preview-web-file-viewer/id6760443436?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760443436&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "officialWebsiteRepository": "https://github.com/Fomod/html.cybergame.ai",
+      "bundleId": "CyberGame.App-11",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
+      "schemaIds": {
+        "webPage": "https://html.cybergame.ai/pt-br/articles/open-local-html-file-on-iphone/#webpage",
+        "app": "https://html.cybergame.ai/#app",
+        "mainEntity": "https://html.cybergame.ai/pt-br/articles/open-local-html-file-on-iphone/#article",
+        "howTo": "https://html.cybergame.ai/pt-br/articles/open-local-html-file-on-iphone/#howto"
+      },
+      "screenshots": [
+        "https://html.cybergame.ai/assets/screenshots/html-preview-open-html-files-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-ai-html-report-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-focused-html-viewer-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://html.cybergame.ai/articles/open-local-html-file-on-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://html.cybergame.ai/zh/articles/open-local-html-file-on-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://html.cybergame.ai/ja/articles/open-local-html-file-on-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://html.cybergame.ai/es/articles/open-local-html-file-on-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://html.cybergame.ai/de/articles/open-local-html-file-on-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://html.cybergame.ai/fr/articles/open-local-html-file-on-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://html.cybergame.ai/pt-br/articles/open-local-html-file-on-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://html.cybergame.ai/ko/articles/open-local-html-file-on-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://html.cybergame.ai/ar/articles/open-local-html-file-on-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://html.cybergame.ai/hi/articles/open-local-html-file-on-iphone/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://html.cybergame.ai/answers.json",
+        "aiCitation": "https://html.cybergame.ai/ai-citation.json",
+        "queryIndex": "https://html.cybergame.ai/query-index.json",
+        "fileFormats": "https://html.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://html.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://html.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://html.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://html.cybergame.ai/faq-index.json",
+        "citationCards": "https://html.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://html.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://html.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://html.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "html_ptbr_local_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760443436",
+        "appStoreId": "6760443436",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
       "url": "https://html.cybergame.ai/pt-br/articles/open-local-html-file-without-safari-on-iphone/",
       "canonicalUrl": "https://html.cybergame.ai/pt-br/articles/open-local-html-file-without-safari-on-iphone/",
       "locale": "pt-br",
@@ -43584,10 +46083,10 @@
       "pageType": "article",
       "topicKey": null,
       "articleSlug": "open-local-html-file-without-safari-on-iphone",
-      "title": "Abrir arquivos HTML do local HTML files no iPhone",
-      "query": "Como abrir arquivos HTML do local HTML files no iPhone ou iPad?",
+      "title": "Abrir arquivos HTML do Files without Safari no iPhone",
+      "query": "Como abrir arquivos HTML do Files without Safari no iPhone ou iPad?",
       "primaryKeyword": "open local HTML file on iPhone without Safari",
-      "source": "local HTML files",
+      "source": "Files without Safari",
       "supportedFormats": ".html, .htm, .xhtml",
       "fileExtensions": [
         ".html",
@@ -47395,7 +49894,7 @@
       "title": "AI files HTML 한국어",
       "query": "How do I open AI-generated HTML files on iPhone or iPad?",
       "primaryKeyword": "AI files HTML iPhone",
-      "source": "ChatGPT, Claude, Gemini, ChatGPT on iPad, AI-generated reports, Claude Artifacts, ChatGPT downloads, Gemini",
+      "source": "ChatGPT, Claude, Gemini, AI-generated files, ChatGPT on iPad, AI-generated reports, Claude Artifacts, ChatGPT downloads",
       "supportedFormats": ".html, .htm, .xhtml",
       "fileExtensions": [
         ".html",
@@ -47514,7 +50013,7 @@
       "title": "Files and Share Sheet HTML 한국어",
       "query": "How do I open HTML files from Files, Mail, or the iOS Share Sheet?",
       "primaryKeyword": "Files and Share Sheet HTML iPhone",
-      "source": "Mail, Files, Safari, WeChat, WhatsApp, Gmail, Outlook, Files, AirDrop, iCloud Drive, Safari Downloads, browser downloads",
+      "source": "Mail, Files, Safari, WeChat, WhatsApp, Apple Mail, Gmail, Outlook, Files, AirDrop, iCloud Drive, Safari Downloads",
       "supportedFormats": ".html, .htm, .xhtml",
       "fileExtensions": [
         ".html",
@@ -48575,6 +51074,125 @@
       "lastUpdated": "2026-06-28"
     },
     {
+      "url": "https://html.cybergame.ai/ko/articles/open-ai-generated-html-file-on-iphone/",
+      "canonicalUrl": "https://html.cybergame.ai/ko/articles/open-ai-generated-html-file-on-iphone/",
+      "locale": "ko",
+      "hreflang": "ko",
+      "pageType": "article",
+      "topicKey": null,
+      "articleSlug": "open-ai-generated-html-file-on-iphone",
+      "title": "iPhone에서 AI-generated files HTML 파일 열기",
+      "query": "iPhone과 iPad에서 HTML 파일을 여는 방법은?",
+      "primaryKeyword": "open AI generated HTML file on iPhone",
+      "source": "AI-generated files",
+      "supportedFormats": ".html, .htm, .xhtml",
+      "fileExtensions": [
+        ".html",
+        ".htm",
+        ".xhtml"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/html-preview-web-file-viewer/id6760443436?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760443436&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "officialWebsiteRepository": "https://github.com/Fomod/html.cybergame.ai",
+      "bundleId": "CyberGame.App-11",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
+      "schemaIds": {
+        "webPage": "https://html.cybergame.ai/ko/articles/open-ai-generated-html-file-on-iphone/#webpage",
+        "app": "https://html.cybergame.ai/#app",
+        "mainEntity": "https://html.cybergame.ai/ko/articles/open-ai-generated-html-file-on-iphone/#article",
+        "howTo": "https://html.cybergame.ai/ko/articles/open-ai-generated-html-file-on-iphone/#howto"
+      },
+      "screenshots": [
+        "https://html.cybergame.ai/assets/screenshots/html-preview-open-html-files-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-ai-html-report-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-focused-html-viewer-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://html.cybergame.ai/articles/open-ai-generated-html-file-on-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://html.cybergame.ai/zh/articles/open-ai-generated-html-file-on-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://html.cybergame.ai/ja/articles/open-ai-generated-html-file-on-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://html.cybergame.ai/es/articles/open-ai-generated-html-file-on-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://html.cybergame.ai/de/articles/open-ai-generated-html-file-on-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://html.cybergame.ai/fr/articles/open-ai-generated-html-file-on-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://html.cybergame.ai/pt-br/articles/open-ai-generated-html-file-on-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://html.cybergame.ai/ko/articles/open-ai-generated-html-file-on-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://html.cybergame.ai/ar/articles/open-ai-generated-html-file-on-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://html.cybergame.ai/hi/articles/open-ai-generated-html-file-on-iphone/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://html.cybergame.ai/answers.json",
+        "aiCitation": "https://html.cybergame.ai/ai-citation.json",
+        "queryIndex": "https://html.cybergame.ai/query-index.json",
+        "fileFormats": "https://html.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://html.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://html.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://html.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://html.cybergame.ai/faq-index.json",
+        "citationCards": "https://html.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://html.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://html.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://html.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "html_ko_aigenerated_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760443436",
+        "appStoreId": "6760443436",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
       "url": "https://html.cybergame.ai/ko/articles/open-chatgpt-html-file-on-ipad/",
       "canonicalUrl": "https://html.cybergame.ai/ko/articles/open-chatgpt-html-file-on-ipad/",
       "locale": "ko",
@@ -49038,6 +51656,125 @@
       "conversionIntent": "open-app-store-listing",
       "conversionMapSurface": "site-index-manifest",
       "conversionMapToken": "html_ko_email_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760443436",
+        "appStoreId": "6760443436",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
+      "url": "https://html.cybergame.ai/ko/articles/open-apple-mail-html-attachment-on-iphone/",
+      "canonicalUrl": "https://html.cybergame.ai/ko/articles/open-apple-mail-html-attachment-on-iphone/",
+      "locale": "ko",
+      "hreflang": "ko",
+      "pageType": "article",
+      "topicKey": null,
+      "articleSlug": "open-apple-mail-html-attachment-on-iphone",
+      "title": "iPhone에서 Apple Mail HTML 파일 열기",
+      "query": "iPhone과 iPad에서 HTML 파일을 여는 방법은?",
+      "primaryKeyword": "open Apple Mail HTML attachment on iPhone",
+      "source": "Apple Mail",
+      "supportedFormats": ".html, .htm, .xhtml",
+      "fileExtensions": [
+        ".html",
+        ".htm",
+        ".xhtml"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/html-preview-web-file-viewer/id6760443436?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760443436&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "officialWebsiteRepository": "https://github.com/Fomod/html.cybergame.ai",
+      "bundleId": "CyberGame.App-11",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
+      "schemaIds": {
+        "webPage": "https://html.cybergame.ai/ko/articles/open-apple-mail-html-attachment-on-iphone/#webpage",
+        "app": "https://html.cybergame.ai/#app",
+        "mainEntity": "https://html.cybergame.ai/ko/articles/open-apple-mail-html-attachment-on-iphone/#article",
+        "howTo": "https://html.cybergame.ai/ko/articles/open-apple-mail-html-attachment-on-iphone/#howto"
+      },
+      "screenshots": [
+        "https://html.cybergame.ai/assets/screenshots/html-preview-open-html-files-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-ai-html-report-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-focused-html-viewer-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://html.cybergame.ai/articles/open-apple-mail-html-attachment-on-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://html.cybergame.ai/zh/articles/open-apple-mail-html-attachment-on-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://html.cybergame.ai/ja/articles/open-apple-mail-html-attachment-on-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://html.cybergame.ai/es/articles/open-apple-mail-html-attachment-on-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://html.cybergame.ai/de/articles/open-apple-mail-html-attachment-on-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://html.cybergame.ai/fr/articles/open-apple-mail-html-attachment-on-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://html.cybergame.ai/pt-br/articles/open-apple-mail-html-attachment-on-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://html.cybergame.ai/ko/articles/open-apple-mail-html-attachment-on-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://html.cybergame.ai/ar/articles/open-apple-mail-html-attachment-on-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://html.cybergame.ai/hi/articles/open-apple-mail-html-attachment-on-iphone/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://html.cybergame.ai/answers.json",
+        "aiCitation": "https://html.cybergame.ai/ai-citation.json",
+        "queryIndex": "https://html.cybergame.ai/query-index.json",
+        "fileFormats": "https://html.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://html.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://html.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://html.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://html.cybergame.ai/faq-index.json",
+        "citationCards": "https://html.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://html.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://html.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://html.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "html_ko_applemail_siteidx",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -50241,6 +52978,125 @@
       "lastUpdated": "2026-06-28"
     },
     {
+      "url": "https://html.cybergame.ai/ko/articles/open-local-html-file-on-iphone/",
+      "canonicalUrl": "https://html.cybergame.ai/ko/articles/open-local-html-file-on-iphone/",
+      "locale": "ko",
+      "hreflang": "ko",
+      "pageType": "article",
+      "topicKey": null,
+      "articleSlug": "open-local-html-file-on-iphone",
+      "title": "iPhone에서 local HTML files HTML 파일 열기",
+      "query": "iPhone과 iPad에서 HTML 파일을 여는 방법은?",
+      "primaryKeyword": "open local HTML file on iPhone",
+      "source": "local HTML files",
+      "supportedFormats": ".html, .htm, .xhtml",
+      "fileExtensions": [
+        ".html",
+        ".htm",
+        ".xhtml"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/html-preview-web-file-viewer/id6760443436?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760443436&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "officialWebsiteRepository": "https://github.com/Fomod/html.cybergame.ai",
+      "bundleId": "CyberGame.App-11",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
+      "schemaIds": {
+        "webPage": "https://html.cybergame.ai/ko/articles/open-local-html-file-on-iphone/#webpage",
+        "app": "https://html.cybergame.ai/#app",
+        "mainEntity": "https://html.cybergame.ai/ko/articles/open-local-html-file-on-iphone/#article",
+        "howTo": "https://html.cybergame.ai/ko/articles/open-local-html-file-on-iphone/#howto"
+      },
+      "screenshots": [
+        "https://html.cybergame.ai/assets/screenshots/html-preview-open-html-files-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-ai-html-report-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-focused-html-viewer-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://html.cybergame.ai/articles/open-local-html-file-on-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://html.cybergame.ai/zh/articles/open-local-html-file-on-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://html.cybergame.ai/ja/articles/open-local-html-file-on-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://html.cybergame.ai/es/articles/open-local-html-file-on-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://html.cybergame.ai/de/articles/open-local-html-file-on-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://html.cybergame.ai/fr/articles/open-local-html-file-on-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://html.cybergame.ai/pt-br/articles/open-local-html-file-on-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://html.cybergame.ai/ko/articles/open-local-html-file-on-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://html.cybergame.ai/ar/articles/open-local-html-file-on-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://html.cybergame.ai/hi/articles/open-local-html-file-on-iphone/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://html.cybergame.ai/answers.json",
+        "aiCitation": "https://html.cybergame.ai/ai-citation.json",
+        "queryIndex": "https://html.cybergame.ai/query-index.json",
+        "fileFormats": "https://html.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://html.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://html.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://html.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://html.cybergame.ai/faq-index.json",
+        "citationCards": "https://html.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://html.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://html.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://html.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "html_ko_local_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760443436",
+        "appStoreId": "6760443436",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
       "url": "https://html.cybergame.ai/ko/articles/open-local-html-file-without-safari-on-iphone/",
       "canonicalUrl": "https://html.cybergame.ai/ko/articles/open-local-html-file-without-safari-on-iphone/",
       "locale": "ko",
@@ -50248,10 +53104,10 @@
       "pageType": "article",
       "topicKey": null,
       "articleSlug": "open-local-html-file-without-safari-on-iphone",
-      "title": "iPhone에서 local HTML files HTML 파일 열기",
+      "title": "iPhone에서 Files without Safari HTML 파일 열기",
       "query": "iPhone과 iPad에서 HTML 파일을 여는 방법은?",
       "primaryKeyword": "open local HTML file on iPhone without Safari",
-      "source": "local HTML files",
+      "source": "Files without Safari",
       "supportedFormats": ".html, .htm, .xhtml",
       "fileExtensions": [
         ".html",
@@ -54059,7 +56915,7 @@
       "title": "AI files HTML العربية",
       "query": "How do I open AI-generated HTML files on iPhone or iPad?",
       "primaryKeyword": "AI files HTML iPhone",
-      "source": "ChatGPT, Claude, Gemini, ChatGPT on iPad, AI-generated reports, Claude Artifacts, ChatGPT downloads, Gemini",
+      "source": "ChatGPT, Claude, Gemini, AI-generated files, ChatGPT on iPad, AI-generated reports, Claude Artifacts, ChatGPT downloads",
       "supportedFormats": ".html, .htm, .xhtml",
       "fileExtensions": [
         ".html",
@@ -54178,7 +57034,7 @@
       "title": "Files and Share Sheet HTML العربية",
       "query": "How do I open HTML files from Files, Mail, or the iOS Share Sheet?",
       "primaryKeyword": "Files and Share Sheet HTML iPhone",
-      "source": "Mail, Files, Safari, WeChat, WhatsApp, Gmail, Outlook, Files, AirDrop, iCloud Drive, Safari Downloads, browser downloads",
+      "source": "Mail, Files, Safari, WeChat, WhatsApp, Apple Mail, Gmail, Outlook, Files, AirDrop, iCloud Drive, Safari Downloads",
       "supportedFormats": ".html, .htm, .xhtml",
       "fileExtensions": [
         ".html",
@@ -55239,6 +58095,125 @@
       "lastUpdated": "2026-06-28"
     },
     {
+      "url": "https://html.cybergame.ai/ar/articles/open-ai-generated-html-file-on-iphone/",
+      "canonicalUrl": "https://html.cybergame.ai/ar/articles/open-ai-generated-html-file-on-iphone/",
+      "locale": "ar",
+      "hreflang": "ar",
+      "pageType": "article",
+      "topicKey": null,
+      "articleSlug": "open-ai-generated-html-file-on-iphone",
+      "title": "فتح ملفات HTML من AI-generated files على iPhone",
+      "query": "كيف تفتح ملف HTML على iPhone او iPad؟",
+      "primaryKeyword": "open AI generated HTML file on iPhone",
+      "source": "AI-generated files",
+      "supportedFormats": ".html, .htm, .xhtml",
+      "fileExtensions": [
+        ".html",
+        ".htm",
+        ".xhtml"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/html-preview-web-file-viewer/id6760443436?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760443436&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "officialWebsiteRepository": "https://github.com/Fomod/html.cybergame.ai",
+      "bundleId": "CyberGame.App-11",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
+      "schemaIds": {
+        "webPage": "https://html.cybergame.ai/ar/articles/open-ai-generated-html-file-on-iphone/#webpage",
+        "app": "https://html.cybergame.ai/#app",
+        "mainEntity": "https://html.cybergame.ai/ar/articles/open-ai-generated-html-file-on-iphone/#article",
+        "howTo": "https://html.cybergame.ai/ar/articles/open-ai-generated-html-file-on-iphone/#howto"
+      },
+      "screenshots": [
+        "https://html.cybergame.ai/assets/screenshots/html-preview-open-html-files-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-ai-html-report-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-focused-html-viewer-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://html.cybergame.ai/articles/open-ai-generated-html-file-on-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://html.cybergame.ai/zh/articles/open-ai-generated-html-file-on-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://html.cybergame.ai/ja/articles/open-ai-generated-html-file-on-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://html.cybergame.ai/es/articles/open-ai-generated-html-file-on-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://html.cybergame.ai/de/articles/open-ai-generated-html-file-on-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://html.cybergame.ai/fr/articles/open-ai-generated-html-file-on-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://html.cybergame.ai/pt-br/articles/open-ai-generated-html-file-on-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://html.cybergame.ai/ko/articles/open-ai-generated-html-file-on-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://html.cybergame.ai/ar/articles/open-ai-generated-html-file-on-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://html.cybergame.ai/hi/articles/open-ai-generated-html-file-on-iphone/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://html.cybergame.ai/answers.json",
+        "aiCitation": "https://html.cybergame.ai/ai-citation.json",
+        "queryIndex": "https://html.cybergame.ai/query-index.json",
+        "fileFormats": "https://html.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://html.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://html.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://html.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://html.cybergame.ai/faq-index.json",
+        "citationCards": "https://html.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://html.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://html.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://html.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "html_ar_aigenerated_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760443436",
+        "appStoreId": "6760443436",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
       "url": "https://html.cybergame.ai/ar/articles/open-chatgpt-html-file-on-ipad/",
       "canonicalUrl": "https://html.cybergame.ai/ar/articles/open-chatgpt-html-file-on-ipad/",
       "locale": "ar",
@@ -55702,6 +58677,125 @@
       "conversionIntent": "open-app-store-listing",
       "conversionMapSurface": "site-index-manifest",
       "conversionMapToken": "html_ar_email_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760443436",
+        "appStoreId": "6760443436",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
+      "url": "https://html.cybergame.ai/ar/articles/open-apple-mail-html-attachment-on-iphone/",
+      "canonicalUrl": "https://html.cybergame.ai/ar/articles/open-apple-mail-html-attachment-on-iphone/",
+      "locale": "ar",
+      "hreflang": "ar",
+      "pageType": "article",
+      "topicKey": null,
+      "articleSlug": "open-apple-mail-html-attachment-on-iphone",
+      "title": "فتح ملفات HTML من Apple Mail على iPhone",
+      "query": "كيف تفتح ملف HTML على iPhone او iPad؟",
+      "primaryKeyword": "open Apple Mail HTML attachment on iPhone",
+      "source": "Apple Mail",
+      "supportedFormats": ".html, .htm, .xhtml",
+      "fileExtensions": [
+        ".html",
+        ".htm",
+        ".xhtml"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/html-preview-web-file-viewer/id6760443436?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760443436&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "officialWebsiteRepository": "https://github.com/Fomod/html.cybergame.ai",
+      "bundleId": "CyberGame.App-11",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
+      "schemaIds": {
+        "webPage": "https://html.cybergame.ai/ar/articles/open-apple-mail-html-attachment-on-iphone/#webpage",
+        "app": "https://html.cybergame.ai/#app",
+        "mainEntity": "https://html.cybergame.ai/ar/articles/open-apple-mail-html-attachment-on-iphone/#article",
+        "howTo": "https://html.cybergame.ai/ar/articles/open-apple-mail-html-attachment-on-iphone/#howto"
+      },
+      "screenshots": [
+        "https://html.cybergame.ai/assets/screenshots/html-preview-open-html-files-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-ai-html-report-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-focused-html-viewer-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://html.cybergame.ai/articles/open-apple-mail-html-attachment-on-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://html.cybergame.ai/zh/articles/open-apple-mail-html-attachment-on-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://html.cybergame.ai/ja/articles/open-apple-mail-html-attachment-on-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://html.cybergame.ai/es/articles/open-apple-mail-html-attachment-on-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://html.cybergame.ai/de/articles/open-apple-mail-html-attachment-on-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://html.cybergame.ai/fr/articles/open-apple-mail-html-attachment-on-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://html.cybergame.ai/pt-br/articles/open-apple-mail-html-attachment-on-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://html.cybergame.ai/ko/articles/open-apple-mail-html-attachment-on-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://html.cybergame.ai/ar/articles/open-apple-mail-html-attachment-on-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://html.cybergame.ai/hi/articles/open-apple-mail-html-attachment-on-iphone/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://html.cybergame.ai/answers.json",
+        "aiCitation": "https://html.cybergame.ai/ai-citation.json",
+        "queryIndex": "https://html.cybergame.ai/query-index.json",
+        "fileFormats": "https://html.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://html.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://html.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://html.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://html.cybergame.ai/faq-index.json",
+        "citationCards": "https://html.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://html.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://html.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://html.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "html_ar_applemail_siteidx",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -56905,6 +59999,125 @@
       "lastUpdated": "2026-06-28"
     },
     {
+      "url": "https://html.cybergame.ai/ar/articles/open-local-html-file-on-iphone/",
+      "canonicalUrl": "https://html.cybergame.ai/ar/articles/open-local-html-file-on-iphone/",
+      "locale": "ar",
+      "hreflang": "ar",
+      "pageType": "article",
+      "topicKey": null,
+      "articleSlug": "open-local-html-file-on-iphone",
+      "title": "فتح ملفات HTML من local HTML files على iPhone",
+      "query": "كيف تفتح ملف HTML على iPhone او iPad؟",
+      "primaryKeyword": "open local HTML file on iPhone",
+      "source": "local HTML files",
+      "supportedFormats": ".html, .htm, .xhtml",
+      "fileExtensions": [
+        ".html",
+        ".htm",
+        ".xhtml"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/html-preview-web-file-viewer/id6760443436?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760443436&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "officialWebsiteRepository": "https://github.com/Fomod/html.cybergame.ai",
+      "bundleId": "CyberGame.App-11",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
+      "schemaIds": {
+        "webPage": "https://html.cybergame.ai/ar/articles/open-local-html-file-on-iphone/#webpage",
+        "app": "https://html.cybergame.ai/#app",
+        "mainEntity": "https://html.cybergame.ai/ar/articles/open-local-html-file-on-iphone/#article",
+        "howTo": "https://html.cybergame.ai/ar/articles/open-local-html-file-on-iphone/#howto"
+      },
+      "screenshots": [
+        "https://html.cybergame.ai/assets/screenshots/html-preview-open-html-files-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-ai-html-report-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-focused-html-viewer-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://html.cybergame.ai/articles/open-local-html-file-on-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://html.cybergame.ai/zh/articles/open-local-html-file-on-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://html.cybergame.ai/ja/articles/open-local-html-file-on-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://html.cybergame.ai/es/articles/open-local-html-file-on-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://html.cybergame.ai/de/articles/open-local-html-file-on-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://html.cybergame.ai/fr/articles/open-local-html-file-on-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://html.cybergame.ai/pt-br/articles/open-local-html-file-on-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://html.cybergame.ai/ko/articles/open-local-html-file-on-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://html.cybergame.ai/ar/articles/open-local-html-file-on-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://html.cybergame.ai/hi/articles/open-local-html-file-on-iphone/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://html.cybergame.ai/answers.json",
+        "aiCitation": "https://html.cybergame.ai/ai-citation.json",
+        "queryIndex": "https://html.cybergame.ai/query-index.json",
+        "fileFormats": "https://html.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://html.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://html.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://html.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://html.cybergame.ai/faq-index.json",
+        "citationCards": "https://html.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://html.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://html.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://html.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "html_ar_local_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760443436",
+        "appStoreId": "6760443436",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
       "url": "https://html.cybergame.ai/ar/articles/open-local-html-file-without-safari-on-iphone/",
       "canonicalUrl": "https://html.cybergame.ai/ar/articles/open-local-html-file-without-safari-on-iphone/",
       "locale": "ar",
@@ -56912,10 +60125,10 @@
       "pageType": "article",
       "topicKey": null,
       "articleSlug": "open-local-html-file-without-safari-on-iphone",
-      "title": "فتح ملفات HTML من local HTML files على iPhone",
+      "title": "فتح ملفات HTML من Files without Safari على iPhone",
       "query": "كيف تفتح ملف HTML على iPhone او iPad؟",
       "primaryKeyword": "open local HTML file on iPhone without Safari",
-      "source": "local HTML files",
+      "source": "Files without Safari",
       "supportedFormats": ".html, .htm, .xhtml",
       "fileExtensions": [
         ".html",
@@ -60723,7 +63936,7 @@
       "title": "AI files HTML हिन्दी",
       "query": "How do I open AI-generated HTML files on iPhone or iPad?",
       "primaryKeyword": "AI files HTML iPhone",
-      "source": "ChatGPT, Claude, Gemini, ChatGPT on iPad, AI-generated reports, Claude Artifacts, ChatGPT downloads, Gemini",
+      "source": "ChatGPT, Claude, Gemini, AI-generated files, ChatGPT on iPad, AI-generated reports, Claude Artifacts, ChatGPT downloads",
       "supportedFormats": ".html, .htm, .xhtml",
       "fileExtensions": [
         ".html",
@@ -60842,7 +64055,7 @@
       "title": "Files and Share Sheet HTML हिन्दी",
       "query": "How do I open HTML files from Files, Mail, or the iOS Share Sheet?",
       "primaryKeyword": "Files and Share Sheet HTML iPhone",
-      "source": "Mail, Files, Safari, WeChat, WhatsApp, Gmail, Outlook, Files, AirDrop, iCloud Drive, Safari Downloads, browser downloads",
+      "source": "Mail, Files, Safari, WeChat, WhatsApp, Apple Mail, Gmail, Outlook, Files, AirDrop, iCloud Drive, Safari Downloads",
       "supportedFormats": ".html, .htm, .xhtml",
       "fileExtensions": [
         ".html",
@@ -61903,6 +65116,125 @@
       "lastUpdated": "2026-06-28"
     },
     {
+      "url": "https://html.cybergame.ai/hi/articles/open-ai-generated-html-file-on-iphone/",
+      "canonicalUrl": "https://html.cybergame.ai/hi/articles/open-ai-generated-html-file-on-iphone/",
+      "locale": "hi",
+      "hreflang": "hi",
+      "pageType": "article",
+      "topicKey": null,
+      "articleSlug": "open-ai-generated-html-file-on-iphone",
+      "title": "iPhone पर AI-generated files HTML files खोलें",
+      "query": "iPhone या iPad पर HTML file कैसे खोलें?",
+      "primaryKeyword": "open AI generated HTML file on iPhone",
+      "source": "AI-generated files",
+      "supportedFormats": ".html, .htm, .xhtml",
+      "fileExtensions": [
+        ".html",
+        ".htm",
+        ".xhtml"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/html-preview-web-file-viewer/id6760443436?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760443436&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "officialWebsiteRepository": "https://github.com/Fomod/html.cybergame.ai",
+      "bundleId": "CyberGame.App-11",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
+      "schemaIds": {
+        "webPage": "https://html.cybergame.ai/hi/articles/open-ai-generated-html-file-on-iphone/#webpage",
+        "app": "https://html.cybergame.ai/#app",
+        "mainEntity": "https://html.cybergame.ai/hi/articles/open-ai-generated-html-file-on-iphone/#article",
+        "howTo": "https://html.cybergame.ai/hi/articles/open-ai-generated-html-file-on-iphone/#howto"
+      },
+      "screenshots": [
+        "https://html.cybergame.ai/assets/screenshots/html-preview-open-html-files-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-ai-html-report-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-focused-html-viewer-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://html.cybergame.ai/articles/open-ai-generated-html-file-on-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://html.cybergame.ai/zh/articles/open-ai-generated-html-file-on-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://html.cybergame.ai/ja/articles/open-ai-generated-html-file-on-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://html.cybergame.ai/es/articles/open-ai-generated-html-file-on-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://html.cybergame.ai/de/articles/open-ai-generated-html-file-on-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://html.cybergame.ai/fr/articles/open-ai-generated-html-file-on-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://html.cybergame.ai/pt-br/articles/open-ai-generated-html-file-on-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://html.cybergame.ai/ko/articles/open-ai-generated-html-file-on-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://html.cybergame.ai/ar/articles/open-ai-generated-html-file-on-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://html.cybergame.ai/hi/articles/open-ai-generated-html-file-on-iphone/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://html.cybergame.ai/answers.json",
+        "aiCitation": "https://html.cybergame.ai/ai-citation.json",
+        "queryIndex": "https://html.cybergame.ai/query-index.json",
+        "fileFormats": "https://html.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://html.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://html.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://html.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://html.cybergame.ai/faq-index.json",
+        "citationCards": "https://html.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://html.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://html.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://html.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "html_hi_aigenerated_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760443436",
+        "appStoreId": "6760443436",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
       "url": "https://html.cybergame.ai/hi/articles/open-chatgpt-html-file-on-ipad/",
       "canonicalUrl": "https://html.cybergame.ai/hi/articles/open-chatgpt-html-file-on-ipad/",
       "locale": "hi",
@@ -62366,6 +65698,125 @@
       "conversionIntent": "open-app-store-listing",
       "conversionMapSurface": "site-index-manifest",
       "conversionMapToken": "html_hi_email_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760443436",
+        "appStoreId": "6760443436",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
+      "url": "https://html.cybergame.ai/hi/articles/open-apple-mail-html-attachment-on-iphone/",
+      "canonicalUrl": "https://html.cybergame.ai/hi/articles/open-apple-mail-html-attachment-on-iphone/",
+      "locale": "hi",
+      "hreflang": "hi",
+      "pageType": "article",
+      "topicKey": null,
+      "articleSlug": "open-apple-mail-html-attachment-on-iphone",
+      "title": "iPhone पर Apple Mail HTML files खोलें",
+      "query": "iPhone या iPad पर HTML file कैसे खोलें?",
+      "primaryKeyword": "open Apple Mail HTML attachment on iPhone",
+      "source": "Apple Mail",
+      "supportedFormats": ".html, .htm, .xhtml",
+      "fileExtensions": [
+        ".html",
+        ".htm",
+        ".xhtml"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/html-preview-web-file-viewer/id6760443436?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760443436&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "officialWebsiteRepository": "https://github.com/Fomod/html.cybergame.ai",
+      "bundleId": "CyberGame.App-11",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
+      "schemaIds": {
+        "webPage": "https://html.cybergame.ai/hi/articles/open-apple-mail-html-attachment-on-iphone/#webpage",
+        "app": "https://html.cybergame.ai/#app",
+        "mainEntity": "https://html.cybergame.ai/hi/articles/open-apple-mail-html-attachment-on-iphone/#article",
+        "howTo": "https://html.cybergame.ai/hi/articles/open-apple-mail-html-attachment-on-iphone/#howto"
+      },
+      "screenshots": [
+        "https://html.cybergame.ai/assets/screenshots/html-preview-open-html-files-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-ai-html-report-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-focused-html-viewer-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://html.cybergame.ai/articles/open-apple-mail-html-attachment-on-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://html.cybergame.ai/zh/articles/open-apple-mail-html-attachment-on-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://html.cybergame.ai/ja/articles/open-apple-mail-html-attachment-on-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://html.cybergame.ai/es/articles/open-apple-mail-html-attachment-on-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://html.cybergame.ai/de/articles/open-apple-mail-html-attachment-on-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://html.cybergame.ai/fr/articles/open-apple-mail-html-attachment-on-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://html.cybergame.ai/pt-br/articles/open-apple-mail-html-attachment-on-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://html.cybergame.ai/ko/articles/open-apple-mail-html-attachment-on-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://html.cybergame.ai/ar/articles/open-apple-mail-html-attachment-on-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://html.cybergame.ai/hi/articles/open-apple-mail-html-attachment-on-iphone/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://html.cybergame.ai/answers.json",
+        "aiCitation": "https://html.cybergame.ai/ai-citation.json",
+        "queryIndex": "https://html.cybergame.ai/query-index.json",
+        "fileFormats": "https://html.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://html.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://html.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://html.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://html.cybergame.ai/faq-index.json",
+        "citationCards": "https://html.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://html.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://html.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://html.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "html_hi_applemail_siteidx",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -63569,6 +67020,125 @@
       "lastUpdated": "2026-06-28"
     },
     {
+      "url": "https://html.cybergame.ai/hi/articles/open-local-html-file-on-iphone/",
+      "canonicalUrl": "https://html.cybergame.ai/hi/articles/open-local-html-file-on-iphone/",
+      "locale": "hi",
+      "hreflang": "hi",
+      "pageType": "article",
+      "topicKey": null,
+      "articleSlug": "open-local-html-file-on-iphone",
+      "title": "iPhone पर local HTML files HTML files खोलें",
+      "query": "iPhone या iPad पर HTML file कैसे खोलें?",
+      "primaryKeyword": "open local HTML file on iPhone",
+      "source": "local HTML files",
+      "supportedFormats": ".html, .htm, .xhtml",
+      "fileExtensions": [
+        ".html",
+        ".htm",
+        ".xhtml"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/html-preview-web-file-viewer/id6760443436?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760443436&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "officialWebsiteRepository": "https://github.com/Fomod/html.cybergame.ai",
+      "bundleId": "CyberGame.App-11",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
+      "schemaIds": {
+        "webPage": "https://html.cybergame.ai/hi/articles/open-local-html-file-on-iphone/#webpage",
+        "app": "https://html.cybergame.ai/#app",
+        "mainEntity": "https://html.cybergame.ai/hi/articles/open-local-html-file-on-iphone/#article",
+        "howTo": "https://html.cybergame.ai/hi/articles/open-local-html-file-on-iphone/#howto"
+      },
+      "screenshots": [
+        "https://html.cybergame.ai/assets/screenshots/html-preview-open-html-files-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-ai-html-report-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-focused-html-viewer-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://html.cybergame.ai/articles/open-local-html-file-on-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://html.cybergame.ai/zh/articles/open-local-html-file-on-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://html.cybergame.ai/ja/articles/open-local-html-file-on-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://html.cybergame.ai/es/articles/open-local-html-file-on-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://html.cybergame.ai/de/articles/open-local-html-file-on-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://html.cybergame.ai/fr/articles/open-local-html-file-on-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://html.cybergame.ai/pt-br/articles/open-local-html-file-on-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://html.cybergame.ai/ko/articles/open-local-html-file-on-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://html.cybergame.ai/ar/articles/open-local-html-file-on-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://html.cybergame.ai/hi/articles/open-local-html-file-on-iphone/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://html.cybergame.ai/answers.json",
+        "aiCitation": "https://html.cybergame.ai/ai-citation.json",
+        "queryIndex": "https://html.cybergame.ai/query-index.json",
+        "fileFormats": "https://html.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://html.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://html.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://html.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://html.cybergame.ai/faq-index.json",
+        "citationCards": "https://html.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://html.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://html.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://html.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "html_hi_local_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760443436",
+        "appStoreId": "6760443436",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
       "url": "https://html.cybergame.ai/hi/articles/open-local-html-file-without-safari-on-iphone/",
       "canonicalUrl": "https://html.cybergame.ai/hi/articles/open-local-html-file-without-safari-on-iphone/",
       "locale": "hi",
@@ -63576,10 +67146,10 @@
       "pageType": "article",
       "topicKey": null,
       "articleSlug": "open-local-html-file-without-safari-on-iphone",
-      "title": "iPhone पर local HTML files HTML files खोलें",
+      "title": "iPhone पर Files without Safari HTML files खोलें",
       "query": "iPhone या iPad पर HTML file कैसे खोलें?",
       "primaryKeyword": "open local HTML file on iPhone without Safari",
-      "source": "local HTML files",
+      "source": "Files without Safari",
       "supportedFormats": ".html, .htm, .xhtml",
       "fileExtensions": [
         ".html",

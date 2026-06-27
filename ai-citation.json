@@ -106,6 +106,12 @@
       "source": "ChatGPT, Claude, Gemini"
     },
     {
+      "title": "How to Open AI-Generated HTML Files on iPhone",
+      "url": "https://html.cybergame.ai/articles/open-ai-generated-html-file-on-iphone/",
+      "query": "How do I open an AI-generated HTML file on iPhone or iPad?",
+      "source": "AI-generated files"
+    },
+    {
       "title": "How to Open ChatGPT HTML Files on iPad",
       "url": "https://html.cybergame.ai/articles/open-chatgpt-html-file-on-ipad/",
       "query": "How do I open a ChatGPT HTML file on iPad?",
@@ -128,6 +134,12 @@
       "url": "https://html.cybergame.ai/articles/open-html-email-attachment-on-iphone/",
       "query": "How do I open an HTML email attachment on iPhone or iPad?",
       "source": "Mail, Gmail, Outlook"
+    },
+    {
+      "title": "How to Open Apple Mail HTML Attachments on iPhone",
+      "url": "https://html.cybergame.ai/articles/open-apple-mail-html-attachment-on-iphone/",
+      "query": "How do I open an Apple Mail HTML attachment on iPhone or iPad?",
+      "source": "Apple Mail"
     },
     {
       "title": "How to Open Gmail HTML Attachments on iPhone",
@@ -158,18 +170,6 @@
       "url": "https://html.cybergame.ai/articles/open-downloaded-html-file-on-iphone/",
       "query": "How do I open a downloaded HTML file on iPhone or iPad?",
       "source": "browser downloads"
-    },
-    {
-      "title": "How to Open HTML Files from Chrome Downloads on iPhone",
-      "url": "https://html.cybergame.ai/articles/open-html-file-from-chrome-downloads-on-iphone/",
-      "query": "How do I open an HTML file from Chrome Downloads on iPhone or iPad?",
-      "source": "Chrome Downloads"
-    },
-    {
-      "title": "How to Open an HTML File from iCloud Drive on iPad",
-      "url": "https://html.cybergame.ai/articles/open-html-file-from-icloud-drive-on-ipad/",
-      "query": "How do I open an iCloud Drive HTML file on iPhone or iPad?",
-      "source": "iCloud Drive"
     }
   ],
   "languageAlternates": [
