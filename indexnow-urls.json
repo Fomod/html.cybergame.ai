@@ -6,7 +6,7 @@
   "key": "bbbf7a4f4aeccf32ac2ae05be67e279c",
   "keyLocation": "https://html.cybergame.ai/bbbf7a4f4aeccf32ac2ae05be67e279c.txt",
   "endpoint": "https://api.indexnow.org/indexnow",
-  "urlCount": 672,
+  "urlCount": 674,
   "urlList": [
     "https://html.cybergame.ai/",
     "https://html.cybergame.ai/.well-known/ai.txt",
@@ -400,6 +400,8 @@
     "https://html.cybergame.ai/hi/topics/mime-types/",
     "https://html.cybergame.ai/hi/topics/offline-private-preview/",
     "https://html.cybergame.ai/how-to-index.json",
+    "https://html.cybergame.ai/image-index.json",
+    "https://html.cybergame.ai/image-sitemap.xml",
     "https://html.cybergame.ai/indexnow-urls.json",
     "https://html.cybergame.ai/ja/",
     "https://html.cybergame.ai/ja/articles/",

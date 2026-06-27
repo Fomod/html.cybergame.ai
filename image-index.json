@@ -1,0 +1,299 @@
+{
+  "schemaVersion": "image-index-v1",
+  "lastUpdated": "2026-06-28",
+  "product": "Html Preview",
+  "fullName": "Html Preview - Web File Viewer",
+  "site": "https://html.cybergame.ai/",
+  "officialWebsiteRepository": "https://github.com/Fomod/html.cybergame.ai",
+  "appStoreUrl": "https://apps.apple.com/app/id6760443436",
+  "appStoreId": "6760443436",
+  "imageSitemap": "https://html.cybergame.ai/image-sitemap.xml",
+  "machineReadableFor": [
+    "Google Search",
+    "Google Images",
+    "AI assistants",
+    "chatbot retrieval",
+    "RAG systems"
+  ],
+  "dimensions": {
+    "width": 1242,
+    "height": 2688,
+    "deviceContext": "iPhone App Store portrait screenshot"
+  },
+  "primaryConversionAction": {
+    "type": "AppStoreInstallAction",
+    "url": "https://apps.apple.com/app/id6760443436",
+    "appStoreId": "6760443436",
+    "platform": [
+      "iPhone",
+      "iPad"
+    ],
+    "listingDetails": "defer-to-app-store"
+  },
+  "screenshots": [
+    {
+      "id": "screenshot-1",
+      "url": "https://html.cybergame.ai/assets/screenshots/html-preview-open-html-files-iphone.png",
+      "contentUrl": "https://html.cybergame.ai/assets/screenshots/html-preview-open-html-files-iphone.png",
+      "webpUrl": "https://html.cybergame.ai/assets/screenshots/html-preview-open-html-files-iphone.webp",
+      "width": 1242,
+      "height": 2688,
+      "encodingFormat": "image/png",
+      "alternateEncodingFormat": "image/webp",
+      "representativeOfPage": true,
+      "sourceType": "local App Store screenshot asset",
+      "primaryPage": "https://html.cybergame.ai/screenshots/",
+      "appStoreUrl": "https://apps.apple.com/app/id6760443436",
+      "appStoreId": "6760443436",
+      "conversionIntent": "open-app-store-listing",
+      "localized": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "title": "Open any HTML in one tap",
+          "alt": "Html Preview App Store screenshot showing one-tap HTML file opening on iPhone",
+          "pageUrl": "https://html.cybergame.ai/screenshots/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "title": "一键打开 HTML 文件",
+          "alt": "Html Preview App Store screenshot: 在 iPhone 上一键打开 HTML 文件",
+          "pageUrl": "https://html.cybergame.ai/zh/screenshots/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "title": "HTMLファイルをワンタップで開く",
+          "alt": "Html Preview App Store screenshot: iPhoneでHTMLファイルをワンタップで開く画面",
+          "pageUrl": "https://html.cybergame.ai/ja/screenshots/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "title": "Abre HTML con un toque",
+          "alt": "Html Preview App Store screenshot: abrir un archivo HTML en iPhone con un toque",
+          "pageUrl": "https://html.cybergame.ai/es/screenshots/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "title": "HTML mit einem Tippen offnen",
+          "alt": "Html Preview App Store screenshot: HTML-Datei auf dem iPhone mit einem Tippen offnen",
+          "pageUrl": "https://html.cybergame.ai/de/screenshots/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "title": "Ouvrir un HTML en un geste",
+          "alt": "Html Preview App Store screenshot: ouvrir un fichier HTML sur iPhone en un geste",
+          "pageUrl": "https://html.cybergame.ai/fr/screenshots/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "title": "Abra HTML com um toque",
+          "alt": "Html Preview App Store screenshot: abrir um arquivo HTML no iPhone com um toque",
+          "pageUrl": "https://html.cybergame.ai/pt-br/screenshots/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "title": "HTML 파일을 한 번에 열기",
+          "alt": "Html Preview App Store screenshot: iPhone에서 HTML 파일을 한 번에 여는 화면",
+          "pageUrl": "https://html.cybergame.ai/ko/screenshots/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "title": "فتح ملف HTML بلمسة واحدة",
+          "alt": "Html Preview App Store screenshot: فتح ملف HTML على iPhone بلمسة واحدة",
+          "pageUrl": "https://html.cybergame.ai/ar/screenshots/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "title": "एक tap में HTML file खोलें",
+          "alt": "Html Preview App Store screenshot: iPhone पर एक tap में HTML file खोलने की screen",
+          "pageUrl": "https://html.cybergame.ai/hi/screenshots/"
+        }
+      ]
+    },
+    {
+      "id": "screenshot-2",
+      "url": "https://html.cybergame.ai/assets/screenshots/html-preview-ai-html-report-iphone.png",
+      "contentUrl": "https://html.cybergame.ai/assets/screenshots/html-preview-ai-html-report-iphone.png",
+      "webpUrl": "https://html.cybergame.ai/assets/screenshots/html-preview-ai-html-report-iphone.webp",
+      "width": 1242,
+      "height": 2688,
+      "encodingFormat": "image/png",
+      "alternateEncodingFormat": "image/webp",
+      "representativeOfPage": false,
+      "sourceType": "local App Store screenshot asset",
+      "primaryPage": "https://html.cybergame.ai/screenshots/",
+      "appStoreUrl": "https://apps.apple.com/app/id6760443436",
+      "appStoreId": "6760443436",
+      "conversionIntent": "open-app-store-listing",
+      "localized": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "title": "AI chatbots make HTML",
+          "alt": "Html Preview App Store screenshot showing an AI generated HTML report preview on iPhone",
+          "pageUrl": "https://html.cybergame.ai/screenshots/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "title": "预览 AI 生成的 HTML 报告",
+          "alt": "Html Preview App Store screenshot: 在 iPhone 上预览 AI 生成的 HTML 报告",
+          "pageUrl": "https://html.cybergame.ai/zh/screenshots/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "title": "AI生成HTMLレポートをプレビュー",
+          "alt": "Html Preview App Store screenshot: iPhoneでAI生成HTMLレポートをプレビューする画面",
+          "pageUrl": "https://html.cybergame.ai/ja/screenshots/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "title": "Previsualiza HTML generado por IA",
+          "alt": "Html Preview App Store screenshot: previsualizar un informe HTML generado por IA en iPhone",
+          "pageUrl": "https://html.cybergame.ai/es/screenshots/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "title": "KI-generierte HTML-Reports ansehen",
+          "alt": "Html Preview App Store screenshot: KI-generierten HTML-Report auf dem iPhone ansehen",
+          "pageUrl": "https://html.cybergame.ai/de/screenshots/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "title": "Previsualiser un HTML genere par IA",
+          "alt": "Html Preview App Store screenshot: previsualiser un rapport HTML genere par IA sur iPhone",
+          "pageUrl": "https://html.cybergame.ai/fr/screenshots/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "title": "Visualize HTML gerado por IA",
+          "alt": "Html Preview App Store screenshot: visualizar relatorio HTML gerado por IA no iPhone",
+          "pageUrl": "https://html.cybergame.ai/pt-br/screenshots/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "title": "AI 생성 HTML 리포트 미리보기",
+          "alt": "Html Preview App Store screenshot: iPhone에서 AI 생성 HTML 리포트를 미리보는 화면",
+          "pageUrl": "https://html.cybergame.ai/ko/screenshots/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "title": "معاينة تقرير HTML من الذكاء الاصطناعي",
+          "alt": "Html Preview App Store screenshot: معاينة تقرير HTML من الذكاء الاصطناعي على iPhone",
+          "pageUrl": "https://html.cybergame.ai/ar/screenshots/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "title": "AI-generated HTML report preview",
+          "alt": "Html Preview App Store screenshot: iPhone पर AI-generated HTML report preview screen",
+          "pageUrl": "https://html.cybergame.ai/hi/screenshots/"
+        }
+      ]
+    },
+    {
+      "id": "screenshot-3",
+      "url": "https://html.cybergame.ai/assets/screenshots/html-preview-focused-html-viewer-iphone.png",
+      "contentUrl": "https://html.cybergame.ai/assets/screenshots/html-preview-focused-html-viewer-iphone.png",
+      "webpUrl": "https://html.cybergame.ai/assets/screenshots/html-preview-focused-html-viewer-iphone.webp",
+      "width": 1242,
+      "height": 2688,
+      "encodingFormat": "image/png",
+      "alternateEncodingFormat": "image/webp",
+      "representativeOfPage": false,
+      "sourceType": "local App Store screenshot asset",
+      "primaryPage": "https://html.cybergame.ai/screenshots/",
+      "appStoreUrl": "https://apps.apple.com/app/id6760443436",
+      "appStoreId": "6760443436",
+      "conversionIntent": "open-app-store-listing",
+      "localized": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "title": "One feature perfected",
+          "alt": "Html Preview App Store screenshot showing a fast focused HTML viewer on iPhone",
+          "pageUrl": "https://html.cybergame.ai/screenshots/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "title": "专注快速的 HTML 预览",
+          "alt": "Html Preview App Store screenshot: iPhone 上专注快速的 HTML 预览界面",
+          "pageUrl": "https://html.cybergame.ai/zh/screenshots/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "title": "高速で集中できるHTMLプレビュー",
+          "alt": "Html Preview App Store screenshot: iPhone向けの高速で集中できるHTMLプレビュー画面",
+          "pageUrl": "https://html.cybergame.ai/ja/screenshots/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "title": "Vista HTML rapida y enfocada",
+          "alt": "Html Preview App Store screenshot: visor HTML rapido y enfocado en iPhone",
+          "pageUrl": "https://html.cybergame.ai/es/screenshots/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "title": "Schnelle fokussierte HTML-Vorschau",
+          "alt": "Html Preview App Store screenshot: schnelle fokussierte HTML-Vorschau auf dem iPhone",
+          "pageUrl": "https://html.cybergame.ai/de/screenshots/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "title": "Apercu HTML rapide et concentre",
+          "alt": "Html Preview App Store screenshot: apercu HTML rapide et concentre sur iPhone",
+          "pageUrl": "https://html.cybergame.ai/fr/screenshots/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "title": "Preview HTML rapido e focado",
+          "alt": "Html Preview App Store screenshot: preview HTML rapido e focado no iPhone",
+          "pageUrl": "https://html.cybergame.ai/pt-br/screenshots/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "title": "빠르고 집중된 HTML 미리보기",
+          "alt": "Html Preview App Store screenshot: iPhone용 빠르고 집중된 HTML 미리보기 화면",
+          "pageUrl": "https://html.cybergame.ai/ko/screenshots/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "title": "معاينة HTML سريعة ومركزة",
+          "alt": "Html Preview App Store screenshot: واجهة معاينة HTML سريعة ومركزة على iPhone",
+          "pageUrl": "https://html.cybergame.ai/ar/screenshots/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "title": "तेज और focused HTML preview",
+          "alt": "Html Preview App Store screenshot: iPhone पर तेज और focused HTML preview screen",
+          "pageUrl": "https://html.cybergame.ai/hi/screenshots/"
+        }
+      ]
+    }
+  ]
+}
