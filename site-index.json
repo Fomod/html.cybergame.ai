@@ -53,10 +53,26 @@
   "endpoints": [
     {
       "@type": "Dataset",
+      "name": "Html Preview sitemap index",
+      "url": "https://html.cybergame.ai/sitemap-index.xml",
+      "encodingFormat": "application/xml",
+      "purpose": "sitemap index",
+      "dateModified": "2026-06-28"
+    },
+    {
+      "@type": "Dataset",
       "name": "Html Preview canonical sitemap",
       "url": "https://html.cybergame.ai/sitemap.xml",
       "encodingFormat": "application/xml",
       "purpose": "canonical sitemap",
+      "dateModified": "2026-06-28"
+    },
+    {
+      "@type": "Dataset",
+      "name": "Html Preview machine-readable endpoint sitemap",
+      "url": "https://html.cybergame.ai/data-sitemap.xml",
+      "encodingFormat": "application/xml",
+      "purpose": "machine-readable endpoint sitemap",
       "dateModified": "2026-06-28"
     },
     {
@@ -227,7 +243,7 @@
       "height": 2688
     }
   ],
-  "pageCount": 390,
+  "pageCount": 400,
   "localeCount": 10,
   "pages": [
     {
@@ -1177,7 +1193,7 @@
       "title": "Offline privacy HTML guides",
       "query": "How do I preview HTML files privately on iPhone or iPad?",
       "primaryKeyword": "Offline privacy HTML iPhone",
-      "source": "offline files",
+      "source": "offline files, online HTML converters",
       "supportedFormats": ".html, .htm, .xhtml",
       "fileExtensions": [
         ".html",
@@ -2675,6 +2691,123 @@
       "conversionIntent": "open-app-store-listing",
       "conversionMapSurface": "site-index-manifest",
       "conversionMapToken": "html_en_offline_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760443436",
+        "appStoreId": "6760443436",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
+      "url": "https://html.cybergame.ai/articles/online-html-converter-alternative-iphone/",
+      "canonicalUrl": "https://html.cybergame.ai/articles/online-html-converter-alternative-iphone/",
+      "locale": "en",
+      "hreflang": "en",
+      "pageType": "article",
+      "topicKey": null,
+      "articleSlug": "online-html-converter-alternative-iphone",
+      "title": "Online HTML Converter Alternative for iPhone",
+      "query": "How do I replace an online HTML converter on iPhone?",
+      "primaryKeyword": "online HTML converter alternative iPhone",
+      "source": "online HTML converters",
+      "supportedFormats": ".html, .htm, .xhtml",
+      "fileExtensions": [
+        ".html",
+        ".htm",
+        ".xhtml"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/html-preview-web-file-viewer/id6760443436?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760443436&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "bundleId": "CyberGame.App-11",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
+      "schemaIds": {
+        "webPage": "https://html.cybergame.ai/articles/online-html-converter-alternative-iphone/#webpage",
+        "app": "https://html.cybergame.ai/#app",
+        "mainEntity": "https://html.cybergame.ai/articles/online-html-converter-alternative-iphone/#article",
+        "howTo": "https://html.cybergame.ai/articles/online-html-converter-alternative-iphone/#howto"
+      },
+      "screenshots": [
+        "https://html.cybergame.ai/assets/screenshots/html-preview-open-html-files-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-ai-html-report-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-focused-html-viewer-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://html.cybergame.ai/articles/online-html-converter-alternative-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://html.cybergame.ai/zh/articles/online-html-converter-alternative-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://html.cybergame.ai/ja/articles/online-html-converter-alternative-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://html.cybergame.ai/es/articles/online-html-converter-alternative-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://html.cybergame.ai/de/articles/online-html-converter-alternative-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://html.cybergame.ai/fr/articles/online-html-converter-alternative-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://html.cybergame.ai/pt-br/articles/online-html-converter-alternative-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://html.cybergame.ai/ko/articles/online-html-converter-alternative-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://html.cybergame.ai/ar/articles/online-html-converter-alternative-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://html.cybergame.ai/hi/articles/online-html-converter-alternative-iphone/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://html.cybergame.ai/answers.json",
+        "queryIndex": "https://html.cybergame.ai/query-index.json",
+        "fileFormats": "https://html.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://html.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://html.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://html.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://html.cybergame.ai/faq-index.json",
+        "citationCards": "https://html.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://html.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://html.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://html.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "html_en_onlineconverte_siteidx",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -5740,7 +5873,7 @@
       "title": "Offline privacy HTML 简体中文",
       "query": "How do I preview HTML files privately on iPhone or iPad?",
       "primaryKeyword": "Offline privacy HTML iPhone",
-      "source": "offline files",
+      "source": "offline files, online HTML converters",
       "supportedFormats": ".html, .htm, .xhtml",
       "fileExtensions": [
         ".html",
@@ -7238,6 +7371,123 @@
       "conversionIntent": "open-app-store-listing",
       "conversionMapSurface": "site-index-manifest",
       "conversionMapToken": "html_zh_offline_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760443436",
+        "appStoreId": "6760443436",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
+      "url": "https://html.cybergame.ai/zh/articles/online-html-converter-alternative-iphone/",
+      "canonicalUrl": "https://html.cybergame.ai/zh/articles/online-html-converter-alternative-iphone/",
+      "locale": "zh",
+      "hreflang": "zh-Hans",
+      "pageType": "article",
+      "topicKey": null,
+      "articleSlug": "online-html-converter-alternative-iphone",
+      "title": "iPhone 上在线 HTML 转换器的替代方案",
+      "query": "如何在 iPhone 上替代在线 HTML 转换器？",
+      "primaryKeyword": "online HTML converter alternative iPhone",
+      "source": "在线 HTML 转换器",
+      "supportedFormats": ".html, .htm, .xhtml",
+      "fileExtensions": [
+        ".html",
+        ".htm",
+        ".xhtml"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/html-preview-web-file-viewer/id6760443436?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760443436&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "bundleId": "CyberGame.App-11",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
+      "schemaIds": {
+        "webPage": "https://html.cybergame.ai/zh/articles/online-html-converter-alternative-iphone/#webpage",
+        "app": "https://html.cybergame.ai/#app",
+        "mainEntity": "https://html.cybergame.ai/zh/articles/online-html-converter-alternative-iphone/#article",
+        "howTo": "https://html.cybergame.ai/zh/articles/online-html-converter-alternative-iphone/#howto"
+      },
+      "screenshots": [
+        "https://html.cybergame.ai/assets/screenshots/html-preview-open-html-files-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-ai-html-report-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-focused-html-viewer-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://html.cybergame.ai/articles/online-html-converter-alternative-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://html.cybergame.ai/zh/articles/online-html-converter-alternative-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://html.cybergame.ai/ja/articles/online-html-converter-alternative-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://html.cybergame.ai/es/articles/online-html-converter-alternative-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://html.cybergame.ai/de/articles/online-html-converter-alternative-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://html.cybergame.ai/fr/articles/online-html-converter-alternative-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://html.cybergame.ai/pt-br/articles/online-html-converter-alternative-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://html.cybergame.ai/ko/articles/online-html-converter-alternative-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://html.cybergame.ai/ar/articles/online-html-converter-alternative-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://html.cybergame.ai/hi/articles/online-html-converter-alternative-iphone/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://html.cybergame.ai/answers.json",
+        "queryIndex": "https://html.cybergame.ai/query-index.json",
+        "fileFormats": "https://html.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://html.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://html.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://html.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://html.cybergame.ai/faq-index.json",
+        "citationCards": "https://html.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://html.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://html.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://html.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "html_zh_onlineconverte_siteidx",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -10303,7 +10553,7 @@
       "title": "Offline privacy HTML 日本語",
       "query": "How do I preview HTML files privately on iPhone or iPad?",
       "primaryKeyword": "Offline privacy HTML iPhone",
-      "source": "offline files",
+      "source": "offline files, online HTML converters",
       "supportedFormats": ".html, .htm, .xhtml",
       "fileExtensions": [
         ".html",
@@ -11801,6 +12051,123 @@
       "conversionIntent": "open-app-store-listing",
       "conversionMapSurface": "site-index-manifest",
       "conversionMapToken": "html_ja_offline_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760443436",
+        "appStoreId": "6760443436",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
+      "url": "https://html.cybergame.ai/ja/articles/online-html-converter-alternative-iphone/",
+      "canonicalUrl": "https://html.cybergame.ai/ja/articles/online-html-converter-alternative-iphone/",
+      "locale": "ja",
+      "hreflang": "ja",
+      "pageType": "article",
+      "topicKey": null,
+      "articleSlug": "online-html-converter-alternative-iphone",
+      "title": "online HTML converters HTMLファイルをiPhoneで開く方法",
+      "query": "iPhoneやiPadでonline HTML converters HTMLファイルを開くには？",
+      "primaryKeyword": "online HTML converter alternative iPhone",
+      "source": "online HTML converters",
+      "supportedFormats": ".html, .htm, .xhtml",
+      "fileExtensions": [
+        ".html",
+        ".htm",
+        ".xhtml"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/html-preview-web-file-viewer/id6760443436?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760443436&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "bundleId": "CyberGame.App-11",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
+      "schemaIds": {
+        "webPage": "https://html.cybergame.ai/ja/articles/online-html-converter-alternative-iphone/#webpage",
+        "app": "https://html.cybergame.ai/#app",
+        "mainEntity": "https://html.cybergame.ai/ja/articles/online-html-converter-alternative-iphone/#article",
+        "howTo": "https://html.cybergame.ai/ja/articles/online-html-converter-alternative-iphone/#howto"
+      },
+      "screenshots": [
+        "https://html.cybergame.ai/assets/screenshots/html-preview-open-html-files-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-ai-html-report-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-focused-html-viewer-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://html.cybergame.ai/articles/online-html-converter-alternative-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://html.cybergame.ai/zh/articles/online-html-converter-alternative-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://html.cybergame.ai/ja/articles/online-html-converter-alternative-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://html.cybergame.ai/es/articles/online-html-converter-alternative-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://html.cybergame.ai/de/articles/online-html-converter-alternative-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://html.cybergame.ai/fr/articles/online-html-converter-alternative-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://html.cybergame.ai/pt-br/articles/online-html-converter-alternative-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://html.cybergame.ai/ko/articles/online-html-converter-alternative-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://html.cybergame.ai/ar/articles/online-html-converter-alternative-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://html.cybergame.ai/hi/articles/online-html-converter-alternative-iphone/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://html.cybergame.ai/answers.json",
+        "queryIndex": "https://html.cybergame.ai/query-index.json",
+        "fileFormats": "https://html.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://html.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://html.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://html.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://html.cybergame.ai/faq-index.json",
+        "citationCards": "https://html.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://html.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://html.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://html.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "html_ja_onlineconverte_siteidx",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -14866,7 +15233,7 @@
       "title": "Offline privacy HTML Español",
       "query": "How do I preview HTML files privately on iPhone or iPad?",
       "primaryKeyword": "Offline privacy HTML iPhone",
-      "source": "offline files",
+      "source": "offline files, online HTML converters",
       "supportedFormats": ".html, .htm, .xhtml",
       "fileExtensions": [
         ".html",
@@ -16364,6 +16731,123 @@
       "conversionIntent": "open-app-store-listing",
       "conversionMapSurface": "site-index-manifest",
       "conversionMapToken": "html_es_offline_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760443436",
+        "appStoreId": "6760443436",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
+      "url": "https://html.cybergame.ai/es/articles/online-html-converter-alternative-iphone/",
+      "canonicalUrl": "https://html.cybergame.ai/es/articles/online-html-converter-alternative-iphone/",
+      "locale": "es",
+      "hreflang": "es",
+      "pageType": "article",
+      "topicKey": null,
+      "articleSlug": "online-html-converter-alternative-iphone",
+      "title": "Cómo abrir archivos HTML de online HTML converters en iPhone",
+      "query": "¿Cómo abrir archivos HTML de online HTML converters en iPhone o iPad?",
+      "primaryKeyword": "online HTML converter alternative iPhone",
+      "source": "online HTML converters",
+      "supportedFormats": ".html, .htm, .xhtml",
+      "fileExtensions": [
+        ".html",
+        ".htm",
+        ".xhtml"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/html-preview-web-file-viewer/id6760443436?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760443436&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "bundleId": "CyberGame.App-11",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
+      "schemaIds": {
+        "webPage": "https://html.cybergame.ai/es/articles/online-html-converter-alternative-iphone/#webpage",
+        "app": "https://html.cybergame.ai/#app",
+        "mainEntity": "https://html.cybergame.ai/es/articles/online-html-converter-alternative-iphone/#article",
+        "howTo": "https://html.cybergame.ai/es/articles/online-html-converter-alternative-iphone/#howto"
+      },
+      "screenshots": [
+        "https://html.cybergame.ai/assets/screenshots/html-preview-open-html-files-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-ai-html-report-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-focused-html-viewer-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://html.cybergame.ai/articles/online-html-converter-alternative-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://html.cybergame.ai/zh/articles/online-html-converter-alternative-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://html.cybergame.ai/ja/articles/online-html-converter-alternative-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://html.cybergame.ai/es/articles/online-html-converter-alternative-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://html.cybergame.ai/de/articles/online-html-converter-alternative-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://html.cybergame.ai/fr/articles/online-html-converter-alternative-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://html.cybergame.ai/pt-br/articles/online-html-converter-alternative-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://html.cybergame.ai/ko/articles/online-html-converter-alternative-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://html.cybergame.ai/ar/articles/online-html-converter-alternative-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://html.cybergame.ai/hi/articles/online-html-converter-alternative-iphone/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://html.cybergame.ai/answers.json",
+        "queryIndex": "https://html.cybergame.ai/query-index.json",
+        "fileFormats": "https://html.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://html.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://html.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://html.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://html.cybergame.ai/faq-index.json",
+        "citationCards": "https://html.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://html.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://html.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://html.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "html_es_onlineconverte_siteidx",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -19429,7 +19913,7 @@
       "title": "Offline privacy HTML Deutsch",
       "query": "How do I preview HTML files privately on iPhone or iPad?",
       "primaryKeyword": "Offline privacy HTML iPhone",
-      "source": "offline files",
+      "source": "offline files, online HTML converters",
       "supportedFormats": ".html, .htm, .xhtml",
       "fileExtensions": [
         ".html",
@@ -20927,6 +21411,123 @@
       "conversionIntent": "open-app-store-listing",
       "conversionMapSurface": "site-index-manifest",
       "conversionMapToken": "html_de_offline_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760443436",
+        "appStoreId": "6760443436",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
+      "url": "https://html.cybergame.ai/de/articles/online-html-converter-alternative-iphone/",
+      "canonicalUrl": "https://html.cybergame.ai/de/articles/online-html-converter-alternative-iphone/",
+      "locale": "de",
+      "hreflang": "de",
+      "pageType": "article",
+      "topicKey": null,
+      "articleSlug": "online-html-converter-alternative-iphone",
+      "title": "online HTML converters HTML-Dateien auf iPhone öffnen",
+      "query": "Wie kann ich online HTML converters HTML-Dateien öffnen auf iPhone oder iPad?",
+      "primaryKeyword": "online HTML converter alternative iPhone",
+      "source": "online HTML converters",
+      "supportedFormats": ".html, .htm, .xhtml",
+      "fileExtensions": [
+        ".html",
+        ".htm",
+        ".xhtml"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/html-preview-web-file-viewer/id6760443436?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760443436&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "bundleId": "CyberGame.App-11",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
+      "schemaIds": {
+        "webPage": "https://html.cybergame.ai/de/articles/online-html-converter-alternative-iphone/#webpage",
+        "app": "https://html.cybergame.ai/#app",
+        "mainEntity": "https://html.cybergame.ai/de/articles/online-html-converter-alternative-iphone/#article",
+        "howTo": "https://html.cybergame.ai/de/articles/online-html-converter-alternative-iphone/#howto"
+      },
+      "screenshots": [
+        "https://html.cybergame.ai/assets/screenshots/html-preview-open-html-files-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-ai-html-report-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-focused-html-viewer-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://html.cybergame.ai/articles/online-html-converter-alternative-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://html.cybergame.ai/zh/articles/online-html-converter-alternative-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://html.cybergame.ai/ja/articles/online-html-converter-alternative-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://html.cybergame.ai/es/articles/online-html-converter-alternative-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://html.cybergame.ai/de/articles/online-html-converter-alternative-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://html.cybergame.ai/fr/articles/online-html-converter-alternative-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://html.cybergame.ai/pt-br/articles/online-html-converter-alternative-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://html.cybergame.ai/ko/articles/online-html-converter-alternative-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://html.cybergame.ai/ar/articles/online-html-converter-alternative-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://html.cybergame.ai/hi/articles/online-html-converter-alternative-iphone/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://html.cybergame.ai/answers.json",
+        "queryIndex": "https://html.cybergame.ai/query-index.json",
+        "fileFormats": "https://html.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://html.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://html.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://html.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://html.cybergame.ai/faq-index.json",
+        "citationCards": "https://html.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://html.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://html.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://html.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "html_de_onlineconverte_siteidx",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -23992,7 +24593,7 @@
       "title": "Offline privacy HTML Francais",
       "query": "How do I preview HTML files privately on iPhone or iPad?",
       "primaryKeyword": "Offline privacy HTML iPhone",
-      "source": "offline files",
+      "source": "offline files, online HTML converters",
       "supportedFormats": ".html, .htm, .xhtml",
       "fileExtensions": [
         ".html",
@@ -25490,6 +26091,123 @@
       "conversionIntent": "open-app-store-listing",
       "conversionMapSurface": "site-index-manifest",
       "conversionMapToken": "html_fr_offline_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760443436",
+        "appStoreId": "6760443436",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
+      "url": "https://html.cybergame.ai/fr/articles/online-html-converter-alternative-iphone/",
+      "canonicalUrl": "https://html.cybergame.ai/fr/articles/online-html-converter-alternative-iphone/",
+      "locale": "fr",
+      "hreflang": "fr",
+      "pageType": "article",
+      "topicKey": null,
+      "articleSlug": "online-html-converter-alternative-iphone",
+      "title": "Ouvrir des fichiers HTML de online HTML converters sur iPhone",
+      "query": "Comment ouvrir des fichiers HTML de online HTML converters sur iPhone ou iPad ?",
+      "primaryKeyword": "online HTML converter alternative iPhone",
+      "source": "online HTML converters",
+      "supportedFormats": ".html, .htm, .xhtml",
+      "fileExtensions": [
+        ".html",
+        ".htm",
+        ".xhtml"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/html-preview-web-file-viewer/id6760443436?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760443436&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "bundleId": "CyberGame.App-11",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
+      "schemaIds": {
+        "webPage": "https://html.cybergame.ai/fr/articles/online-html-converter-alternative-iphone/#webpage",
+        "app": "https://html.cybergame.ai/#app",
+        "mainEntity": "https://html.cybergame.ai/fr/articles/online-html-converter-alternative-iphone/#article",
+        "howTo": "https://html.cybergame.ai/fr/articles/online-html-converter-alternative-iphone/#howto"
+      },
+      "screenshots": [
+        "https://html.cybergame.ai/assets/screenshots/html-preview-open-html-files-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-ai-html-report-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-focused-html-viewer-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://html.cybergame.ai/articles/online-html-converter-alternative-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://html.cybergame.ai/zh/articles/online-html-converter-alternative-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://html.cybergame.ai/ja/articles/online-html-converter-alternative-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://html.cybergame.ai/es/articles/online-html-converter-alternative-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://html.cybergame.ai/de/articles/online-html-converter-alternative-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://html.cybergame.ai/fr/articles/online-html-converter-alternative-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://html.cybergame.ai/pt-br/articles/online-html-converter-alternative-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://html.cybergame.ai/ko/articles/online-html-converter-alternative-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://html.cybergame.ai/ar/articles/online-html-converter-alternative-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://html.cybergame.ai/hi/articles/online-html-converter-alternative-iphone/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://html.cybergame.ai/answers.json",
+        "queryIndex": "https://html.cybergame.ai/query-index.json",
+        "fileFormats": "https://html.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://html.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://html.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://html.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://html.cybergame.ai/faq-index.json",
+        "citationCards": "https://html.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://html.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://html.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://html.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "html_fr_onlineconverte_siteidx",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -28555,7 +29273,7 @@
       "title": "Offline privacy HTML Portugues do Brasil",
       "query": "How do I preview HTML files privately on iPhone or iPad?",
       "primaryKeyword": "Offline privacy HTML iPhone",
-      "source": "offline files",
+      "source": "offline files, online HTML converters",
       "supportedFormats": ".html, .htm, .xhtml",
       "fileExtensions": [
         ".html",
@@ -30053,6 +30771,123 @@
       "conversionIntent": "open-app-store-listing",
       "conversionMapSurface": "site-index-manifest",
       "conversionMapToken": "html_ptbr_offline_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760443436",
+        "appStoreId": "6760443436",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
+      "url": "https://html.cybergame.ai/pt-br/articles/online-html-converter-alternative-iphone/",
+      "canonicalUrl": "https://html.cybergame.ai/pt-br/articles/online-html-converter-alternative-iphone/",
+      "locale": "pt-br",
+      "hreflang": "pt-BR",
+      "pageType": "article",
+      "topicKey": null,
+      "articleSlug": "online-html-converter-alternative-iphone",
+      "title": "Abrir arquivos HTML do online HTML converters no iPhone",
+      "query": "Como abrir arquivos HTML do online HTML converters no iPhone ou iPad?",
+      "primaryKeyword": "online HTML converter alternative iPhone",
+      "source": "online HTML converters",
+      "supportedFormats": ".html, .htm, .xhtml",
+      "fileExtensions": [
+        ".html",
+        ".htm",
+        ".xhtml"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/html-preview-web-file-viewer/id6760443436?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760443436&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "bundleId": "CyberGame.App-11",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
+      "schemaIds": {
+        "webPage": "https://html.cybergame.ai/pt-br/articles/online-html-converter-alternative-iphone/#webpage",
+        "app": "https://html.cybergame.ai/#app",
+        "mainEntity": "https://html.cybergame.ai/pt-br/articles/online-html-converter-alternative-iphone/#article",
+        "howTo": "https://html.cybergame.ai/pt-br/articles/online-html-converter-alternative-iphone/#howto"
+      },
+      "screenshots": [
+        "https://html.cybergame.ai/assets/screenshots/html-preview-open-html-files-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-ai-html-report-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-focused-html-viewer-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://html.cybergame.ai/articles/online-html-converter-alternative-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://html.cybergame.ai/zh/articles/online-html-converter-alternative-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://html.cybergame.ai/ja/articles/online-html-converter-alternative-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://html.cybergame.ai/es/articles/online-html-converter-alternative-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://html.cybergame.ai/de/articles/online-html-converter-alternative-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://html.cybergame.ai/fr/articles/online-html-converter-alternative-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://html.cybergame.ai/pt-br/articles/online-html-converter-alternative-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://html.cybergame.ai/ko/articles/online-html-converter-alternative-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://html.cybergame.ai/ar/articles/online-html-converter-alternative-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://html.cybergame.ai/hi/articles/online-html-converter-alternative-iphone/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://html.cybergame.ai/answers.json",
+        "queryIndex": "https://html.cybergame.ai/query-index.json",
+        "fileFormats": "https://html.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://html.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://html.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://html.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://html.cybergame.ai/faq-index.json",
+        "citationCards": "https://html.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://html.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://html.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://html.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "html_ptbr_onlineconverte_siteidx",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -33118,7 +33953,7 @@
       "title": "Offline privacy HTML 한국어",
       "query": "How do I preview HTML files privately on iPhone or iPad?",
       "primaryKeyword": "Offline privacy HTML iPhone",
-      "source": "offline files",
+      "source": "offline files, online HTML converters",
       "supportedFormats": ".html, .htm, .xhtml",
       "fileExtensions": [
         ".html",
@@ -34616,6 +35451,123 @@
       "conversionIntent": "open-app-store-listing",
       "conversionMapSurface": "site-index-manifest",
       "conversionMapToken": "html_ko_offline_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760443436",
+        "appStoreId": "6760443436",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
+      "url": "https://html.cybergame.ai/ko/articles/online-html-converter-alternative-iphone/",
+      "canonicalUrl": "https://html.cybergame.ai/ko/articles/online-html-converter-alternative-iphone/",
+      "locale": "ko",
+      "hreflang": "ko",
+      "pageType": "article",
+      "topicKey": null,
+      "articleSlug": "online-html-converter-alternative-iphone",
+      "title": "iPhone에서 online HTML converters HTML 파일 열기",
+      "query": "iPhone과 iPad에서 HTML 파일을 여는 방법은?",
+      "primaryKeyword": "online HTML converter alternative iPhone",
+      "source": "online HTML converters",
+      "supportedFormats": ".html, .htm, .xhtml",
+      "fileExtensions": [
+        ".html",
+        ".htm",
+        ".xhtml"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/html-preview-web-file-viewer/id6760443436?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760443436&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "bundleId": "CyberGame.App-11",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
+      "schemaIds": {
+        "webPage": "https://html.cybergame.ai/ko/articles/online-html-converter-alternative-iphone/#webpage",
+        "app": "https://html.cybergame.ai/#app",
+        "mainEntity": "https://html.cybergame.ai/ko/articles/online-html-converter-alternative-iphone/#article",
+        "howTo": "https://html.cybergame.ai/ko/articles/online-html-converter-alternative-iphone/#howto"
+      },
+      "screenshots": [
+        "https://html.cybergame.ai/assets/screenshots/html-preview-open-html-files-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-ai-html-report-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-focused-html-viewer-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://html.cybergame.ai/articles/online-html-converter-alternative-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://html.cybergame.ai/zh/articles/online-html-converter-alternative-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://html.cybergame.ai/ja/articles/online-html-converter-alternative-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://html.cybergame.ai/es/articles/online-html-converter-alternative-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://html.cybergame.ai/de/articles/online-html-converter-alternative-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://html.cybergame.ai/fr/articles/online-html-converter-alternative-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://html.cybergame.ai/pt-br/articles/online-html-converter-alternative-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://html.cybergame.ai/ko/articles/online-html-converter-alternative-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://html.cybergame.ai/ar/articles/online-html-converter-alternative-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://html.cybergame.ai/hi/articles/online-html-converter-alternative-iphone/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://html.cybergame.ai/answers.json",
+        "queryIndex": "https://html.cybergame.ai/query-index.json",
+        "fileFormats": "https://html.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://html.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://html.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://html.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://html.cybergame.ai/faq-index.json",
+        "citationCards": "https://html.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://html.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://html.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://html.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "html_ko_onlineconverte_siteidx",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -37681,7 +38633,7 @@
       "title": "Offline privacy HTML العربية",
       "query": "How do I preview HTML files privately on iPhone or iPad?",
       "primaryKeyword": "Offline privacy HTML iPhone",
-      "source": "offline files",
+      "source": "offline files, online HTML converters",
       "supportedFormats": ".html, .htm, .xhtml",
       "fileExtensions": [
         ".html",
@@ -39179,6 +40131,123 @@
       "conversionIntent": "open-app-store-listing",
       "conversionMapSurface": "site-index-manifest",
       "conversionMapToken": "html_ar_offline_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760443436",
+        "appStoreId": "6760443436",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
+      "url": "https://html.cybergame.ai/ar/articles/online-html-converter-alternative-iphone/",
+      "canonicalUrl": "https://html.cybergame.ai/ar/articles/online-html-converter-alternative-iphone/",
+      "locale": "ar",
+      "hreflang": "ar",
+      "pageType": "article",
+      "topicKey": null,
+      "articleSlug": "online-html-converter-alternative-iphone",
+      "title": "فتح ملفات HTML من online HTML converters على iPhone",
+      "query": "كيف تفتح ملف HTML على iPhone او iPad؟",
+      "primaryKeyword": "online HTML converter alternative iPhone",
+      "source": "online HTML converters",
+      "supportedFormats": ".html, .htm, .xhtml",
+      "fileExtensions": [
+        ".html",
+        ".htm",
+        ".xhtml"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/html-preview-web-file-viewer/id6760443436?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760443436&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "bundleId": "CyberGame.App-11",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
+      "schemaIds": {
+        "webPage": "https://html.cybergame.ai/ar/articles/online-html-converter-alternative-iphone/#webpage",
+        "app": "https://html.cybergame.ai/#app",
+        "mainEntity": "https://html.cybergame.ai/ar/articles/online-html-converter-alternative-iphone/#article",
+        "howTo": "https://html.cybergame.ai/ar/articles/online-html-converter-alternative-iphone/#howto"
+      },
+      "screenshots": [
+        "https://html.cybergame.ai/assets/screenshots/html-preview-open-html-files-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-ai-html-report-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-focused-html-viewer-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://html.cybergame.ai/articles/online-html-converter-alternative-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://html.cybergame.ai/zh/articles/online-html-converter-alternative-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://html.cybergame.ai/ja/articles/online-html-converter-alternative-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://html.cybergame.ai/es/articles/online-html-converter-alternative-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://html.cybergame.ai/de/articles/online-html-converter-alternative-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://html.cybergame.ai/fr/articles/online-html-converter-alternative-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://html.cybergame.ai/pt-br/articles/online-html-converter-alternative-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://html.cybergame.ai/ko/articles/online-html-converter-alternative-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://html.cybergame.ai/ar/articles/online-html-converter-alternative-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://html.cybergame.ai/hi/articles/online-html-converter-alternative-iphone/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://html.cybergame.ai/answers.json",
+        "queryIndex": "https://html.cybergame.ai/query-index.json",
+        "fileFormats": "https://html.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://html.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://html.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://html.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://html.cybergame.ai/faq-index.json",
+        "citationCards": "https://html.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://html.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://html.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://html.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "html_ar_onlineconverte_siteidx",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -42244,7 +43313,7 @@
       "title": "Offline privacy HTML हिन्दी",
       "query": "How do I preview HTML files privately on iPhone or iPad?",
       "primaryKeyword": "Offline privacy HTML iPhone",
-      "source": "offline files",
+      "source": "offline files, online HTML converters",
       "supportedFormats": ".html, .htm, .xhtml",
       "fileExtensions": [
         ".html",
@@ -43742,6 +44811,123 @@
       "conversionIntent": "open-app-store-listing",
       "conversionMapSurface": "site-index-manifest",
       "conversionMapToken": "html_hi_offline_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760443436",
+        "appStoreId": "6760443436",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
+      "url": "https://html.cybergame.ai/hi/articles/online-html-converter-alternative-iphone/",
+      "canonicalUrl": "https://html.cybergame.ai/hi/articles/online-html-converter-alternative-iphone/",
+      "locale": "hi",
+      "hreflang": "hi",
+      "pageType": "article",
+      "topicKey": null,
+      "articleSlug": "online-html-converter-alternative-iphone",
+      "title": "iPhone पर online HTML converters HTML files खोलें",
+      "query": "iPhone या iPad पर HTML file कैसे खोलें?",
+      "primaryKeyword": "online HTML converter alternative iPhone",
+      "source": "online HTML converters",
+      "supportedFormats": ".html, .htm, .xhtml",
+      "fileExtensions": [
+        ".html",
+        ".htm",
+        ".xhtml"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/html-preview-web-file-viewer/id6760443436?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760443436&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "bundleId": "CyberGame.App-11",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-16T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-22T23:22:49Z",
+      "schemaIds": {
+        "webPage": "https://html.cybergame.ai/hi/articles/online-html-converter-alternative-iphone/#webpage",
+        "app": "https://html.cybergame.ai/#app",
+        "mainEntity": "https://html.cybergame.ai/hi/articles/online-html-converter-alternative-iphone/#article",
+        "howTo": "https://html.cybergame.ai/hi/articles/online-html-converter-alternative-iphone/#howto"
+      },
+      "screenshots": [
+        "https://html.cybergame.ai/assets/screenshots/html-preview-open-html-files-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-ai-html-report-iphone.png",
+        "https://html.cybergame.ai/assets/screenshots/html-preview-focused-html-viewer-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://html.cybergame.ai/articles/online-html-converter-alternative-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://html.cybergame.ai/zh/articles/online-html-converter-alternative-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://html.cybergame.ai/ja/articles/online-html-converter-alternative-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://html.cybergame.ai/es/articles/online-html-converter-alternative-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://html.cybergame.ai/de/articles/online-html-converter-alternative-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://html.cybergame.ai/fr/articles/online-html-converter-alternative-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://html.cybergame.ai/pt-br/articles/online-html-converter-alternative-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://html.cybergame.ai/ko/articles/online-html-converter-alternative-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://html.cybergame.ai/ar/articles/online-html-converter-alternative-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://html.cybergame.ai/hi/articles/online-html-converter-alternative-iphone/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://html.cybergame.ai/answers.json",
+        "queryIndex": "https://html.cybergame.ai/query-index.json",
+        "fileFormats": "https://html.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://html.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://html.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://html.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://html.cybergame.ai/faq-index.json",
+        "citationCards": "https://html.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://html.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://html.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://html.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "html_hi_onlineconverte_siteidx",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
