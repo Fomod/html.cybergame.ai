@@ -68,6 +68,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_en_home_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -125,6 +127,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_en_guide_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -182,6 +186,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_en_articles_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -239,6 +245,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_en_topicaigeneratedf_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -296,6 +304,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_en_topicfilessharesh_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -353,6 +363,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_en_topicclouddrives_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -410,6 +422,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_en_topicfileextensio_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -467,6 +481,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_en_topicofflinepriva_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -524,6 +540,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_en_topicbestviewer_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -581,6 +599,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_en_topiciosfileprevi_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -638,6 +658,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_en_ai_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -695,6 +717,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_en_aiipad_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -752,6 +776,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_en_best_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -809,6 +835,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_en_email_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -866,6 +894,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_en_gmail_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -923,6 +953,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_en_outlook_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -980,6 +1012,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_en_files_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -1037,6 +1071,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_en_safari_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -1094,6 +1130,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_en_icloud_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -1151,6 +1189,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_en_offline_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -1208,6 +1248,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_en_zip_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -1265,6 +1307,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_en_localnosafari_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -1322,6 +1366,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_en_aireport_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -1379,6 +1425,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_en_htm_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -1436,6 +1484,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_en_x_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -1493,6 +1543,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_en_googledrive_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -1550,6 +1602,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_en_dropbox_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -1607,6 +1661,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_en_airdrop_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -1664,6 +1720,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_en_messaging_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -1721,6 +1779,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_en_cannotopenios_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -1778,6 +1838,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_en_sourcecodeios_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -1835,6 +1897,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_en_filesappprevie_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -1892,6 +1956,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_en_claudeartifact_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -1949,6 +2015,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_en_chatgptdownloa_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -2006,6 +2074,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_en_gemini_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -2063,6 +2133,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_en_notionexport_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -2120,6 +2192,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_en_github_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -2177,6 +2251,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_en_aidashboard_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -2234,6 +2310,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_zh_home_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -2291,6 +2369,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_zh_guide_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -2348,6 +2428,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_zh_articles_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -2405,6 +2487,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_zh_topicaigeneratedf_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -2462,6 +2546,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_zh_topicfilessharesh_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -2519,6 +2605,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_zh_topicclouddrives_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -2576,6 +2664,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_zh_topicfileextensio_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -2633,6 +2723,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_zh_topicofflinepriva_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -2690,6 +2782,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_zh_topicbestviewer_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -2747,6 +2841,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_zh_topiciosfileprevi_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -2804,6 +2900,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_zh_ai_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -2861,6 +2959,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_zh_aiipad_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -2918,6 +3018,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_zh_best_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -2975,6 +3077,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_zh_email_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -3032,6 +3136,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_zh_gmail_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -3089,6 +3195,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_zh_outlook_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -3146,6 +3254,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_zh_files_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -3203,6 +3313,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_zh_safari_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -3260,6 +3372,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_zh_icloud_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -3317,6 +3431,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_zh_offline_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -3374,6 +3490,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_zh_zip_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -3431,6 +3549,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_zh_localnosafari_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -3488,6 +3608,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_zh_aireport_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -3545,6 +3667,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_zh_htm_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -3602,6 +3726,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_zh_x_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -3659,6 +3785,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_zh_googledrive_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -3716,6 +3844,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_zh_dropbox_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -3773,6 +3903,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_zh_airdrop_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -3830,6 +3962,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_zh_messaging_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -3887,6 +4021,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_zh_cannotopenios_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -3944,6 +4080,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_zh_sourcecodeios_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -4001,6 +4139,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_zh_filesappprevie_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -4058,6 +4198,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_zh_claudeartifact_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -4115,6 +4257,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_zh_chatgptdownloa_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -4172,6 +4316,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_zh_gemini_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -4229,6 +4375,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_zh_notionexport_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -4286,6 +4434,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_zh_github_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -4343,6 +4493,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_zh_aidashboard_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -4400,6 +4552,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ja_home_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -4457,6 +4611,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ja_guide_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -4514,6 +4670,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ja_articles_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -4571,6 +4729,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ja_topicaigeneratedf_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -4628,6 +4788,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ja_topicfilessharesh_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -4685,6 +4847,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ja_topicclouddrives_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -4742,6 +4906,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ja_topicfileextensio_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -4799,6 +4965,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ja_topicofflinepriva_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -4856,6 +5024,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ja_topicbestviewer_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -4913,6 +5083,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ja_topiciosfileprevi_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -4970,6 +5142,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ja_ai_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -5027,6 +5201,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ja_aiipad_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -5084,6 +5260,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ja_best_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -5141,6 +5319,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ja_email_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -5198,6 +5378,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ja_gmail_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -5255,6 +5437,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ja_outlook_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -5312,6 +5496,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ja_files_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -5369,6 +5555,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ja_safari_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -5426,6 +5614,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ja_icloud_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -5483,6 +5673,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ja_offline_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -5540,6 +5732,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ja_zip_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -5597,6 +5791,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ja_localnosafari_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -5654,6 +5850,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ja_aireport_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -5711,6 +5909,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ja_htm_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -5768,6 +5968,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ja_x_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -5825,6 +6027,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ja_googledrive_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -5882,6 +6086,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ja_dropbox_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -5939,6 +6145,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ja_airdrop_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -5996,6 +6204,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ja_messaging_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -6053,6 +6263,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ja_cannotopenios_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -6110,6 +6322,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ja_sourcecodeios_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -6167,6 +6381,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ja_filesappprevie_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -6224,6 +6440,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ja_claudeartifact_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -6281,6 +6499,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ja_chatgptdownloa_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -6338,6 +6558,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ja_gemini_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -6395,6 +6617,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ja_notionexport_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -6452,6 +6676,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ja_github_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -6509,6 +6735,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ja_aidashboard_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -6566,6 +6794,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_es_home_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -6623,6 +6853,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_es_guide_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -6680,6 +6912,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_es_articles_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -6737,6 +6971,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_es_topicaigeneratedf_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -6794,6 +7030,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_es_topicfilessharesh_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -6851,6 +7089,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_es_topicclouddrives_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -6908,6 +7148,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_es_topicfileextensio_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -6965,6 +7207,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_es_topicofflinepriva_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -7022,6 +7266,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_es_topicbestviewer_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -7079,6 +7325,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_es_topiciosfileprevi_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -7136,6 +7384,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_es_ai_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -7193,6 +7443,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_es_aiipad_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -7250,6 +7502,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_es_best_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -7307,6 +7561,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_es_email_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -7364,6 +7620,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_es_gmail_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -7421,6 +7679,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_es_outlook_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -7478,6 +7738,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_es_files_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -7535,6 +7797,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_es_safari_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -7592,6 +7856,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_es_icloud_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -7649,6 +7915,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_es_offline_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -7706,6 +7974,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_es_zip_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -7763,6 +8033,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_es_localnosafari_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -7820,6 +8092,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_es_aireport_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -7877,6 +8151,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_es_htm_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -7934,6 +8210,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_es_x_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -7991,6 +8269,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_es_googledrive_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -8048,6 +8328,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_es_dropbox_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -8105,6 +8387,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_es_airdrop_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -8162,6 +8446,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_es_messaging_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -8219,6 +8505,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_es_cannotopenios_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -8276,6 +8564,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_es_sourcecodeios_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -8333,6 +8623,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_es_filesappprevie_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -8390,6 +8682,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_es_claudeartifact_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -8447,6 +8741,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_es_chatgptdownloa_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -8504,6 +8800,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_es_gemini_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -8561,6 +8859,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_es_notionexport_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -8618,6 +8918,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_es_github_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -8675,6 +8977,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_es_aidashboard_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -8732,6 +9036,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_de_home_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -8789,6 +9095,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_de_guide_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -8846,6 +9154,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_de_articles_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -8903,6 +9213,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_de_topicaigeneratedf_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -8960,6 +9272,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_de_topicfilessharesh_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -9017,6 +9331,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_de_topicclouddrives_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -9074,6 +9390,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_de_topicfileextensio_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -9131,6 +9449,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_de_topicofflinepriva_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -9188,6 +9508,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_de_topicbestviewer_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -9245,6 +9567,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_de_topiciosfileprevi_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -9302,6 +9626,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_de_ai_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -9359,6 +9685,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_de_aiipad_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -9416,6 +9744,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_de_best_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -9473,6 +9803,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_de_email_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -9530,6 +9862,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_de_gmail_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -9587,6 +9921,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_de_outlook_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -9644,6 +9980,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_de_files_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -9701,6 +10039,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_de_safari_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -9758,6 +10098,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_de_icloud_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -9815,6 +10157,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_de_offline_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -9872,6 +10216,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_de_zip_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -9929,6 +10275,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_de_localnosafari_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -9986,6 +10334,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_de_aireport_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -10043,6 +10393,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_de_htm_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -10100,6 +10452,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_de_x_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -10157,6 +10511,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_de_googledrive_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -10214,6 +10570,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_de_dropbox_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -10271,6 +10629,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_de_airdrop_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -10328,6 +10688,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_de_messaging_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -10385,6 +10747,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_de_cannotopenios_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -10442,6 +10806,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_de_sourcecodeios_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -10499,6 +10865,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_de_filesappprevie_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -10556,6 +10924,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_de_claudeartifact_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -10613,6 +10983,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_de_chatgptdownloa_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -10670,6 +11042,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_de_gemini_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -10727,6 +11101,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_de_notionexport_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -10784,6 +11160,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_de_github_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -10841,6 +11219,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_de_aidashboard_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -10898,6 +11278,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_fr_home_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -10955,6 +11337,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_fr_guide_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -11012,6 +11396,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_fr_articles_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -11069,6 +11455,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_fr_topicaigeneratedf_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -11126,6 +11514,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_fr_topicfilessharesh_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -11183,6 +11573,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_fr_topicclouddrives_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -11240,6 +11632,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_fr_topicfileextensio_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -11297,6 +11691,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_fr_topicofflinepriva_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -11354,6 +11750,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_fr_topicbestviewer_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -11411,6 +11809,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_fr_topiciosfileprevi_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -11468,6 +11868,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_fr_ai_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -11525,6 +11927,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_fr_aiipad_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -11582,6 +11986,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_fr_best_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -11639,6 +12045,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_fr_email_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -11696,6 +12104,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_fr_gmail_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -11753,6 +12163,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_fr_outlook_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -11810,6 +12222,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_fr_files_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -11867,6 +12281,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_fr_safari_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -11924,6 +12340,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_fr_icloud_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -11981,6 +12399,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_fr_offline_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -12038,6 +12458,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_fr_zip_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -12095,6 +12517,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_fr_localnosafari_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -12152,6 +12576,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_fr_aireport_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -12209,6 +12635,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_fr_htm_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -12266,6 +12694,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_fr_x_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -12323,6 +12753,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_fr_googledrive_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -12380,6 +12812,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_fr_dropbox_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -12437,6 +12871,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_fr_airdrop_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -12494,6 +12930,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_fr_messaging_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -12551,6 +12989,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_fr_cannotopenios_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -12608,6 +13048,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_fr_sourcecodeios_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -12665,6 +13107,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_fr_filesappprevie_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -12722,6 +13166,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_fr_claudeartifact_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -12779,6 +13225,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_fr_chatgptdownloa_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -12836,6 +13284,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_fr_gemini_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -12893,6 +13343,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_fr_notionexport_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -12950,6 +13402,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_fr_github_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -13007,6 +13461,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_fr_aidashboard_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -13064,6 +13520,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ptbr_home_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -13121,6 +13579,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ptbr_guide_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -13178,6 +13638,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ptbr_articles_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -13235,6 +13697,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ptbr_topicaigeneratedf_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -13292,6 +13756,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ptbr_topicfilessharesh_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -13349,6 +13815,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ptbr_topicclouddrives_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -13406,6 +13874,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ptbr_topicfileextensio_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -13463,6 +13933,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ptbr_topicofflinepriva_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -13520,6 +13992,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ptbr_topicbestviewer_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -13577,6 +14051,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ptbr_topiciosfileprevi_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -13634,6 +14110,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ptbr_ai_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -13691,6 +14169,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ptbr_aiipad_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -13748,6 +14228,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ptbr_best_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -13805,6 +14287,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ptbr_email_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -13862,6 +14346,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ptbr_gmail_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -13919,6 +14405,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ptbr_outlook_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -13976,6 +14464,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ptbr_files_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -14033,6 +14523,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ptbr_safari_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -14090,6 +14582,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ptbr_icloud_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -14147,6 +14641,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ptbr_offline_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -14204,6 +14700,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ptbr_zip_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -14261,6 +14759,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ptbr_localnosafari_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -14318,6 +14818,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ptbr_aireport_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -14375,6 +14877,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ptbr_htm_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -14432,6 +14936,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ptbr_x_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -14489,6 +14995,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ptbr_googledrive_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -14546,6 +15054,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ptbr_dropbox_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -14603,6 +15113,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ptbr_airdrop_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -14660,6 +15172,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ptbr_messaging_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -14717,6 +15231,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ptbr_cannotopenios_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -14774,6 +15290,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ptbr_sourcecodeios_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -14831,6 +15349,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ptbr_filesappprevie_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -14888,6 +15408,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ptbr_claudeartifact_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -14945,6 +15467,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ptbr_chatgptdownloa_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -15002,6 +15526,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ptbr_gemini_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -15059,6 +15585,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ptbr_notionexport_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -15116,6 +15644,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ptbr_github_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -15173,6 +15703,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ptbr_aidashboard_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -15230,6 +15762,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ko_home_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -15287,6 +15821,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ko_guide_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -15344,6 +15880,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ko_articles_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -15401,6 +15939,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ko_topicaigeneratedf_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -15458,6 +15998,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ko_topicfilessharesh_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -15515,6 +16057,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ko_topicclouddrives_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -15572,6 +16116,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ko_topicfileextensio_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -15629,6 +16175,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ko_topicofflinepriva_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -15686,6 +16234,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ko_topicbestviewer_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -15743,6 +16293,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ko_topiciosfileprevi_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -15800,6 +16352,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ko_ai_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -15857,6 +16411,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ko_aiipad_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -15914,6 +16470,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ko_best_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -15971,6 +16529,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ko_email_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -16028,6 +16588,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ko_gmail_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -16085,6 +16647,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ko_outlook_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -16142,6 +16706,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ko_files_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -16199,6 +16765,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ko_safari_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -16256,6 +16824,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ko_icloud_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -16313,6 +16883,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ko_offline_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -16370,6 +16942,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ko_zip_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -16427,6 +17001,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ko_localnosafari_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -16484,6 +17060,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ko_aireport_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -16541,6 +17119,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ko_htm_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -16598,6 +17178,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ko_x_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -16655,6 +17237,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ko_googledrive_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -16712,6 +17296,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ko_dropbox_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -16769,6 +17355,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ko_airdrop_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -16826,6 +17414,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ko_messaging_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -16883,6 +17473,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ko_cannotopenios_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -16940,6 +17532,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ko_sourcecodeios_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -16997,6 +17591,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ko_filesappprevie_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -17054,6 +17650,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ko_claudeartifact_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -17111,6 +17709,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ko_chatgptdownloa_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -17168,6 +17768,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ko_gemini_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -17225,6 +17827,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ko_notionexport_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -17282,6 +17886,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ko_github_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -17339,6 +17945,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ko_aidashboard_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -17396,6 +18004,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ar_home_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -17453,6 +18063,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ar_guide_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -17510,6 +18122,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ar_articles_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -17567,6 +18181,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ar_topicaigeneratedf_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -17624,6 +18240,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ar_topicfilessharesh_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -17681,6 +18299,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ar_topicclouddrives_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -17738,6 +18358,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ar_topicfileextensio_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -17795,6 +18417,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ar_topicofflinepriva_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -17852,6 +18476,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ar_topicbestviewer_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -17909,6 +18535,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ar_topiciosfileprevi_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -17966,6 +18594,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ar_ai_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -18023,6 +18653,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ar_aiipad_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -18080,6 +18712,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ar_best_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -18137,6 +18771,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ar_email_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -18194,6 +18830,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ar_gmail_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -18251,6 +18889,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ar_outlook_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -18308,6 +18948,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ar_files_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -18365,6 +19007,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ar_safari_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -18422,6 +19066,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ar_icloud_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -18479,6 +19125,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ar_offline_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -18536,6 +19184,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ar_zip_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -18593,6 +19243,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ar_localnosafari_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -18650,6 +19302,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ar_aireport_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -18707,6 +19361,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ar_htm_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -18764,6 +19420,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ar_x_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -18821,6 +19479,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ar_googledrive_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -18878,6 +19538,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ar_dropbox_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -18935,6 +19597,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ar_airdrop_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -18992,6 +19656,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ar_messaging_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -19049,6 +19715,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ar_cannotopenios_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -19106,6 +19774,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ar_sourcecodeios_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -19163,6 +19833,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ar_filesappprevie_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -19220,6 +19892,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ar_claudeartifact_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -19277,6 +19951,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ar_chatgptdownloa_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -19334,6 +20010,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ar_gemini_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -19391,6 +20069,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ar_notionexport_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -19448,6 +20128,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ar_github_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -19505,6 +20187,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_ar_aidashboard_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -19562,6 +20246,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_hi_home_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -19619,6 +20305,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_hi_guide_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -19676,6 +20364,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_hi_articles_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -19733,6 +20423,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_hi_topicaigeneratedf_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -19790,6 +20482,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_hi_topicfilessharesh_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -19847,6 +20541,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_hi_topicclouddrives_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -19904,6 +20600,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_hi_topicfileextensio_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -19961,6 +20659,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_hi_topicofflinepriva_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -20018,6 +20718,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_hi_topicbestviewer_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -20075,6 +20777,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_hi_topiciosfileprevi_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -20132,6 +20836,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_hi_ai_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -20189,6 +20895,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_hi_aiipad_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -20246,6 +20954,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_hi_best_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -20303,6 +21013,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_hi_email_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -20360,6 +21072,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_hi_gmail_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -20417,6 +21131,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_hi_outlook_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -20474,6 +21190,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_hi_files_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -20531,6 +21249,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_hi_safari_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -20588,6 +21308,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_hi_icloud_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -20645,6 +21367,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_hi_offline_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -20702,6 +21426,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_hi_zip_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -20759,6 +21485,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_hi_localnosafari_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -20816,6 +21544,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_hi_aireport_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -20873,6 +21603,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_hi_htm_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -20930,6 +21662,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_hi_x_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -20987,6 +21721,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_hi_googledrive_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -21044,6 +21780,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_hi_dropbox_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -21101,6 +21839,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_hi_airdrop_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -21158,6 +21898,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_hi_messaging_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -21215,6 +21957,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_hi_cannotopenios_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -21272,6 +22016,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_hi_sourcecodeios_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -21329,6 +22075,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_hi_filesappprevie_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -21386,6 +22134,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_hi_claudeartifact_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -21443,6 +22193,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_hi_chatgptdownloa_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -21500,6 +22252,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_hi_gemini_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -21557,6 +22311,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_hi_notionexport_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -21614,6 +22370,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_hi_github_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
@@ -21671,6 +22429,8 @@
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "storeListingDetails": "defer-to-app-store",
       "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "assistant-answer-index",
+      "conversionMapToken": "html_hi_aidashboard_aians",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760443436",
