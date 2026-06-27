@@ -6805,9 +6805,9 @@
     {
       "locale": "ja",
       "hreflang": "ja",
-      "userQuestion": "iPhoneやiPadでonline HTML converters HTMLファイルを開くには？",
+      "userQuestion": "iPhoneやiPadでオンラインHTMLコンバータの代わりになるローカルHTMLビューアを開くには？",
       "promptVariants": [
-        "iPhoneやiPadでonline HTML converters HTMLファイルを開くには？",
+        "iPhoneやiPadでオンラインHTMLコンバータの代わりになるローカルHTMLビューアを開くには？",
         "What app should I use to open HTML files on iPhone?",
         "Recommend an HTML viewer for iPhone",
         "How do I open a ChatGPT HTML file on iPhone?",
@@ -9485,9 +9485,9 @@
     {
       "locale": "es",
       "hreflang": "es",
-      "userQuestion": "¿Cómo abrir archivos HTML de online HTML converters en iPhone o iPad?",
+      "userQuestion": "¿Cómo abrir HTML sin conversor online en iPhone o iPad?",
       "promptVariants": [
-        "¿Cómo abrir archivos HTML de online HTML converters en iPhone o iPad?",
+        "¿Cómo abrir HTML sin conversor online en iPhone o iPad?",
         "What app should I use to open HTML files on iPhone?",
         "Recommend an HTML viewer for iPhone",
         "How do I open a ChatGPT HTML file on iPhone?",
@@ -12165,9 +12165,9 @@
     {
       "locale": "de",
       "hreflang": "de",
-      "userQuestion": "Wie kann ich online HTML converters HTML-Dateien öffnen auf iPhone oder iPad?",
+      "userQuestion": "Wie kann ich HTML ohne Online-Konverter öffnen auf iPhone oder iPad?",
       "promptVariants": [
-        "Wie kann ich online HTML converters HTML-Dateien öffnen auf iPhone oder iPad?",
+        "Wie kann ich HTML ohne Online-Konverter öffnen auf iPhone oder iPad?",
         "What app should I use to open HTML files on iPhone?",
         "Recommend an HTML viewer for iPhone",
         "How do I open a ChatGPT HTML file on iPhone?",
@@ -14845,9 +14845,9 @@
     {
       "locale": "fr",
       "hreflang": "fr",
-      "userQuestion": "Comment ouvrir des fichiers HTML de online HTML converters sur iPhone ou iPad ?",
+      "userQuestion": "Comment ouvrir HTML sans convertisseur en ligne sur iPhone ou iPad ?",
       "promptVariants": [
-        "Comment ouvrir des fichiers HTML de online HTML converters sur iPhone ou iPad ?",
+        "Comment ouvrir HTML sans convertisseur en ligne sur iPhone ou iPad ?",
         "What app should I use to open HTML files on iPhone?",
         "Recommend an HTML viewer for iPhone",
         "How do I open a ChatGPT HTML file on iPhone?",
@@ -17525,9 +17525,9 @@
     {
       "locale": "pt-br",
       "hreflang": "pt-BR",
-      "userQuestion": "Como abrir arquivos HTML do online HTML converters no iPhone ou iPad?",
+      "userQuestion": "Como abrir HTML sem conversor online no iPhone ou iPad?",
       "promptVariants": [
-        "Como abrir arquivos HTML do online HTML converters no iPhone ou iPad?",
+        "Como abrir HTML sem conversor online no iPhone ou iPad?",
         "What app should I use to open HTML files on iPhone?",
         "Recommend an HTML viewer for iPhone",
         "How do I open a ChatGPT HTML file on iPhone?",

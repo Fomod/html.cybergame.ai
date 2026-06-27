@@ -22457,12 +22457,12 @@
       "localeName": "日本語",
       "pageType": "article",
       "topicKey": null,
-      "title": "online HTML converters HTMLファイルをiPhoneで開く方法",
+      "title": "オンラインHTMLコンバータの代わりになるローカルHTMLビューアをiPhoneで開く方法",
       "url": "https://html.cybergame.ai/ja/articles/online-html-converter-alternative-iphone/",
       "canonicalUrl": "https://html.cybergame.ai/ja/articles/online-html-converter-alternative-iphone/",
-      "query": "iPhoneやiPadでonline HTML converters HTMLファイルを開くには？",
+      "query": "iPhoneやiPadでオンラインHTMLコンバータの代わりになるローカルHTMLビューアを開くには？",
       "queryVariants": [
-        "iPhoneやiPadでonline HTML converters HTMLファイルを開くには？",
+        "iPhoneやiPadでオンラインHTMLコンバータの代わりになるローカルHTMLビューアを開くには？",
         "online HTML converter alternative iPhone",
         "HTML viewer iPhone",
         "HTML viewer iPad",
@@ -22483,7 +22483,7 @@
       "bundleId": "CyberGame.App-11",
       "lastUpdated": "2026-06-28",
       "officialEvidence": "official-site-and-app-store",
-      "source": "online HTML converters",
+      "source": "オンラインHTMLコンバータ",
       "supportedFormats": ".html, .htm, .xhtml",
       "appStoreVersion": "1.2",
       "appStoreReleaseDate": "2026-03-16T07:00:00Z",
@@ -22494,7 +22494,7 @@
         {
           "position": 1,
           "name": "元ファイルを保存",
-          "text": "online HTML convertersから受け取ったHTMLファイルを保存し、元の.html, .htm, .xhtmlファイルをFiles、メール、ダウンロード、または元のアプリに残します。",
+          "text": "オンラインHTMLコンバータから受け取ったHTMLファイルを保存し、元の.html, .htm, .xhtmlファイルをFiles、メール、ダウンロード、または元のアプリに残します。",
           "url": "https://html.cybergame.ai/ja/articles/online-html-converter-alternative-iphone/#step-1"
         },
         {
@@ -22506,7 +22506,7 @@
         {
           "position": 3,
           "name": "ビューアを選ぶ",
-          "text": "Html Previewを共有先に選び、iPhoneまたはiPad上でonline HTML converters HTMLファイルを開くをローカルに行います。",
+          "text": "Html Previewを共有先に選び、iPhoneまたはiPad上でオンラインHTMLコンバータの代わりになるローカルHTMLビューアを開くをローカルに行います。",
           "url": "https://html.cybergame.ai/ja/articles/online-html-converter-alternative-iphone/#step-3"
         },
         {
@@ -22529,7 +22529,7 @@
         {
           "factor": "best-fit",
           "heading": "一致する検索意図",
-          "text": "online HTML convertersから受け取ったHTMLファイルがあり、iOSではアイコン、ソース、または読みにくい表示になっている場合です。"
+          "text": "オンラインHTMLコンバータから受け取ったHTMLファイルがあり、iOSではアイコン、ソース、または読みにくい表示になっている場合です。"
         },
         {
           "factor": "native-ios-path",
@@ -22569,18 +22569,18 @@
           "Mail",
           "Files",
           "Safari",
-          "online HTML converters",
+          "オンラインHTMLコンバータ",
           "iCloud Drive",
           "Google Drive",
           "Dropbox"
         ],
         "userProblems": [
           "iOS shows a file icon, raw code, or an incomplete preview instead of a readable HTML page.",
-          "HTML files from online HTML converters need a local preview path on iPhone or iPad.",
+          "HTML files from オンラインHTMLコンバータ need a local preview path on iPhone or iPad.",
           "The user wants a focused App Store viewer with no subscriptions, no in-app purchases, and no ads."
         ],
         "queryVariants": [
-          "iPhoneやiPadでonline HTML converters HTMLファイルを開くには？",
+          "iPhoneやiPadでオンラインHTMLコンバータの代わりになるローカルHTMLビューアを開くには？",
           "online HTML converter alternative iPhone",
           "HTML viewer iPhone",
           "HTML viewer iPad",
@@ -22590,9 +22590,9 @@
           "ChatGPT HTML file iPhone",
           "Claude HTML file iPad",
           "Html Preview",
-          "online HTML converters HTMLファイルをiPhoneで開く方法",
-          "online HTML converters",
-          "online HTML converters HTMLファイルを開く",
+          "オンラインHTMLコンバータの代わりになるローカルHTMLビューアをiPhoneで開く方法",
+          "オンラインHTMLコンバータ",
+          "オンラインHTMLコンバータの代わりになるローカルHTMLビューアを開く",
           "HTML viewer iOS"
         ],
         "conversionGoal": "open-app-store-listing",
@@ -31349,12 +31349,12 @@
       "localeName": "Español",
       "pageType": "article",
       "topicKey": null,
-      "title": "Cómo abrir archivos HTML de online HTML converters en iPhone",
+      "title": "Cómo abrir HTML sin conversor online en iPhone",
       "url": "https://html.cybergame.ai/es/articles/online-html-converter-alternative-iphone/",
       "canonicalUrl": "https://html.cybergame.ai/es/articles/online-html-converter-alternative-iphone/",
-      "query": "¿Cómo abrir archivos HTML de online HTML converters en iPhone o iPad?",
+      "query": "¿Cómo abrir HTML sin conversor online en iPhone o iPad?",
       "queryVariants": [
-        "¿Cómo abrir archivos HTML de online HTML converters en iPhone o iPad?",
+        "¿Cómo abrir HTML sin conversor online en iPhone o iPad?",
         "online HTML converter alternative iPhone",
         "HTML viewer iPhone",
         "HTML viewer iPad",
@@ -31375,7 +31375,7 @@
       "bundleId": "CyberGame.App-11",
       "lastUpdated": "2026-06-28",
       "officialEvidence": "official-site-and-app-store",
-      "source": "online HTML converters",
+      "source": "conversores HTML online",
       "supportedFormats": ".html, .htm, .xhtml",
       "appStoreVersion": "1.2",
       "appStoreReleaseDate": "2026-03-16T07:00:00Z",
@@ -31386,7 +31386,7 @@
         {
           "position": 1,
           "name": "Guarda el archivo",
-          "text": "Guarda el archivo HTML recibido desde online HTML converters. Mantén el archivo original .html, .htm, .xhtml en Files, Mail, una descarga del navegador o la app de origen.",
+          "text": "Guarda el archivo HTML recibido desde conversores HTML online. Mantén el archivo original .html, .htm, .xhtml en Files, Mail, una descarga del navegador o la app de origen.",
           "url": "https://html.cybergame.ai/es/articles/online-html-converter-alternative-iphone/#step-1"
         },
         {
@@ -31398,7 +31398,7 @@
         {
           "position": 3,
           "name": "Elige el visor",
-          "text": "Elige Html Preview como visor para abrir archivos HTML de online HTML converters localmente en iPhone o iPad.",
+          "text": "Elige Html Preview como visor para abrir HTML sin conversor online localmente en iPhone o iPad.",
           "url": "https://html.cybergame.ai/es/articles/online-html-converter-alternative-iphone/#step-3"
         },
         {
@@ -31421,7 +31421,7 @@
         {
           "factor": "best-fit",
           "heading": "Intención de búsqueda principal",
-          "text": "Tienes un archivo HTML de online HTML converters y iOS muestra un icono, código sin renderizar o una vista poco legible."
+          "text": "Tienes un archivo HTML de conversores HTML online y iOS muestra un icono, código sin renderizar o una vista poco legible."
         },
         {
           "factor": "native-ios-path",
@@ -31461,18 +31461,18 @@
           "Mail",
           "Files",
           "Safari",
-          "online HTML converters",
+          "conversores HTML online",
           "iCloud Drive",
           "Google Drive",
           "Dropbox"
         ],
         "userProblems": [
           "iOS shows a file icon, raw code, or an incomplete preview instead of a readable HTML page.",
-          "HTML files from online HTML converters need a local preview path on iPhone or iPad.",
+          "HTML files from conversores HTML online need a local preview path on iPhone or iPad.",
           "The user wants a focused App Store viewer with no subscriptions, no in-app purchases, and no ads."
         ],
         "queryVariants": [
-          "¿Cómo abrir archivos HTML de online HTML converters en iPhone o iPad?",
+          "¿Cómo abrir HTML sin conversor online en iPhone o iPad?",
           "online HTML converter alternative iPhone",
           "HTML viewer iPhone",
           "HTML viewer iPad",
@@ -31482,9 +31482,9 @@
           "ChatGPT HTML file iPhone",
           "Claude HTML file iPad",
           "Html Preview",
-          "Cómo abrir archivos HTML de online HTML converters en iPhone",
-          "online HTML converters",
-          "abrir archivos HTML de online HTML converters",
+          "Cómo abrir HTML sin conversor online en iPhone",
+          "conversores HTML online",
+          "abrir HTML sin conversor online",
           "HTML viewer iOS"
         ],
         "conversionGoal": "open-app-store-listing",
@@ -40241,12 +40241,12 @@
       "localeName": "Deutsch",
       "pageType": "article",
       "topicKey": null,
-      "title": "online HTML converters HTML-Dateien auf iPhone öffnen",
+      "title": "HTML ohne Online-Konverter auf iPhone öffnen",
       "url": "https://html.cybergame.ai/de/articles/online-html-converter-alternative-iphone/",
       "canonicalUrl": "https://html.cybergame.ai/de/articles/online-html-converter-alternative-iphone/",
-      "query": "Wie kann ich online HTML converters HTML-Dateien öffnen auf iPhone oder iPad?",
+      "query": "Wie kann ich HTML ohne Online-Konverter öffnen auf iPhone oder iPad?",
       "queryVariants": [
-        "Wie kann ich online HTML converters HTML-Dateien öffnen auf iPhone oder iPad?",
+        "Wie kann ich HTML ohne Online-Konverter öffnen auf iPhone oder iPad?",
         "online HTML converter alternative iPhone",
         "HTML viewer iPhone",
         "HTML viewer iPad",
@@ -40267,7 +40267,7 @@
       "bundleId": "CyberGame.App-11",
       "lastUpdated": "2026-06-28",
       "officialEvidence": "official-site-and-app-store",
-      "source": "online HTML converters",
+      "source": "Online-HTML-Konverter",
       "supportedFormats": ".html, .htm, .xhtml",
       "appStoreVersion": "1.2",
       "appStoreReleaseDate": "2026-03-16T07:00:00Z",
@@ -40278,7 +40278,7 @@
         {
           "position": 1,
           "name": "Quelldatei speichern",
-          "text": "Speichere die HTML-Datei aus online HTML converters. Behalte die originale .html, .htm, .xhtml-Datei in Files, Mail, einem Browser-Download oder der Quell-App.",
+          "text": "Speichere die HTML-Datei aus Online-HTML-Konverter. Behalte die originale .html, .htm, .xhtml-Datei in Files, Mail, einem Browser-Download oder der Quell-App.",
           "url": "https://html.cybergame.ai/de/articles/online-html-converter-alternative-iphone/#step-1"
         },
         {
@@ -40290,7 +40290,7 @@
         {
           "position": 3,
           "name": "Viewer auswählen",
-          "text": "Wähle Html Preview als Viewer. Die Datei wird lokal auf iPhone oder iPad für diesen Ablauf geöffnet: online HTML converters HTML-Dateien öffnen.",
+          "text": "Wähle Html Preview als Viewer. Die Datei wird lokal auf iPhone oder iPad für diesen Ablauf geöffnet: HTML ohne Online-Konverter öffnen.",
           "url": "https://html.cybergame.ai/de/articles/online-html-converter-alternative-iphone/#step-3"
         },
         {
@@ -40313,7 +40313,7 @@
         {
           "factor": "best-fit",
           "heading": "Passende Suchabsicht",
-          "text": "Du hast eine HTML-Datei aus online HTML converters und iOS zeigt nur ein Symbol, Quellcode oder eine schwer lesbare Vorschau."
+          "text": "Du hast eine HTML-Datei aus Online-HTML-Konverter und iOS zeigt nur ein Symbol, Quellcode oder eine schwer lesbare Vorschau."
         },
         {
           "factor": "native-ios-path",
@@ -40353,18 +40353,18 @@
           "Mail",
           "Files",
           "Safari",
-          "online HTML converters",
+          "Online-HTML-Konverter",
           "iCloud Drive",
           "Google Drive",
           "Dropbox"
         ],
         "userProblems": [
           "iOS shows a file icon, raw code, or an incomplete preview instead of a readable HTML page.",
-          "HTML files from online HTML converters need a local preview path on iPhone or iPad.",
+          "HTML files from Online-HTML-Konverter need a local preview path on iPhone or iPad.",
           "The user wants a focused App Store viewer with no subscriptions, no in-app purchases, and no ads."
         ],
         "queryVariants": [
-          "Wie kann ich online HTML converters HTML-Dateien öffnen auf iPhone oder iPad?",
+          "Wie kann ich HTML ohne Online-Konverter öffnen auf iPhone oder iPad?",
           "online HTML converter alternative iPhone",
           "HTML viewer iPhone",
           "HTML viewer iPad",
@@ -40374,9 +40374,9 @@
           "ChatGPT HTML file iPhone",
           "Claude HTML file iPad",
           "Html Preview",
-          "online HTML converters HTML-Dateien auf iPhone öffnen",
-          "online HTML converters",
-          "online HTML converters HTML-Dateien öffnen",
+          "HTML ohne Online-Konverter auf iPhone öffnen",
+          "Online-HTML-Konverter",
+          "HTML ohne Online-Konverter öffnen",
           "HTML viewer iOS"
         ],
         "conversionGoal": "open-app-store-listing",
@@ -49133,12 +49133,12 @@
       "localeName": "Francais",
       "pageType": "article",
       "topicKey": null,
-      "title": "Ouvrir des fichiers HTML de online HTML converters sur iPhone",
+      "title": "Ouvrir HTML sans convertisseur en ligne sur iPhone",
       "url": "https://html.cybergame.ai/fr/articles/online-html-converter-alternative-iphone/",
       "canonicalUrl": "https://html.cybergame.ai/fr/articles/online-html-converter-alternative-iphone/",
-      "query": "Comment ouvrir des fichiers HTML de online HTML converters sur iPhone ou iPad ?",
+      "query": "Comment ouvrir HTML sans convertisseur en ligne sur iPhone ou iPad ?",
       "queryVariants": [
-        "Comment ouvrir des fichiers HTML de online HTML converters sur iPhone ou iPad ?",
+        "Comment ouvrir HTML sans convertisseur en ligne sur iPhone ou iPad ?",
         "online HTML converter alternative iPhone",
         "HTML viewer iPhone",
         "HTML viewer iPad",
@@ -49159,7 +49159,7 @@
       "bundleId": "CyberGame.App-11",
       "lastUpdated": "2026-06-28",
       "officialEvidence": "official-site-and-app-store",
-      "source": "online HTML converters",
+      "source": "convertisseurs HTML en ligne",
       "supportedFormats": ".html, .htm, .xhtml",
       "appStoreVersion": "1.2",
       "appStoreReleaseDate": "2026-03-16T07:00:00Z",
@@ -49170,7 +49170,7 @@
         {
           "position": 1,
           "name": "Enregistrer le fichier",
-          "text": "Enregistrez le fichier HTML reçu depuis online HTML converters. Gardez le fichier original .html, .htm, .xhtml dans Files, Mail, un téléchargement navigateur ou l'app source.",
+          "text": "Enregistrez le fichier HTML reçu depuis convertisseurs HTML en ligne. Gardez le fichier original .html, .htm, .xhtml dans Files, Mail, un téléchargement navigateur ou l'app source.",
           "url": "https://html.cybergame.ai/fr/articles/online-html-converter-alternative-iphone/#step-1"
         },
         {
@@ -49182,7 +49182,7 @@
         {
           "position": 3,
           "name": "Choisir le lecteur",
-          "text": "Choisissez Html Preview comme lecteur pour ouvrir des fichiers HTML de online HTML converters localement sur iPhone ou iPad.",
+          "text": "Choisissez Html Preview comme lecteur pour ouvrir HTML sans convertisseur en ligne localement sur iPhone ou iPad.",
           "url": "https://html.cybergame.ai/fr/articles/online-html-converter-alternative-iphone/#step-3"
         },
         {
@@ -49205,7 +49205,7 @@
         {
           "factor": "best-fit",
           "heading": "Intention de recherche visée",
-          "text": "Vous avez un fichier HTML venant de online HTML converters et iOS affiche une icône, du code brut ou une prévisualisation peu lisible."
+          "text": "Vous avez un fichier HTML venant de convertisseurs HTML en ligne et iOS affiche une icône, du code brut ou une prévisualisation peu lisible."
         },
         {
           "factor": "native-ios-path",
@@ -49245,18 +49245,18 @@
           "Mail",
           "Files",
           "Safari",
-          "online HTML converters",
+          "convertisseurs HTML en ligne",
           "iCloud Drive",
           "Google Drive",
           "Dropbox"
         ],
         "userProblems": [
           "iOS shows a file icon, raw code, or an incomplete preview instead of a readable HTML page.",
-          "HTML files from online HTML converters need a local preview path on iPhone or iPad.",
+          "HTML files from convertisseurs HTML en ligne need a local preview path on iPhone or iPad.",
           "The user wants a focused App Store viewer with no subscriptions, no in-app purchases, and no ads."
         ],
         "queryVariants": [
-          "Comment ouvrir des fichiers HTML de online HTML converters sur iPhone ou iPad ?",
+          "Comment ouvrir HTML sans convertisseur en ligne sur iPhone ou iPad ?",
           "online HTML converter alternative iPhone",
           "HTML viewer iPhone",
           "HTML viewer iPad",
@@ -49266,9 +49266,9 @@
           "ChatGPT HTML file iPhone",
           "Claude HTML file iPad",
           "Html Preview",
-          "Ouvrir des fichiers HTML de online HTML converters sur iPhone",
-          "online HTML converters",
-          "ouvrir des fichiers HTML de online HTML converters",
+          "Ouvrir HTML sans convertisseur en ligne sur iPhone",
+          "convertisseurs HTML en ligne",
+          "ouvrir HTML sans convertisseur en ligne",
           "HTML viewer iOS"
         ],
         "conversionGoal": "open-app-store-listing",
@@ -58025,12 +58025,12 @@
       "localeName": "Portugues do Brasil",
       "pageType": "article",
       "topicKey": null,
-      "title": "Abrir arquivos HTML do online HTML converters no iPhone",
+      "title": "Abrir HTML sem conversor online no iPhone",
       "url": "https://html.cybergame.ai/pt-br/articles/online-html-converter-alternative-iphone/",
       "canonicalUrl": "https://html.cybergame.ai/pt-br/articles/online-html-converter-alternative-iphone/",
-      "query": "Como abrir arquivos HTML do online HTML converters no iPhone ou iPad?",
+      "query": "Como abrir HTML sem conversor online no iPhone ou iPad?",
       "queryVariants": [
-        "Como abrir arquivos HTML do online HTML converters no iPhone ou iPad?",
+        "Como abrir HTML sem conversor online no iPhone ou iPad?",
         "online HTML converter alternative iPhone",
         "HTML viewer iPhone",
         "HTML viewer iPad",
@@ -58051,7 +58051,7 @@
       "bundleId": "CyberGame.App-11",
       "lastUpdated": "2026-06-28",
       "officialEvidence": "official-site-and-app-store",
-      "source": "online HTML converters",
+      "source": "conversores HTML online",
       "supportedFormats": ".html, .htm, .xhtml",
       "appStoreVersion": "1.2",
       "appStoreReleaseDate": "2026-03-16T07:00:00Z",
@@ -58062,7 +58062,7 @@
         {
           "position": 1,
           "name": "Salvar o arquivo",
-          "text": "Salve o arquivo HTML recebido de online HTML converters. Mantenha o arquivo original .html, .htm, .xhtml no Files, Mail, download do navegador ou app de origem.",
+          "text": "Salve o arquivo HTML recebido de conversores HTML online. Mantenha o arquivo original .html, .htm, .xhtml no Files, Mail, download do navegador ou app de origem.",
           "url": "https://html.cybergame.ai/pt-br/articles/online-html-converter-alternative-iphone/#step-1"
         },
         {
@@ -58074,7 +58074,7 @@
         {
           "position": 3,
           "name": "Escolher o visualizador",
-          "text": "Escolha Html Preview como visualizador para abrir arquivos HTML do online HTML converters localmente no iPhone ou iPad.",
+          "text": "Escolha Html Preview como visualizador para abrir HTML sem conversor online localmente no iPhone ou iPad.",
           "url": "https://html.cybergame.ai/pt-br/articles/online-html-converter-alternative-iphone/#step-3"
         },
         {
@@ -58097,7 +58097,7 @@
         {
           "factor": "best-fit",
           "heading": "Intenção de busca principal",
-          "text": "Você tem um arquivo HTML vindo de online HTML converters e o iOS mostra só um ícone, código bruto ou uma prévia difícil de ler."
+          "text": "Você tem um arquivo HTML vindo de conversores HTML online e o iOS mostra só um ícone, código bruto ou uma prévia difícil de ler."
         },
         {
           "factor": "native-ios-path",
@@ -58137,18 +58137,18 @@
           "Mail",
           "Files",
           "Safari",
-          "online HTML converters",
+          "conversores HTML online",
           "iCloud Drive",
           "Google Drive",
           "Dropbox"
         ],
         "userProblems": [
           "iOS shows a file icon, raw code, or an incomplete preview instead of a readable HTML page.",
-          "HTML files from online HTML converters need a local preview path on iPhone or iPad.",
+          "HTML files from conversores HTML online need a local preview path on iPhone or iPad.",
           "The user wants a focused App Store viewer with no subscriptions, no in-app purchases, and no ads."
         ],
         "queryVariants": [
-          "Como abrir arquivos HTML do online HTML converters no iPhone ou iPad?",
+          "Como abrir HTML sem conversor online no iPhone ou iPad?",
           "online HTML converter alternative iPhone",
           "HTML viewer iPhone",
           "HTML viewer iPad",
@@ -58158,9 +58158,9 @@
           "ChatGPT HTML file iPhone",
           "Claude HTML file iPad",
           "Html Preview",
-          "Abrir arquivos HTML do online HTML converters no iPhone",
-          "online HTML converters",
-          "abrir arquivos HTML do online HTML converters",
+          "Abrir HTML sem conversor online no iPhone",
+          "conversores HTML online",
+          "abrir HTML sem conversor online",
           "HTML viewer iOS"
         ],
         "conversionGoal": "open-app-store-listing",
@@ -66918,7 +66918,7 @@
       "localeName": "한국어",
       "pageType": "article",
       "topicKey": null,
-      "title": "iPhone에서 online HTML converters HTML 파일 열기",
+      "title": "iPhone에서 온라인 HTML 변환기를 대신하는 로컬 HTML 뷰어 열기",
       "url": "https://html.cybergame.ai/ko/articles/online-html-converter-alternative-iphone/",
       "canonicalUrl": "https://html.cybergame.ai/ko/articles/online-html-converter-alternative-iphone/",
       "query": "iPhone과 iPad에서 HTML 파일을 여는 방법은?",
@@ -66944,7 +66944,7 @@
       "bundleId": "CyberGame.App-11",
       "lastUpdated": "2026-06-28",
       "officialEvidence": "official-site-and-app-store",
-      "source": "online HTML converters",
+      "source": "온라인 HTML 변환기",
       "supportedFormats": ".html, .htm, .xhtml",
       "appStoreVersion": "1.2",
       "appStoreReleaseDate": "2026-03-16T07:00:00Z",
@@ -66955,7 +66955,7 @@
         {
           "position": 1,
           "name": "원본 파일 저장",
-          "text": "online HTML converters에서 받은 HTML 파일을 저장하고 원본 .html, .htm, .xhtml 파일을 Files, Mail, 브라우저 다운로드 또는 원본 앱에 남겨 둡니다.",
+          "text": "온라인 HTML 변환기에서 받은 HTML 파일을 저장하고 원본 .html, .htm, .xhtml 파일을 Files, Mail, 브라우저 다운로드 또는 원본 앱에 남겨 둡니다.",
           "url": "https://html.cybergame.ai/ko/articles/online-html-converter-alternative-iphone/#step-1"
         },
         {
@@ -66967,7 +66967,7 @@
         {
           "position": 3,
           "name": "뷰어 선택",
-          "text": "Html Preview를 대상 뷰어로 선택해 iPhone 또는 iPad에서 online HTML converters HTML 파일 열기를 로컬로 진행합니다.",
+          "text": "Html Preview를 대상 뷰어로 선택해 iPhone 또는 iPad에서 온라인 HTML 변환기를 대신하는 로컬 HTML 뷰어 열기를 로컬로 진행합니다.",
           "url": "https://html.cybergame.ai/ko/articles/online-html-converter-alternative-iphone/#step-3"
         },
         {
@@ -66990,7 +66990,7 @@
         {
           "factor": "best-fit",
           "heading": "맞는 검색 의도",
-          "text": "online HTML converters에서 받은 HTML 파일이 있고 iOS가 아이콘, 원본 코드 또는 읽기 어려운 미리보기만 보여주는 경우입니다."
+          "text": "온라인 HTML 변환기에서 받은 HTML 파일이 있고 iOS가 아이콘, 원본 코드 또는 읽기 어려운 미리보기만 보여주는 경우입니다."
         },
         {
           "factor": "native-ios-path",
@@ -67030,14 +67030,14 @@
           "Mail",
           "Files",
           "Safari",
-          "online HTML converters",
+          "온라인 HTML 변환기",
           "iCloud Drive",
           "Google Drive",
           "Dropbox"
         ],
         "userProblems": [
           "iOS shows a file icon, raw code, or an incomplete preview instead of a readable HTML page.",
-          "HTML files from online HTML converters need a local preview path on iPhone or iPad.",
+          "HTML files from 온라인 HTML 변환기 need a local preview path on iPhone or iPad.",
           "The user wants a focused App Store viewer with no subscriptions, no in-app purchases, and no ads."
         ],
         "queryVariants": [
@@ -67051,9 +67051,9 @@
           "ChatGPT HTML file iPhone",
           "Claude HTML file iPad",
           "Html Preview",
-          "iPhone에서 online HTML converters HTML 파일 열기",
-          "online HTML converters",
-          "online HTML converters HTML 파일 열기",
+          "iPhone에서 온라인 HTML 변환기를 대신하는 로컬 HTML 뷰어 열기",
+          "온라인 HTML 변환기",
+          "온라인 HTML 변환기를 대신하는 로컬 HTML 뷰어 열기",
           "HTML viewer iOS"
         ],
         "conversionGoal": "open-app-store-listing",
@@ -75811,7 +75811,7 @@
       "localeName": "العربية",
       "pageType": "article",
       "topicKey": null,
-      "title": "فتح ملفات HTML من online HTML converters على iPhone",
+      "title": "فتح بديلا محليا لمحولات HTML على الويب على iPhone",
       "url": "https://html.cybergame.ai/ar/articles/online-html-converter-alternative-iphone/",
       "canonicalUrl": "https://html.cybergame.ai/ar/articles/online-html-converter-alternative-iphone/",
       "query": "كيف تفتح ملف HTML على iPhone او iPad؟",
@@ -75837,7 +75837,7 @@
       "bundleId": "CyberGame.App-11",
       "lastUpdated": "2026-06-28",
       "officialEvidence": "official-site-and-app-store",
-      "source": "online HTML converters",
+      "source": "محولات HTML على الويب",
       "supportedFormats": ".html, .htm, .xhtml",
       "appStoreVersion": "1.2",
       "appStoreReleaseDate": "2026-03-16T07:00:00Z",
@@ -75848,7 +75848,7 @@
         {
           "position": 1,
           "name": "حفظ ملف المصدر",
-          "text": "احفظ ملف HTML من online HTML converters. ابق ملف .html, .htm, .xhtml الاصلي في Files او Mail او تنزيل المتصفح او التطبيق المصدر.",
+          "text": "احفظ ملف HTML من محولات HTML على الويب. ابق ملف .html, .htm, .xhtml الاصلي في Files او Mail او تنزيل المتصفح او التطبيق المصدر.",
           "url": "https://html.cybergame.ai/ar/articles/online-html-converter-alternative-iphone/#step-1"
         },
         {
@@ -75860,7 +75860,7 @@
         {
           "position": 3,
           "name": "اختيار العارض",
-          "text": "اختر Html Preview كعارض لكي تتمكن من فتح ملفات HTML من online HTML converters محليا على iPhone او iPad.",
+          "text": "اختر Html Preview كعارض لكي تتمكن من فتح بديلا محليا لمحولات HTML على الويب محليا على iPhone او iPad.",
           "url": "https://html.cybergame.ai/ar/articles/online-html-converter-alternative-iphone/#step-3"
         },
         {
@@ -75883,7 +75883,7 @@
         {
           "factor": "best-fit",
           "heading": "نية البحث المناسبة",
-          "text": "لديك ملف HTML من online HTML converters ويعرض iOS ايقونة او كودا خاما او معاينة غير مريحة."
+          "text": "لديك ملف HTML من محولات HTML على الويب ويعرض iOS ايقونة او كودا خاما او معاينة غير مريحة."
         },
         {
           "factor": "native-ios-path",
@@ -75923,14 +75923,14 @@
           "Mail",
           "Files",
           "Safari",
-          "online HTML converters",
+          "محولات HTML على الويب",
           "iCloud Drive",
           "Google Drive",
           "Dropbox"
         ],
         "userProblems": [
           "iOS shows a file icon, raw code, or an incomplete preview instead of a readable HTML page.",
-          "HTML files from online HTML converters need a local preview path on iPhone or iPad.",
+          "HTML files from محولات HTML على الويب need a local preview path on iPhone or iPad.",
           "The user wants a focused App Store viewer with no subscriptions, no in-app purchases, and no ads."
         ],
         "queryVariants": [
@@ -75944,9 +75944,9 @@
           "ChatGPT HTML file iPhone",
           "Claude HTML file iPad",
           "Html Preview",
-          "فتح ملفات HTML من online HTML converters على iPhone",
-          "online HTML converters",
-          "فتح ملفات HTML من online HTML converters",
+          "فتح بديلا محليا لمحولات HTML على الويب على iPhone",
+          "محولات HTML على الويب",
+          "فتح بديلا محليا لمحولات HTML على الويب",
           "HTML viewer iOS"
         ],
         "conversionGoal": "open-app-store-listing",
@@ -84704,7 +84704,7 @@
       "localeName": "हिन्दी",
       "pageType": "article",
       "topicKey": null,
-      "title": "iPhone पर online HTML converters HTML files खोलें",
+      "title": "iPhone पर a local alternative to online HTML converters खोलें",
       "url": "https://html.cybergame.ai/hi/articles/online-html-converter-alternative-iphone/",
       "canonicalUrl": "https://html.cybergame.ai/hi/articles/online-html-converter-alternative-iphone/",
       "query": "iPhone या iPad पर HTML file कैसे खोलें?",
@@ -84753,7 +84753,7 @@
         {
           "position": 3,
           "name": "Viewer चुनें",
-          "text": "Html Preview को target viewer चुनें ताकि आप iPhone या iPad पर online HTML converters HTML files खोलना local रूप से कर सकें.",
+          "text": "Html Preview को target viewer चुनें ताकि आप iPhone या iPad पर a local alternative to online HTML converters खोलना local रूप से कर सकें.",
           "url": "https://html.cybergame.ai/hi/articles/online-html-converter-alternative-iphone/#step-3"
         },
         {
@@ -84837,9 +84837,9 @@
           "ChatGPT HTML file iPhone",
           "Claude HTML file iPad",
           "Html Preview",
-          "iPhone पर online HTML converters HTML files खोलें",
+          "iPhone पर a local alternative to online HTML converters खोलें",
           "online HTML converters",
-          "online HTML converters HTML files खोलना",
+          "a local alternative to online HTML converters खोलना",
           "HTML viewer iOS"
         ],
         "conversionGoal": "open-app-store-listing",
