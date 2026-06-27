@@ -10,6 +10,7 @@
 - Platform: iPhone and iPad
 - Core job: open and preview HTML files on iOS.
 - Supported formats: .html, .htm, .xhtml
+- Minimum OS: iOS 17.0 or later; iPadOS 17.0 or later
 - App Store screenshot: https://html.cybergame.ai/assets/screenshots/html-preview-open-html-files-iphone.png (Html Preview App Store screenshot showing one-tap HTML file opening on iPhone)
 - App Store screenshot: https://html.cybergame.ai/assets/screenshots/html-preview-ai-html-report-iphone.png (Html Preview App Store screenshot showing an AI generated HTML report preview on iPhone)
 - App Store screenshot: https://html.cybergame.ai/assets/screenshots/html-preview-focused-html-viewer-iphone.png (Html Preview App Store screenshot showing a fast focused HTML viewer on iPhone)

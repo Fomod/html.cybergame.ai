@@ -48,6 +48,8 @@
       "iPhone",
       "iPad"
     ],
+    "minimumOsVersion": "17.0",
+    "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
     "fileHandling": "local preview on device",
     "subscriptions": "none",
     "inAppPurchases": "none",
@@ -91,6 +93,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ChatGPT, Claude, Gemini, Mail, Files, Safari",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [],
       "articleUrls": [],
@@ -274,6 +278,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ChatGPT, Claude, Gemini, Mail, Files, Safari",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -482,6 +488,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ChatGPT, Claude, Gemini, Mail, Files, Safari",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://html.cybergame.ai/articles/open-chatgpt-html-file-on-iphone/",
@@ -717,6 +725,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ChatGPT, Claude, Gemini, ChatGPT on iPad, AI-generated reports, Claude Artifacts, ChatGPT downloads, Gemini",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://html.cybergame.ai/articles/open-chatgpt-html-file-on-iphone/",
@@ -919,6 +929,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Mail, Files, Safari, WeChat, WhatsApp, Gmail, Outlook, Files, AirDrop, iCloud Drive, Safari Downloads, iCloud Drive",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://html.cybergame.ai/articles/open-html-email-attachment-on-iphone/",
@@ -1131,6 +1143,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Google Drive, Dropbox",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://html.cybergame.ai/articles/open-html-file-from-google-drive-on-iphone/",
@@ -1320,6 +1334,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": ".htm files, .xhtml files",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://html.cybergame.ai/articles/open-htm-file-on-iphone/",
@@ -1511,6 +1527,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "offline files",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://html.cybergame.ai/articles/offline-html-viewer-for-iphone/"
@@ -1699,6 +1717,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "iPhone and iPad",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://html.cybergame.ai/articles/best-html-viewer-for-iphone-ipad/"
@@ -1888,6 +1908,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ChatGPT, Claude, Gemini",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -2103,6 +2125,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ChatGPT on iPad",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -2319,6 +2343,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "iPhone and iPad",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -2536,6 +2562,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Mail, Gmail, Outlook",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -2753,6 +2781,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Gmail",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -2969,6 +2999,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Outlook",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -3185,6 +3217,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Files, AirDrop, iCloud Drive",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -3401,6 +3435,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Safari Downloads",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -3617,6 +3653,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "iCloud Drive",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -3832,6 +3870,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "offline files",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -4048,6 +4088,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "zipped HTML exports",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -4264,6 +4306,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "local HTML files",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -4480,6 +4524,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "AI-generated reports",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -4696,6 +4742,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": ".htm files",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -4912,6 +4960,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": ".xhtml files",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -5128,6 +5178,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Google Drive",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -5343,6 +5395,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Dropbox",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -5558,6 +5612,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "AirDrop",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -5774,6 +5830,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "WeChat and WhatsApp",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -5991,6 +6049,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Claude Artifacts",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -6207,6 +6267,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ChatGPT downloads",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -6423,6 +6485,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Gemini",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -6638,6 +6702,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Notion exports",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -6854,6 +6920,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "GitHub files",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -7070,6 +7138,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "AI dashboards",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -7286,6 +7356,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ChatGPT, Claude, Gemini, Mail, Files, Safari",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [],
       "articleUrls": [],
@@ -7469,6 +7541,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ChatGPT, Claude, Gemini, Mail, Files, Safari",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -7677,6 +7751,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ChatGPT, Claude, Gemini, Mail, Files, Safari",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://html.cybergame.ai/zh/articles/open-chatgpt-html-file-on-iphone/",
@@ -7912,6 +7988,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ChatGPT, Claude, Gemini, ChatGPT on iPad, AI-generated reports, Claude Artifacts, ChatGPT downloads, Gemini",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://html.cybergame.ai/zh/articles/open-chatgpt-html-file-on-iphone/",
@@ -8114,6 +8192,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Mail, Files, Safari, WeChat, WhatsApp, Gmail, Outlook, Files, AirDrop, iCloud Drive, Safari Downloads, iCloud Drive",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://html.cybergame.ai/zh/articles/open-html-email-attachment-on-iphone/",
@@ -8326,6 +8406,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Google Drive, Dropbox",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://html.cybergame.ai/zh/articles/open-html-file-from-google-drive-on-iphone/",
@@ -8515,6 +8597,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": ".htm files, .xhtml files",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://html.cybergame.ai/zh/articles/open-htm-file-on-iphone/",
@@ -8706,6 +8790,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "offline files",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://html.cybergame.ai/zh/articles/offline-html-viewer-for-iphone/"
@@ -8894,6 +8980,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "iPhone and iPad",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://html.cybergame.ai/zh/articles/best-html-viewer-for-iphone-ipad/"
@@ -9083,6 +9171,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ChatGPT, Claude, Gemini",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -9298,6 +9388,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "iPad 上的 ChatGPT",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -9514,6 +9606,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "iPhone and iPad",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -9731,6 +9825,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Mail、Gmail、Outlook",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -9948,6 +10044,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Gmail",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -10164,6 +10262,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Outlook",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -10380,6 +10480,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Files、AirDrop、iCloud Drive",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -10596,6 +10698,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Safari 下载",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -10812,6 +10916,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "iCloud Drive",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -11027,6 +11133,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "离线文件",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -11243,6 +11351,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ZIP HTML 导出包",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -11459,6 +11569,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "本地 HTML 文件",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -11675,6 +11787,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "AI 生成报告",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -11891,6 +12005,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": ".htm 文件",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -12107,6 +12223,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": ".xhtml 文件",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -12323,6 +12441,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Google Drive",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -12538,6 +12658,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Dropbox",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -12753,6 +12875,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "AirDrop",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -12969,6 +13093,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "微信和 WhatsApp",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -13185,6 +13311,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Claude Artifacts",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -13401,6 +13529,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ChatGPT 下载",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -13617,6 +13747,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Gemini",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -13832,6 +13964,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Notion 导出",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -14048,6 +14182,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "GitHub 文件",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -14264,6 +14400,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "AI 数据面板",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -14480,6 +14618,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ChatGPT, Claude, Gemini, Mail, Files, Safari",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [],
       "articleUrls": [],
@@ -14663,6 +14803,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ChatGPT, Claude, Gemini, Mail, Files, Safari",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -14871,6 +15013,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ChatGPT, Claude, Gemini, Mail, Files, Safari",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://html.cybergame.ai/ja/articles/open-chatgpt-html-file-on-iphone/",
@@ -15106,6 +15250,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ChatGPT, Claude, Gemini, ChatGPT on iPad, AI-generated reports, Claude Artifacts, ChatGPT downloads, Gemini",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://html.cybergame.ai/ja/articles/open-chatgpt-html-file-on-iphone/",
@@ -15308,6 +15454,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Mail, Files, Safari, WeChat, WhatsApp, Gmail, Outlook, Files, AirDrop, iCloud Drive, Safari Downloads, iCloud Drive",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://html.cybergame.ai/ja/articles/open-html-email-attachment-on-iphone/",
@@ -15520,6 +15668,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Google Drive, Dropbox",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://html.cybergame.ai/ja/articles/open-html-file-from-google-drive-on-iphone/",
@@ -15709,6 +15859,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": ".htm files, .xhtml files",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://html.cybergame.ai/ja/articles/open-htm-file-on-iphone/",
@@ -15900,6 +16052,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "offline files",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://html.cybergame.ai/ja/articles/offline-html-viewer-for-iphone/"
@@ -16088,6 +16242,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "iPhone and iPad",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://html.cybergame.ai/ja/articles/best-html-viewer-for-iphone-ipad/"
@@ -16277,6 +16433,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ChatGPT、Claude、Gemini",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -16492,6 +16650,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ChatGPT on iPad",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -16708,6 +16868,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "iPhoneとiPad",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -16924,6 +17086,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Mail、Gmail、Outlook",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -17141,6 +17305,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Gmail",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -17357,6 +17523,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Outlook",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -17573,6 +17741,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Files、AirDrop、iCloud Drive",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -17789,6 +17959,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Safariダウンロード",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -18005,6 +18177,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "iCloud Drive",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -18220,6 +18394,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "オフラインファイル",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -18436,6 +18612,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "zipped HTML exports",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -18652,6 +18830,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "local HTML files",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -18868,6 +19048,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "AI生成レポート",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -19084,6 +19266,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": ".htmファイル",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -19300,6 +19484,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": ".xhtmlファイル",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -19516,6 +19702,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Google Drive",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -19731,6 +19919,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Dropbox",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -19946,6 +20136,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "AirDrop",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -20162,6 +20354,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "WeChatとWhatsApp",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -20378,6 +20572,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Claude Artifacts",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -20594,6 +20790,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ChatGPTのダウンロード",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -20810,6 +21008,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Gemini",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -21025,6 +21225,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Notionエクスポート",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -21241,6 +21443,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "GitHubファイル",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -21457,6 +21661,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "AIダッシュボード",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -21673,6 +21879,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ChatGPT, Claude, Gemini, Mail, Files, Safari",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [],
       "articleUrls": [],
@@ -21856,6 +22064,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ChatGPT, Claude, Gemini, Mail, Files, Safari",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -22064,6 +22274,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ChatGPT, Claude, Gemini, Mail, Files, Safari",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://html.cybergame.ai/es/articles/open-chatgpt-html-file-on-iphone/",
@@ -22299,6 +22511,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ChatGPT, Claude, Gemini, ChatGPT on iPad, AI-generated reports, Claude Artifacts, ChatGPT downloads, Gemini",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://html.cybergame.ai/es/articles/open-chatgpt-html-file-on-iphone/",
@@ -22501,6 +22715,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Mail, Files, Safari, WeChat, WhatsApp, Gmail, Outlook, Files, AirDrop, iCloud Drive, Safari Downloads, iCloud Drive",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://html.cybergame.ai/es/articles/open-html-email-attachment-on-iphone/",
@@ -22713,6 +22929,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Google Drive, Dropbox",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://html.cybergame.ai/es/articles/open-html-file-from-google-drive-on-iphone/",
@@ -22902,6 +23120,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": ".htm files, .xhtml files",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://html.cybergame.ai/es/articles/open-htm-file-on-iphone/",
@@ -23093,6 +23313,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "offline files",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://html.cybergame.ai/es/articles/offline-html-viewer-for-iphone/"
@@ -23281,6 +23503,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "iPhone and iPad",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://html.cybergame.ai/es/articles/best-html-viewer-for-iphone-ipad/"
@@ -23470,6 +23694,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ChatGPT, Claude y Gemini",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -23686,6 +23912,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ChatGPT on iPad",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -23902,6 +24130,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "iPhone y iPad",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -24118,6 +24348,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Mail, Gmail y Outlook",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -24334,6 +24566,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Gmail",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -24550,6 +24784,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Outlook",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -24766,6 +25002,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Files, AirDrop e iCloud Drive",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -24982,6 +25220,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Descargas de Safari",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -25198,6 +25438,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "iCloud Drive",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -25413,6 +25655,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "archivos offline",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -25629,6 +25873,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "zipped HTML exports",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -25845,6 +26091,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "local HTML files",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -26061,6 +26309,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "informes generados por IA",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -26277,6 +26527,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "archivos .htm",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -26493,6 +26745,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "archivos .xhtml",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -26709,6 +26963,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Google Drive",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -26924,6 +27180,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Dropbox",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -27139,6 +27397,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "AirDrop",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -27355,6 +27615,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "WeChat y WhatsApp",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -27571,6 +27833,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Claude Artifacts",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -27787,6 +28051,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "descargas de ChatGPT",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -28003,6 +28269,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Gemini",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -28218,6 +28486,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "exportaciones de Notion",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -28434,6 +28704,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "archivos de GitHub",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -28650,6 +28922,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "paneles de IA",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -28866,6 +29140,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ChatGPT, Claude, Gemini, Mail, Files, Safari",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [],
       "articleUrls": [],
@@ -29049,6 +29325,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ChatGPT, Claude, Gemini, Mail, Files, Safari",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -29257,6 +29535,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ChatGPT, Claude, Gemini, Mail, Files, Safari",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://html.cybergame.ai/de/articles/open-chatgpt-html-file-on-iphone/",
@@ -29492,6 +29772,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ChatGPT, Claude, Gemini, ChatGPT on iPad, AI-generated reports, Claude Artifacts, ChatGPT downloads, Gemini",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://html.cybergame.ai/de/articles/open-chatgpt-html-file-on-iphone/",
@@ -29694,6 +29976,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Mail, Files, Safari, WeChat, WhatsApp, Gmail, Outlook, Files, AirDrop, iCloud Drive, Safari Downloads, iCloud Drive",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://html.cybergame.ai/de/articles/open-html-email-attachment-on-iphone/",
@@ -29906,6 +30190,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Google Drive, Dropbox",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://html.cybergame.ai/de/articles/open-html-file-from-google-drive-on-iphone/",
@@ -30095,6 +30381,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": ".htm files, .xhtml files",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://html.cybergame.ai/de/articles/open-htm-file-on-iphone/",
@@ -30286,6 +30574,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "offline files",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://html.cybergame.ai/de/articles/offline-html-viewer-for-iphone/"
@@ -30474,6 +30764,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "iPhone and iPad",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://html.cybergame.ai/de/articles/best-html-viewer-for-iphone-ipad/"
@@ -30663,6 +30955,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ChatGPT, Claude und Gemini",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -30879,6 +31173,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ChatGPT on iPad",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -31095,6 +31391,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "iPhone und iPad",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -31311,6 +31609,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Mail, Gmail und Outlook",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -31527,6 +31827,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Gmail",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -31743,6 +32045,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Outlook",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -31959,6 +32263,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Files, AirDrop und iCloud Drive",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -32175,6 +32481,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Safari-Downloads",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -32391,6 +32699,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "iCloud Drive",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -32606,6 +32916,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Offline-Dateien",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -32822,6 +33134,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "zipped HTML exports",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -33038,6 +33352,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "local HTML files",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -33254,6 +33570,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "KI-generierte Berichte",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -33470,6 +33788,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": ".htm-Dateien",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -33686,6 +34006,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": ".xhtml-Dateien",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -33902,6 +34224,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Google Drive",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -34117,6 +34441,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Dropbox",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -34332,6 +34658,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "AirDrop",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -34548,6 +34876,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "WeChat und WhatsApp",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -34764,6 +35094,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Claude Artifacts",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -34980,6 +35312,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ChatGPT-Downloads",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -35196,6 +35530,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Gemini",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -35411,6 +35747,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Notion-Exporte",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -35627,6 +35965,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "GitHub-Dateien",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -35843,6 +36183,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "KI-Dashboards",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -36059,6 +36401,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ChatGPT, Claude, Gemini, Mail, Files, Safari",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [],
       "articleUrls": [],
@@ -36242,6 +36586,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ChatGPT, Claude, Gemini, Mail, Files, Safari",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -36450,6 +36796,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ChatGPT, Claude, Gemini, Mail, Files, Safari",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://html.cybergame.ai/fr/articles/open-chatgpt-html-file-on-iphone/",
@@ -36685,6 +37033,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ChatGPT, Claude, Gemini, ChatGPT on iPad, AI-generated reports, Claude Artifacts, ChatGPT downloads, Gemini",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://html.cybergame.ai/fr/articles/open-chatgpt-html-file-on-iphone/",
@@ -36887,6 +37237,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Mail, Files, Safari, WeChat, WhatsApp, Gmail, Outlook, Files, AirDrop, iCloud Drive, Safari Downloads, iCloud Drive",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://html.cybergame.ai/fr/articles/open-html-email-attachment-on-iphone/",
@@ -37099,6 +37451,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Google Drive, Dropbox",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://html.cybergame.ai/fr/articles/open-html-file-from-google-drive-on-iphone/",
@@ -37288,6 +37642,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": ".htm files, .xhtml files",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://html.cybergame.ai/fr/articles/open-htm-file-on-iphone/",
@@ -37479,6 +37835,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "offline files",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://html.cybergame.ai/fr/articles/offline-html-viewer-for-iphone/"
@@ -37667,6 +38025,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "iPhone and iPad",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://html.cybergame.ai/fr/articles/best-html-viewer-for-iphone-ipad/"
@@ -37856,6 +38216,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ChatGPT, Claude et Gemini",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -38072,6 +38434,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ChatGPT on iPad",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -38288,6 +38652,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "iPhone et iPad",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -38504,6 +38870,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Mail, Gmail et Outlook",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -38720,6 +39088,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Gmail",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -38936,6 +39306,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Outlook",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -39152,6 +39524,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Files, AirDrop et iCloud Drive",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -39368,6 +39742,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "téléchargements Safari",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -39584,6 +39960,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "iCloud Drive",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -39799,6 +40177,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "fichiers hors ligne",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -40015,6 +40395,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "zipped HTML exports",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -40231,6 +40613,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "local HTML files",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -40447,6 +40831,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "rapports générés par IA",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -40663,6 +41049,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "fichiers .htm",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -40879,6 +41267,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "fichiers .xhtml",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -41095,6 +41485,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Google Drive",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -41310,6 +41702,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Dropbox",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -41525,6 +41919,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "AirDrop",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -41741,6 +42137,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "WeChat et WhatsApp",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -41957,6 +42355,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Claude Artifacts",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -42173,6 +42573,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "telechargements ChatGPT",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -42389,6 +42791,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Gemini",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -42604,6 +43008,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "exports Notion",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -42820,6 +43226,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "fichiers GitHub",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -43036,6 +43444,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "tableaux de bord IA",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -43252,6 +43662,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ChatGPT, Claude, Gemini, Mail, Files, Safari",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [],
       "articleUrls": [],
@@ -43435,6 +43847,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ChatGPT, Claude, Gemini, Mail, Files, Safari",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -43643,6 +44057,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ChatGPT, Claude, Gemini, Mail, Files, Safari",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://html.cybergame.ai/pt-br/articles/open-chatgpt-html-file-on-iphone/",
@@ -43878,6 +44294,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ChatGPT, Claude, Gemini, ChatGPT on iPad, AI-generated reports, Claude Artifacts, ChatGPT downloads, Gemini",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://html.cybergame.ai/pt-br/articles/open-chatgpt-html-file-on-iphone/",
@@ -44080,6 +44498,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Mail, Files, Safari, WeChat, WhatsApp, Gmail, Outlook, Files, AirDrop, iCloud Drive, Safari Downloads, iCloud Drive",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://html.cybergame.ai/pt-br/articles/open-html-email-attachment-on-iphone/",
@@ -44292,6 +44712,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Google Drive, Dropbox",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://html.cybergame.ai/pt-br/articles/open-html-file-from-google-drive-on-iphone/",
@@ -44481,6 +44903,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": ".htm files, .xhtml files",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://html.cybergame.ai/pt-br/articles/open-htm-file-on-iphone/",
@@ -44672,6 +45096,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "offline files",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://html.cybergame.ai/pt-br/articles/offline-html-viewer-for-iphone/"
@@ -44860,6 +45286,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "iPhone and iPad",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://html.cybergame.ai/pt-br/articles/best-html-viewer-for-iphone-ipad/"
@@ -45049,6 +45477,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ChatGPT, Claude e Gemini",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -45265,6 +45695,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ChatGPT on iPad",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -45481,6 +45913,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "iPhone e iPad",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -45697,6 +46131,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Mail, Gmail e Outlook",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -45913,6 +46349,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Gmail",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -46129,6 +46567,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Outlook",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -46345,6 +46785,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Files, AirDrop e iCloud Drive",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -46561,6 +47003,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "downloads do Safari",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -46777,6 +47221,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "iCloud Drive",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -46992,6 +47438,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "arquivos offline",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -47208,6 +47656,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "zipped HTML exports",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -47424,6 +47874,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "local HTML files",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -47640,6 +48092,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "relatórios gerados por IA",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -47856,6 +48310,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "arquivos .htm",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -48072,6 +48528,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "arquivos .xhtml",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -48288,6 +48746,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Google Drive",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -48503,6 +48963,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Dropbox",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -48718,6 +49180,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "AirDrop",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -48934,6 +49398,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "WeChat e WhatsApp",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -49150,6 +49616,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Claude Artifacts",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -49366,6 +49834,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "downloads do ChatGPT",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -49582,6 +50052,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Gemini",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -49797,6 +50269,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "exportacoes do Notion",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -50013,6 +50487,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "arquivos do GitHub",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -50229,6 +50705,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "dashboards de IA",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -50445,6 +50923,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ChatGPT, Claude, Gemini, Mail, Files, Safari",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [],
       "articleUrls": [],
@@ -50628,6 +51108,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ChatGPT, Claude, Gemini, Mail, Files, Safari",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -50836,6 +51318,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ChatGPT, Claude, Gemini, Mail, Files, Safari",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://html.cybergame.ai/ko/articles/open-chatgpt-html-file-on-iphone/",
@@ -51071,6 +51555,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ChatGPT, Claude, Gemini, ChatGPT on iPad, AI-generated reports, Claude Artifacts, ChatGPT downloads, Gemini",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://html.cybergame.ai/ko/articles/open-chatgpt-html-file-on-iphone/",
@@ -51273,6 +51759,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Mail, Files, Safari, WeChat, WhatsApp, Gmail, Outlook, Files, AirDrop, iCloud Drive, Safari Downloads, iCloud Drive",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://html.cybergame.ai/ko/articles/open-html-email-attachment-on-iphone/",
@@ -51485,6 +51973,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Google Drive, Dropbox",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://html.cybergame.ai/ko/articles/open-html-file-from-google-drive-on-iphone/",
@@ -51674,6 +52164,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": ".htm files, .xhtml files",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://html.cybergame.ai/ko/articles/open-htm-file-on-iphone/",
@@ -51865,6 +52357,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "offline files",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://html.cybergame.ai/ko/articles/offline-html-viewer-for-iphone/"
@@ -52053,6 +52547,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "iPhone and iPad",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://html.cybergame.ai/ko/articles/best-html-viewer-for-iphone-ipad/"
@@ -52242,6 +52738,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ChatGPT, Claude, Gemini",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -52457,6 +52955,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ChatGPT on iPad",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -52673,6 +53173,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "iPhone and iPad",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -52890,6 +53392,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Mail, Gmail, Outlook",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -53107,6 +53611,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Gmail",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -53323,6 +53829,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Outlook",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -53539,6 +54047,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Files, AirDrop, iCloud Drive",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -53755,6 +54265,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Safari Downloads",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -53971,6 +54483,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "iCloud Drive",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -54186,6 +54700,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "offline files",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -54402,6 +54918,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "zipped HTML exports",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -54618,6 +55136,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "local HTML files",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -54834,6 +55354,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "AI-generated reports",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -55050,6 +55572,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": ".htm 파일",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -55266,6 +55790,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": ".xhtml 파일",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -55482,6 +56008,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Google Drive",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -55697,6 +56225,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Dropbox",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -55912,6 +56442,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "AirDrop",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -56128,6 +56660,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "WeChat과 WhatsApp",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -56344,6 +56878,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Claude Artifacts",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -56560,6 +57096,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ChatGPT 다운로드",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -56776,6 +57314,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Gemini",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -56991,6 +57531,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Notion 내보내기",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -57207,6 +57749,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "GitHub 파일",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -57423,6 +57967,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "AI 대시보드",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -57639,6 +58185,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ChatGPT, Claude, Gemini, Mail, Files, Safari",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [],
       "articleUrls": [],
@@ -57822,6 +58370,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ChatGPT, Claude, Gemini, Mail, Files, Safari",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -58030,6 +58580,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ChatGPT, Claude, Gemini, Mail, Files, Safari",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://html.cybergame.ai/ar/articles/open-chatgpt-html-file-on-iphone/",
@@ -58265,6 +58817,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ChatGPT, Claude, Gemini, ChatGPT on iPad, AI-generated reports, Claude Artifacts, ChatGPT downloads, Gemini",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://html.cybergame.ai/ar/articles/open-chatgpt-html-file-on-iphone/",
@@ -58467,6 +59021,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Mail, Files, Safari, WeChat, WhatsApp, Gmail, Outlook, Files, AirDrop, iCloud Drive, Safari Downloads, iCloud Drive",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://html.cybergame.ai/ar/articles/open-html-email-attachment-on-iphone/",
@@ -58679,6 +59235,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Google Drive, Dropbox",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://html.cybergame.ai/ar/articles/open-html-file-from-google-drive-on-iphone/",
@@ -58868,6 +59426,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": ".htm files, .xhtml files",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://html.cybergame.ai/ar/articles/open-htm-file-on-iphone/",
@@ -59059,6 +59619,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "offline files",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://html.cybergame.ai/ar/articles/offline-html-viewer-for-iphone/"
@@ -59247,6 +59809,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "iPhone and iPad",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://html.cybergame.ai/ar/articles/best-html-viewer-for-iphone-ipad/"
@@ -59436,6 +60000,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ChatGPT, Claude, Gemini",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -59651,6 +60217,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ChatGPT on iPad",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -59867,6 +60435,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "iPhone and iPad",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -60084,6 +60654,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Mail, Gmail, Outlook",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -60301,6 +60873,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Gmail",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -60517,6 +61091,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Outlook",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -60733,6 +61309,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Files, AirDrop, iCloud Drive",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -60949,6 +61527,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Safari Downloads",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -61165,6 +61745,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "iCloud Drive",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -61380,6 +61962,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "offline files",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -61596,6 +62180,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "zipped HTML exports",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -61812,6 +62398,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "local HTML files",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -62028,6 +62616,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "AI-generated reports",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -62244,6 +62834,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ملفات .htm",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -62460,6 +63052,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ملفات .xhtml",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -62676,6 +63270,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Google Drive",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -62891,6 +63487,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Dropbox",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -63106,6 +63704,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "AirDrop",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -63322,6 +63922,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "WeChat و WhatsApp",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -63538,6 +64140,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Claude Artifacts",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -63754,6 +64358,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "تنزيلات ChatGPT",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -63970,6 +64576,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Gemini",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -64185,6 +64793,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "صادرات Notion",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -64401,6 +65011,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ملفات GitHub",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -64617,6 +65229,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "لوحات معلومات AI",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -64833,6 +65447,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ChatGPT, Claude, Gemini, Mail, Files, Safari",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [],
       "articleUrls": [],
@@ -65016,6 +65632,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ChatGPT, Claude, Gemini, Mail, Files, Safari",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -65224,6 +65842,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ChatGPT, Claude, Gemini, Mail, Files, Safari",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://html.cybergame.ai/hi/articles/open-chatgpt-html-file-on-iphone/",
@@ -65459,6 +66079,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ChatGPT, Claude, Gemini, ChatGPT on iPad, AI-generated reports, Claude Artifacts, ChatGPT downloads, Gemini",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://html.cybergame.ai/hi/articles/open-chatgpt-html-file-on-iphone/",
@@ -65661,6 +66283,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Mail, Files, Safari, WeChat, WhatsApp, Gmail, Outlook, Files, AirDrop, iCloud Drive, Safari Downloads, iCloud Drive",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://html.cybergame.ai/hi/articles/open-html-email-attachment-on-iphone/",
@@ -65873,6 +66497,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Google Drive, Dropbox",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://html.cybergame.ai/hi/articles/open-html-file-from-google-drive-on-iphone/",
@@ -66062,6 +66688,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": ".htm files, .xhtml files",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://html.cybergame.ai/hi/articles/open-htm-file-on-iphone/",
@@ -66253,6 +66881,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "offline files",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://html.cybergame.ai/hi/articles/offline-html-viewer-for-iphone/"
@@ -66441,6 +67071,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "iPhone and iPad",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://html.cybergame.ai/hi/articles/best-html-viewer-for-iphone-ipad/"
@@ -66630,6 +67262,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ChatGPT, Claude, Gemini",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -66845,6 +67479,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ChatGPT on iPad",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -67061,6 +67697,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "iPhone and iPad",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -67278,6 +67916,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Mail, Gmail, Outlook",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -67495,6 +68135,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Gmail",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -67711,6 +68353,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Outlook",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -67927,6 +68571,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Files, AirDrop, iCloud Drive",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -68143,6 +68789,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Safari Downloads",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -68359,6 +69007,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "iCloud Drive",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -68574,6 +69224,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "offline files",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -68790,6 +69442,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "zipped HTML exports",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -69006,6 +69660,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "local HTML files",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -69222,6 +69878,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "AI-generated reports",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -69438,6 +70096,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": ".htm files",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -69654,6 +70314,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": ".xhtml files",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -69870,6 +70532,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Google Drive",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -70085,6 +70749,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Dropbox",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -70300,6 +70966,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "AirDrop",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -70516,6 +71184,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "WeChat और WhatsApp",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -70732,6 +71402,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Claude Artifacts",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -70948,6 +71620,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ChatGPT downloads",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -71164,6 +71838,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Gemini",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -71379,6 +72055,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Notion exports",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -71595,6 +72273,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "GitHub files",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -71811,6 +72491,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "AI dashboards",
       "supportedFormats": ".html, .htm, .xhtml",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
