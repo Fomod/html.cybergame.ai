@@ -128,6 +128,36 @@
           "locale": "th",
           "hreflang": "th",
           "url": "https://html.cybergame.ai/th/articles/open-html-extension-file-on-iphone/"
+        },
+        {
+          "locale": "ru",
+          "hreflang": "ru",
+          "url": "https://html.cybergame.ai/ru/articles/open-html-extension-file-on-iphone/"
+        },
+        {
+          "locale": "nl",
+          "hreflang": "nl",
+          "url": "https://html.cybergame.ai/nl/articles/open-html-extension-file-on-iphone/"
+        },
+        {
+          "locale": "pl",
+          "hreflang": "pl",
+          "url": "https://html.cybergame.ai/pl/articles/open-html-extension-file-on-iphone/"
+        },
+        {
+          "locale": "ms",
+          "hreflang": "ms",
+          "url": "https://html.cybergame.ai/ms/articles/open-html-extension-file-on-iphone/"
+        },
+        {
+          "locale": "sv",
+          "hreflang": "sv",
+          "url": "https://html.cybergame.ai/sv/articles/open-html-extension-file-on-iphone/"
+        },
+        {
+          "locale": "he",
+          "hreflang": "he",
+          "url": "https://html.cybergame.ai/he/articles/open-html-extension-file-on-iphone/"
         }
       ],
       "searchIntents": [
@@ -288,6 +318,36 @@
           "locale": "th",
           "hreflang": "th",
           "url": "https://html.cybergame.ai/th/articles/open-htm-file-on-iphone/"
+        },
+        {
+          "locale": "ru",
+          "hreflang": "ru",
+          "url": "https://html.cybergame.ai/ru/articles/open-htm-file-on-iphone/"
+        },
+        {
+          "locale": "nl",
+          "hreflang": "nl",
+          "url": "https://html.cybergame.ai/nl/articles/open-htm-file-on-iphone/"
+        },
+        {
+          "locale": "pl",
+          "hreflang": "pl",
+          "url": "https://html.cybergame.ai/pl/articles/open-htm-file-on-iphone/"
+        },
+        {
+          "locale": "ms",
+          "hreflang": "ms",
+          "url": "https://html.cybergame.ai/ms/articles/open-htm-file-on-iphone/"
+        },
+        {
+          "locale": "sv",
+          "hreflang": "sv",
+          "url": "https://html.cybergame.ai/sv/articles/open-htm-file-on-iphone/"
+        },
+        {
+          "locale": "he",
+          "hreflang": "he",
+          "url": "https://html.cybergame.ai/he/articles/open-htm-file-on-iphone/"
         }
       ],
       "searchIntents": [
@@ -449,6 +509,36 @@
           "locale": "th",
           "hreflang": "th",
           "url": "https://html.cybergame.ai/th/articles/open-xhtml-file-on-ipad/"
+        },
+        {
+          "locale": "ru",
+          "hreflang": "ru",
+          "url": "https://html.cybergame.ai/ru/articles/open-xhtml-file-on-ipad/"
+        },
+        {
+          "locale": "nl",
+          "hreflang": "nl",
+          "url": "https://html.cybergame.ai/nl/articles/open-xhtml-file-on-ipad/"
+        },
+        {
+          "locale": "pl",
+          "hreflang": "pl",
+          "url": "https://html.cybergame.ai/pl/articles/open-xhtml-file-on-ipad/"
+        },
+        {
+          "locale": "ms",
+          "hreflang": "ms",
+          "url": "https://html.cybergame.ai/ms/articles/open-xhtml-file-on-ipad/"
+        },
+        {
+          "locale": "sv",
+          "hreflang": "sv",
+          "url": "https://html.cybergame.ai/sv/articles/open-xhtml-file-on-ipad/"
+        },
+        {
+          "locale": "he",
+          "hreflang": "he",
+          "url": "https://html.cybergame.ai/he/articles/open-xhtml-file-on-ipad/"
         }
       ],
       "searchIntents": [
