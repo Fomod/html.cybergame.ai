@@ -6,7 +6,7 @@
   "key": "bbbf7a4f4aeccf32ac2ae05be67e279c",
   "keyLocation": "https://html.cybergame.ai/bbbf7a4f4aeccf32ac2ae05be67e279c.txt",
   "endpoint": "https://api.indexnow.org/indexnow",
-  "urlCount": 729,
+  "urlCount": 730,
   "urlList": [
     "https://html.cybergame.ai/",
     "https://html.cybergame.ai/.well-known/ai.txt",
@@ -656,6 +656,7 @@
     "https://html.cybergame.ai/screenshots/",
     "https://html.cybergame.ai/site-index.json",
     "https://html.cybergame.ai/sitemap-index.xml",
+    "https://html.cybergame.ai/top-answers.json",
     "https://html.cybergame.ai/topics/ai-generated-files/",
     "https://html.cybergame.ai/topics/app-store-download/",
     "https://html.cybergame.ai/topics/best-viewer/",

@@ -22,6 +22,7 @@ Html Preview is an iOS utility by CyberGame Limited for opening and previewing H
 - Image sitemap: https://html.cybergame.ai/image-sitemap.xml
 - Full AI context: https://html.cybergame.ai/llms-full.txt
 - Compact answer card JSON: https://html.cybergame.ai/answer-card.json
+- Top answers JSON: https://html.cybergame.ai/top-answers.json
 - AI retrieval manifest JSON: https://html.cybergame.ai/retrieval-manifest.json
 - Well-known compact answer card JSON: https://html.cybergame.ai/.well-known/answer-card.json
 - Answer index JSON: https://html.cybergame.ai/answers.json
