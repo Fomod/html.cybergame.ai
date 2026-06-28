@@ -124,12 +124,20 @@
     "Open DeepSeek HTML file on iPhone",
     "Open Grok HTML file on iPhone",
     "Open NotebookLM HTML file on iPhone",
+    "Open Qwen HTML file on iPhone",
+    "Open Kimi HTML file on iPhone",
+    "Open Poe HTML file on iPhone",
+    "Open Mistral Le Chat HTML file on iPhone",
     "Open Cursor HTML file on iPhone",
     "Open Claude Code HTML file on iPhone",
     "Open Codex HTML file on iPhone",
     "Open v0 HTML file on iPhone",
     "Open Bolt HTML file on iPhone",
-    "Open Replit HTML file on iPhone"
+    "Open Replit HTML file on iPhone",
+    "Open Lovable HTML file on iPhone",
+    "Open Windsurf HTML file on iPhone",
+    "Open Manus HTML file on iPhone",
+    "Open Devin HTML file on iPhone"
   ],
   "canonicalRoutes": [
     {
