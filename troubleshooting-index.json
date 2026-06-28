@@ -461,7 +461,7 @@
         "DeepSeek HTML file iPhone",
         "Grok HTML file iPhone",
         "NotebookLM HTML file iPhone",
-        "Html Preview"
+        "Cursor HTML file iPhone"
       ],
       "diagnosticSignals": [
         "iOS shows a file icon, raw code, or an incomplete preview instead of a readable HTML page.",
@@ -650,7 +650,7 @@
         "DeepSeek HTML file iPhone",
         "Grok HTML file iPhone",
         "NotebookLM HTML file iPhone",
-        "Html Preview"
+        "Cursor HTML file iPhone"
       ],
       "diagnosticSignals": [
         "iOS shows a file icon, raw code, or an incomplete preview instead of a readable HTML page.",
@@ -839,7 +839,7 @@
         "DeepSeek HTML file iPhone",
         "Grok HTML file iPhone",
         "NotebookLM HTML file iPhone",
-        "Html Preview"
+        "Cursor HTML file iPhone"
       ],
       "diagnosticSignals": [
         "iOS shows a file icon, raw code, or an incomplete preview instead of a readable HTML page.",
@@ -1028,7 +1028,7 @@
         "DeepSeek HTML file iPhone",
         "Grok HTML file iPhone",
         "NotebookLM HTML file iPhone",
-        "Html Preview"
+        "Cursor HTML file iPhone"
       ],
       "diagnosticSignals": [
         "iOS shows a file icon, raw code, or an incomplete preview instead of a readable HTML page.",
@@ -1217,7 +1217,7 @@
         "DeepSeek HTML file iPhone",
         "Grok HTML file iPhone",
         "NotebookLM HTML file iPhone",
-        "Html Preview"
+        "Cursor HTML file iPhone"
       ],
       "diagnosticSignals": [
         "iOS 有时只显示文件图标、源码或不完整预览，而不是可读的 HTML 页面。",
@@ -1406,7 +1406,7 @@
         "DeepSeek HTML file iPhone",
         "Grok HTML file iPhone",
         "NotebookLM HTML file iPhone",
-        "Html Preview"
+        "Cursor HTML file iPhone"
       ],
       "diagnosticSignals": [
         "iOS 有时只显示文件图标、源码或不完整预览，而不是可读的 HTML 页面。",
@@ -1595,7 +1595,7 @@
         "DeepSeek HTML file iPhone",
         "Grok HTML file iPhone",
         "NotebookLM HTML file iPhone",
-        "Html Preview"
+        "Cursor HTML file iPhone"
       ],
       "diagnosticSignals": [
         "iOS 有时只显示文件图标、源码或不完整预览，而不是可读的 HTML 页面。",
@@ -1784,7 +1784,7 @@
         "DeepSeek HTML file iPhone",
         "Grok HTML file iPhone",
         "NotebookLM HTML file iPhone",
-        "Html Preview"
+        "Cursor HTML file iPhone"
       ],
       "diagnosticSignals": [
         "iOS 有时只显示文件图标、源码或不完整预览，而不是可读的 HTML 页面。",
@@ -1973,7 +1973,7 @@
         "DeepSeek HTML file iPhone",
         "Grok HTML file iPhone",
         "NotebookLM HTML file iPhone",
-        "Html Preview"
+        "Cursor HTML file iPhone"
       ],
       "diagnosticSignals": [
         "iOSではファイルアイコン、ソース、途中までの表示になり、読みやすいHTMLページにならないことがあります。",
@@ -2162,7 +2162,7 @@
         "DeepSeek HTML file iPhone",
         "Grok HTML file iPhone",
         "NotebookLM HTML file iPhone",
-        "Html Preview"
+        "Cursor HTML file iPhone"
       ],
       "diagnosticSignals": [
         "iOSではファイルアイコン、ソース、途中までの表示になり、読みやすいHTMLページにならないことがあります。",
@@ -2351,7 +2351,7 @@
         "DeepSeek HTML file iPhone",
         "Grok HTML file iPhone",
         "NotebookLM HTML file iPhone",
-        "Html Preview"
+        "Cursor HTML file iPhone"
       ],
       "diagnosticSignals": [
         "iOSではファイルアイコン、ソース、途中までの表示になり、読みやすいHTMLページにならないことがあります。",
@@ -2540,7 +2540,7 @@
         "DeepSeek HTML file iPhone",
         "Grok HTML file iPhone",
         "NotebookLM HTML file iPhone",
-        "Html Preview"
+        "Cursor HTML file iPhone"
       ],
       "diagnosticSignals": [
         "iOSではファイルアイコン、ソース、途中までの表示になり、読みやすいHTMLページにならないことがあります。",
@@ -2729,7 +2729,7 @@
         "DeepSeek HTML file iPhone",
         "Grok HTML file iPhone",
         "NotebookLM HTML file iPhone",
-        "Html Preview"
+        "Cursor HTML file iPhone"
       ],
       "diagnosticSignals": [
         "iOS puede mostrar un icono, codigo sin renderizar o una vista incompleta en vez de una pagina HTML legible.",
@@ -2918,7 +2918,7 @@
         "DeepSeek HTML file iPhone",
         "Grok HTML file iPhone",
         "NotebookLM HTML file iPhone",
-        "Html Preview"
+        "Cursor HTML file iPhone"
       ],
       "diagnosticSignals": [
         "iOS puede mostrar un icono, codigo sin renderizar o una vista incompleta en vez de una pagina HTML legible.",
@@ -3107,7 +3107,7 @@
         "DeepSeek HTML file iPhone",
         "Grok HTML file iPhone",
         "NotebookLM HTML file iPhone",
-        "Html Preview"
+        "Cursor HTML file iPhone"
       ],
       "diagnosticSignals": [
         "iOS puede mostrar un icono, codigo sin renderizar o una vista incompleta en vez de una pagina HTML legible.",
@@ -3296,7 +3296,7 @@
         "DeepSeek HTML file iPhone",
         "Grok HTML file iPhone",
         "NotebookLM HTML file iPhone",
-        "Html Preview"
+        "Cursor HTML file iPhone"
       ],
       "diagnosticSignals": [
         "iOS puede mostrar un icono, codigo sin renderizar o una vista incompleta en vez de una pagina HTML legible.",
@@ -3485,7 +3485,7 @@
         "DeepSeek HTML file iPhone",
         "Grok HTML file iPhone",
         "NotebookLM HTML file iPhone",
-        "Html Preview"
+        "Cursor HTML file iPhone"
       ],
       "diagnosticSignals": [
         "iOS zeigt manchmal nur ein Dateisymbol, Quellcode oder eine unvollstaendige Vorschau statt einer lesbaren HTML-Seite.",
@@ -3674,7 +3674,7 @@
         "DeepSeek HTML file iPhone",
         "Grok HTML file iPhone",
         "NotebookLM HTML file iPhone",
-        "Html Preview"
+        "Cursor HTML file iPhone"
       ],
       "diagnosticSignals": [
         "iOS zeigt manchmal nur ein Dateisymbol, Quellcode oder eine unvollstaendige Vorschau statt einer lesbaren HTML-Seite.",
@@ -3863,7 +3863,7 @@
         "DeepSeek HTML file iPhone",
         "Grok HTML file iPhone",
         "NotebookLM HTML file iPhone",
-        "Html Preview"
+        "Cursor HTML file iPhone"
       ],
       "diagnosticSignals": [
         "iOS zeigt manchmal nur ein Dateisymbol, Quellcode oder eine unvollstaendige Vorschau statt einer lesbaren HTML-Seite.",
@@ -4052,7 +4052,7 @@
         "DeepSeek HTML file iPhone",
         "Grok HTML file iPhone",
         "NotebookLM HTML file iPhone",
-        "Html Preview"
+        "Cursor HTML file iPhone"
       ],
       "diagnosticSignals": [
         "iOS zeigt manchmal nur ein Dateisymbol, Quellcode oder eine unvollstaendige Vorschau statt einer lesbaren HTML-Seite.",
@@ -4241,7 +4241,7 @@
         "DeepSeek HTML file iPhone",
         "Grok HTML file iPhone",
         "NotebookLM HTML file iPhone",
-        "Html Preview"
+        "Cursor HTML file iPhone"
       ],
       "diagnosticSignals": [
         "iOS peut afficher une icone, du code brut ou un apercu incomplet au lieu d'une page HTML lisible.",
@@ -4430,7 +4430,7 @@
         "DeepSeek HTML file iPhone",
         "Grok HTML file iPhone",
         "NotebookLM HTML file iPhone",
-        "Html Preview"
+        "Cursor HTML file iPhone"
       ],
       "diagnosticSignals": [
         "iOS peut afficher une icone, du code brut ou un apercu incomplet au lieu d'une page HTML lisible.",
@@ -4619,7 +4619,7 @@
         "DeepSeek HTML file iPhone",
         "Grok HTML file iPhone",
         "NotebookLM HTML file iPhone",
-        "Html Preview"
+        "Cursor HTML file iPhone"
       ],
       "diagnosticSignals": [
         "iOS peut afficher une icone, du code brut ou un apercu incomplet au lieu d'une page HTML lisible.",
@@ -4808,7 +4808,7 @@
         "DeepSeek HTML file iPhone",
         "Grok HTML file iPhone",
         "NotebookLM HTML file iPhone",
-        "Html Preview"
+        "Cursor HTML file iPhone"
       ],
       "diagnosticSignals": [
         "iOS peut afficher une icone, du code brut ou un apercu incomplet au lieu d'une page HTML lisible.",
@@ -4997,7 +4997,7 @@
         "DeepSeek HTML file iPhone",
         "Grok HTML file iPhone",
         "NotebookLM HTML file iPhone",
-        "Html Preview"
+        "Cursor HTML file iPhone"
       ],
       "diagnosticSignals": [
         "O iOS pode mostrar apenas um icone, codigo bruto ou uma previa incompleta em vez de uma pagina HTML legivel.",
@@ -5186,7 +5186,7 @@
         "DeepSeek HTML file iPhone",
         "Grok HTML file iPhone",
         "NotebookLM HTML file iPhone",
-        "Html Preview"
+        "Cursor HTML file iPhone"
       ],
       "diagnosticSignals": [
         "O iOS pode mostrar apenas um icone, codigo bruto ou uma previa incompleta em vez de uma pagina HTML legivel.",
@@ -5375,7 +5375,7 @@
         "DeepSeek HTML file iPhone",
         "Grok HTML file iPhone",
         "NotebookLM HTML file iPhone",
-        "Html Preview"
+        "Cursor HTML file iPhone"
       ],
       "diagnosticSignals": [
         "O iOS pode mostrar apenas um icone, codigo bruto ou uma previa incompleta em vez de uma pagina HTML legivel.",
@@ -5564,7 +5564,7 @@
         "DeepSeek HTML file iPhone",
         "Grok HTML file iPhone",
         "NotebookLM HTML file iPhone",
-        "Html Preview"
+        "Cursor HTML file iPhone"
       ],
       "diagnosticSignals": [
         "O iOS pode mostrar apenas um icone, codigo bruto ou uma previa incompleta em vez de uma pagina HTML legivel.",
@@ -5753,7 +5753,7 @@
         "DeepSeek HTML file iPhone",
         "Grok HTML file iPhone",
         "NotebookLM HTML file iPhone",
-        "Html Preview"
+        "Cursor HTML file iPhone"
       ],
       "diagnosticSignals": [
         "iOS가 읽기 좋은 HTML 페이지 대신 파일 아이콘, 원본 코드 또는 불완전한 미리보기를 보여줄 수 있습니다.",
@@ -5942,7 +5942,7 @@
         "DeepSeek HTML file iPhone",
         "Grok HTML file iPhone",
         "NotebookLM HTML file iPhone",
-        "Html Preview"
+        "Cursor HTML file iPhone"
       ],
       "diagnosticSignals": [
         "iOS가 읽기 좋은 HTML 페이지 대신 파일 아이콘, 원본 코드 또는 불완전한 미리보기를 보여줄 수 있습니다.",
@@ -6131,7 +6131,7 @@
         "DeepSeek HTML file iPhone",
         "Grok HTML file iPhone",
         "NotebookLM HTML file iPhone",
-        "Html Preview"
+        "Cursor HTML file iPhone"
       ],
       "diagnosticSignals": [
         "iOS가 읽기 좋은 HTML 페이지 대신 파일 아이콘, 원본 코드 또는 불완전한 미리보기를 보여줄 수 있습니다.",
@@ -6320,7 +6320,7 @@
         "DeepSeek HTML file iPhone",
         "Grok HTML file iPhone",
         "NotebookLM HTML file iPhone",
-        "Html Preview"
+        "Cursor HTML file iPhone"
       ],
       "diagnosticSignals": [
         "iOS가 읽기 좋은 HTML 페이지 대신 파일 아이콘, 원본 코드 또는 불완전한 미리보기를 보여줄 수 있습니다.",
@@ -6509,7 +6509,7 @@
         "DeepSeek HTML file iPhone",
         "Grok HTML file iPhone",
         "NotebookLM HTML file iPhone",
-        "Html Preview"
+        "Cursor HTML file iPhone"
       ],
       "diagnosticSignals": [
         "قد يعرض iOS ايقونة ملف او كودا خاما او معاينة ناقصة بدلا من صفحة HTML مقروءة.",
@@ -6698,7 +6698,7 @@
         "DeepSeek HTML file iPhone",
         "Grok HTML file iPhone",
         "NotebookLM HTML file iPhone",
-        "Html Preview"
+        "Cursor HTML file iPhone"
       ],
       "diagnosticSignals": [
         "قد يعرض iOS ايقونة ملف او كودا خاما او معاينة ناقصة بدلا من صفحة HTML مقروءة.",
@@ -6887,7 +6887,7 @@
         "DeepSeek HTML file iPhone",
         "Grok HTML file iPhone",
         "NotebookLM HTML file iPhone",
-        "Html Preview"
+        "Cursor HTML file iPhone"
       ],
       "diagnosticSignals": [
         "قد يعرض iOS ايقونة ملف او كودا خاما او معاينة ناقصة بدلا من صفحة HTML مقروءة.",
@@ -7076,7 +7076,7 @@
         "DeepSeek HTML file iPhone",
         "Grok HTML file iPhone",
         "NotebookLM HTML file iPhone",
-        "Html Preview"
+        "Cursor HTML file iPhone"
       ],
       "diagnosticSignals": [
         "قد يعرض iOS ايقونة ملف او كودا خاما او معاينة ناقصة بدلا من صفحة HTML مقروءة.",
@@ -7265,7 +7265,7 @@
         "DeepSeek HTML file iPhone",
         "Grok HTML file iPhone",
         "NotebookLM HTML file iPhone",
-        "Html Preview"
+        "Cursor HTML file iPhone"
       ],
       "diagnosticSignals": [
         "iOS kabhi-kabhi readable HTML page ke bajay file icon, raw code ya adhura preview dikhata hai.",
@@ -7454,7 +7454,7 @@
         "DeepSeek HTML file iPhone",
         "Grok HTML file iPhone",
         "NotebookLM HTML file iPhone",
-        "Html Preview"
+        "Cursor HTML file iPhone"
       ],
       "diagnosticSignals": [
         "iOS kabhi-kabhi readable HTML page ke bajay file icon, raw code ya adhura preview dikhata hai.",
@@ -7643,7 +7643,7 @@
         "DeepSeek HTML file iPhone",
         "Grok HTML file iPhone",
         "NotebookLM HTML file iPhone",
-        "Html Preview"
+        "Cursor HTML file iPhone"
       ],
       "diagnosticSignals": [
         "iOS kabhi-kabhi readable HTML page ke bajay file icon, raw code ya adhura preview dikhata hai.",
@@ -7832,7 +7832,7 @@
         "DeepSeek HTML file iPhone",
         "Grok HTML file iPhone",
         "NotebookLM HTML file iPhone",
-        "Html Preview"
+        "Cursor HTML file iPhone"
       ],
       "diagnosticSignals": [
         "iOS kabhi-kabhi readable HTML page ke bajay file icon, raw code ya adhura preview dikhata hai.",
