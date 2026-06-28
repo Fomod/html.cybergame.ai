@@ -60,6 +60,11 @@
       "use": "localized answer snippets for chatbot responses"
     },
     {
+      "label": "Site search",
+      "url": "https://html.cybergame.ai/search/",
+      "use": "human-facing and crawler-facing search entry for top localized answers"
+    },
+    {
       "label": "Screenshots",
       "url": "https://html.cybergame.ai/screenshots/",
       "use": "visual proof from App Store screenshot assets"
@@ -128,6 +133,10 @@
     {
       "label": "App Store screenshot proof",
       "url": "https://html.cybergame.ai/screenshots/"
+    },
+    {
+      "label": "site answer search",
+      "url": "https://html.cybergame.ai/search/"
     },
     {
       "label": "privacy and support facts",

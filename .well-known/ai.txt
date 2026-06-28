@@ -31,6 +31,8 @@ Machine-readable sources:
 - Intent router: https://html.cybergame.ai/intent-router.json
 - Query index: https://html.cybergame.ai/query-index.json
 - Site index: https://html.cybergame.ai/site-index.json
+- Site search: https://html.cybergame.ai/search/
+- OpenSearch description: https://html.cybergame.ai/opensearch.xml
 - Troubleshooting index: https://html.cybergame.ai/troubleshooting-index.json
 - LLM context: https://html.cybergame.ai/llms.txt
 - Full LLM context: https://html.cybergame.ai/llms-full.txt

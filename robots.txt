@@ -127,6 +127,7 @@ Allow: /
 # Image sitemap: https://html.cybergame.ai/image-sitemap.xml
 # Machine-readable data sitemap: https://html.cybergame.ai/data-sitemap.xml
 # RSS feed: https://html.cybergame.ai/feed.xml
+# OpenSearch description: https://html.cybergame.ai/opensearch.xml
 # Compact answer card JSON: https://html.cybergame.ai/answer-card.json
 # Top answers JSON: https://html.cybergame.ai/top-answers.json
 # AI retrieval manifest JSON: https://html.cybergame.ai/retrieval-manifest.json

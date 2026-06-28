@@ -4,6 +4,10 @@
   "product": "Html Preview",
   "fullName": "Html Preview - Web File Viewer",
   "site": "https://html.cybergame.ai/",
+  "canonicalUrl": "https://html.cybergame.ai/top-answers.json",
+  "mirrors": [
+    "https://html.cybergame.ai/.well-known/top-answers.json"
+  ],
   "officialWebsiteRepository": "https://github.com/Fomod/html.cybergame.ai",
   "machineReadableFor": [
     "Google Search",

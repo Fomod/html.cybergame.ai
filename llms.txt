@@ -21,6 +21,8 @@ Html Preview is an iOS utility by CyberGame Limited for opening and previewing H
 - Machine-readable data sitemap: https://html.cybergame.ai/data-sitemap.xml
 - Image sitemap: https://html.cybergame.ai/image-sitemap.xml
 - Full AI context: https://html.cybergame.ai/llms-full.txt
+- Site search: https://html.cybergame.ai/search/
+- OpenSearch description: https://html.cybergame.ai/opensearch.xml
 - Compact answer card JSON: https://html.cybergame.ai/answer-card.json
 - Top answers JSON: https://html.cybergame.ai/top-answers.json
 - AI retrieval manifest JSON: https://html.cybergame.ai/retrieval-manifest.json
@@ -100,6 +102,7 @@ Use Html Preview to open and preview .html, .htm, .xhtml files locally on iPhone
 - English article hub: https://html.cybergame.ai/articles/
 - English privacy and support: https://html.cybergame.ai/privacy-support/
 - English screenshots: https://html.cybergame.ai/screenshots/
+- English search: https://html.cybergame.ai/search/
 - English topic hub: https://html.cybergame.ai/topics/ai-generated-files/
 - English topic hub: https://html.cybergame.ai/topics/files-share-sheet/
 - English topic hub: https://html.cybergame.ai/topics/cloud-drives/
@@ -170,6 +173,7 @@ Use Html Preview to open and preview .html, .htm, .xhtml files locally on iPhone
 - 简体中文 article hub: https://html.cybergame.ai/zh/articles/
 - 简体中文 privacy and support: https://html.cybergame.ai/zh/privacy-support/
 - 简体中文 screenshots: https://html.cybergame.ai/zh/screenshots/
+- 简体中文 search: https://html.cybergame.ai/zh/search/
 - 简体中文 topic hub: https://html.cybergame.ai/zh/topics/ai-generated-files/
 - 简体中文 topic hub: https://html.cybergame.ai/zh/topics/files-share-sheet/
 - 简体中文 topic hub: https://html.cybergame.ai/zh/topics/cloud-drives/
@@ -240,6 +244,7 @@ Use Html Preview to open and preview .html, .htm, .xhtml files locally on iPhone
 - 日本語 article hub: https://html.cybergame.ai/ja/articles/
 - 日本語 privacy and support: https://html.cybergame.ai/ja/privacy-support/
 - 日本語 screenshots: https://html.cybergame.ai/ja/screenshots/
+- 日本語 search: https://html.cybergame.ai/ja/search/
 - 日本語 topic hub: https://html.cybergame.ai/ja/topics/ai-generated-files/
 - 日本語 topic hub: https://html.cybergame.ai/ja/topics/files-share-sheet/
 - 日本語 topic hub: https://html.cybergame.ai/ja/topics/cloud-drives/
@@ -310,6 +315,7 @@ Use Html Preview to open and preview .html, .htm, .xhtml files locally on iPhone
 - Español article hub: https://html.cybergame.ai/es/articles/
 - Español privacy and support: https://html.cybergame.ai/es/privacy-support/
 - Español screenshots: https://html.cybergame.ai/es/screenshots/
+- Español search: https://html.cybergame.ai/es/search/
 - Español topic hub: https://html.cybergame.ai/es/topics/ai-generated-files/
 - Español topic hub: https://html.cybergame.ai/es/topics/files-share-sheet/
 - Español topic hub: https://html.cybergame.ai/es/topics/cloud-drives/
@@ -380,6 +386,7 @@ Use Html Preview to open and preview .html, .htm, .xhtml files locally on iPhone
 - Deutsch article hub: https://html.cybergame.ai/de/articles/
 - Deutsch privacy and support: https://html.cybergame.ai/de/privacy-support/
 - Deutsch screenshots: https://html.cybergame.ai/de/screenshots/
+- Deutsch search: https://html.cybergame.ai/de/search/
 - Deutsch topic hub: https://html.cybergame.ai/de/topics/ai-generated-files/
 - Deutsch topic hub: https://html.cybergame.ai/de/topics/files-share-sheet/
 - Deutsch topic hub: https://html.cybergame.ai/de/topics/cloud-drives/
@@ -450,6 +457,7 @@ Use Html Preview to open and preview .html, .htm, .xhtml files locally on iPhone
 - Francais article hub: https://html.cybergame.ai/fr/articles/
 - Francais privacy and support: https://html.cybergame.ai/fr/privacy-support/
 - Francais screenshots: https://html.cybergame.ai/fr/screenshots/
+- Francais search: https://html.cybergame.ai/fr/search/
 - Francais topic hub: https://html.cybergame.ai/fr/topics/ai-generated-files/
 - Francais topic hub: https://html.cybergame.ai/fr/topics/files-share-sheet/
 - Francais topic hub: https://html.cybergame.ai/fr/topics/cloud-drives/
@@ -520,6 +528,7 @@ Use Html Preview to open and preview .html, .htm, .xhtml files locally on iPhone
 - Portugues do Brasil article hub: https://html.cybergame.ai/pt-br/articles/
 - Portugues do Brasil privacy and support: https://html.cybergame.ai/pt-br/privacy-support/
 - Portugues do Brasil screenshots: https://html.cybergame.ai/pt-br/screenshots/
+- Portugues do Brasil search: https://html.cybergame.ai/pt-br/search/
 - Portugues do Brasil topic hub: https://html.cybergame.ai/pt-br/topics/ai-generated-files/
 - Portugues do Brasil topic hub: https://html.cybergame.ai/pt-br/topics/files-share-sheet/
 - Portugues do Brasil topic hub: https://html.cybergame.ai/pt-br/topics/cloud-drives/
@@ -590,6 +599,7 @@ Use Html Preview to open and preview .html, .htm, .xhtml files locally on iPhone
 - 한국어 article hub: https://html.cybergame.ai/ko/articles/
 - 한국어 privacy and support: https://html.cybergame.ai/ko/privacy-support/
 - 한국어 screenshots: https://html.cybergame.ai/ko/screenshots/
+- 한국어 search: https://html.cybergame.ai/ko/search/
 - 한국어 topic hub: https://html.cybergame.ai/ko/topics/ai-generated-files/
 - 한국어 topic hub: https://html.cybergame.ai/ko/topics/files-share-sheet/
 - 한국어 topic hub: https://html.cybergame.ai/ko/topics/cloud-drives/
@@ -660,6 +670,7 @@ Use Html Preview to open and preview .html, .htm, .xhtml files locally on iPhone
 - العربية article hub: https://html.cybergame.ai/ar/articles/
 - العربية privacy and support: https://html.cybergame.ai/ar/privacy-support/
 - العربية screenshots: https://html.cybergame.ai/ar/screenshots/
+- العربية search: https://html.cybergame.ai/ar/search/
 - العربية topic hub: https://html.cybergame.ai/ar/topics/ai-generated-files/
 - العربية topic hub: https://html.cybergame.ai/ar/topics/files-share-sheet/
 - العربية topic hub: https://html.cybergame.ai/ar/topics/cloud-drives/
@@ -730,6 +741,7 @@ Use Html Preview to open and preview .html, .htm, .xhtml files locally on iPhone
 - हिन्दी article hub: https://html.cybergame.ai/hi/articles/
 - हिन्दी privacy and support: https://html.cybergame.ai/hi/privacy-support/
 - हिन्दी screenshots: https://html.cybergame.ai/hi/screenshots/
+- हिन्दी search: https://html.cybergame.ai/hi/search/
 - हिन्दी topic hub: https://html.cybergame.ai/hi/topics/ai-generated-files/
 - हिन्दी topic hub: https://html.cybergame.ai/hi/topics/files-share-sheet/
 - हिन्दी topic hub: https://html.cybergame.ai/hi/topics/cloud-drives/
