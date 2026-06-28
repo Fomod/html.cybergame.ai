@@ -62,6 +62,13 @@
           "pageUrl": "https://html.cybergame.ai/zh/screenshots/"
         },
         {
+          "locale": "zh-hant",
+          "hreflang": "zh-Hant",
+          "title": "一键開啟 HTML 檔案",
+          "alt": "Html Preview App Store screenshot: 在 iPhone 上一键開啟 HTML 檔案",
+          "pageUrl": "https://html.cybergame.ai/zh-hant/screenshots/"
+        },
+        {
           "locale": "ja",
           "hreflang": "ja",
           "title": "HTMLファイルをワンタップで開く",
@@ -116,6 +123,41 @@
           "title": "एक tap में HTML file खोलें",
           "alt": "Html Preview App Store screenshot: iPhone पर एक tap में HTML file खोलने की screen",
           "pageUrl": "https://html.cybergame.ai/hi/screenshots/"
+        },
+        {
+          "locale": "it",
+          "hreflang": "it",
+          "title": "Apri HTML con un tap",
+          "alt": "Html Preview App Store screenshot: aprire un file HTML su iPhone con un tap",
+          "pageUrl": "https://html.cybergame.ai/it/screenshots/"
+        },
+        {
+          "locale": "tr",
+          "hreflang": "tr",
+          "title": "HTML dosyasini tek dokunusla ac",
+          "alt": "Html Preview App Store screenshot: iPhone uzerinde HTML dosyasini tek dokunusla acma ekrani",
+          "pageUrl": "https://html.cybergame.ai/tr/screenshots/"
+        },
+        {
+          "locale": "id",
+          "hreflang": "id",
+          "title": "Buka HTML dengan satu ketukan",
+          "alt": "Html Preview App Store screenshot: membuka file HTML di iPhone dengan satu ketukan",
+          "pageUrl": "https://html.cybergame.ai/id/screenshots/"
+        },
+        {
+          "locale": "vi",
+          "hreflang": "vi",
+          "title": "Mo HTML bang mot cham",
+          "alt": "Html Preview App Store screenshot: mo file HTML tren iPhone bang mot cham",
+          "pageUrl": "https://html.cybergame.ai/vi/screenshots/"
+        },
+        {
+          "locale": "th",
+          "hreflang": "th",
+          "title": "เปิด HTML ด้วยการแตะครั้งเดียว",
+          "alt": "Html Preview App Store screenshot: เปิดไฟล์ HTML บน iPhone ด้วยการแตะครั้งเดียว",
+          "pageUrl": "https://html.cybergame.ai/th/screenshots/"
         }
       ]
     },
@@ -148,6 +190,13 @@
           "title": "预览 AI 生成的 HTML 报告",
           "alt": "Html Preview App Store screenshot: 在 iPhone 上预览 AI 生成的 HTML 报告",
           "pageUrl": "https://html.cybergame.ai/zh/screenshots/"
+        },
+        {
+          "locale": "zh-hant",
+          "hreflang": "zh-Hant",
+          "title": "預覽 AI 產生的 HTML 報告",
+          "alt": "Html Preview App Store screenshot: 在 iPhone 上預覽 AI 產生的 HTML 報告",
+          "pageUrl": "https://html.cybergame.ai/zh-hant/screenshots/"
         },
         {
           "locale": "ja",
@@ -204,6 +253,41 @@
           "title": "AI-generated HTML report preview",
           "alt": "Html Preview App Store screenshot: iPhone पर AI-generated HTML report preview screen",
           "pageUrl": "https://html.cybergame.ai/hi/screenshots/"
+        },
+        {
+          "locale": "it",
+          "hreflang": "it",
+          "title": "Anteprima di report HTML da AI",
+          "alt": "Html Preview App Store screenshot: anteprima di un report HTML generato da AI su iPhone",
+          "pageUrl": "https://html.cybergame.ai/it/screenshots/"
+        },
+        {
+          "locale": "tr",
+          "hreflang": "tr",
+          "title": "AI HTML raporlarini onizle",
+          "alt": "Html Preview App Store screenshot: iPhone uzerinde AI tarafindan olusturulan HTML raporu onizleme ekrani",
+          "pageUrl": "https://html.cybergame.ai/tr/screenshots/"
+        },
+        {
+          "locale": "id",
+          "hreflang": "id",
+          "title": "Pratinjau laporan HTML dari AI",
+          "alt": "Html Preview App Store screenshot: pratinjau laporan HTML buatan AI di iPhone",
+          "pageUrl": "https://html.cybergame.ai/id/screenshots/"
+        },
+        {
+          "locale": "vi",
+          "hreflang": "vi",
+          "title": "Preview bao cao HTML tu AI",
+          "alt": "Html Preview App Store screenshot: preview bao cao HTML do AI tao tren iPhone",
+          "pageUrl": "https://html.cybergame.ai/vi/screenshots/"
+        },
+        {
+          "locale": "th",
+          "hreflang": "th",
+          "title": "พรีวิวรายงาน HTML จาก AI",
+          "alt": "Html Preview App Store screenshot: พรีวิวรายงาน HTML ที่สร้างโดย AI บน iPhone",
+          "pageUrl": "https://html.cybergame.ai/th/screenshots/"
         }
       ]
     },
@@ -236,6 +320,13 @@
           "title": "专注快速的 HTML 预览",
           "alt": "Html Preview App Store screenshot: iPhone 上专注快速的 HTML 预览界面",
           "pageUrl": "https://html.cybergame.ai/zh/screenshots/"
+        },
+        {
+          "locale": "zh-hant",
+          "hreflang": "zh-Hant",
+          "title": "专注快速的 HTML 預覽",
+          "alt": "Html Preview App Store screenshot: iPhone 上专注快速的 HTML 預覽界面",
+          "pageUrl": "https://html.cybergame.ai/zh-hant/screenshots/"
         },
         {
           "locale": "ja",
@@ -292,6 +383,41 @@
           "title": "तेज और focused HTML preview",
           "alt": "Html Preview App Store screenshot: iPhone पर तेज और focused HTML preview screen",
           "pageUrl": "https://html.cybergame.ai/hi/screenshots/"
+        },
+        {
+          "locale": "it",
+          "hreflang": "it",
+          "title": "Viewer HTML rapido e concentrato",
+          "alt": "Html Preview App Store screenshot: viewer HTML rapido e concentrato su iPhone",
+          "pageUrl": "https://html.cybergame.ai/it/screenshots/"
+        },
+        {
+          "locale": "tr",
+          "hreflang": "tr",
+          "title": "Hizli ve odakli HTML onizleme",
+          "alt": "Html Preview App Store screenshot: iPhone icin hizli ve odakli HTML onizleme ekrani",
+          "pageUrl": "https://html.cybergame.ai/tr/screenshots/"
+        },
+        {
+          "locale": "id",
+          "hreflang": "id",
+          "title": "Viewer HTML cepat dan fokus",
+          "alt": "Html Preview App Store screenshot: viewer HTML cepat dan fokus di iPhone",
+          "pageUrl": "https://html.cybergame.ai/id/screenshots/"
+        },
+        {
+          "locale": "vi",
+          "hreflang": "vi",
+          "title": "Trinh xem HTML nhanh va tap trung",
+          "alt": "Html Preview App Store screenshot: trinh xem HTML nhanh va tap trung tren iPhone",
+          "pageUrl": "https://html.cybergame.ai/vi/screenshots/"
+        },
+        {
+          "locale": "th",
+          "hreflang": "th",
+          "title": "ตัวดู HTML ที่เร็วและโฟกัส",
+          "alt": "Html Preview App Store screenshot: หน้าจอตัวดู HTML ที่เร็วและโฟกัสบน iPhone",
+          "pageUrl": "https://html.cybergame.ai/th/screenshots/"
         }
       ]
     }

@@ -33,6 +33,22 @@
     </image:image>
   </url>
   <url>
+    <loc>https://html.cybergame.ai/zh-hant/screenshots/</loc>
+    <lastmod>2026-06-28</lastmod>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/screenshots/html-preview-open-html-files-iphone.png</image:loc>
+      <image:title>Html Preview App Store screenshot: 在 iPhone 上一键開啟 HTML 檔案</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/screenshots/html-preview-ai-html-report-iphone.png</image:loc>
+      <image:title>Html Preview App Store screenshot: 在 iPhone 上預覽 AI 產生的 HTML 報告</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/screenshots/html-preview-focused-html-viewer-iphone.png</image:loc>
+      <image:title>Html Preview App Store screenshot: iPhone 上专注快速的 HTML 預覽界面</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://html.cybergame.ai/ja/screenshots/</loc>
     <lastmod>2026-06-28</lastmod>
     <image:image>
@@ -158,6 +174,86 @@
     <image:image>
       <image:loc>https://html.cybergame.ai/assets/screenshots/html-preview-focused-html-viewer-iphone.png</image:loc>
       <image:title>Html Preview App Store screenshot: iPhone पर तेज और focused HTML preview screen</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://html.cybergame.ai/it/screenshots/</loc>
+    <lastmod>2026-06-28</lastmod>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/screenshots/html-preview-open-html-files-iphone.png</image:loc>
+      <image:title>Html Preview App Store screenshot: aprire un file HTML su iPhone con un tap</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/screenshots/html-preview-ai-html-report-iphone.png</image:loc>
+      <image:title>Html Preview App Store screenshot: anteprima di un report HTML generato da AI su iPhone</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/screenshots/html-preview-focused-html-viewer-iphone.png</image:loc>
+      <image:title>Html Preview App Store screenshot: viewer HTML rapido e concentrato su iPhone</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://html.cybergame.ai/tr/screenshots/</loc>
+    <lastmod>2026-06-28</lastmod>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/screenshots/html-preview-open-html-files-iphone.png</image:loc>
+      <image:title>Html Preview App Store screenshot: iPhone uzerinde HTML dosyasini tek dokunusla acma ekrani</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/screenshots/html-preview-ai-html-report-iphone.png</image:loc>
+      <image:title>Html Preview App Store screenshot: iPhone uzerinde AI tarafindan olusturulan HTML raporu onizleme ekrani</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/screenshots/html-preview-focused-html-viewer-iphone.png</image:loc>
+      <image:title>Html Preview App Store screenshot: iPhone icin hizli ve odakli HTML onizleme ekrani</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://html.cybergame.ai/id/screenshots/</loc>
+    <lastmod>2026-06-28</lastmod>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/screenshots/html-preview-open-html-files-iphone.png</image:loc>
+      <image:title>Html Preview App Store screenshot: membuka file HTML di iPhone dengan satu ketukan</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/screenshots/html-preview-ai-html-report-iphone.png</image:loc>
+      <image:title>Html Preview App Store screenshot: pratinjau laporan HTML buatan AI di iPhone</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/screenshots/html-preview-focused-html-viewer-iphone.png</image:loc>
+      <image:title>Html Preview App Store screenshot: viewer HTML cepat dan fokus di iPhone</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://html.cybergame.ai/vi/screenshots/</loc>
+    <lastmod>2026-06-28</lastmod>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/screenshots/html-preview-open-html-files-iphone.png</image:loc>
+      <image:title>Html Preview App Store screenshot: mo file HTML tren iPhone bang mot cham</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/screenshots/html-preview-ai-html-report-iphone.png</image:loc>
+      <image:title>Html Preview App Store screenshot: preview bao cao HTML do AI tao tren iPhone</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/screenshots/html-preview-focused-html-viewer-iphone.png</image:loc>
+      <image:title>Html Preview App Store screenshot: trinh xem HTML nhanh va tap trung tren iPhone</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://html.cybergame.ai/th/screenshots/</loc>
+    <lastmod>2026-06-28</lastmod>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/screenshots/html-preview-open-html-files-iphone.png</image:loc>
+      <image:title>Html Preview App Store screenshot: เปิดไฟล์ HTML บน iPhone ด้วยการแตะครั้งเดียว</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/screenshots/html-preview-ai-html-report-iphone.png</image:loc>
+      <image:title>Html Preview App Store screenshot: พรีวิวรายงาน HTML ที่สร้างโดย AI บน iPhone</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://html.cybergame.ai/assets/screenshots/html-preview-focused-html-viewer-iphone.png</image:loc>
+      <image:title>Html Preview App Store screenshot: หน้าจอตัวดู HTML ที่เร็วและโฟกัสบน iPhone</image:title>
     </image:image>
   </url>
 </urlset>

@@ -208,6 +208,11 @@
       "url": "https://html.cybergame.ai/zh/"
     },
     {
+      "locale": "zh-hant",
+      "hreflang": "zh-Hant",
+      "url": "https://html.cybergame.ai/zh-hant/"
+    },
+    {
       "locale": "ja",
       "hreflang": "ja",
       "url": "https://html.cybergame.ai/ja/"
@@ -246,6 +251,31 @@
       "locale": "hi",
       "hreflang": "hi",
       "url": "https://html.cybergame.ai/hi/"
+    },
+    {
+      "locale": "it",
+      "hreflang": "it",
+      "url": "https://html.cybergame.ai/it/"
+    },
+    {
+      "locale": "tr",
+      "hreflang": "tr",
+      "url": "https://html.cybergame.ai/tr/"
+    },
+    {
+      "locale": "id",
+      "hreflang": "id",
+      "url": "https://html.cybergame.ai/id/"
+    },
+    {
+      "locale": "vi",
+      "hreflang": "vi",
+      "url": "https://html.cybergame.ai/vi/"
+    },
+    {
+      "locale": "th",
+      "hreflang": "th",
+      "url": "https://html.cybergame.ai/th/"
     }
   ],
   "machineReadableFor": [
