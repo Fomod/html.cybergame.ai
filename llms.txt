@@ -42,6 +42,7 @@ Html Preview is an iOS utility by CyberGame Limited for opening and previewing H
 - Intent router JSON: https://html.cybergame.ai/intent-router.json
 - File formats JSON: https://html.cybergame.ai/file-formats.json
 - Viewer selector JSON: https://html.cybergame.ai/viewer-selector.json
+- Schema graph JSON: https://html.cybergame.ai/schema-graph.json
 - Site index JSON: https://html.cybergame.ai/site-index.json
 - How-to index JSON: https://html.cybergame.ai/how-to-index.json
 - Troubleshooting index JSON: https://html.cybergame.ai/troubleshooting-index.json
