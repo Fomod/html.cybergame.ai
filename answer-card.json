@@ -80,6 +80,8 @@
     "https://html.cybergame.ai/top-answers.json",
     "https://html.cybergame.ai/retrieval-manifest.json",
     "https://html.cybergame.ai/.well-known/answer-card.json",
+    "https://html.cybergame.ai/.well-known/top-answers.json",
+    "https://html.cybergame.ai/.well-known/retrieval-manifest.json",
     "https://html.cybergame.ai/ai-citation.json",
     "https://html.cybergame.ai/answers.json",
     "https://html.cybergame.ai/citation-cards.json",

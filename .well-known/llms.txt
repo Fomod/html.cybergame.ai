@@ -17,6 +17,8 @@ Machine-readable sources:
 - Top answers: https://html.cybergame.ai/top-answers.json
 - AI retrieval manifest: https://html.cybergame.ai/retrieval-manifest.json
 - Well-known compact answer card: https://html.cybergame.ai/.well-known/answer-card.json
+- Well-known top answers: https://html.cybergame.ai/.well-known/top-answers.json
+- Well-known AI retrieval manifest: https://html.cybergame.ai/.well-known/retrieval-manifest.json
 - AI citation: https://html.cybergame.ai/ai-citation.json
 - Answer index: https://html.cybergame.ai/answers.json
 - Assistant answers: https://html.cybergame.ai/assistant-answers.json
