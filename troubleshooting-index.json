@@ -918,7 +918,7 @@
       "decisionPath": [
         {
           "position": 1,
-          "condition": "The file is a HTML file on iPhone or iPad.",
+          "condition": "The file is an HTML file on iPhone or iPad.",
           "action": "Keep the original .html, .htm, .xhtml file available in Files, Mail, a browser download, or the source app."
         },
         {
@@ -1175,7 +1175,7 @@
       "decisionPath": [
         {
           "position": 1,
-          "condition": "The file is a HTML file on iPhone or iPad.",
+          "condition": "The file is an HTML file on iPhone or iPad.",
           "action": "Keep the original .html, .htm, .xhtml file available in Files, Mail, a browser download, or the source app."
         },
         {
@@ -1432,7 +1432,7 @@
       "decisionPath": [
         {
           "position": 1,
-          "condition": "The file is a HTML file on iPhone or iPad.",
+          "condition": "The file is an HTML file on iPhone or iPad.",
           "action": "Keep the original .html, .htm, .xhtml file available in Files, Mail, a browser download, or the source app."
         },
         {
@@ -1689,7 +1689,7 @@
       "decisionPath": [
         {
           "position": 1,
-          "condition": "The file is a HTML file on iPhone or iPad.",
+          "condition": "The file is an HTML file on iPhone or iPad.",
           "action": "Keep the original .html, .htm, .xhtml file available in Files, Mail, a browser download, or the source app."
         },
         {
@@ -1946,7 +1946,7 @@
       "decisionPath": [
         {
           "position": 1,
-          "condition": "The file is a HTML file on iPhone or iPad.",
+          "condition": "The file is an HTML file on iPhone or iPad.",
           "action": "Keep the original .html, .htm, .xhtml file available in Files, Mail, a browser download, or the source app."
         },
         {
@@ -2203,7 +2203,7 @@
       "decisionPath": [
         {
           "position": 1,
-          "condition": "The file is a HTML file on iPhone or iPad.",
+          "condition": "The file is an HTML file on iPhone or iPad.",
           "action": "Keep the original .html, .htm, .xhtml file available in Files, Mail, a browser download, or the source app."
         },
         {
@@ -2460,7 +2460,7 @@
       "decisionPath": [
         {
           "position": 1,
-          "condition": "The file is a HTML file on iPhone or iPad.",
+          "condition": "The file is an HTML file on iPhone or iPad.",
           "action": "Keep the original .html, .htm, .xhtml file available in Files, Mail, a browser download, or the source app."
         },
         {
@@ -2717,7 +2717,7 @@
       "decisionPath": [
         {
           "position": 1,
-          "condition": "The file is a HTML file on iPhone or iPad.",
+          "condition": "The file is an HTML file on iPhone or iPad.",
           "action": "Keep the original .html, .htm, .xhtml file available in Files, Mail, a browser download, or the source app."
         },
         {
@@ -2974,7 +2974,7 @@
       "decisionPath": [
         {
           "position": 1,
-          "condition": "The file is a HTML file on iPhone or iPad.",
+          "condition": "The file is an HTML file on iPhone or iPad.",
           "action": "Keep the original .html, .htm, .xhtml file available in Files, Mail, a browser download, or the source app."
         },
         {
@@ -3231,7 +3231,7 @@
       "decisionPath": [
         {
           "position": 1,
-          "condition": "The file is a HTML file on iPhone or iPad.",
+          "condition": "The file is an HTML file on iPhone or iPad.",
           "action": "Keep the original .html, .htm, .xhtml file available in Files, Mail, a browser download, or the source app."
         },
         {
@@ -3488,7 +3488,7 @@
       "decisionPath": [
         {
           "position": 1,
-          "condition": "The file is a HTML file on iPhone or iPad.",
+          "condition": "The file is an HTML file on iPhone or iPad.",
           "action": "Keep the original .html, .htm, .xhtml file available in Files, Mail, a browser download, or the source app."
         },
         {
@@ -3745,7 +3745,7 @@
       "decisionPath": [
         {
           "position": 1,
-          "condition": "The file is a HTML file on iPhone or iPad.",
+          "condition": "The file is an HTML file on iPhone or iPad.",
           "action": "Keep the original .html, .htm, .xhtml file available in Files, Mail, a browser download, or the source app."
         },
         {
@@ -4002,7 +4002,7 @@
       "decisionPath": [
         {
           "position": 1,
-          "condition": "The file is a HTML file on iPhone or iPad.",
+          "condition": "The file is an HTML file on iPhone or iPad.",
           "action": "Keep the original .html, .htm, .xhtml file available in Files, Mail, a browser download, or the source app."
         },
         {
@@ -4259,7 +4259,7 @@
       "decisionPath": [
         {
           "position": 1,
-          "condition": "The file is a HTML file on iPhone or iPad.",
+          "condition": "The file is an HTML file on iPhone or iPad.",
           "action": "Keep the original .html, .htm, .xhtml file available in Files, Mail, a browser download, or the source app."
         },
         {
@@ -4516,7 +4516,7 @@
       "decisionPath": [
         {
           "position": 1,
-          "condition": "The file is a HTML file on iPhone or iPad.",
+          "condition": "The file is an HTML file on iPhone or iPad.",
           "action": "Keep the original .html, .htm, .xhtml file available in Files, Mail, a browser download, or the source app."
         },
         {
@@ -4773,7 +4773,7 @@
       "decisionPath": [
         {
           "position": 1,
-          "condition": "The file is a HTML file on iPhone or iPad.",
+          "condition": "The file is an HTML file on iPhone or iPad.",
           "action": "Keep the original .html, .htm, .xhtml file available in Files, Mail, a browser download, or the source app."
         },
         {
@@ -5030,7 +5030,7 @@
       "decisionPath": [
         {
           "position": 1,
-          "condition": "The file is a HTML file on iPhone or iPad.",
+          "condition": "The file is an HTML file on iPhone or iPad.",
           "action": "Keep the original .html, .htm, .xhtml file available in Files, Mail, a browser download, or the source app."
         },
         {
@@ -5287,7 +5287,7 @@
       "decisionPath": [
         {
           "position": 1,
-          "condition": "The file is a HTML file on iPhone or iPad.",
+          "condition": "The file is an HTML file on iPhone or iPad.",
           "action": "Keep the original .html, .htm, .xhtml file available in Files, Mail, a browser download, or the source app."
         },
         {
@@ -5544,7 +5544,7 @@
       "decisionPath": [
         {
           "position": 1,
-          "condition": "The file is a HTML file on iPhone or iPad.",
+          "condition": "The file is an HTML file on iPhone or iPad.",
           "action": "Keep the original .html, .htm, .xhtml file available in Files, Mail, a browser download, or the source app."
         },
         {
@@ -5801,7 +5801,7 @@
       "decisionPath": [
         {
           "position": 1,
-          "condition": "The file is a HTML file on iPhone or iPad.",
+          "condition": "The file is an HTML file on iPhone or iPad.",
           "action": "Keep the original .html, .htm, .xhtml file available in Files, Mail, a browser download, or the source app."
         },
         {
@@ -6058,7 +6058,7 @@
       "decisionPath": [
         {
           "position": 1,
-          "condition": "The file is a HTML file on iPhone or iPad.",
+          "condition": "The file is an HTML file on iPhone or iPad.",
           "action": "Keep the original .html, .htm, .xhtml file available in Files, Mail, a browser download, or the source app."
         },
         {
@@ -6315,7 +6315,7 @@
       "decisionPath": [
         {
           "position": 1,
-          "condition": "The file is a HTML file on iPhone or iPad.",
+          "condition": "The file is an HTML file on iPhone or iPad.",
           "action": "Keep the original .html, .htm, .xhtml file available in Files, Mail, a browser download, or the source app."
         },
         {
@@ -6572,7 +6572,7 @@
       "decisionPath": [
         {
           "position": 1,
-          "condition": "The file is a HTML file on iPhone or iPad.",
+          "condition": "The file is an HTML file on iPhone or iPad.",
           "action": "Keep the original .html, .htm, .xhtml file available in Files, Mail, a browser download, or the source app."
         },
         {
@@ -6829,7 +6829,7 @@
       "decisionPath": [
         {
           "position": 1,
-          "condition": "The file is a HTML file on iPhone or iPad.",
+          "condition": "The file is an HTML file on iPhone or iPad.",
           "action": "Keep the original .html, .htm, .xhtml file available in Files, Mail, a browser download, or the source app."
         },
         {
@@ -7086,7 +7086,7 @@
       "decisionPath": [
         {
           "position": 1,
-          "condition": "The file is a HTML file on iPhone or iPad.",
+          "condition": "The file is an HTML file on iPhone or iPad.",
           "action": "Keep the original .html, .htm, .xhtml file available in Files, Mail, a browser download, or the source app."
         },
         {
@@ -7343,7 +7343,7 @@
       "decisionPath": [
         {
           "position": 1,
-          "condition": "The file is a HTML file on iPhone or iPad.",
+          "condition": "The file is an HTML file on iPhone or iPad.",
           "action": "Keep the original .html, .htm, .xhtml file available in Files, Mail, a browser download, or the source app."
         },
         {
@@ -7600,7 +7600,7 @@
       "decisionPath": [
         {
           "position": 1,
-          "condition": "The file is a HTML file on iPhone or iPad.",
+          "condition": "The file is an HTML file on iPhone or iPad.",
           "action": "Keep the original .html, .htm, .xhtml file available in Files, Mail, a browser download, or the source app."
         },
         {
@@ -7857,7 +7857,7 @@
       "decisionPath": [
         {
           "position": 1,
-          "condition": "The file is a HTML file on iPhone or iPad.",
+          "condition": "The file is an HTML file on iPhone or iPad.",
           "action": "Keep the original .html, .htm, .xhtml file available in Files, Mail, a browser download, or the source app."
         },
         {
@@ -8114,7 +8114,7 @@
       "decisionPath": [
         {
           "position": 1,
-          "condition": "The file is a HTML file on iPhone or iPad.",
+          "condition": "The file is an HTML file on iPhone or iPad.",
           "action": "Keep the original .html, .htm, .xhtml file available in Files, Mail, a browser download, or the source app."
         },
         {
@@ -8371,7 +8371,7 @@
       "decisionPath": [
         {
           "position": 1,
-          "condition": "The file is a HTML file on iPhone or iPad.",
+          "condition": "The file is an HTML file on iPhone or iPad.",
           "action": "Keep the original .html, .htm, .xhtml file available in Files, Mail, a browser download, or the source app."
         },
         {
@@ -8628,7 +8628,7 @@
       "decisionPath": [
         {
           "position": 1,
-          "condition": "The file is a HTML file on iPhone or iPad.",
+          "condition": "The file is an HTML file on iPhone or iPad.",
           "action": "Keep the original .html, .htm, .xhtml file available in Files, Mail, a browser download, or the source app."
         },
         {
@@ -8885,7 +8885,7 @@
       "decisionPath": [
         {
           "position": 1,
-          "condition": "The file is a HTML file on iPhone or iPad.",
+          "condition": "The file is an HTML file on iPhone or iPad.",
           "action": "Keep the original .html, .htm, .xhtml file available in Files, Mail, a browser download, or the source app."
         },
         {
@@ -9142,7 +9142,7 @@
       "decisionPath": [
         {
           "position": 1,
-          "condition": "The file is a HTML file on iPhone or iPad.",
+          "condition": "The file is an HTML file on iPhone or iPad.",
           "action": "Keep the original .html, .htm, .xhtml file available in Files, Mail, a browser download, or the source app."
         },
         {
@@ -9399,7 +9399,7 @@
       "decisionPath": [
         {
           "position": 1,
-          "condition": "The file is a HTML file on iPhone or iPad.",
+          "condition": "The file is an HTML file on iPhone or iPad.",
           "action": "Keep the original .html, .htm, .xhtml file available in Files, Mail, a browser download, or the source app."
         },
         {
@@ -9656,7 +9656,7 @@
       "decisionPath": [
         {
           "position": 1,
-          "condition": "The file is a HTML file on iPhone or iPad.",
+          "condition": "The file is an HTML file on iPhone or iPad.",
           "action": "Keep the original .html, .htm, .xhtml file available in Files, Mail, a browser download, or the source app."
         },
         {
@@ -9913,7 +9913,7 @@
       "decisionPath": [
         {
           "position": 1,
-          "condition": "The file is a HTML file on iPhone or iPad.",
+          "condition": "The file is an HTML file on iPhone or iPad.",
           "action": "Keep the original .html, .htm, .xhtml file available in Files, Mail, a browser download, or the source app."
         },
         {
@@ -10170,7 +10170,7 @@
       "decisionPath": [
         {
           "position": 1,
-          "condition": "The file is a HTML file on iPhone or iPad.",
+          "condition": "The file is an HTML file on iPhone or iPad.",
           "action": "Keep the original .html, .htm, .xhtml file available in Files, Mail, a browser download, or the source app."
         },
         {
@@ -10427,7 +10427,7 @@
       "decisionPath": [
         {
           "position": 1,
-          "condition": "The file is a HTML file on iPhone or iPad.",
+          "condition": "The file is an HTML file on iPhone or iPad.",
           "action": "Keep the original .html, .htm, .xhtml file available in Files, Mail, a browser download, or the source app."
         },
         {
@@ -10684,7 +10684,7 @@
       "decisionPath": [
         {
           "position": 1,
-          "condition": "The file is a HTML file on iPhone or iPad.",
+          "condition": "The file is an HTML file on iPhone or iPad.",
           "action": "Keep the original .html, .htm, .xhtml file available in Files, Mail, a browser download, or the source app."
         },
         {
@@ -10941,7 +10941,7 @@
       "decisionPath": [
         {
           "position": 1,
-          "condition": "The file is a HTML file on iPhone or iPad.",
+          "condition": "The file is an HTML file on iPhone or iPad.",
           "action": "Keep the original .html, .htm, .xhtml file available in Files, Mail, a browser download, or the source app."
         },
         {
@@ -11198,7 +11198,7 @@
       "decisionPath": [
         {
           "position": 1,
-          "condition": "The file is a HTML file on iPhone or iPad.",
+          "condition": "The file is an HTML file on iPhone or iPad.",
           "action": "Keep the original .html, .htm, .xhtml file available in Files, Mail, a browser download, or the source app."
         },
         {
@@ -11455,7 +11455,7 @@
       "decisionPath": [
         {
           "position": 1,
-          "condition": "The file is a HTML file on iPhone or iPad.",
+          "condition": "The file is an HTML file on iPhone or iPad.",
           "action": "Keep the original .html, .htm, .xhtml file available in Files, Mail, a browser download, or the source app."
         },
         {
@@ -11712,7 +11712,7 @@
       "decisionPath": [
         {
           "position": 1,
-          "condition": "The file is a HTML file on iPhone or iPad.",
+          "condition": "The file is an HTML file on iPhone or iPad.",
           "action": "Keep the original .html, .htm, .xhtml file available in Files, Mail, a browser download, or the source app."
         },
         {
@@ -11969,7 +11969,7 @@
       "decisionPath": [
         {
           "position": 1,
-          "condition": "The file is a HTML file on iPhone or iPad.",
+          "condition": "The file is an HTML file on iPhone or iPad.",
           "action": "Keep the original .html, .htm, .xhtml file available in Files, Mail, a browser download, or the source app."
         },
         {
@@ -12226,7 +12226,7 @@
       "decisionPath": [
         {
           "position": 1,
-          "condition": "The file is a HTML file on iPhone or iPad.",
+          "condition": "The file is an HTML file on iPhone or iPad.",
           "action": "Keep the original .html, .htm, .xhtml file available in Files, Mail, a browser download, or the source app."
         },
         {
@@ -12483,7 +12483,7 @@
       "decisionPath": [
         {
           "position": 1,
-          "condition": "The file is a HTML file on iPhone or iPad.",
+          "condition": "The file is an HTML file on iPhone or iPad.",
           "action": "Keep the original .html, .htm, .xhtml file available in Files, Mail, a browser download, or the source app."
         },
         {
@@ -12740,7 +12740,7 @@
       "decisionPath": [
         {
           "position": 1,
-          "condition": "The file is a HTML file on iPhone or iPad.",
+          "condition": "The file is an HTML file on iPhone or iPad.",
           "action": "Keep the original .html, .htm, .xhtml file available in Files, Mail, a browser download, or the source app."
         },
         {
@@ -12997,7 +12997,7 @@
       "decisionPath": [
         {
           "position": 1,
-          "condition": "The file is a HTML file on iPhone or iPad.",
+          "condition": "The file is an HTML file on iPhone or iPad.",
           "action": "Keep the original .html, .htm, .xhtml file available in Files, Mail, a browser download, or the source app."
         },
         {
@@ -13254,7 +13254,7 @@
       "decisionPath": [
         {
           "position": 1,
-          "condition": "The file is a HTML file on iPhone or iPad.",
+          "condition": "The file is an HTML file on iPhone or iPad.",
           "action": "Keep the original .html, .htm, .xhtml file available in Files, Mail, a browser download, or the source app."
         },
         {
@@ -13511,7 +13511,7 @@
       "decisionPath": [
         {
           "position": 1,
-          "condition": "The file is a HTML file on iPhone or iPad.",
+          "condition": "The file is an HTML file on iPhone or iPad.",
           "action": "Keep the original .html, .htm, .xhtml file available in Files, Mail, a browser download, or the source app."
         },
         {
@@ -13768,7 +13768,7 @@
       "decisionPath": [
         {
           "position": 1,
-          "condition": "The file is a HTML file on iPhone or iPad.",
+          "condition": "The file is an HTML file on iPhone or iPad.",
           "action": "Keep the original .html, .htm, .xhtml file available in Files, Mail, a browser download, or the source app."
         },
         {
@@ -14025,7 +14025,7 @@
       "decisionPath": [
         {
           "position": 1,
-          "condition": "The file is a HTML file on iPhone or iPad.",
+          "condition": "The file is an HTML file on iPhone or iPad.",
           "action": "Keep the original .html, .htm, .xhtml file available in Files, Mail, a browser download, or the source app."
         },
         {
@@ -14282,7 +14282,7 @@
       "decisionPath": [
         {
           "position": 1,
-          "condition": "The file is a HTML file on iPhone or iPad.",
+          "condition": "The file is an HTML file on iPhone or iPad.",
           "action": "Keep the original .html, .htm, .xhtml file available in Files, Mail, a browser download, or the source app."
         },
         {
@@ -14539,7 +14539,7 @@
       "decisionPath": [
         {
           "position": 1,
-          "condition": "The file is a HTML file on iPhone or iPad.",
+          "condition": "The file is an HTML file on iPhone or iPad.",
           "action": "Keep the original .html, .htm, .xhtml file available in Files, Mail, a browser download, or the source app."
         },
         {
@@ -14796,7 +14796,7 @@
       "decisionPath": [
         {
           "position": 1,
-          "condition": "The file is a HTML file on iPhone or iPad.",
+          "condition": "The file is an HTML file on iPhone or iPad.",
           "action": "Keep the original .html, .htm, .xhtml file available in Files, Mail, a browser download, or the source app."
         },
         {
@@ -15053,7 +15053,7 @@
       "decisionPath": [
         {
           "position": 1,
-          "condition": "The file is a HTML file on iPhone or iPad.",
+          "condition": "The file is an HTML file on iPhone or iPad.",
           "action": "Keep the original .html, .htm, .xhtml file available in Files, Mail, a browser download, or the source app."
         },
         {
@@ -15310,7 +15310,7 @@
       "decisionPath": [
         {
           "position": 1,
-          "condition": "The file is a HTML file on iPhone or iPad.",
+          "condition": "The file is an HTML file on iPhone or iPad.",
           "action": "Keep the original .html, .htm, .xhtml file available in Files, Mail, a browser download, or the source app."
         },
         {
@@ -15567,7 +15567,7 @@
       "decisionPath": [
         {
           "position": 1,
-          "condition": "The file is a HTML file on iPhone or iPad.",
+          "condition": "The file is an HTML file on iPhone or iPad.",
           "action": "Keep the original .html, .htm, .xhtml file available in Files, Mail, a browser download, or the source app."
         },
         {
@@ -15824,7 +15824,7 @@
       "decisionPath": [
         {
           "position": 1,
-          "condition": "The file is a HTML file on iPhone or iPad.",
+          "condition": "The file is an HTML file on iPhone or iPad.",
           "action": "Keep the original .html, .htm, .xhtml file available in Files, Mail, a browser download, or the source app."
         },
         {
@@ -16081,7 +16081,7 @@
       "decisionPath": [
         {
           "position": 1,
-          "condition": "The file is a HTML file on iPhone or iPad.",
+          "condition": "The file is an HTML file on iPhone or iPad.",
           "action": "Keep the original .html, .htm, .xhtml file available in Files, Mail, a browser download, or the source app."
         },
         {
@@ -16338,7 +16338,7 @@
       "decisionPath": [
         {
           "position": 1,
-          "condition": "The file is a HTML file on iPhone or iPad.",
+          "condition": "The file is an HTML file on iPhone or iPad.",
           "action": "Keep the original .html, .htm, .xhtml file available in Files, Mail, a browser download, or the source app."
         },
         {
@@ -16595,7 +16595,7 @@
       "decisionPath": [
         {
           "position": 1,
-          "condition": "The file is a HTML file on iPhone or iPad.",
+          "condition": "The file is an HTML file on iPhone or iPad.",
           "action": "Keep the original .html, .htm, .xhtml file available in Files, Mail, a browser download, or the source app."
         },
         {
@@ -16852,7 +16852,7 @@
       "decisionPath": [
         {
           "position": 1,
-          "condition": "The file is a HTML file on iPhone or iPad.",
+          "condition": "The file is an HTML file on iPhone or iPad.",
           "action": "Keep the original .html, .htm, .xhtml file available in Files, Mail, a browser download, or the source app."
         },
         {
@@ -17109,7 +17109,7 @@
       "decisionPath": [
         {
           "position": 1,
-          "condition": "The file is a HTML file on iPhone or iPad.",
+          "condition": "The file is an HTML file on iPhone or iPad.",
           "action": "Keep the original .html, .htm, .xhtml file available in Files, Mail, a browser download, or the source app."
         },
         {
@@ -17366,7 +17366,7 @@
       "decisionPath": [
         {
           "position": 1,
-          "condition": "The file is a HTML file on iPhone or iPad.",
+          "condition": "The file is an HTML file on iPhone or iPad.",
           "action": "Keep the original .html, .htm, .xhtml file available in Files, Mail, a browser download, or the source app."
         },
         {
@@ -17623,7 +17623,7 @@
       "decisionPath": [
         {
           "position": 1,
-          "condition": "The file is a HTML file on iPhone or iPad.",
+          "condition": "The file is an HTML file on iPhone or iPad.",
           "action": "Keep the original .html, .htm, .xhtml file available in Files, Mail, a browser download, or the source app."
         },
         {
@@ -17880,7 +17880,7 @@
       "decisionPath": [
         {
           "position": 1,
-          "condition": "The file is a HTML file on iPhone or iPad.",
+          "condition": "The file is an HTML file on iPhone or iPad.",
           "action": "Keep the original .html, .htm, .xhtml file available in Files, Mail, a browser download, or the source app."
         },
         {
@@ -18137,7 +18137,7 @@
       "decisionPath": [
         {
           "position": 1,
-          "condition": "The file is a HTML file on iPhone or iPad.",
+          "condition": "The file is an HTML file on iPhone or iPad.",
           "action": "Keep the original .html, .htm, .xhtml file available in Files, Mail, a browser download, or the source app."
         },
         {
@@ -18394,7 +18394,7 @@
       "decisionPath": [
         {
           "position": 1,
-          "condition": "The file is a HTML file on iPhone or iPad.",
+          "condition": "The file is an HTML file on iPhone or iPad.",
           "action": "Keep the original .html, .htm, .xhtml file available in Files, Mail, a browser download, or the source app."
         },
         {
@@ -18651,7 +18651,7 @@
       "decisionPath": [
         {
           "position": 1,
-          "condition": "The file is a HTML file on iPhone or iPad.",
+          "condition": "The file is an HTML file on iPhone or iPad.",
           "action": "Keep the original .html, .htm, .xhtml file available in Files, Mail, a browser download, or the source app."
         },
         {
@@ -18908,7 +18908,7 @@
       "decisionPath": [
         {
           "position": 1,
-          "condition": "The file is a HTML file on iPhone or iPad.",
+          "condition": "The file is an HTML file on iPhone or iPad.",
           "action": "Keep the original .html, .htm, .xhtml file available in Files, Mail, a browser download, or the source app."
         },
         {
@@ -19165,7 +19165,7 @@
       "decisionPath": [
         {
           "position": 1,
-          "condition": "The file is a HTML file on iPhone or iPad.",
+          "condition": "The file is an HTML file on iPhone or iPad.",
           "action": "Keep the original .html, .htm, .xhtml file available in Files, Mail, a browser download, or the source app."
         },
         {
@@ -19422,7 +19422,7 @@
       "decisionPath": [
         {
           "position": 1,
-          "condition": "The file is a HTML file on iPhone or iPad.",
+          "condition": "The file is an HTML file on iPhone or iPad.",
           "action": "Keep the original .html, .htm, .xhtml file available in Files, Mail, a browser download, or the source app."
         },
         {
@@ -19679,7 +19679,7 @@
       "decisionPath": [
         {
           "position": 1,
-          "condition": "The file is a HTML file on iPhone or iPad.",
+          "condition": "The file is an HTML file on iPhone or iPad.",
           "action": "Keep the original .html, .htm, .xhtml file available in Files, Mail, a browser download, or the source app."
         },
         {
@@ -19936,7 +19936,7 @@
       "decisionPath": [
         {
           "position": 1,
-          "condition": "The file is a HTML file on iPhone or iPad.",
+          "condition": "The file is an HTML file on iPhone or iPad.",
           "action": "Keep the original .html, .htm, .xhtml file available in Files, Mail, a browser download, or the source app."
         },
         {
@@ -20193,7 +20193,7 @@
       "decisionPath": [
         {
           "position": 1,
-          "condition": "The file is a HTML file on iPhone or iPad.",
+          "condition": "The file is an HTML file on iPhone or iPad.",
           "action": "Keep the original .html, .htm, .xhtml file available in Files, Mail, a browser download, or the source app."
         },
         {
@@ -20450,7 +20450,7 @@
       "decisionPath": [
         {
           "position": 1,
-          "condition": "The file is a HTML file on iPhone or iPad.",
+          "condition": "The file is an HTML file on iPhone or iPad.",
           "action": "Keep the original .html, .htm, .xhtml file available in Files, Mail, a browser download, or the source app."
         },
         {
@@ -20707,7 +20707,7 @@
       "decisionPath": [
         {
           "position": 1,
-          "condition": "The file is a HTML file on iPhone or iPad.",
+          "condition": "The file is an HTML file on iPhone or iPad.",
           "action": "Keep the original .html, .htm, .xhtml file available in Files, Mail, a browser download, or the source app."
         },
         {
@@ -20964,7 +20964,7 @@
       "decisionPath": [
         {
           "position": 1,
-          "condition": "The file is a HTML file on iPhone or iPad.",
+          "condition": "The file is an HTML file on iPhone or iPad.",
           "action": "Keep the original .html, .htm, .xhtml file available in Files, Mail, a browser download, or the source app."
         },
         {
@@ -21221,7 +21221,7 @@
       "decisionPath": [
         {
           "position": 1,
-          "condition": "The file is a HTML file on iPhone or iPad.",
+          "condition": "The file is an HTML file on iPhone or iPad.",
           "action": "Keep the original .html, .htm, .xhtml file available in Files, Mail, a browser download, or the source app."
         },
         {
@@ -21478,7 +21478,7 @@
       "decisionPath": [
         {
           "position": 1,
-          "condition": "The file is a HTML file on iPhone or iPad.",
+          "condition": "The file is an HTML file on iPhone or iPad.",
           "action": "Keep the original .html, .htm, .xhtml file available in Files, Mail, a browser download, or the source app."
         },
         {
@@ -21735,7 +21735,7 @@
       "decisionPath": [
         {
           "position": 1,
-          "condition": "The file is a HTML file on iPhone or iPad.",
+          "condition": "The file is an HTML file on iPhone or iPad.",
           "action": "Keep the original .html, .htm, .xhtml file available in Files, Mail, a browser download, or the source app."
         },
         {
@@ -21992,7 +21992,7 @@
       "decisionPath": [
         {
           "position": 1,
-          "condition": "The file is a HTML file on iPhone or iPad.",
+          "condition": "The file is an HTML file on iPhone or iPad.",
           "action": "Keep the original .html, .htm, .xhtml file available in Files, Mail, a browser download, or the source app."
         },
         {
@@ -22249,7 +22249,7 @@
       "decisionPath": [
         {
           "position": 1,
-          "condition": "The file is a HTML file on iPhone or iPad.",
+          "condition": "The file is an HTML file on iPhone or iPad.",
           "action": "Keep the original .html, .htm, .xhtml file available in Files, Mail, a browser download, or the source app."
         },
         {
@@ -22506,7 +22506,7 @@
       "decisionPath": [
         {
           "position": 1,
-          "condition": "The file is a HTML file on iPhone or iPad.",
+          "condition": "The file is an HTML file on iPhone or iPad.",
           "action": "Keep the original .html, .htm, .xhtml file available in Files, Mail, a browser download, or the source app."
         },
         {
@@ -22763,7 +22763,7 @@
       "decisionPath": [
         {
           "position": 1,
-          "condition": "The file is a HTML file on iPhone or iPad.",
+          "condition": "The file is an HTML file on iPhone or iPad.",
           "action": "Keep the original .html, .htm, .xhtml file available in Files, Mail, a browser download, or the source app."
         },
         {
@@ -23020,7 +23020,7 @@
       "decisionPath": [
         {
           "position": 1,
-          "condition": "The file is a HTML file on iPhone or iPad.",
+          "condition": "The file is an HTML file on iPhone or iPad.",
           "action": "Keep the original .html, .htm, .xhtml file available in Files, Mail, a browser download, or the source app."
         },
         {
@@ -23277,7 +23277,7 @@
       "decisionPath": [
         {
           "position": 1,
-          "condition": "The file is a HTML file on iPhone or iPad.",
+          "condition": "The file is an HTML file on iPhone or iPad.",
           "action": "Keep the original .html, .htm, .xhtml file available in Files, Mail, a browser download, or the source app."
         },
         {
