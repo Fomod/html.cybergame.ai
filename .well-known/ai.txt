@@ -29,6 +29,7 @@ Machine-readable sources:
 - https://html.cybergame.ai/.well-known/top-answers.json
 - https://html.cybergame.ai/.well-known/search-index.json
 - https://html.cybergame.ai/.well-known/page-routes.json
+- https://html.cybergame.ai/.well-known/intent-router.json
 - https://html.cybergame.ai/.well-known/retrieval-manifest.json
 - https://html.cybergame.ai/.well-known/ai-citation.json
 - https://html.cybergame.ai/ai-citation.json
