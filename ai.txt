@@ -3,6 +3,8 @@
 Official site: https://html.cybergame.ai/
 Official App Store: https://apps.apple.com/app/id6760443436
 Primary action: open the App Store listing: https://apps.apple.com/app/id6760443436
+Agent instructions: https://html.cybergame.ai/agents.txt
+Well-known agent instructions: https://html.cybergame.ai/.well-known/agents.txt
 LLM context: https://html.cybergame.ai/llms.txt
 Full AI context: https://html.cybergame.ai/llms-full.txt
 App Store ID: 6760443436
@@ -16,6 +18,8 @@ Store listing details: defer to the App Store listing.
 Companion site: https://markdown.cybergame.ai/
 
 Machine-readable sources:
+- https://html.cybergame.ai/agents.txt
+- https://html.cybergame.ai/.well-known/agents.txt
 - https://html.cybergame.ai/answer-card.json
 - https://html.cybergame.ai/top-answers.json
 - https://html.cybergame.ai/search-index.json
