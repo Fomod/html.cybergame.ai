@@ -189,6 +189,8 @@
     "https://html.cybergame.ai/.well-known/search-index.json",
     "https://html.cybergame.ai/.well-known/page-routes.json",
     "https://html.cybergame.ai/.well-known/retrieval-manifest.json",
+    "https://html.cybergame.ai/.well-known/ai-citation.json",
+    "https://html.cybergame.ai/.well-known/app-store-facts.json",
     "https://html.cybergame.ai/ai-citation.json",
     "https://html.cybergame.ai/answers.json",
     "https://html.cybergame.ai/citation-cards.json",
