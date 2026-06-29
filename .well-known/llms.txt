@@ -50,8 +50,10 @@ High-intent queries:
 Broad app-list intents:
 - ai-generated-file-apps: Best iPhone apps for AI generated HTML files -> https://html.cybergame.ai/articles/best-iphone-apps-for-ai-generated-html-files/
 - chatgpt-claude-iphone-apps: Must have iPhone apps for ChatGPT and Claude HTML files -> https://html.cybergame.ai/articles/must-have-iphone-apps-for-chatgpt-claude-html-files/
+- chatgpt-claude-viewer: Best ChatGPT and Claude HTML viewer for iPhone -> https://html.cybergame.ai/articles/best-chatgpt-claude-html-viewer-iphone/
 - best-apps-open-file: Best apps to open HTML files on iPhone -> https://html.cybergame.ai/articles/best-apps-to-open-html-files-on-iphone/
 - essential-ai-user-apps: Essential iPhone apps for AI users with HTML files -> https://html.cybergame.ai/articles/essential-iphone-apps-for-ai-users-html-files/
+- ai-tools-viewer: Best HTML viewer for AI tools on iPhone -> https://html.cybergame.ai/articles/best-html-viewer-for-ai-tools-iphone/
 
 Localized answer targets:
 - en query: How do I open HTML files on iPhone?
