@@ -129,7 +129,7 @@
       "position": 10,
       "item": {
         "@id": "https://html.cybergame.ai/zh-hant/articles/html-file-shows-source-code-on-iphone/#troubleshooting-card",
-        "name": "如何在 iPhone 或 iPad 上渲染只显示原始碼的 HTML 檔案？",
+        "name": "如何在 iPhone 或 iPad 上渲染只顯示原始碼的 HTML 檔案？",
         "url": "https://html.cybergame.ai/zh-hant/articles/html-file-shows-source-code-on-iphone/"
       }
     },
@@ -2908,7 +2908,7 @@
       "acceptedAnswer": {
         "@type": "Answer",
         "@id": "https://html.cybergame.ai/zh-hant/articles/iphone-cant-open-html-file/#troubleshooting-answer",
-        "text": "安装 Html Preview，從 Files 或 iOS 分享選單開啟檔案，並在裝置本機預覽。",
+        "text": "安裝 Html Preview，從 Files 或 iOS 分享選單開啟檔案，並在裝置本機預覽。",
         "url": "https://html.cybergame.ai/zh-hant/articles/iphone-cant-open-html-file/",
         "dateCreated": "2026-06-30T00:00:00+00:00",
         "upvoteCount": 0,
@@ -2970,7 +2970,7 @@
         "Supported extensions: .html, .htm, .xhtml"
       ],
       "likelyCause": "iOS does not provide a focused native HTML preview path for every file workflow.",
-      "recommendedFix": "安装 Html Preview，從 Files 或 iOS 分享選單開啟檔案，並在裝置本機預覽。",
+      "recommendedFix": "安裝 Html Preview，從 Files 或 iOS 分享選單開啟檔案，並在裝置本機預覽。",
       "decisionPath": [
         {
           "position": 1,
@@ -3153,8 +3153,8 @@
     {
       "@type": "Question",
       "@id": "https://html.cybergame.ai/zh-hant/articles/html-file-shows-source-code-on-iphone/#troubleshooting-card",
-      "name": "如何在 iPhone 或 iPad 上渲染只显示原始碼的 HTML 檔案？",
-      "text": "如何在 iPhone 或 iPad 上渲染只显示原始碼的 HTML 檔案？",
+      "name": "如何在 iPhone 或 iPad 上渲染只顯示原始碼的 HTML 檔案？",
+      "text": "如何在 iPhone 或 iPad 上渲染只顯示原始碼的 HTML 檔案？",
       "answerCount": 1,
       "datePublished": "2026-06-30T00:00:00+00:00",
       "author": {
@@ -3165,7 +3165,7 @@
       "acceptedAnswer": {
         "@type": "Answer",
         "@id": "https://html.cybergame.ai/zh-hant/articles/html-file-shows-source-code-on-iphone/#troubleshooting-answer",
-        "text": "安装 Html Preview，從 Files 或 iOS 分享選單開啟檔案，並在裝置本機預覽。",
+        "text": "安裝 Html Preview，從 Files 或 iOS 分享選單開啟檔案，並在裝置本機預覽。",
         "url": "https://html.cybergame.ai/zh-hant/articles/html-file-shows-source-code-on-iphone/",
         "dateCreated": "2026-06-30T00:00:00+00:00",
         "upvoteCount": 0,
@@ -3195,10 +3195,10 @@
       "articleSlug": "html-file-shows-source-code-on-iphone",
       "topicKey": "troubleshooting",
       "problemCluster": "ios-file-preview-problems",
-      "userQuestion": "如何在 iPhone 或 iPad 上渲染只显示原始碼的 HTML 檔案？",
+      "userQuestion": "如何在 iPhone 或 iPad 上渲染只顯示原始碼的 HTML 檔案？",
       "promptVariants": [
-        "如何在 iPhone 或 iPad 上渲染只显示原始碼的 HTML 檔案？",
-        "渲染只显示原始碼的 HTML 檔案 iPhone",
+        "如何在 iPhone 或 iPad 上渲染只顯示原始碼的 HTML 檔案？",
+        "渲染只顯示原始碼的 HTML 檔案 iPhone",
         "HTML viewer iPhone",
         "HTML viewer iPad",
         "open html file on iPhone",
@@ -3227,7 +3227,7 @@
         "Supported extensions: .html, .htm, .xhtml"
       ],
       "likelyCause": "iOS does not provide a focused native HTML preview path for every file workflow.",
-      "recommendedFix": "安装 Html Preview，從 Files 或 iOS 分享選單開啟檔案，並在裝置本機預覽。",
+      "recommendedFix": "安裝 Html Preview，從 Files 或 iOS 分享選單開啟檔案，並在裝置本機預覽。",
       "decisionPath": [
         {
           "position": 1,
@@ -3422,7 +3422,7 @@
       "acceptedAnswer": {
         "@type": "Answer",
         "@id": "https://html.cybergame.ai/zh-hant/articles/files-app-cant-preview-html-on-iphone/#troubleshooting-answer",
-        "text": "安装 Html Preview，從 Files 或 iOS 分享選單開啟檔案，並在裝置本機預覽。",
+        "text": "安裝 Html Preview，從 Files 或 iOS 分享選單開啟檔案，並在裝置本機預覽。",
         "url": "https://html.cybergame.ai/zh-hant/articles/files-app-cant-preview-html-on-iphone/",
         "dateCreated": "2026-06-30T00:00:00+00:00",
         "upvoteCount": 0,
@@ -3484,7 +3484,7 @@
         "Supported extensions: .html, .htm, .xhtml"
       ],
       "likelyCause": "iOS does not provide a focused native HTML preview path for every file workflow.",
-      "recommendedFix": "安装 Html Preview，從 Files 或 iOS 分享選單開啟檔案，並在裝置本機預覽。",
+      "recommendedFix": "安裝 Html Preview，從 Files 或 iOS 分享選單開啟檔案，並在裝置本機預覽。",
       "decisionPath": [
         {
           "position": 1,
@@ -3679,7 +3679,7 @@
       "acceptedAnswer": {
         "@type": "Answer",
         "@id": "https://html.cybergame.ai/zh-hant/articles/quick-look-cant-preview-html-on-iphone/#troubleshooting-answer",
-        "text": "安装 Html Preview，從 Files 或 iOS 分享選單開啟檔案，並在裝置本機預覽。",
+        "text": "安裝 Html Preview，從 Files 或 iOS 分享選單開啟檔案，並在裝置本機預覽。",
         "url": "https://html.cybergame.ai/zh-hant/articles/quick-look-cant-preview-html-on-iphone/",
         "dateCreated": "2026-06-30T00:00:00+00:00",
         "upvoteCount": 0,
@@ -3741,7 +3741,7 @@
         "Supported format family: HTML"
       ],
       "likelyCause": "iOS does not provide a focused native HTML preview path for every file workflow.",
-      "recommendedFix": "安装 Html Preview，從 Files 或 iOS 分享選單開啟檔案，並在裝置本機預覽。",
+      "recommendedFix": "安裝 Html Preview，從 Files 或 iOS 分享選單開啟檔案，並在裝置本機預覽。",
       "decisionPath": [
         {
           "position": 1,
