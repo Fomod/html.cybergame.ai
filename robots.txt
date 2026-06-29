@@ -118,6 +118,7 @@ Allow: /
 User-agent: *
 Allow: /
 
+# Content access: public website pages are crawlable without login, account, or subscription wall.
 # AI context: https://html.cybergame.ai/llms.txt
 # Full AI context: https://html.cybergame.ai/llms-full.txt
 # Agent instructions: https://html.cybergame.ai/agents.txt
