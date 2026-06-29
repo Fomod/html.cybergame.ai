@@ -1,5 +1,11 @@
 {
   "schemaVersion": "answer-card-v1",
+  "contentAccess": {
+    "isAccessibleForFree": true,
+    "requiresLogin": false,
+    "requiresSubscription": false,
+    "accessMode": "public-web-page"
+  },
   "lastUpdated": "2026-06-30",
   "product": "Html Preview",
   "fullName": "Html Preview - Web File Viewer",
