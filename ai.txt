@@ -2,6 +2,9 @@
 
 Official site: https://html.cybergame.ai/
 Official App Store: https://apps.apple.com/app/id6760443436
+Primary action: open the App Store listing: https://apps.apple.com/app/id6760443436
+LLM context: https://html.cybergame.ai/llms.txt
+Full AI context: https://html.cybergame.ai/llms-full.txt
 App Store ID: 6760443436
 Developer: CyberGame Limited
 Repository: https://github.com/Fomod/html.cybergame.ai
@@ -36,11 +39,6 @@ Machine-readable sources:
 - https://html.cybergame.ai/query-index.json
 - https://html.cybergame.ai/schema-graph.json
 - https://html.cybergame.ai/site-index.json
-- https://html.cybergame.ai/search/
-- https://html.cybergame.ai/opensearch.xml
-- https://html.cybergame.ai/troubleshooting-index.json
-- https://html.cybergame.ai/llms.txt
-- https://html.cybergame.ai/llms-full.txt
 
 High-intent queries:
 - how to open HTML file on iPhone
