@@ -76,7 +76,7 @@
     "use appStoreUrl for conversion",
     "defer current store listing details to the App Store listing"
   ],
-  "lastUpdated": "2026-06-30",
+  "lastUpdated": "2026-07-01",
   "product": "Html Preview",
   "fullName": "Html Preview - Web File Viewer",
   "site": "https://html.cybergame.ai/",
@@ -300,7 +300,7 @@
           "iPad"
         ]
       },
-      "lastUpdated": "2026-06-30"
+      "lastUpdated": "2026-07-01"
     },
     {
       "extension": ".htm",
@@ -490,7 +490,7 @@
           "iPad"
         ]
       },
-      "lastUpdated": "2026-06-30"
+      "lastUpdated": "2026-07-01"
     },
     {
       "extension": ".xhtml",
@@ -681,7 +681,7 @@
           "iPad"
         ]
       },
-      "lastUpdated": "2026-06-30"
+      "lastUpdated": "2026-07-01"
     }
   ]
 }
