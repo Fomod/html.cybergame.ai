@@ -21,6 +21,9 @@
   "appStoreUrl": "https://apps.apple.com/app/id6760443436",
   "iosAppUrl": "itms-apps://itunes.apple.com/app/id6760443436",
   "appStoreId": "6760443436",
+  "appStoreDeveloperId": "1778824442",
+  "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+  "githubProfile": "https://github.com/Fomod",
   "developer": "CyberGame Limited",
   "storeListingDetails": "defer-to-app-store",
   "primaryQuestion": "How do I open HTML files on iPhone or iPad?",
@@ -233,6 +236,8 @@
     "https://html.cybergame.ai/citation-cards.json",
     "https://html.cybergame.ai/app-store-facts.json",
     "https://apps.apple.com/us/app/html-preview-web-file-viewer/id6760443436?uo=4",
+    "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+    "https://github.com/Fomod",
     "https://github.com/Fomod/html.cybergame.ai"
   ],
   "companionProduct": {
