@@ -23,6 +23,11 @@
 - Image sitemap: https://html.cybergame.ai/image-sitemap.xml
 - Agent instructions: https://html.cybergame.ai/agents.txt
 - Well-known agent instructions: https://html.cybergame.ai/.well-known/agents.txt
+- AI discovery: https://html.cybergame.ai/ai.txt
+- LLM context: https://html.cybergame.ai/llms.txt
+- Full AI context: https://html.cybergame.ai/llms-full.txt
+- Well-known AI discovery: https://html.cybergame.ai/.well-known/ai.txt
+- Well-known LLM context: https://html.cybergame.ai/.well-known/llms.txt
 - Site search: https://html.cybergame.ai/search/
 - OpenSearch description: https://html.cybergame.ai/opensearch.xml
 - Compact answer card JSON: https://html.cybergame.ai/answer-card.json
