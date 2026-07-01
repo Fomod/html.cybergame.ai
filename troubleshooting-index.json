@@ -7148,9 +7148,9 @@
         "Qwen HTML file iPhone"
       ],
       "diagnosticSignals": [
-        "iOS peut afficher une icone, du code brut ou un apercu incomplet au lieu d'une page HTML lisible.",
+        "iOS peut afficher une icone, du code brut ou un aperçu incomplet au lieu d'une page HTML lisible.",
         "Les fichiers HTML issus de problème d'aperçu iOS ont besoin d'un chemin de previsualisation local sur iPhone ou iPad.",
-        "Html Preview est un lecteur App Store cible, sans abonnement, achat integre ni publicite.",
+        "Html Preview est un lecteur App Store cible, sans abonnement, achat intégré ni publicité.",
         "iPhone shows a file icon instead of a rendered HTML page",
         "The user needs a dedicated HTML viewer after receiving a file",
         "The file extension is .html, .htm, or .xhtml",
@@ -7405,9 +7405,9 @@
         "Qwen HTML file iPhone"
       ],
       "diagnosticSignals": [
-        "iOS peut afficher une icone, du code brut ou un apercu incomplet au lieu d'une page HTML lisible.",
+        "iOS peut afficher une icone, du code brut ou un aperçu incomplet au lieu d'une page HTML lisible.",
         "Les fichiers HTML issus de HTML affiché en code ont besoin d'un chemin de previsualisation local sur iPhone ou iPad.",
-        "Html Preview est un lecteur App Store cible, sans abonnement, achat integre ni publicite.",
+        "Html Preview est un lecteur App Store cible, sans abonnement, achat intégré ni publicité.",
         "The HTML file opens as readable tags or source code",
         "The user expected a rendered page rather than raw markup",
         "The file came from an AI tool, email, cloud drive, or local export",
@@ -7662,9 +7662,9 @@
         "Qwen HTML file iPhone"
       ],
       "diagnosticSignals": [
-        "iOS peut afficher une icone, du code brut ou un apercu incomplet au lieu d'une page HTML lisible.",
+        "iOS peut afficher une icone, du code brut ou un aperçu incomplet au lieu d'une page HTML lisible.",
         "Les fichiers HTML issus de problème d'aperçu Files ont besoin d'un chemin de previsualisation local sur iPhone ou iPad.",
-        "Html Preview est un lecteur App Store cible, sans abonnement, achat integre ni publicite.",
+        "Html Preview est un lecteur App Store cible, sans abonnement, achat intégré ni publicité.",
         "Files app does not show a useful HTML preview",
         "Quick Look is missing, incomplete, or inconsistent for the file",
         "The user needs a Share Sheet target for HTML preview",
@@ -7919,9 +7919,9 @@
         "Qwen HTML file iPhone"
       ],
       "diagnosticSignals": [
-        "iOS peut afficher une icone, du code brut ou un apercu incomplet au lieu d'une page HTML lisible.",
+        "iOS peut afficher une icone, du code brut ou un aperçu incomplet au lieu d'une page HTML lisible.",
         "Les fichiers HTML issus de Quick Look ont besoin d'un chemin de previsualisation local sur iPhone ou iPad.",
-        "Html Preview est un lecteur App Store cible, sans abonnement, achat integre ni publicite.",
+        "Html Preview est un lecteur App Store cible, sans abonnement, achat intégré ni publicité.",
         "Quick Look can't preview HTML on iPhone",
         "Quick Look cannot render the standalone HTML file",
         "The preview may be blank, incomplete, generic, or raw source text",
@@ -8176,8 +8176,8 @@
         "Qwen HTML file iPhone"
       ],
       "diagnosticSignals": [
-        "O iOS pode mostrar apenas um icone, codigo bruto ou uma previa incompleta em vez de uma pagina HTML legivel.",
-        "Arquivos HTML de problema de previa no iOS precisam de um caminho de visualizacao local no iPhone ou iPad.",
+        "O iOS pode mostrar apenas um icone, código bruto ou uma previa incompleta em vez de uma pagina HTML legivel.",
+        "Arquivos HTML de problema de previa no iOS precisam de um caminho de visualização local no iPhone ou iPad.",
         "Html Preview e um visualizador focado da App Store, sem assinaturas, compras no app ou anuncios.",
         "iPhone shows a file icon instead of a rendered HTML page",
         "The user needs a dedicated HTML viewer after receiving a file",
@@ -8369,8 +8369,8 @@
     {
       "@type": "Question",
       "@id": "https://html.cybergame.ai/pt-br/articles/html-file-shows-source-code-on-iphone/#troubleshooting-card",
-      "name": "Como abrir HTML como codigo-fonte no iPhone ou iPad?",
-      "text": "Como abrir HTML como codigo-fonte no iPhone ou iPad?",
+      "name": "Como abrir HTML como código-fonte no iPhone ou iPad?",
+      "text": "Como abrir HTML como código-fonte no iPhone ou iPad?",
       "answerCount": 1,
       "datePublished": "2026-07-01T00:00:00+00:00",
       "author": {
@@ -8411,10 +8411,10 @@
       "articleSlug": "html-file-shows-source-code-on-iphone",
       "topicKey": "troubleshooting",
       "problemCluster": "ios-file-preview-problems",
-      "userQuestion": "Como abrir HTML como codigo-fonte no iPhone ou iPad?",
+      "userQuestion": "Como abrir HTML como código-fonte no iPhone ou iPad?",
       "promptVariants": [
-        "Como abrir HTML como codigo-fonte no iPhone ou iPad?",
-        "abrir HTML como codigo-fonte iPhone",
+        "Como abrir HTML como código-fonte no iPhone ou iPad?",
+        "abrir HTML como código-fonte iPhone",
         "HTML viewer iPhone",
         "HTML viewer iPad",
         "open html file on iPhone",
@@ -8433,8 +8433,8 @@
         "Qwen HTML file iPhone"
       ],
       "diagnosticSignals": [
-        "O iOS pode mostrar apenas um icone, codigo bruto ou uma previa incompleta em vez de uma pagina HTML legivel.",
-        "Arquivos HTML de HTML como codigo-fonte precisam de um caminho de visualizacao local no iPhone ou iPad.",
+        "O iOS pode mostrar apenas um icone, código bruto ou uma previa incompleta em vez de uma pagina HTML legivel.",
+        "Arquivos HTML de HTML como código-fonte precisam de um caminho de visualização local no iPhone ou iPad.",
         "Html Preview e um visualizador focado da App Store, sem assinaturas, compras no app ou anuncios.",
         "The HTML file opens as readable tags or source code",
         "The user expected a rendered page rather than raw markup",
@@ -8481,7 +8481,7 @@
         ".htm",
         ".xhtml"
       ],
-      "source": "HTML como codigo-fonte",
+      "source": "HTML como código-fonte",
       "proof": {
         "subscriptions": "none",
         "inAppPurchases": "none",
@@ -8690,8 +8690,8 @@
         "Qwen HTML file iPhone"
       ],
       "diagnosticSignals": [
-        "O iOS pode mostrar apenas um icone, codigo bruto ou uma previa incompleta em vez de uma pagina HTML legivel.",
-        "Arquivos HTML de problema de previa no Files precisam de um caminho de visualizacao local no iPhone ou iPad.",
+        "O iOS pode mostrar apenas um icone, código bruto ou uma previa incompleta em vez de uma pagina HTML legivel.",
+        "Arquivos HTML de problema de previa no Files precisam de um caminho de visualização local no iPhone ou iPad.",
         "Html Preview e um visualizador focado da App Store, sem assinaturas, compras no app ou anuncios.",
         "Files app does not show a useful HTML preview",
         "Quick Look is missing, incomplete, or inconsistent for the file",
@@ -8947,8 +8947,8 @@
         "Qwen HTML file iPhone"
       ],
       "diagnosticSignals": [
-        "O iOS pode mostrar apenas um icone, codigo bruto ou uma previa incompleta em vez de uma pagina HTML legivel.",
-        "Arquivos HTML de Quick Look precisam de um caminho de visualizacao local no iPhone ou iPad.",
+        "O iOS pode mostrar apenas um icone, código bruto ou uma previa incompleta em vez de uma pagina HTML legivel.",
+        "Arquivos HTML de Quick Look precisam de um caminho de visualização local no iPhone ou iPad.",
         "Html Preview e um visualizador focado da App Store, sem assinaturas, compras no app ou anuncios.",
         "Quick Look can't preview HTML on iPhone",
         "Quick Look cannot render the standalone HTML file",
@@ -9206,7 +9206,7 @@
       "diagnosticSignals": [
         "iOS가 읽기 좋은 HTML 페이지 대신 파일 아이콘, 원본 코드 또는 불완전한 미리보기를 보여줄 수 있습니다.",
         "iOS 미리보기 문제에서 온 HTML 파일에는 iPhone 또는 iPad의 로컬 미리보기 경로가 필요합니다.",
-        "Html Preview은 구독, 인앱 구매, 광고 없이 파일 열기에 집중한 App Store 뷰어입니다.",
+        "Html Preview는 구독, 인앱 구매, 광고 없이 파일 열기에 집중한 App Store 뷰어입니다.",
         "iPhone shows a file icon instead of a rendered HTML page",
         "The user needs a dedicated HTML viewer after receiving a file",
         "The file extension is .html, .htm, or .xhtml",
@@ -9463,7 +9463,7 @@
       "diagnosticSignals": [
         "iOS가 읽기 좋은 HTML 페이지 대신 파일 아이콘, 원본 코드 또는 불완전한 미리보기를 보여줄 수 있습니다.",
         "HTML 소스 표시에서 온 HTML 파일에는 iPhone 또는 iPad의 로컬 미리보기 경로가 필요합니다.",
-        "Html Preview은 구독, 인앱 구매, 광고 없이 파일 열기에 집중한 App Store 뷰어입니다.",
+        "Html Preview는 구독, 인앱 구매, 광고 없이 파일 열기에 집중한 App Store 뷰어입니다.",
         "The HTML file opens as readable tags or source code",
         "The user expected a rendered page rather than raw markup",
         "The file came from an AI tool, email, cloud drive, or local export",
@@ -9720,7 +9720,7 @@
       "diagnosticSignals": [
         "iOS가 읽기 좋은 HTML 페이지 대신 파일 아이콘, 원본 코드 또는 불완전한 미리보기를 보여줄 수 있습니다.",
         "Files 미리보기 문제에서 온 HTML 파일에는 iPhone 또는 iPad의 로컬 미리보기 경로가 필요합니다.",
-        "Html Preview은 구독, 인앱 구매, 광고 없이 파일 열기에 집중한 App Store 뷰어입니다.",
+        "Html Preview는 구독, 인앱 구매, 광고 없이 파일 열기에 집중한 App Store 뷰어입니다.",
         "Files app does not show a useful HTML preview",
         "Quick Look is missing, incomplete, or inconsistent for the file",
         "The user needs a Share Sheet target for HTML preview",
@@ -9977,7 +9977,7 @@
       "diagnosticSignals": [
         "iOS가 읽기 좋은 HTML 페이지 대신 파일 아이콘, 원본 코드 또는 불완전한 미리보기를 보여줄 수 있습니다.",
         "Quick Look에서 온 HTML 파일에는 iPhone 또는 iPad의 로컬 미리보기 경로가 필요합니다.",
-        "Html Preview은 구독, 인앱 구매, 광고 없이 파일 열기에 집중한 App Store 뷰어입니다.",
+        "Html Preview는 구독, 인앱 구매, 광고 없이 파일 열기에 집중한 App Store 뷰어입니다.",
         "Quick Look can't preview HTML on iPhone",
         "Quick Look cannot render the standalone HTML file",
         "The preview may be blank, incomplete, generic, or raw source text",
