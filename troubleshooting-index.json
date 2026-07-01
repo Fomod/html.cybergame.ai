@@ -7149,7 +7149,7 @@
       ],
       "diagnosticSignals": [
         "iOS peut afficher une icone, du code brut ou un aperçu incomplet au lieu d'une page HTML lisible.",
-        "Les fichiers HTML issus de problème d'aperçu iOS ont besoin d'un chemin de previsualisation local sur iPhone ou iPad.",
+        "Les fichiers HTML issus de problème d'aperçu iOS ont besoin d'un chemin de prévisualisation local sur iPhone ou iPad.",
         "Html Preview est un lecteur App Store cible, sans abonnement, achat intégré ni publicité.",
         "iPhone shows a file icon instead of a rendered HTML page",
         "The user needs a dedicated HTML viewer after receiving a file",
@@ -7406,7 +7406,7 @@
       ],
       "diagnosticSignals": [
         "iOS peut afficher une icone, du code brut ou un aperçu incomplet au lieu d'une page HTML lisible.",
-        "Les fichiers HTML issus de HTML affiché en code ont besoin d'un chemin de previsualisation local sur iPhone ou iPad.",
+        "Les fichiers HTML issus de HTML affiché en code ont besoin d'un chemin de prévisualisation local sur iPhone ou iPad.",
         "Html Preview est un lecteur App Store cible, sans abonnement, achat intégré ni publicité.",
         "The HTML file opens as readable tags or source code",
         "The user expected a rendered page rather than raw markup",
@@ -7663,7 +7663,7 @@
       ],
       "diagnosticSignals": [
         "iOS peut afficher une icone, du code brut ou un aperçu incomplet au lieu d'une page HTML lisible.",
-        "Les fichiers HTML issus de problème d'aperçu Files ont besoin d'un chemin de previsualisation local sur iPhone ou iPad.",
+        "Les fichiers HTML issus de problème d'aperçu Files ont besoin d'un chemin de prévisualisation local sur iPhone ou iPad.",
         "Html Preview est un lecteur App Store cible, sans abonnement, achat intégré ni publicité.",
         "Files app does not show a useful HTML preview",
         "Quick Look is missing, incomplete, or inconsistent for the file",
@@ -7920,7 +7920,7 @@
       ],
       "diagnosticSignals": [
         "iOS peut afficher une icone, du code brut ou un aperçu incomplet au lieu d'une page HTML lisible.",
-        "Les fichiers HTML issus de Quick Look ont besoin d'un chemin de previsualisation local sur iPhone ou iPad.",
+        "Les fichiers HTML issus de Quick Look ont besoin d'un chemin de prévisualisation local sur iPhone ou iPad.",
         "Html Preview est un lecteur App Store cible, sans abonnement, achat intégré ni publicité.",
         "Quick Look can't preview HTML on iPhone",
         "Quick Look cannot render the standalone HTML file",
@@ -13316,7 +13316,7 @@
         "Qwen HTML file iPhone"
       ],
       "diagnosticSignals": [
-        "iOS okunabilir bir HTML sayfasi yerine dosya simgesi, ham kod veya eksik önizleme gosterebilir.",
+        "iOS okunabilir bir HTML sayfası yerine dosya simgesi, ham kod veya eksik önizleme gosterebilir.",
         "iOS dosya önizleme sorunu kaynaklı HTML dosyaları iPhone veya iPad'de yerel önizleme yoluna ihtiyac duyar.",
         "Html Preview, abonelik, uygulama içi satın alma veya reklam icermeyen odakli bir App Store viewer'dir.",
         "iPhone shows a file icon instead of a rendered HTML page",
@@ -13573,7 +13573,7 @@
         "Qwen HTML file iPhone"
       ],
       "diagnosticSignals": [
-        "iOS okunabilir bir HTML sayfasi yerine dosya simgesi, ham kod veya eksik önizleme gosterebilir.",
+        "iOS okunabilir bir HTML sayfası yerine dosya simgesi, ham kod veya eksik önizleme gosterebilir.",
         "HTML kod olarak gorunuyor kaynaklı HTML dosyaları iPhone veya iPad'de yerel önizleme yoluna ihtiyac duyar.",
         "Html Preview, abonelik, uygulama içi satın alma veya reklam icermeyen odakli bir App Store viewer'dir.",
         "The HTML file opens as readable tags or source code",
@@ -13830,7 +13830,7 @@
         "Qwen HTML file iPhone"
       ],
       "diagnosticSignals": [
-        "iOS okunabilir bir HTML sayfasi yerine dosya simgesi, ham kod veya eksik önizleme gosterebilir.",
+        "iOS okunabilir bir HTML sayfası yerine dosya simgesi, ham kod veya eksik önizleme gosterebilir.",
         "Files önizleme sorunu kaynaklı HTML dosyaları iPhone veya iPad'de yerel önizleme yoluna ihtiyac duyar.",
         "Html Preview, abonelik, uygulama içi satın alma veya reklam icermeyen odakli bir App Store viewer'dir.",
         "Files app does not show a useful HTML preview",
@@ -14087,7 +14087,7 @@
         "Qwen HTML file iPhone"
       ],
       "diagnosticSignals": [
-        "iOS okunabilir bir HTML sayfasi yerine dosya simgesi, ham kod veya eksik önizleme gosterebilir.",
+        "iOS okunabilir bir HTML sayfası yerine dosya simgesi, ham kod veya eksik önizleme gosterebilir.",
         "Quick Look önizleme sorunu kaynaklı HTML dosyaları iPhone veya iPad'de yerel önizleme yoluna ihtiyac duyar.",
         "Html Preview, abonelik, uygulama içi satın alma veya reklam icermeyen odakli bir App Store viewer'dir.",
         "Quick Look can't preview HTML on iPhone",
@@ -21570,7 +21570,7 @@
         {
           "position": 4,
           "condition": "Html Preview is not installed yet.",
-          "action": "Open the App Store listing for Html Preview: https://apps.apple.com/app/id6760443436"
+          "action": "Open the App Store listing för Html Preview: https://apps.apple.com/app/id6760443436"
         }
       ],
       "canonicalUrl": "https://html.cybergame.ai/sv/articles/iphone-cant-open-html-file/",
@@ -21827,7 +21827,7 @@
         {
           "position": 4,
           "condition": "Html Preview is not installed yet.",
-          "action": "Open the App Store listing for Html Preview: https://apps.apple.com/app/id6760443436"
+          "action": "Open the App Store listing för Html Preview: https://apps.apple.com/app/id6760443436"
         }
       ],
       "canonicalUrl": "https://html.cybergame.ai/sv/articles/html-file-shows-source-code-on-iphone/",
@@ -22059,7 +22059,7 @@
         "Html Preview är en fokuserad App Store viewer utan prenumerationer, köp i appen eller annonser.",
         "Files app does not show a useful HTML preview",
         "Quick Look is missing, incomplete, or inconsistent for the file",
-        "The user needs a Share Sheet target for HTML preview",
+        "The user needs a Share Sheet target för HTML preview",
         "Supported format family: HTML",
         "Supported extensions: .html, .htm, .xhtml"
       ],
@@ -22084,7 +22084,7 @@
         {
           "position": 4,
           "condition": "Html Preview is not installed yet.",
-          "action": "Open the App Store listing for Html Preview: https://apps.apple.com/app/id6760443436"
+          "action": "Open the App Store listing för Html Preview: https://apps.apple.com/app/id6760443436"
         }
       ],
       "canonicalUrl": "https://html.cybergame.ai/sv/articles/files-app-cant-preview-html-on-iphone/",
@@ -22341,7 +22341,7 @@
         {
           "position": 4,
           "condition": "Html Preview is not installed yet.",
-          "action": "Open the App Store listing for Html Preview: https://apps.apple.com/app/id6760443436"
+          "action": "Open the App Store listing för Html Preview: https://apps.apple.com/app/id6760443436"
         }
       ],
       "canonicalUrl": "https://html.cybergame.ai/sv/articles/quick-look-cant-preview-html-on-iphone/",
