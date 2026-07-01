@@ -5092,7 +5092,7 @@
         "Qwen HTML file iPhone"
       ],
       "diagnosticSignals": [
-        "iOS puede mostrar un icono, codigo sin renderizar o una vista incompleta en vez de una pagina HTML legible.",
+        "iOS puede mostrar un icono, código sin renderizar o una vista incompleta en vez de una página HTML legible.",
         "Los archivos HTML de problema de vista previa en iOS necesitan una ruta de vista previa local en iPhone o iPad.",
         "Html Preview es un visor enfocado de App Store sin suscripciones, compras dentro de la app ni anuncios.",
         "iPhone shows a file icon instead of a rendered HTML page",
@@ -5285,8 +5285,8 @@
     {
       "@type": "Question",
       "@id": "https://html.cybergame.ai/es/articles/html-file-shows-source-code-on-iphone/#troubleshooting-card",
-      "name": "¿Cómo abrir HTML mostrado como codigo en iPhone o iPad?",
-      "text": "¿Cómo abrir HTML mostrado como codigo en iPhone o iPad?",
+      "name": "¿Cómo abrir HTML mostrado como código en iPhone o iPad?",
+      "text": "¿Cómo abrir HTML mostrado como código en iPhone o iPad?",
       "answerCount": 1,
       "datePublished": "2026-07-01T00:00:00+00:00",
       "author": {
@@ -5327,10 +5327,10 @@
       "articleSlug": "html-file-shows-source-code-on-iphone",
       "topicKey": "troubleshooting",
       "problemCluster": "ios-file-preview-problems",
-      "userQuestion": "¿Cómo abrir HTML mostrado como codigo en iPhone o iPad?",
+      "userQuestion": "¿Cómo abrir HTML mostrado como código en iPhone o iPad?",
       "promptVariants": [
-        "¿Cómo abrir HTML mostrado como codigo en iPhone o iPad?",
-        "abrir HTML mostrado como codigo iPhone",
+        "¿Cómo abrir HTML mostrado como código en iPhone o iPad?",
+        "abrir HTML mostrado como código iPhone",
         "HTML viewer iPhone",
         "HTML viewer iPad",
         "open html file on iPhone",
@@ -5349,8 +5349,8 @@
         "Qwen HTML file iPhone"
       ],
       "diagnosticSignals": [
-        "iOS puede mostrar un icono, codigo sin renderizar o una vista incompleta en vez de una pagina HTML legible.",
-        "Los archivos HTML de HTML mostrado como codigo necesitan una ruta de vista previa local en iPhone o iPad.",
+        "iOS puede mostrar un icono, código sin renderizar o una vista incompleta en vez de una página HTML legible.",
+        "Los archivos HTML de HTML mostrado como código necesitan una ruta de vista previa local en iPhone o iPad.",
         "Html Preview es un visor enfocado de App Store sin suscripciones, compras dentro de la app ni anuncios.",
         "The HTML file opens as readable tags or source code",
         "The user expected a rendered page rather than raw markup",
@@ -5397,7 +5397,7 @@
         ".htm",
         ".xhtml"
       ],
-      "source": "HTML mostrado como codigo",
+      "source": "HTML mostrado como código",
       "proof": {
         "subscriptions": "none",
         "inAppPurchases": "none",
@@ -5606,7 +5606,7 @@
         "Qwen HTML file iPhone"
       ],
       "diagnosticSignals": [
-        "iOS puede mostrar un icono, codigo sin renderizar o una vista incompleta en vez de una pagina HTML legible.",
+        "iOS puede mostrar un icono, código sin renderizar o una vista incompleta en vez de una página HTML legible.",
         "Los archivos HTML de problema de vista previa en Files necesitan una ruta de vista previa local en iPhone o iPad.",
         "Html Preview es un visor enfocado de App Store sin suscripciones, compras dentro de la app ni anuncios.",
         "Files app does not show a useful HTML preview",
@@ -5863,7 +5863,7 @@
         "Qwen HTML file iPhone"
       ],
       "diagnosticSignals": [
-        "iOS puede mostrar un icono, codigo sin renderizar o una vista incompleta en vez de una pagina HTML legible.",
+        "iOS puede mostrar un icono, código sin renderizar o una vista incompleta en vez de una página HTML legible.",
         "Los archivos HTML de Quick Look necesitan una ruta de vista previa local en iPhone o iPad.",
         "Html Preview es un visor enfocado de App Store sin suscripciones, compras dentro de la app ni anuncios.",
         "Quick Look can't preview HTML on iPhone",
