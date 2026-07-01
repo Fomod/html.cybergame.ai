@@ -16149,7 +16149,7 @@
         "Quick Look cần't preview HTML on iPhone",
         "Quick Look cannot render the standalone HTML file",
         "The preview may be blank, incomplete, generic, or raw source text",
-        "The file came from AI tools, Mail, Safari downloads, AirDrop, Files, or cloud drives",
+        "The file came from AI tools, Mail, Safari tải xuống, AirDrop, Files, or cloud drives",
         "Supported format family: HTML"
       ],
       "likelyCause": "iOS does not provide a focused native HTML preview path for every file workflow.",
