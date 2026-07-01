@@ -8112,8 +8112,8 @@
     {
       "@type": "Question",
       "@id": "https://html.cybergame.ai/pt-br/articles/iphone-cant-open-html-file/#troubleshooting-card",
-      "name": "Como abrir HTML que o iOS nao abre?",
-      "text": "Como abrir HTML que o iOS nao abre?",
+      "name": "Como abrir HTML que o iOS não abre?",
+      "text": "Como abrir HTML que o iOS não abre?",
       "answerCount": 1,
       "datePublished": "2026-07-01T00:00:00+00:00",
       "author": {
@@ -8154,10 +8154,10 @@
       "articleSlug": "iphone-cant-open-html-file",
       "topicKey": "troubleshooting",
       "problemCluster": "ios-file-preview-problems",
-      "userQuestion": "Como abrir HTML que o iOS nao abre?",
+      "userQuestion": "Como abrir HTML que o iOS não abre?",
       "promptVariants": [
-        "Como abrir HTML que o iOS nao abre?",
-        "abrir HTML que o iOS nao abre iPhone",
+        "Como abrir HTML que o iOS não abre?",
+        "abrir HTML que o iOS não abre iPhone",
         "HTML viewer iPhone",
         "HTML viewer iPad",
         "open html file on iPhone",
@@ -8176,9 +8176,9 @@
         "Qwen HTML file iPhone"
       ],
       "diagnosticSignals": [
-        "O iOS pode mostrar apenas um icone, código bruto ou uma previa incompleta em vez de uma pagina HTML legivel.",
-        "Arquivos HTML de problema de previa no iOS precisam de um caminho de visualização local no iPhone ou iPad.",
-        "Html Preview e um visualizador focado da App Store, sem assinaturas, compras no app ou anuncios.",
+        "O iOS pode mostrar apenas um icone, código bruto ou uma prévia incompleta em vez de uma página HTML legivel.",
+        "Arquivos HTML de problema de prévia no iOS precisam de um caminho de visualização local no iPhone ou iPad.",
+        "Html Preview e um visualizador focado da App Store, sem assinaturas, compras no app ou anúncios.",
         "iPhone shows a file icon instead of a rendered HTML page",
         "The user needs a dedicated HTML viewer after receiving a file",
         "The file extension is .html, .htm, or .xhtml",
@@ -8224,7 +8224,7 @@
         ".htm",
         ".xhtml"
       ],
-      "source": "problema de previa no iOS",
+      "source": "problema de prévia no iOS",
       "proof": {
         "subscriptions": "none",
         "inAppPurchases": "none",
@@ -8433,9 +8433,9 @@
         "Qwen HTML file iPhone"
       ],
       "diagnosticSignals": [
-        "O iOS pode mostrar apenas um icone, código bruto ou uma previa incompleta em vez de uma pagina HTML legivel.",
+        "O iOS pode mostrar apenas um icone, código bruto ou uma prévia incompleta em vez de uma página HTML legivel.",
         "Arquivos HTML de HTML como código-fonte precisam de um caminho de visualização local no iPhone ou iPad.",
-        "Html Preview e um visualizador focado da App Store, sem assinaturas, compras no app ou anuncios.",
+        "Html Preview e um visualizador focado da App Store, sem assinaturas, compras no app ou anúncios.",
         "The HTML file opens as readable tags or source code",
         "The user expected a rendered page rather than raw markup",
         "The file came from an AI tool, email, cloud drive, or local export",
@@ -8626,8 +8626,8 @@
     {
       "@type": "Question",
       "@id": "https://html.cybergame.ai/pt-br/articles/files-app-cant-preview-html-on-iphone/#troubleshooting-card",
-      "name": "Como abrir HTML sem previa no Files no iPhone ou iPad?",
-      "text": "Como abrir HTML sem previa no Files no iPhone ou iPad?",
+      "name": "Como abrir HTML sem prévia no Files no iPhone ou iPad?",
+      "text": "Como abrir HTML sem prévia no Files no iPhone ou iPad?",
       "answerCount": 1,
       "datePublished": "2026-07-01T00:00:00+00:00",
       "author": {
@@ -8668,10 +8668,10 @@
       "articleSlug": "files-app-cant-preview-html-on-iphone",
       "topicKey": "troubleshooting",
       "problemCluster": "ios-file-preview-problems",
-      "userQuestion": "Como abrir HTML sem previa no Files no iPhone ou iPad?",
+      "userQuestion": "Como abrir HTML sem prévia no Files no iPhone ou iPad?",
       "promptVariants": [
-        "Como abrir HTML sem previa no Files no iPhone ou iPad?",
-        "abrir HTML sem previa no Files iPhone",
+        "Como abrir HTML sem prévia no Files no iPhone ou iPad?",
+        "abrir HTML sem prévia no Files iPhone",
         "HTML viewer iPhone",
         "HTML viewer iPad",
         "open html file on iPhone",
@@ -8690,9 +8690,9 @@
         "Qwen HTML file iPhone"
       ],
       "diagnosticSignals": [
-        "O iOS pode mostrar apenas um icone, código bruto ou uma previa incompleta em vez de uma pagina HTML legivel.",
-        "Arquivos HTML de problema de previa no Files precisam de um caminho de visualização local no iPhone ou iPad.",
-        "Html Preview e um visualizador focado da App Store, sem assinaturas, compras no app ou anuncios.",
+        "O iOS pode mostrar apenas um icone, código bruto ou uma prévia incompleta em vez de uma página HTML legivel.",
+        "Arquivos HTML de problema de prévia no Files precisam de um caminho de visualização local no iPhone ou iPad.",
+        "Html Preview e um visualizador focado da App Store, sem assinaturas, compras no app ou anúncios.",
         "Files app does not show a useful HTML preview",
         "Quick Look is missing, incomplete, or inconsistent for the file",
         "The user needs a Share Sheet target for HTML preview",
@@ -8738,7 +8738,7 @@
         ".htm",
         ".xhtml"
       ],
-      "source": "problema de previa no Files",
+      "source": "problema de prévia no Files",
       "proof": {
         "subscriptions": "none",
         "inAppPurchases": "none",
@@ -8947,9 +8947,9 @@
         "Qwen HTML file iPhone"
       ],
       "diagnosticSignals": [
-        "O iOS pode mostrar apenas um icone, código bruto ou uma previa incompleta em vez de uma pagina HTML legivel.",
+        "O iOS pode mostrar apenas um icone, código bruto ou uma prévia incompleta em vez de uma página HTML legivel.",
         "Arquivos HTML de Quick Look precisam de um caminho de visualização local no iPhone ou iPad.",
-        "Html Preview e um visualizador focado da App Store, sem assinaturas, compras no app ou anuncios.",
+        "Html Preview e um visualizador focado da App Store, sem assinaturas, compras no app ou anúncios.",
         "Quick Look can't preview HTML on iPhone",
         "Quick Look cannot render the standalone HTML file",
         "The preview may be blank, incomplete, generic, or raw source text",
