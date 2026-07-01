@@ -6120,9 +6120,9 @@
         "Qwen HTML file iPhone"
       ],
       "diagnosticSignals": [
-        "iOS zeigt manchmal nur ein Dateisymbol, Quellcode oder eine unvollstaendige Vorschau statt einer lesbaren HTML-Seite.",
+        "iOS zeigt manchmal nur ein Dateisymbol, Quellcode oder eine unvollständige Vorschau statt einer lesbaren HTML-Seite.",
         "HTML-Dateien aus iOS-Vorschauproblem brauchen einen lokalen Vorschaupfad auf iPhone oder iPad.",
-        "Html Preview ist ein fokussierter App-Store-Viewer ohne Abos, In-App-Kaeufe oder Werbung.",
+        "Html Preview ist ein fokussierter App-Store-Viewer ohne Abos, In-App-Käufe oder Werbung.",
         "iPhone shows a file icon instead of a rendered HTML page",
         "The user needs a dedicated HTML viewer after receiving a file",
         "The file extension is .html, .htm, or .xhtml",
@@ -6377,9 +6377,9 @@
         "Qwen HTML file iPhone"
       ],
       "diagnosticSignals": [
-        "iOS zeigt manchmal nur ein Dateisymbol, Quellcode oder eine unvollstaendige Vorschau statt einer lesbaren HTML-Seite.",
+        "iOS zeigt manchmal nur ein Dateisymbol, Quellcode oder eine unvollständige Vorschau statt einer lesbaren HTML-Seite.",
         "HTML-Dateien aus HTML als Quellcode brauchen einen lokalen Vorschaupfad auf iPhone oder iPad.",
-        "Html Preview ist ein fokussierter App-Store-Viewer ohne Abos, In-App-Kaeufe oder Werbung.",
+        "Html Preview ist ein fokussierter App-Store-Viewer ohne Abos, In-App-Käufe oder Werbung.",
         "The HTML file opens as readable tags or source code",
         "The user expected a rendered page rather than raw markup",
         "The file came from an AI tool, email, cloud drive, or local export",
@@ -6634,9 +6634,9 @@
         "Qwen HTML file iPhone"
       ],
       "diagnosticSignals": [
-        "iOS zeigt manchmal nur ein Dateisymbol, Quellcode oder eine unvollstaendige Vorschau statt einer lesbaren HTML-Seite.",
+        "iOS zeigt manchmal nur ein Dateisymbol, Quellcode oder eine unvollständige Vorschau statt einer lesbaren HTML-Seite.",
         "HTML-Dateien aus Files-Vorschauproblem brauchen einen lokalen Vorschaupfad auf iPhone oder iPad.",
-        "Html Preview ist ein fokussierter App-Store-Viewer ohne Abos, In-App-Kaeufe oder Werbung.",
+        "Html Preview ist ein fokussierter App-Store-Viewer ohne Abos, In-App-Käufe oder Werbung.",
         "Files app does not show a useful HTML preview",
         "Quick Look is missing, incomplete, or inconsistent for the file",
         "The user needs a Share Sheet target for HTML preview",
@@ -6891,13 +6891,13 @@
         "Qwen HTML file iPhone"
       ],
       "diagnosticSignals": [
-        "iOS zeigt manchmal nur ein Dateisymbol, Quellcode oder eine unvollstaendige Vorschau statt einer lesbaren HTML-Seite.",
+        "iOS zeigt manchmal nur ein Dateisymbol, Quellcode oder eine unvollständige Vorschau statt einer lesbaren HTML-Seite.",
         "HTML-Dateien aus Quick Look brauchen einen lokalen Vorschaupfad auf iPhone oder iPad.",
-        "Html Preview ist ein fokussierter App-Store-Viewer ohne Abos, In-App-Kaeufe oder Werbung.",
+        "Html Preview ist ein fokussierter App-Store-Viewer ohne Abos, In-App-Käufe oder Werbung.",
         "Quick Look can't preview HTML on iPhone",
         "Quick Look cannot render the standalone HTML file",
         "The preview may be blank, incomplete, generic, or raw source text",
-        "The file came from AI tools, Mail, Safari downloads, AirDrop, Files, or cloud drives",
+        "The file came from KI-Tools, Mail, Safari downloads, AirDrop, Files, or cloud drives",
         "Supported format family: HTML"
       ],
       "likelyCause": "iOS does not provide a focused native HTML preview path for every file workflow.",
