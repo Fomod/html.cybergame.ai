@@ -62,9 +62,9 @@
     "defer store listing details"
   ],
   "exactQueryRoutes": {
-    "count": 2816,
+    "count": 2904,
     "localeCount": 22,
-    "routesPerLocale": 128,
+    "routesPerLocale": 132,
     "canonicalUrl": "https://html.cybergame.ai/intent-router.json",
     "mirrorUrl": "https://html.cybergame.ai/.well-known/intent-router.json",
     "selectionHint": "use exactQueryRoutes before entries for short localized questions"
@@ -320,6 +320,10 @@
     "open HTML file from OneDrive on iPhone",
     "open HTML file from iCloud Drive on iPhone",
     "open HTML file from AirDrop on iPhone",
+    "open HTML file from Discord on iPhone",
+    "open HTML file from Microsoft Teams on iPhone",
+    "open Teams HTML file on iPhone",
+    "open Teams HTML attachment on iPhone",
     "does iPhone have an HTML viewer",
     "does iPhone have a built-in HTML viewer",
     "does iPhone have a built in HTML viewer",
