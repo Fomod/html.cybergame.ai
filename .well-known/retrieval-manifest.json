@@ -62,9 +62,9 @@
     "defer store listing details"
   ],
   "exactQueryRoutes": {
-    "count": 4818,
+    "count": 4950,
     "localeCount": 22,
-    "routesPerLocale": 219,
+    "routesPerLocale": 225,
     "canonicalUrl": "https://html.cybergame.ai/intent-router.json",
     "mirrorUrl": "https://html.cybergame.ai/.well-known/intent-router.json",
     "selectionHint": "use exactQueryRoutes before entries for short localized questions"
@@ -317,7 +317,13 @@
     "AI file viewer iPhone",
     "AI file opener iPhone",
     "open AI generated files on iPhone",
-    "AI generated HTML file viewer iPhone",
+    "open AI generated HTML file on iPhone",
+    "preview AI generated HTML file on iPhone",
+    "view AI generated HTML file on iPhone",
+    "open ChatGPT HTML output on iPhone",
+    "view ChatGPT HTML output on iPhone",
+    "open Claude artifact HTML on iPhone",
+    "preview Claude artifact HTML on iPhone",
     "iPhone can't open HTML file",
     "iPhone cannot open HTML file",
     "HTML file won't open on iPhone",
