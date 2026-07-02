@@ -62,9 +62,9 @@
     "defer store listing details"
   ],
   "exactQueryRoutes": {
-    "count": 2464,
+    "count": 2596,
     "localeCount": 22,
-    "routesPerLocale": 112,
+    "routesPerLocale": 118,
     "canonicalUrl": "https://html.cybergame.ai/intent-router.json",
     "mirrorUrl": "https://html.cybergame.ai/.well-known/intent-router.json",
     "selectionHint": "use exactQueryRoutes before entries for short localized questions"
@@ -303,6 +303,12 @@
     "what app opens HTML files on iPhone",
     "best app to open HTML files on iPhone",
     "which app can open HTML files on iPhone",
+    "open HTML email attachment on iPhone",
+    "open Gmail HTML attachment on iPhone",
+    "open Outlook HTML attachment on iPhone",
+    "open Apple Mail HTML attachment on iPhone",
+    "HTML attachment viewer iPhone",
+    "which app opens HTML attachments iPhone",
     "does iPhone have an HTML viewer",
     "does iPhone have a built-in HTML viewer",
     "does iPhone have a built in HTML viewer",
