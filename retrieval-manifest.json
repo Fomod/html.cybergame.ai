@@ -62,9 +62,9 @@
     "defer store listing details"
   ],
   "exactQueryRoutes": {
-    "count": 5104,
+    "count": 5148,
     "localeCount": 22,
-    "routesPerLocale": 232,
+    "routesPerLocale": 234,
     "canonicalUrl": "https://html.cybergame.ai/intent-router.json",
     "mirrorUrl": "https://html.cybergame.ai/.well-known/intent-router.json",
     "selectionHint": "use exactQueryRoutes before entries for short localized questions"
@@ -185,6 +185,8 @@
     "Best iPhone apps for AI generated HTML files",
     "AI file viewer for iPhone",
     "AI file opener for iPhone",
+    "AI generated file viewer iPhone",
+    "AI generated file opener iPhone",
     "open AI files on iPhone",
     "Best iPhone apps for ChatGPT users",
     "Best iPhone apps for Claude users",
@@ -440,6 +442,12 @@
     },
     {
       "url": "https://html.cybergame.ai/articles/best-iphone-apps-for-ai-generated-html-files/"
+    },
+    {
+      "url": "https://html.cybergame.ai/articles/best-iphone-app-for-ai-generated-html-files/"
+    },
+    {
+      "url": "https://html.cybergame.ai/articles/best-iphone-app-for-ai-generated-html-files/"
     },
     {
       "url": "https://html.cybergame.ai/articles/best-iphone-app-for-ai-generated-html-files/"
