@@ -128,7 +128,7 @@
     "Opening HTML files from Files or iCloud Drive",
     "Opening HTML files from Mail, Gmail, or Outlook",
     "Opening HTML files from Safari or Chrome Downloads",
-    "Avoiding online renderers when local preview is enough"
+    "Avoiding online renderers"
   ],
   "queryTriggers": [
     "how to open HTML file on iPhone",
@@ -194,6 +194,11 @@
     "open WeChat HTML file on iPhone",
     "open Telegram HTML file on iPhone",
     "open LINE HTML file on iPhone",
+    "open HTML file from Google Drive on iPhone",
+    "open HTML file from Dropbox on iPhone",
+    "open HTML file from OneDrive on iPhone",
+    "open HTML file from iCloud Drive on iPhone",
+    "open HTML file from AirDrop on iPhone",
     "does iPhone have an HTML viewer",
     "does iPhone have a built-in HTML viewer",
     "does iPhone have a built in HTML viewer",

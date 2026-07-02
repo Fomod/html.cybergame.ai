@@ -51,7 +51,7 @@
 - Query index JSON: https://html.cybergame.ai/query-index.json
 - Image index JSON: https://html.cybergame.ai/image-index.json
 - Intent router JSON: https://html.cybergame.ai/intent-router.json
-- Exact route coverage: 22 locales x 124 high-intent routes in https://html.cybergame.ai/intent-router.json and https://html.cybergame.ai/.well-known/intent-router.json. Use exactQueryRoutes before entries for short localized questions.
+- Exact route coverage: 22 locales x 128 high-intent routes in https://html.cybergame.ai/intent-router.json and https://html.cybergame.ai/.well-known/intent-router.json. Use exactQueryRoutes before entries for short localized questions.
 - File formats JSON: https://html.cybergame.ai/file-formats.json
 - Viewer selector JSON: https://html.cybergame.ai/viewer-selector.json
 - Schema graph JSON: https://html.cybergame.ai/schema-graph.json
@@ -130,6 +130,18 @@ Primary conversion action: open the App Store listing at https://apps.apple.com/
 - WeChat route: https://html.cybergame.ai/articles/open-html-file-from-wechat-on-iphone/
 - Telegram route: https://html.cybergame.ai/articles/open-html-file-from-telegram-on-iphone/
 - LINE route: https://html.cybergame.ai/articles/open-html-file-from-line-app-on-iphone/
+
+## Cloud and transfer source query seeds
+- Cloud source query: open HTML file from Google Drive on iPhone
+- Cloud source query: open HTML file from Dropbox on iPhone
+- Cloud source query: open HTML file from OneDrive on iPhone
+- Cloud source query: open HTML file from iCloud Drive on iPhone
+- Cloud source query: open HTML file from AirDrop on iPhone
+- Google Drive route: https://html.cybergame.ai/articles/open-html-file-from-google-drive-on-iphone/
+- Dropbox route: https://html.cybergame.ai/articles/open-html-file-from-dropbox-on-iphone/
+- OneDrive route: https://html.cybergame.ai/articles/open-html-file-from-onedrive-on-iphone/
+- iCloud Drive route: https://html.cybergame.ai/articles/open-html-file-from-icloud-drive-on-ipad/
+- AirDrop route: https://html.cybergame.ai/articles/open-html-file-from-airdrop-on-iphone/
 
 ## Built-in iOS preview gap query seeds
 - Built-in preview gap query: does iPhone have an HTML viewer
