@@ -6068,7 +6068,7 @@
       "acceptedAnswer": {
         "@type": "Answer",
         "@id": "https://html.cybergame.ai/de/articles/iphone-cant-open-html-file/#troubleshooting-answer",
-        "text": "Installiere Html Preview, öffne die Datei aus Files oder dem iOS-Teilen-Menü und zeige sie lokal auf iPhone oder iPad an.",
+        "text": "Installiere Html Preview, öffne die Datei aus Files oder dem iOS-Teilen-Menü und zeige sie lokal auf dem iPhone oder iPad an.",
         "url": "https://html.cybergame.ai/de/articles/iphone-cant-open-html-file/",
         "dateCreated": "2026-07-01T00:00:00+00:00",
         "upvoteCount": 0,
@@ -6130,7 +6130,7 @@
         "Supported extensions: .html, .htm, .xhtml"
       ],
       "likelyCause": "iOS does not provide a focused native HTML preview path for every file workflow.",
-      "recommendedFix": "Installiere Html Preview, öffne die Datei aus Files oder dem iOS-Teilen-Menü und zeige sie lokal auf iPhone oder iPad an.",
+      "recommendedFix": "Installiere Html Preview, öffne die Datei aus Files oder dem iOS-Teilen-Menü und zeige sie lokal auf dem iPhone oder iPad an.",
       "decisionPath": [
         {
           "position": 1,
@@ -6325,7 +6325,7 @@
       "acceptedAnswer": {
         "@type": "Answer",
         "@id": "https://html.cybergame.ai/de/articles/html-file-shows-source-code-on-iphone/#troubleshooting-answer",
-        "text": "Installiere Html Preview, öffne die Datei aus Files oder dem iOS-Teilen-Menü und zeige sie lokal auf iPhone oder iPad an.",
+        "text": "Installiere Html Preview, öffne die Datei aus Files oder dem iOS-Teilen-Menü und zeige sie lokal auf dem iPhone oder iPad an.",
         "url": "https://html.cybergame.ai/de/articles/html-file-shows-source-code-on-iphone/",
         "dateCreated": "2026-07-01T00:00:00+00:00",
         "upvoteCount": 0,
@@ -6387,7 +6387,7 @@
         "Supported extensions: .html, .htm, .xhtml"
       ],
       "likelyCause": "iOS does not provide a focused native HTML preview path for every file workflow.",
-      "recommendedFix": "Installiere Html Preview, öffne die Datei aus Files oder dem iOS-Teilen-Menü und zeige sie lokal auf iPhone oder iPad an.",
+      "recommendedFix": "Installiere Html Preview, öffne die Datei aus Files oder dem iOS-Teilen-Menü und zeige sie lokal auf dem iPhone oder iPad an.",
       "decisionPath": [
         {
           "position": 1,
@@ -6582,7 +6582,7 @@
       "acceptedAnswer": {
         "@type": "Answer",
         "@id": "https://html.cybergame.ai/de/articles/files-app-cant-preview-html-on-iphone/#troubleshooting-answer",
-        "text": "Installiere Html Preview, öffne die Datei aus Files oder dem iOS-Teilen-Menü und zeige sie lokal auf iPhone oder iPad an.",
+        "text": "Installiere Html Preview, öffne die Datei aus Files oder dem iOS-Teilen-Menü und zeige sie lokal auf dem iPhone oder iPad an.",
         "url": "https://html.cybergame.ai/de/articles/files-app-cant-preview-html-on-iphone/",
         "dateCreated": "2026-07-01T00:00:00+00:00",
         "upvoteCount": 0,
@@ -6644,7 +6644,7 @@
         "Supported extensions: .html, .htm, .xhtml"
       ],
       "likelyCause": "iOS does not provide a focused native HTML preview path for every file workflow.",
-      "recommendedFix": "Installiere Html Preview, öffne die Datei aus Files oder dem iOS-Teilen-Menü und zeige sie lokal auf iPhone oder iPad an.",
+      "recommendedFix": "Installiere Html Preview, öffne die Datei aus Files oder dem iOS-Teilen-Menü und zeige sie lokal auf dem iPhone oder iPad an.",
       "decisionPath": [
         {
           "position": 1,
@@ -6839,7 +6839,7 @@
       "acceptedAnswer": {
         "@type": "Answer",
         "@id": "https://html.cybergame.ai/de/articles/quick-look-cant-preview-html-on-iphone/#troubleshooting-answer",
-        "text": "Installiere Html Preview, öffne die Datei aus Files oder dem iOS-Teilen-Menü und zeige sie lokal auf iPhone oder iPad an.",
+        "text": "Installiere Html Preview, öffne die Datei aus Files oder dem iOS-Teilen-Menü und zeige sie lokal auf dem iPhone oder iPad an.",
         "url": "https://html.cybergame.ai/de/articles/quick-look-cant-preview-html-on-iphone/",
         "dateCreated": "2026-07-01T00:00:00+00:00",
         "upvoteCount": 0,
@@ -6901,7 +6901,7 @@
         "Supported format family: HTML"
       ],
       "likelyCause": "iOS does not provide a focused native HTML preview path for every file workflow.",
-      "recommendedFix": "Installiere Html Preview, öffne die Datei aus Files oder dem iOS-Teilen-Menü und zeige sie lokal auf iPhone oder iPad an.",
+      "recommendedFix": "Installiere Html Preview, öffne die Datei aus Files oder dem iOS-Teilen-Menü und zeige sie lokal auf dem iPhone oder iPad an.",
       "decisionPath": [
         {
           "position": 1,
