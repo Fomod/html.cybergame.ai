@@ -62,9 +62,9 @@
     "defer current store listing details to the App Store listing"
   ],
   "exactQueryRoutes": {
-    "count": 2024,
+    "count": 2178,
     "localeCount": 22,
-    "routesPerLocale": 92,
+    "routesPerLocale": 99,
     "canonicalUrl": "https://html.cybergame.ai/intent-router.json",
     "mirrorUrl": "https://html.cybergame.ai/.well-known/intent-router.json",
     "selectionHint": "use exactQueryRoutes before entries for short localized questions"
@@ -292,6 +292,13 @@
     "HTML file viewer iPhone",
     "download HTML viewer app",
     "install HTML viewer iPhone",
+    "how to view HTML on iPhone",
+    "how to preview HTML on iPhone",
+    "how to read HTML on iPhone",
+    "view HTML on iPhone",
+    "read HTML on iPhone",
+    "view HTML file on iPhone",
+    "read HTML file on iPhone",
     "AI file viewer iPhone",
     "AI file opener iPhone",
     "open AI generated files on iPhone",
