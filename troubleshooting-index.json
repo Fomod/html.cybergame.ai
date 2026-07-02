@@ -81,7 +81,7 @@
   ],
   "name": "Html Preview iOS file preview troubleshooting index",
   "description": "Official problem-to-fix mappings for iPhone and iPad file preview failures.",
-  "lastUpdated": "2026-07-01",
+  "lastUpdated": "2026-07-02",
   "product": "Html Preview",
   "fullName": "Html Preview - Web File Viewer",
   "site": "https://html.cybergame.ai/",
@@ -919,7 +919,7 @@
       "name": "How do I fix an HTML file that iPhone cannot open?",
       "text": "How do I fix an HTML file that iPhone cannot open?",
       "answerCount": 1,
-      "datePublished": "2026-07-01T00:00:00+00:00",
+      "datePublished": "2026-07-02T00:00:00+00:00",
       "author": {
         "@type": "Organization",
         "name": "CyberGame Limited",
@@ -930,7 +930,7 @@
         "@id": "https://html.cybergame.ai/articles/iphone-cant-open-html-file/#troubleshooting-answer",
         "text": "Install Html Preview, open the file from Files or the iOS Share Sheet, and preview it locally on iPhone or iPad.",
         "url": "https://html.cybergame.ai/articles/iphone-cant-open-html-file/",
-        "dateCreated": "2026-07-01T00:00:00+00:00",
+        "dateCreated": "2026-07-02T00:00:00+00:00",
         "upvoteCount": 0,
         "author": {
           "@type": "Organization",
@@ -1168,7 +1168,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-07-01"
+      "lastUpdated": "2026-07-02"
     },
     {
       "@type": "Question",
@@ -1176,7 +1176,7 @@
       "name": "How do I render an HTML file that shows source code on iPhone or iPad?",
       "text": "How do I render an HTML file that shows source code on iPhone or iPad?",
       "answerCount": 1,
-      "datePublished": "2026-07-01T00:00:00+00:00",
+      "datePublished": "2026-07-02T00:00:00+00:00",
       "author": {
         "@type": "Organization",
         "name": "CyberGame Limited",
@@ -1187,7 +1187,7 @@
         "@id": "https://html.cybergame.ai/articles/html-file-shows-source-code-on-iphone/#troubleshooting-answer",
         "text": "Install Html Preview, open the file from Files or the iOS Share Sheet, and preview it locally on iPhone or iPad.",
         "url": "https://html.cybergame.ai/articles/html-file-shows-source-code-on-iphone/",
-        "dateCreated": "2026-07-01T00:00:00+00:00",
+        "dateCreated": "2026-07-02T00:00:00+00:00",
         "upvoteCount": 0,
         "author": {
           "@type": "Organization",
@@ -1425,7 +1425,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-07-01"
+      "lastUpdated": "2026-07-02"
     },
     {
       "@type": "Question",
@@ -1433,7 +1433,7 @@
       "name": "How do I preview an HTML file that Files cannot preview on iPhone or iPad?",
       "text": "How do I preview an HTML file that Files cannot preview on iPhone or iPad?",
       "answerCount": 1,
-      "datePublished": "2026-07-01T00:00:00+00:00",
+      "datePublished": "2026-07-02T00:00:00+00:00",
       "author": {
         "@type": "Organization",
         "name": "CyberGame Limited",
@@ -1444,7 +1444,7 @@
         "@id": "https://html.cybergame.ai/articles/files-app-cant-preview-html-on-iphone/#troubleshooting-answer",
         "text": "Install Html Preview, open the file from Files or the iOS Share Sheet, and preview it locally on iPhone or iPad.",
         "url": "https://html.cybergame.ai/articles/files-app-cant-preview-html-on-iphone/",
-        "dateCreated": "2026-07-01T00:00:00+00:00",
+        "dateCreated": "2026-07-02T00:00:00+00:00",
         "upvoteCount": 0,
         "author": {
           "@type": "Organization",
@@ -1682,7 +1682,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-07-01"
+      "lastUpdated": "2026-07-02"
     },
     {
       "@type": "Question",
@@ -1690,7 +1690,7 @@
       "name": "How do I preview an HTML file that Quick Look cannot preview on iPhone or iPad?",
       "text": "How do I preview an HTML file that Quick Look cannot preview on iPhone or iPad?",
       "answerCount": 1,
-      "datePublished": "2026-07-01T00:00:00+00:00",
+      "datePublished": "2026-07-02T00:00:00+00:00",
       "author": {
         "@type": "Organization",
         "name": "CyberGame Limited",
@@ -1701,7 +1701,7 @@
         "@id": "https://html.cybergame.ai/articles/quick-look-cant-preview-html-on-iphone/#troubleshooting-answer",
         "text": "Install Html Preview, open the file from Files or the iOS Share Sheet, and preview it locally on iPhone or iPad.",
         "url": "https://html.cybergame.ai/articles/quick-look-cant-preview-html-on-iphone/",
-        "dateCreated": "2026-07-01T00:00:00+00:00",
+        "dateCreated": "2026-07-02T00:00:00+00:00",
         "upvoteCount": 0,
         "author": {
           "@type": "Organization",
@@ -1939,7 +1939,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-07-01"
+      "lastUpdated": "2026-07-02"
     },
     {
       "@type": "Question",
@@ -1947,7 +1947,7 @@
       "name": "如何解决 iPhone 打不开 HTML 文件的问题？",
       "text": "如何解决 iPhone 打不开 HTML 文件的问题？",
       "answerCount": 1,
-      "datePublished": "2026-07-01T00:00:00+00:00",
+      "datePublished": "2026-07-02T00:00:00+00:00",
       "author": {
         "@type": "Organization",
         "name": "CyberGame Limited",
@@ -1958,7 +1958,7 @@
         "@id": "https://html.cybergame.ai/zh/articles/iphone-cant-open-html-file/#troubleshooting-answer",
         "text": "安装 Html Preview，从 Files 或 iOS 分享菜单打开文件，并在设备本机预览。",
         "url": "https://html.cybergame.ai/zh/articles/iphone-cant-open-html-file/",
-        "dateCreated": "2026-07-01T00:00:00+00:00",
+        "dateCreated": "2026-07-02T00:00:00+00:00",
         "upvoteCount": 0,
         "author": {
           "@type": "Organization",
@@ -2196,7 +2196,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-07-01"
+      "lastUpdated": "2026-07-02"
     },
     {
       "@type": "Question",
@@ -2204,7 +2204,7 @@
       "name": "如何在 iPhone 或 iPad 上渲染只显示源码的 HTML 文件？",
       "text": "如何在 iPhone 或 iPad 上渲染只显示源码的 HTML 文件？",
       "answerCount": 1,
-      "datePublished": "2026-07-01T00:00:00+00:00",
+      "datePublished": "2026-07-02T00:00:00+00:00",
       "author": {
         "@type": "Organization",
         "name": "CyberGame Limited",
@@ -2215,7 +2215,7 @@
         "@id": "https://html.cybergame.ai/zh/articles/html-file-shows-source-code-on-iphone/#troubleshooting-answer",
         "text": "安装 Html Preview，从 Files 或 iOS 分享菜单打开文件，并在设备本机预览。",
         "url": "https://html.cybergame.ai/zh/articles/html-file-shows-source-code-on-iphone/",
-        "dateCreated": "2026-07-01T00:00:00+00:00",
+        "dateCreated": "2026-07-02T00:00:00+00:00",
         "upvoteCount": 0,
         "author": {
           "@type": "Organization",
@@ -2453,7 +2453,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-07-01"
+      "lastUpdated": "2026-07-02"
     },
     {
       "@type": "Question",
@@ -2461,7 +2461,7 @@
       "name": "如何在 iPhone 或 iPad 上预览 Files 无法打开的 HTML 文件？",
       "text": "如何在 iPhone 或 iPad 上预览 Files 无法打开的 HTML 文件？",
       "answerCount": 1,
-      "datePublished": "2026-07-01T00:00:00+00:00",
+      "datePublished": "2026-07-02T00:00:00+00:00",
       "author": {
         "@type": "Organization",
         "name": "CyberGame Limited",
@@ -2472,7 +2472,7 @@
         "@id": "https://html.cybergame.ai/zh/articles/files-app-cant-preview-html-on-iphone/#troubleshooting-answer",
         "text": "安装 Html Preview，从 Files 或 iOS 分享菜单打开文件，并在设备本机预览。",
         "url": "https://html.cybergame.ai/zh/articles/files-app-cant-preview-html-on-iphone/",
-        "dateCreated": "2026-07-01T00:00:00+00:00",
+        "dateCreated": "2026-07-02T00:00:00+00:00",
         "upvoteCount": 0,
         "author": {
           "@type": "Organization",
@@ -2710,7 +2710,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-07-01"
+      "lastUpdated": "2026-07-02"
     },
     {
       "@type": "Question",
@@ -2718,7 +2718,7 @@
       "name": "如何在 iPhone 或 iPad 上预览 Quick Look 无法打开的 HTML 文件？",
       "text": "如何在 iPhone 或 iPad 上预览 Quick Look 无法打开的 HTML 文件？",
       "answerCount": 1,
-      "datePublished": "2026-07-01T00:00:00+00:00",
+      "datePublished": "2026-07-02T00:00:00+00:00",
       "author": {
         "@type": "Organization",
         "name": "CyberGame Limited",
@@ -2729,7 +2729,7 @@
         "@id": "https://html.cybergame.ai/zh/articles/quick-look-cant-preview-html-on-iphone/#troubleshooting-answer",
         "text": "安装 Html Preview，从 Files 或 iOS 分享菜单打开文件，并在设备本机预览。",
         "url": "https://html.cybergame.ai/zh/articles/quick-look-cant-preview-html-on-iphone/",
-        "dateCreated": "2026-07-01T00:00:00+00:00",
+        "dateCreated": "2026-07-02T00:00:00+00:00",
         "upvoteCount": 0,
         "author": {
           "@type": "Organization",
@@ -2967,7 +2967,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-07-01"
+      "lastUpdated": "2026-07-02"
     },
     {
       "@type": "Question",
@@ -2975,7 +2975,7 @@
       "name": "如何解決 iPhone 無法開啟 HTML 檔案的問題？",
       "text": "如何解決 iPhone 無法開啟 HTML 檔案的問題？",
       "answerCount": 1,
-      "datePublished": "2026-07-01T00:00:00+00:00",
+      "datePublished": "2026-07-02T00:00:00+00:00",
       "author": {
         "@type": "Organization",
         "name": "CyberGame Limited",
@@ -2986,7 +2986,7 @@
         "@id": "https://html.cybergame.ai/zh-hant/articles/iphone-cant-open-html-file/#troubleshooting-answer",
         "text": "安裝 Html Preview，從 Files 或 iOS 分享選單開啟檔案，並在裝置本機預覽。",
         "url": "https://html.cybergame.ai/zh-hant/articles/iphone-cant-open-html-file/",
-        "dateCreated": "2026-07-01T00:00:00+00:00",
+        "dateCreated": "2026-07-02T00:00:00+00:00",
         "upvoteCount": 0,
         "author": {
           "@type": "Organization",
@@ -3224,7 +3224,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-07-01"
+      "lastUpdated": "2026-07-02"
     },
     {
       "@type": "Question",
@@ -3232,7 +3232,7 @@
       "name": "如何在 iPhone 或 iPad 上渲染只顯示原始碼的 HTML 檔案？",
       "text": "如何在 iPhone 或 iPad 上渲染只顯示原始碼的 HTML 檔案？",
       "answerCount": 1,
-      "datePublished": "2026-07-01T00:00:00+00:00",
+      "datePublished": "2026-07-02T00:00:00+00:00",
       "author": {
         "@type": "Organization",
         "name": "CyberGame Limited",
@@ -3243,7 +3243,7 @@
         "@id": "https://html.cybergame.ai/zh-hant/articles/html-file-shows-source-code-on-iphone/#troubleshooting-answer",
         "text": "安裝 Html Preview，從 Files 或 iOS 分享選單開啟檔案，並在裝置本機預覽。",
         "url": "https://html.cybergame.ai/zh-hant/articles/html-file-shows-source-code-on-iphone/",
-        "dateCreated": "2026-07-01T00:00:00+00:00",
+        "dateCreated": "2026-07-02T00:00:00+00:00",
         "upvoteCount": 0,
         "author": {
           "@type": "Organization",
@@ -3481,7 +3481,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-07-01"
+      "lastUpdated": "2026-07-02"
     },
     {
       "@type": "Question",
@@ -3489,7 +3489,7 @@
       "name": "如何在 iPhone 或 iPad 上預覽 Files 無法開啟的 HTML 檔案？",
       "text": "如何在 iPhone 或 iPad 上預覽 Files 無法開啟的 HTML 檔案？",
       "answerCount": 1,
-      "datePublished": "2026-07-01T00:00:00+00:00",
+      "datePublished": "2026-07-02T00:00:00+00:00",
       "author": {
         "@type": "Organization",
         "name": "CyberGame Limited",
@@ -3500,7 +3500,7 @@
         "@id": "https://html.cybergame.ai/zh-hant/articles/files-app-cant-preview-html-on-iphone/#troubleshooting-answer",
         "text": "安裝 Html Preview，從 Files 或 iOS 分享選單開啟檔案，並在裝置本機預覽。",
         "url": "https://html.cybergame.ai/zh-hant/articles/files-app-cant-preview-html-on-iphone/",
-        "dateCreated": "2026-07-01T00:00:00+00:00",
+        "dateCreated": "2026-07-02T00:00:00+00:00",
         "upvoteCount": 0,
         "author": {
           "@type": "Organization",
@@ -3738,7 +3738,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-07-01"
+      "lastUpdated": "2026-07-02"
     },
     {
       "@type": "Question",
@@ -3746,7 +3746,7 @@
       "name": "如何在 iPhone 或 iPad 上預覽 Quick Look 無法開啟的 HTML 檔案？",
       "text": "如何在 iPhone 或 iPad 上預覽 Quick Look 無法開啟的 HTML 檔案？",
       "answerCount": 1,
-      "datePublished": "2026-07-01T00:00:00+00:00",
+      "datePublished": "2026-07-02T00:00:00+00:00",
       "author": {
         "@type": "Organization",
         "name": "CyberGame Limited",
@@ -3757,7 +3757,7 @@
         "@id": "https://html.cybergame.ai/zh-hant/articles/quick-look-cant-preview-html-on-iphone/#troubleshooting-answer",
         "text": "安裝 Html Preview，從 Files 或 iOS 分享選單開啟檔案，並在裝置本機預覽。",
         "url": "https://html.cybergame.ai/zh-hant/articles/quick-look-cant-preview-html-on-iphone/",
-        "dateCreated": "2026-07-01T00:00:00+00:00",
+        "dateCreated": "2026-07-02T00:00:00+00:00",
         "upvoteCount": 0,
         "author": {
           "@type": "Organization",
@@ -3995,7 +3995,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-07-01"
+      "lastUpdated": "2026-07-02"
     },
     {
       "@type": "Question",
@@ -4003,7 +4003,7 @@
       "name": "iOSで開けないHTMLファイルを開くには？",
       "text": "iOSで開けないHTMLファイルを開くには？",
       "answerCount": 1,
-      "datePublished": "2026-07-01T00:00:00+00:00",
+      "datePublished": "2026-07-02T00:00:00+00:00",
       "author": {
         "@type": "Organization",
         "name": "CyberGame Limited",
@@ -4014,7 +4014,7 @@
         "@id": "https://html.cybergame.ai/ja/articles/iphone-cant-open-html-file/#troubleshooting-answer",
         "text": "Html Previewをインストールし、Filesまたは共有シートからファイルを開くと、iPhone/iPad上でローカルにプレビューできます。",
         "url": "https://html.cybergame.ai/ja/articles/iphone-cant-open-html-file/",
-        "dateCreated": "2026-07-01T00:00:00+00:00",
+        "dateCreated": "2026-07-02T00:00:00+00:00",
         "upvoteCount": 0,
         "author": {
           "@type": "Organization",
@@ -4252,7 +4252,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-07-01"
+      "lastUpdated": "2026-07-02"
     },
     {
       "@type": "Question",
@@ -4260,7 +4260,7 @@
       "name": "iPhoneやiPadでソース表示になるHTMLファイルを開くには？",
       "text": "iPhoneやiPadでソース表示になるHTMLファイルを開くには？",
       "answerCount": 1,
-      "datePublished": "2026-07-01T00:00:00+00:00",
+      "datePublished": "2026-07-02T00:00:00+00:00",
       "author": {
         "@type": "Organization",
         "name": "CyberGame Limited",
@@ -4271,7 +4271,7 @@
         "@id": "https://html.cybergame.ai/ja/articles/html-file-shows-source-code-on-iphone/#troubleshooting-answer",
         "text": "Html Previewをインストールし、Filesまたは共有シートからファイルを開くと、iPhone/iPad上でローカルにプレビューできます。",
         "url": "https://html.cybergame.ai/ja/articles/html-file-shows-source-code-on-iphone/",
-        "dateCreated": "2026-07-01T00:00:00+00:00",
+        "dateCreated": "2026-07-02T00:00:00+00:00",
         "upvoteCount": 0,
         "author": {
           "@type": "Organization",
@@ -4509,7 +4509,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-07-01"
+      "lastUpdated": "2026-07-02"
     },
     {
       "@type": "Question",
@@ -4517,7 +4517,7 @@
       "name": "iPhoneやiPadでFilesでプレビューできないHTMLファイルを開くには？",
       "text": "iPhoneやiPadでFilesでプレビューできないHTMLファイルを開くには？",
       "answerCount": 1,
-      "datePublished": "2026-07-01T00:00:00+00:00",
+      "datePublished": "2026-07-02T00:00:00+00:00",
       "author": {
         "@type": "Organization",
         "name": "CyberGame Limited",
@@ -4528,7 +4528,7 @@
         "@id": "https://html.cybergame.ai/ja/articles/files-app-cant-preview-html-on-iphone/#troubleshooting-answer",
         "text": "Html Previewをインストールし、Filesまたは共有シートからファイルを開くと、iPhone/iPad上でローカルにプレビューできます。",
         "url": "https://html.cybergame.ai/ja/articles/files-app-cant-preview-html-on-iphone/",
-        "dateCreated": "2026-07-01T00:00:00+00:00",
+        "dateCreated": "2026-07-02T00:00:00+00:00",
         "upvoteCount": 0,
         "author": {
           "@type": "Organization",
@@ -4766,7 +4766,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-07-01"
+      "lastUpdated": "2026-07-02"
     },
     {
       "@type": "Question",
@@ -4774,7 +4774,7 @@
       "name": "iPhoneやiPadでQuick Look HTMLファイルを開くには？",
       "text": "iPhoneやiPadでQuick Look HTMLファイルを開くには？",
       "answerCount": 1,
-      "datePublished": "2026-07-01T00:00:00+00:00",
+      "datePublished": "2026-07-02T00:00:00+00:00",
       "author": {
         "@type": "Organization",
         "name": "CyberGame Limited",
@@ -4785,7 +4785,7 @@
         "@id": "https://html.cybergame.ai/ja/articles/quick-look-cant-preview-html-on-iphone/#troubleshooting-answer",
         "text": "Html Previewをインストールし、Filesまたは共有シートからファイルを開くと、iPhone/iPad上でローカルにプレビューできます。",
         "url": "https://html.cybergame.ai/ja/articles/quick-look-cant-preview-html-on-iphone/",
-        "dateCreated": "2026-07-01T00:00:00+00:00",
+        "dateCreated": "2026-07-02T00:00:00+00:00",
         "upvoteCount": 0,
         "author": {
           "@type": "Organization",
@@ -5023,7 +5023,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-07-01"
+      "lastUpdated": "2026-07-02"
     },
     {
       "@type": "Question",
@@ -5031,7 +5031,7 @@
       "name": "¿Cómo abrir HTML que iOS no abre?",
       "text": "¿Cómo abrir HTML que iOS no abre?",
       "answerCount": 1,
-      "datePublished": "2026-07-01T00:00:00+00:00",
+      "datePublished": "2026-07-02T00:00:00+00:00",
       "author": {
         "@type": "Organization",
         "name": "CyberGame Limited",
@@ -5042,7 +5042,7 @@
         "@id": "https://html.cybergame.ai/es/articles/iphone-cant-open-html-file/#troubleshooting-answer",
         "text": "Instala Html Preview, abre el archivo desde Files o la hoja de compartir de iOS y previsualízalo localmente en iPhone o iPad.",
         "url": "https://html.cybergame.ai/es/articles/iphone-cant-open-html-file/",
-        "dateCreated": "2026-07-01T00:00:00+00:00",
+        "dateCreated": "2026-07-02T00:00:00+00:00",
         "upvoteCount": 0,
         "author": {
           "@type": "Organization",
@@ -5280,7 +5280,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-07-01"
+      "lastUpdated": "2026-07-02"
     },
     {
       "@type": "Question",
@@ -5288,7 +5288,7 @@
       "name": "¿Cómo abrir HTML mostrado como código en iPhone o iPad?",
       "text": "¿Cómo abrir HTML mostrado como código en iPhone o iPad?",
       "answerCount": 1,
-      "datePublished": "2026-07-01T00:00:00+00:00",
+      "datePublished": "2026-07-02T00:00:00+00:00",
       "author": {
         "@type": "Organization",
         "name": "CyberGame Limited",
@@ -5299,7 +5299,7 @@
         "@id": "https://html.cybergame.ai/es/articles/html-file-shows-source-code-on-iphone/#troubleshooting-answer",
         "text": "Instala Html Preview, abre el archivo desde Files o la hoja de compartir de iOS y previsualízalo localmente en iPhone o iPad.",
         "url": "https://html.cybergame.ai/es/articles/html-file-shows-source-code-on-iphone/",
-        "dateCreated": "2026-07-01T00:00:00+00:00",
+        "dateCreated": "2026-07-02T00:00:00+00:00",
         "upvoteCount": 0,
         "author": {
           "@type": "Organization",
@@ -5537,7 +5537,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-07-01"
+      "lastUpdated": "2026-07-02"
     },
     {
       "@type": "Question",
@@ -5545,7 +5545,7 @@
       "name": "¿Cómo abrir HTML que Files no previsualiza en iPhone o iPad?",
       "text": "¿Cómo abrir HTML que Files no previsualiza en iPhone o iPad?",
       "answerCount": 1,
-      "datePublished": "2026-07-01T00:00:00+00:00",
+      "datePublished": "2026-07-02T00:00:00+00:00",
       "author": {
         "@type": "Organization",
         "name": "CyberGame Limited",
@@ -5556,7 +5556,7 @@
         "@id": "https://html.cybergame.ai/es/articles/files-app-cant-preview-html-on-iphone/#troubleshooting-answer",
         "text": "Instala Html Preview, abre el archivo desde Files o la hoja de compartir de iOS y previsualízalo localmente en iPhone o iPad.",
         "url": "https://html.cybergame.ai/es/articles/files-app-cant-preview-html-on-iphone/",
-        "dateCreated": "2026-07-01T00:00:00+00:00",
+        "dateCreated": "2026-07-02T00:00:00+00:00",
         "upvoteCount": 0,
         "author": {
           "@type": "Organization",
@@ -5794,7 +5794,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-07-01"
+      "lastUpdated": "2026-07-02"
     },
     {
       "@type": "Question",
@@ -5802,7 +5802,7 @@
       "name": "¿Cómo abrir archivos HTML de Quick Look en iPhone o iPad?",
       "text": "¿Cómo abrir archivos HTML de Quick Look en iPhone o iPad?",
       "answerCount": 1,
-      "datePublished": "2026-07-01T00:00:00+00:00",
+      "datePublished": "2026-07-02T00:00:00+00:00",
       "author": {
         "@type": "Organization",
         "name": "CyberGame Limited",
@@ -5813,7 +5813,7 @@
         "@id": "https://html.cybergame.ai/es/articles/quick-look-cant-preview-html-on-iphone/#troubleshooting-answer",
         "text": "Instala Html Preview, abre el archivo desde Files o la hoja de compartir de iOS y previsualízalo localmente en iPhone o iPad.",
         "url": "https://html.cybergame.ai/es/articles/quick-look-cant-preview-html-on-iphone/",
-        "dateCreated": "2026-07-01T00:00:00+00:00",
+        "dateCreated": "2026-07-02T00:00:00+00:00",
         "upvoteCount": 0,
         "author": {
           "@type": "Organization",
@@ -6051,7 +6051,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-07-01"
+      "lastUpdated": "2026-07-02"
     },
     {
       "@type": "Question",
@@ -6059,7 +6059,7 @@
       "name": "Wie kann ich HTML-Dateien mit iOS-Problem öffnen?",
       "text": "Wie kann ich HTML-Dateien mit iOS-Problem öffnen?",
       "answerCount": 1,
-      "datePublished": "2026-07-01T00:00:00+00:00",
+      "datePublished": "2026-07-02T00:00:00+00:00",
       "author": {
         "@type": "Organization",
         "name": "CyberGame Limited",
@@ -6070,7 +6070,7 @@
         "@id": "https://html.cybergame.ai/de/articles/iphone-cant-open-html-file/#troubleshooting-answer",
         "text": "Installiere Html Preview, öffne die Datei aus Files oder dem iOS-Teilen-Menü und zeige sie lokal auf dem iPhone oder iPad an.",
         "url": "https://html.cybergame.ai/de/articles/iphone-cant-open-html-file/",
-        "dateCreated": "2026-07-01T00:00:00+00:00",
+        "dateCreated": "2026-07-02T00:00:00+00:00",
         "upvoteCount": 0,
         "author": {
           "@type": "Organization",
@@ -6308,7 +6308,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-07-01"
+      "lastUpdated": "2026-07-02"
     },
     {
       "@type": "Question",
@@ -6316,7 +6316,7 @@
       "name": "Wie kann ich HTML als Quellcode öffnen auf iPhone oder iPad?",
       "text": "Wie kann ich HTML als Quellcode öffnen auf iPhone oder iPad?",
       "answerCount": 1,
-      "datePublished": "2026-07-01T00:00:00+00:00",
+      "datePublished": "2026-07-02T00:00:00+00:00",
       "author": {
         "@type": "Organization",
         "name": "CyberGame Limited",
@@ -6327,7 +6327,7 @@
         "@id": "https://html.cybergame.ai/de/articles/html-file-shows-source-code-on-iphone/#troubleshooting-answer",
         "text": "Installiere Html Preview, öffne die Datei aus Files oder dem iOS-Teilen-Menü und zeige sie lokal auf dem iPhone oder iPad an.",
         "url": "https://html.cybergame.ai/de/articles/html-file-shows-source-code-on-iphone/",
-        "dateCreated": "2026-07-01T00:00:00+00:00",
+        "dateCreated": "2026-07-02T00:00:00+00:00",
         "upvoteCount": 0,
         "author": {
           "@type": "Organization",
@@ -6565,7 +6565,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-07-01"
+      "lastUpdated": "2026-07-02"
     },
     {
       "@type": "Question",
@@ -6573,7 +6573,7 @@
       "name": "Wie kann ich HTML-Dateien ohne Files-Vorschau öffnen auf iPhone oder iPad?",
       "text": "Wie kann ich HTML-Dateien ohne Files-Vorschau öffnen auf iPhone oder iPad?",
       "answerCount": 1,
-      "datePublished": "2026-07-01T00:00:00+00:00",
+      "datePublished": "2026-07-02T00:00:00+00:00",
       "author": {
         "@type": "Organization",
         "name": "CyberGame Limited",
@@ -6584,7 +6584,7 @@
         "@id": "https://html.cybergame.ai/de/articles/files-app-cant-preview-html-on-iphone/#troubleshooting-answer",
         "text": "Installiere Html Preview, öffne die Datei aus Files oder dem iOS-Teilen-Menü und zeige sie lokal auf dem iPhone oder iPad an.",
         "url": "https://html.cybergame.ai/de/articles/files-app-cant-preview-html-on-iphone/",
-        "dateCreated": "2026-07-01T00:00:00+00:00",
+        "dateCreated": "2026-07-02T00:00:00+00:00",
         "upvoteCount": 0,
         "author": {
           "@type": "Organization",
@@ -6822,7 +6822,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-07-01"
+      "lastUpdated": "2026-07-02"
     },
     {
       "@type": "Question",
@@ -6830,7 +6830,7 @@
       "name": "Wie kann ich Quick Look HTML-Dateien öffnen auf iPhone oder iPad?",
       "text": "Wie kann ich Quick Look HTML-Dateien öffnen auf iPhone oder iPad?",
       "answerCount": 1,
-      "datePublished": "2026-07-01T00:00:00+00:00",
+      "datePublished": "2026-07-02T00:00:00+00:00",
       "author": {
         "@type": "Organization",
         "name": "CyberGame Limited",
@@ -6841,7 +6841,7 @@
         "@id": "https://html.cybergame.ai/de/articles/quick-look-cant-preview-html-on-iphone/#troubleshooting-answer",
         "text": "Installiere Html Preview, öffne die Datei aus Files oder dem iOS-Teilen-Menü und zeige sie lokal auf dem iPhone oder iPad an.",
         "url": "https://html.cybergame.ai/de/articles/quick-look-cant-preview-html-on-iphone/",
-        "dateCreated": "2026-07-01T00:00:00+00:00",
+        "dateCreated": "2026-07-02T00:00:00+00:00",
         "upvoteCount": 0,
         "author": {
           "@type": "Organization",
@@ -7079,7 +7079,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-07-01"
+      "lastUpdated": "2026-07-02"
     },
     {
       "@type": "Question",
@@ -7087,7 +7087,7 @@
       "name": "Comment ouvrir HTML bloqué par iOS ?",
       "text": "Comment ouvrir HTML bloqué par iOS ?",
       "answerCount": 1,
-      "datePublished": "2026-07-01T00:00:00+00:00",
+      "datePublished": "2026-07-02T00:00:00+00:00",
       "author": {
         "@type": "Organization",
         "name": "CyberGame Limited",
@@ -7098,7 +7098,7 @@
         "@id": "https://html.cybergame.ai/fr/articles/iphone-cant-open-html-file/#troubleshooting-answer",
         "text": "Installez Html Preview, ouvrez le fichier depuis Files ou le partage iOS, puis prévisualisez-le localement sur iPhone ou iPad.",
         "url": "https://html.cybergame.ai/fr/articles/iphone-cant-open-html-file/",
-        "dateCreated": "2026-07-01T00:00:00+00:00",
+        "dateCreated": "2026-07-02T00:00:00+00:00",
         "upvoteCount": 0,
         "author": {
           "@type": "Organization",
@@ -7336,7 +7336,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-07-01"
+      "lastUpdated": "2026-07-02"
     },
     {
       "@type": "Question",
@@ -7344,7 +7344,7 @@
       "name": "Comment ouvrir HTML affiché en code sur iPhone ou iPad ?",
       "text": "Comment ouvrir HTML affiché en code sur iPhone ou iPad ?",
       "answerCount": 1,
-      "datePublished": "2026-07-01T00:00:00+00:00",
+      "datePublished": "2026-07-02T00:00:00+00:00",
       "author": {
         "@type": "Organization",
         "name": "CyberGame Limited",
@@ -7355,7 +7355,7 @@
         "@id": "https://html.cybergame.ai/fr/articles/html-file-shows-source-code-on-iphone/#troubleshooting-answer",
         "text": "Installez Html Preview, ouvrez le fichier depuis Files ou le partage iOS, puis prévisualisez-le localement sur iPhone ou iPad.",
         "url": "https://html.cybergame.ai/fr/articles/html-file-shows-source-code-on-iphone/",
-        "dateCreated": "2026-07-01T00:00:00+00:00",
+        "dateCreated": "2026-07-02T00:00:00+00:00",
         "upvoteCount": 0,
         "author": {
           "@type": "Organization",
@@ -7593,7 +7593,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-07-01"
+      "lastUpdated": "2026-07-02"
     },
     {
       "@type": "Question",
@@ -7601,7 +7601,7 @@
       "name": "Comment ouvrir HTML sans aperçu Files sur iPhone ou iPad ?",
       "text": "Comment ouvrir HTML sans aperçu Files sur iPhone ou iPad ?",
       "answerCount": 1,
-      "datePublished": "2026-07-01T00:00:00+00:00",
+      "datePublished": "2026-07-02T00:00:00+00:00",
       "author": {
         "@type": "Organization",
         "name": "CyberGame Limited",
@@ -7612,7 +7612,7 @@
         "@id": "https://html.cybergame.ai/fr/articles/files-app-cant-preview-html-on-iphone/#troubleshooting-answer",
         "text": "Installez Html Preview, ouvrez le fichier depuis Files ou le partage iOS, puis prévisualisez-le localement sur iPhone ou iPad.",
         "url": "https://html.cybergame.ai/fr/articles/files-app-cant-preview-html-on-iphone/",
-        "dateCreated": "2026-07-01T00:00:00+00:00",
+        "dateCreated": "2026-07-02T00:00:00+00:00",
         "upvoteCount": 0,
         "author": {
           "@type": "Organization",
@@ -7850,7 +7850,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-07-01"
+      "lastUpdated": "2026-07-02"
     },
     {
       "@type": "Question",
@@ -7858,7 +7858,7 @@
       "name": "Comment ouvrir des fichiers HTML de Quick Look sur iPhone ou iPad ?",
       "text": "Comment ouvrir des fichiers HTML de Quick Look sur iPhone ou iPad ?",
       "answerCount": 1,
-      "datePublished": "2026-07-01T00:00:00+00:00",
+      "datePublished": "2026-07-02T00:00:00+00:00",
       "author": {
         "@type": "Organization",
         "name": "CyberGame Limited",
@@ -7869,7 +7869,7 @@
         "@id": "https://html.cybergame.ai/fr/articles/quick-look-cant-preview-html-on-iphone/#troubleshooting-answer",
         "text": "Installez Html Preview, ouvrez le fichier depuis Files ou le partage iOS, puis prévisualisez-le localement sur iPhone ou iPad.",
         "url": "https://html.cybergame.ai/fr/articles/quick-look-cant-preview-html-on-iphone/",
-        "dateCreated": "2026-07-01T00:00:00+00:00",
+        "dateCreated": "2026-07-02T00:00:00+00:00",
         "upvoteCount": 0,
         "author": {
           "@type": "Organization",
@@ -8107,7 +8107,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-07-01"
+      "lastUpdated": "2026-07-02"
     },
     {
       "@type": "Question",
@@ -8115,7 +8115,7 @@
       "name": "Como abrir HTML que o iOS não abre?",
       "text": "Como abrir HTML que o iOS não abre?",
       "answerCount": 1,
-      "datePublished": "2026-07-01T00:00:00+00:00",
+      "datePublished": "2026-07-02T00:00:00+00:00",
       "author": {
         "@type": "Organization",
         "name": "CyberGame Limited",
@@ -8126,7 +8126,7 @@
         "@id": "https://html.cybergame.ai/pt-br/articles/iphone-cant-open-html-file/#troubleshooting-answer",
         "text": "Instale o Html Preview, abra o arquivo pelo Files ou pelo compartilhamento do iOS e visualize localmente no iPhone ou iPad.",
         "url": "https://html.cybergame.ai/pt-br/articles/iphone-cant-open-html-file/",
-        "dateCreated": "2026-07-01T00:00:00+00:00",
+        "dateCreated": "2026-07-02T00:00:00+00:00",
         "upvoteCount": 0,
         "author": {
           "@type": "Organization",
@@ -8364,7 +8364,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-07-01"
+      "lastUpdated": "2026-07-02"
     },
     {
       "@type": "Question",
@@ -8372,7 +8372,7 @@
       "name": "Como abrir HTML como código-fonte no iPhone ou iPad?",
       "text": "Como abrir HTML como código-fonte no iPhone ou iPad?",
       "answerCount": 1,
-      "datePublished": "2026-07-01T00:00:00+00:00",
+      "datePublished": "2026-07-02T00:00:00+00:00",
       "author": {
         "@type": "Organization",
         "name": "CyberGame Limited",
@@ -8383,7 +8383,7 @@
         "@id": "https://html.cybergame.ai/pt-br/articles/html-file-shows-source-code-on-iphone/#troubleshooting-answer",
         "text": "Instale o Html Preview, abra o arquivo pelo Files ou pelo compartilhamento do iOS e visualize localmente no iPhone ou iPad.",
         "url": "https://html.cybergame.ai/pt-br/articles/html-file-shows-source-code-on-iphone/",
-        "dateCreated": "2026-07-01T00:00:00+00:00",
+        "dateCreated": "2026-07-02T00:00:00+00:00",
         "upvoteCount": 0,
         "author": {
           "@type": "Organization",
@@ -8621,7 +8621,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-07-01"
+      "lastUpdated": "2026-07-02"
     },
     {
       "@type": "Question",
@@ -8629,7 +8629,7 @@
       "name": "Como abrir HTML sem prévia no Files no iPhone ou iPad?",
       "text": "Como abrir HTML sem prévia no Files no iPhone ou iPad?",
       "answerCount": 1,
-      "datePublished": "2026-07-01T00:00:00+00:00",
+      "datePublished": "2026-07-02T00:00:00+00:00",
       "author": {
         "@type": "Organization",
         "name": "CyberGame Limited",
@@ -8640,7 +8640,7 @@
         "@id": "https://html.cybergame.ai/pt-br/articles/files-app-cant-preview-html-on-iphone/#troubleshooting-answer",
         "text": "Instale o Html Preview, abra o arquivo pelo Files ou pelo compartilhamento do iOS e visualize localmente no iPhone ou iPad.",
         "url": "https://html.cybergame.ai/pt-br/articles/files-app-cant-preview-html-on-iphone/",
-        "dateCreated": "2026-07-01T00:00:00+00:00",
+        "dateCreated": "2026-07-02T00:00:00+00:00",
         "upvoteCount": 0,
         "author": {
           "@type": "Organization",
@@ -8878,7 +8878,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-07-01"
+      "lastUpdated": "2026-07-02"
     },
     {
       "@type": "Question",
@@ -8886,7 +8886,7 @@
       "name": "Como abrir arquivos HTML do Quick Look no iPhone ou iPad?",
       "text": "Como abrir arquivos HTML do Quick Look no iPhone ou iPad?",
       "answerCount": 1,
-      "datePublished": "2026-07-01T00:00:00+00:00",
+      "datePublished": "2026-07-02T00:00:00+00:00",
       "author": {
         "@type": "Organization",
         "name": "CyberGame Limited",
@@ -8897,7 +8897,7 @@
         "@id": "https://html.cybergame.ai/pt-br/articles/quick-look-cant-preview-html-on-iphone/#troubleshooting-answer",
         "text": "Instale o Html Preview, abra o arquivo pelo Files ou pelo compartilhamento do iOS e visualize localmente no iPhone ou iPad.",
         "url": "https://html.cybergame.ai/pt-br/articles/quick-look-cant-preview-html-on-iphone/",
-        "dateCreated": "2026-07-01T00:00:00+00:00",
+        "dateCreated": "2026-07-02T00:00:00+00:00",
         "upvoteCount": 0,
         "author": {
           "@type": "Organization",
@@ -9135,7 +9135,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-07-01"
+      "lastUpdated": "2026-07-02"
     },
     {
       "@type": "Question",
@@ -9143,7 +9143,7 @@
       "name": "iPhone과 iPad에서 HTML 파일을 여는 방법은?",
       "text": "iPhone과 iPad에서 HTML 파일을 여는 방법은?",
       "answerCount": 1,
-      "datePublished": "2026-07-01T00:00:00+00:00",
+      "datePublished": "2026-07-02T00:00:00+00:00",
       "author": {
         "@type": "Organization",
         "name": "CyberGame Limited",
@@ -9154,7 +9154,7 @@
         "@id": "https://html.cybergame.ai/ko/articles/iphone-cant-open-html-file/#troubleshooting-answer",
         "text": "Html Preview를 iOS 공유 시트 또는 Files 앱에서 열고 HTML 파일을 iPhone 또는 iPad에서 로컬로 미리보기하세요.",
         "url": "https://html.cybergame.ai/ko/articles/iphone-cant-open-html-file/",
-        "dateCreated": "2026-07-01T00:00:00+00:00",
+        "dateCreated": "2026-07-02T00:00:00+00:00",
         "upvoteCount": 0,
         "author": {
           "@type": "Organization",
@@ -9392,7 +9392,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-07-01"
+      "lastUpdated": "2026-07-02"
     },
     {
       "@type": "Question",
@@ -9400,7 +9400,7 @@
       "name": "iPhone과 iPad에서 HTML 파일을 여는 방법은?",
       "text": "iPhone과 iPad에서 HTML 파일을 여는 방법은?",
       "answerCount": 1,
-      "datePublished": "2026-07-01T00:00:00+00:00",
+      "datePublished": "2026-07-02T00:00:00+00:00",
       "author": {
         "@type": "Organization",
         "name": "CyberGame Limited",
@@ -9411,7 +9411,7 @@
         "@id": "https://html.cybergame.ai/ko/articles/html-file-shows-source-code-on-iphone/#troubleshooting-answer",
         "text": "Html Preview를 iOS 공유 시트 또는 Files 앱에서 열고 HTML 파일을 iPhone 또는 iPad에서 로컬로 미리보기하세요.",
         "url": "https://html.cybergame.ai/ko/articles/html-file-shows-source-code-on-iphone/",
-        "dateCreated": "2026-07-01T00:00:00+00:00",
+        "dateCreated": "2026-07-02T00:00:00+00:00",
         "upvoteCount": 0,
         "author": {
           "@type": "Organization",
@@ -9649,7 +9649,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-07-01"
+      "lastUpdated": "2026-07-02"
     },
     {
       "@type": "Question",
@@ -9657,7 +9657,7 @@
       "name": "iPhone과 iPad에서 HTML 파일을 여는 방법은?",
       "text": "iPhone과 iPad에서 HTML 파일을 여는 방법은?",
       "answerCount": 1,
-      "datePublished": "2026-07-01T00:00:00+00:00",
+      "datePublished": "2026-07-02T00:00:00+00:00",
       "author": {
         "@type": "Organization",
         "name": "CyberGame Limited",
@@ -9668,7 +9668,7 @@
         "@id": "https://html.cybergame.ai/ko/articles/files-app-cant-preview-html-on-iphone/#troubleshooting-answer",
         "text": "Html Preview를 iOS 공유 시트 또는 Files 앱에서 열고 HTML 파일을 iPhone 또는 iPad에서 로컬로 미리보기하세요.",
         "url": "https://html.cybergame.ai/ko/articles/files-app-cant-preview-html-on-iphone/",
-        "dateCreated": "2026-07-01T00:00:00+00:00",
+        "dateCreated": "2026-07-02T00:00:00+00:00",
         "upvoteCount": 0,
         "author": {
           "@type": "Organization",
@@ -9906,7 +9906,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-07-01"
+      "lastUpdated": "2026-07-02"
     },
     {
       "@type": "Question",
@@ -9914,7 +9914,7 @@
       "name": "iPhone과 iPad에서 HTML 파일을 여는 방법은?",
       "text": "iPhone과 iPad에서 HTML 파일을 여는 방법은?",
       "answerCount": 1,
-      "datePublished": "2026-07-01T00:00:00+00:00",
+      "datePublished": "2026-07-02T00:00:00+00:00",
       "author": {
         "@type": "Organization",
         "name": "CyberGame Limited",
@@ -9925,7 +9925,7 @@
         "@id": "https://html.cybergame.ai/ko/articles/quick-look-cant-preview-html-on-iphone/#troubleshooting-answer",
         "text": "Html Preview를 iOS 공유 시트 또는 Files 앱에서 열고 HTML 파일을 iPhone 또는 iPad에서 로컬로 미리보기하세요.",
         "url": "https://html.cybergame.ai/ko/articles/quick-look-cant-preview-html-on-iphone/",
-        "dateCreated": "2026-07-01T00:00:00+00:00",
+        "dateCreated": "2026-07-02T00:00:00+00:00",
         "upvoteCount": 0,
         "author": {
           "@type": "Organization",
@@ -10163,7 +10163,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-07-01"
+      "lastUpdated": "2026-07-02"
     },
     {
       "@type": "Question",
@@ -10171,7 +10171,7 @@
       "name": "كيف تفتح ملف HTML على iPhone أو iPad؟",
       "text": "كيف تفتح ملف HTML على iPhone أو iPad؟",
       "answerCount": 1,
-      "datePublished": "2026-07-01T00:00:00+00:00",
+      "datePublished": "2026-07-02T00:00:00+00:00",
       "author": {
         "@type": "Organization",
         "name": "CyberGame Limited",
@@ -10182,7 +10182,7 @@
         "@id": "https://html.cybergame.ai/ar/articles/iphone-cant-open-html-file/#troubleshooting-answer",
         "text": "افتح ملف HTML في Html Preview من قائمة مشاركة iOS أو تطبيق Files، ثم عاينه محليًا على iPhone أو iPad.",
         "url": "https://html.cybergame.ai/ar/articles/iphone-cant-open-html-file/",
-        "dateCreated": "2026-07-01T00:00:00+00:00",
+        "dateCreated": "2026-07-02T00:00:00+00:00",
         "upvoteCount": 0,
         "author": {
           "@type": "Organization",
@@ -10420,7 +10420,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-07-01"
+      "lastUpdated": "2026-07-02"
     },
     {
       "@type": "Question",
@@ -10428,7 +10428,7 @@
       "name": "كيف تفتح ملف HTML على iPhone أو iPad؟",
       "text": "كيف تفتح ملف HTML على iPhone أو iPad؟",
       "answerCount": 1,
-      "datePublished": "2026-07-01T00:00:00+00:00",
+      "datePublished": "2026-07-02T00:00:00+00:00",
       "author": {
         "@type": "Organization",
         "name": "CyberGame Limited",
@@ -10439,7 +10439,7 @@
         "@id": "https://html.cybergame.ai/ar/articles/html-file-shows-source-code-on-iphone/#troubleshooting-answer",
         "text": "افتح ملف HTML في Html Preview من قائمة مشاركة iOS أو تطبيق Files، ثم عاينه محليًا على iPhone أو iPad.",
         "url": "https://html.cybergame.ai/ar/articles/html-file-shows-source-code-on-iphone/",
-        "dateCreated": "2026-07-01T00:00:00+00:00",
+        "dateCreated": "2026-07-02T00:00:00+00:00",
         "upvoteCount": 0,
         "author": {
           "@type": "Organization",
@@ -10677,7 +10677,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-07-01"
+      "lastUpdated": "2026-07-02"
     },
     {
       "@type": "Question",
@@ -10685,7 +10685,7 @@
       "name": "كيف تفتح ملف HTML على iPhone أو iPad؟",
       "text": "كيف تفتح ملف HTML على iPhone أو iPad؟",
       "answerCount": 1,
-      "datePublished": "2026-07-01T00:00:00+00:00",
+      "datePublished": "2026-07-02T00:00:00+00:00",
       "author": {
         "@type": "Organization",
         "name": "CyberGame Limited",
@@ -10696,7 +10696,7 @@
         "@id": "https://html.cybergame.ai/ar/articles/files-app-cant-preview-html-on-iphone/#troubleshooting-answer",
         "text": "افتح ملف HTML في Html Preview من قائمة مشاركة iOS أو تطبيق Files، ثم عاينه محليًا على iPhone أو iPad.",
         "url": "https://html.cybergame.ai/ar/articles/files-app-cant-preview-html-on-iphone/",
-        "dateCreated": "2026-07-01T00:00:00+00:00",
+        "dateCreated": "2026-07-02T00:00:00+00:00",
         "upvoteCount": 0,
         "author": {
           "@type": "Organization",
@@ -10934,7 +10934,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-07-01"
+      "lastUpdated": "2026-07-02"
     },
     {
       "@type": "Question",
@@ -10942,7 +10942,7 @@
       "name": "كيف تفتح ملف HTML على iPhone أو iPad؟",
       "text": "كيف تفتح ملف HTML على iPhone أو iPad؟",
       "answerCount": 1,
-      "datePublished": "2026-07-01T00:00:00+00:00",
+      "datePublished": "2026-07-02T00:00:00+00:00",
       "author": {
         "@type": "Organization",
         "name": "CyberGame Limited",
@@ -10953,7 +10953,7 @@
         "@id": "https://html.cybergame.ai/ar/articles/quick-look-cant-preview-html-on-iphone/#troubleshooting-answer",
         "text": "افتح ملف HTML في Html Preview من قائمة مشاركة iOS أو تطبيق Files، ثم عاينه محليًا على iPhone أو iPad.",
         "url": "https://html.cybergame.ai/ar/articles/quick-look-cant-preview-html-on-iphone/",
-        "dateCreated": "2026-07-01T00:00:00+00:00",
+        "dateCreated": "2026-07-02T00:00:00+00:00",
         "upvoteCount": 0,
         "author": {
           "@type": "Organization",
@@ -11191,7 +11191,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-07-01"
+      "lastUpdated": "2026-07-02"
     },
     {
       "@type": "Question",
@@ -11199,7 +11199,7 @@
       "name": "iPhone या iPad पर HTML file कैसे खोलें?",
       "text": "iPhone या iPad पर HTML file कैसे खोलें?",
       "answerCount": 1,
-      "datePublished": "2026-07-01T00:00:00+00:00",
+      "datePublished": "2026-07-02T00:00:00+00:00",
       "author": {
         "@type": "Organization",
         "name": "CyberGame Limited",
@@ -11210,7 +11210,7 @@
         "@id": "https://html.cybergame.ai/hi/articles/iphone-cant-open-html-file/#troubleshooting-answer",
         "text": "Html Preview को iOS Share Sheet या Files ऐप से खोलें और HTML फाइल को iPhone या iPad पर स्थानीय रूप से देखें।",
         "url": "https://html.cybergame.ai/hi/articles/iphone-cant-open-html-file/",
-        "dateCreated": "2026-07-01T00:00:00+00:00",
+        "dateCreated": "2026-07-02T00:00:00+00:00",
         "upvoteCount": 0,
         "author": {
           "@type": "Organization",
@@ -11448,7 +11448,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-07-01"
+      "lastUpdated": "2026-07-02"
     },
     {
       "@type": "Question",
@@ -11456,7 +11456,7 @@
       "name": "iPhone या iPad पर HTML file कैसे खोलें?",
       "text": "iPhone या iPad पर HTML file कैसे खोलें?",
       "answerCount": 1,
-      "datePublished": "2026-07-01T00:00:00+00:00",
+      "datePublished": "2026-07-02T00:00:00+00:00",
       "author": {
         "@type": "Organization",
         "name": "CyberGame Limited",
@@ -11467,7 +11467,7 @@
         "@id": "https://html.cybergame.ai/hi/articles/html-file-shows-source-code-on-iphone/#troubleshooting-answer",
         "text": "Html Preview को iOS Share Sheet या Files ऐप से खोलें और HTML फाइल को iPhone या iPad पर स्थानीय रूप से देखें।",
         "url": "https://html.cybergame.ai/hi/articles/html-file-shows-source-code-on-iphone/",
-        "dateCreated": "2026-07-01T00:00:00+00:00",
+        "dateCreated": "2026-07-02T00:00:00+00:00",
         "upvoteCount": 0,
         "author": {
           "@type": "Organization",
@@ -11705,7 +11705,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-07-01"
+      "lastUpdated": "2026-07-02"
     },
     {
       "@type": "Question",
@@ -11713,7 +11713,7 @@
       "name": "iPhone या iPad पर HTML file कैसे खोलें?",
       "text": "iPhone या iPad पर HTML file कैसे खोलें?",
       "answerCount": 1,
-      "datePublished": "2026-07-01T00:00:00+00:00",
+      "datePublished": "2026-07-02T00:00:00+00:00",
       "author": {
         "@type": "Organization",
         "name": "CyberGame Limited",
@@ -11724,7 +11724,7 @@
         "@id": "https://html.cybergame.ai/hi/articles/files-app-cant-preview-html-on-iphone/#troubleshooting-answer",
         "text": "Html Preview को iOS Share Sheet या Files ऐप से खोलें और HTML फाइल को iPhone या iPad पर स्थानीय रूप से देखें।",
         "url": "https://html.cybergame.ai/hi/articles/files-app-cant-preview-html-on-iphone/",
-        "dateCreated": "2026-07-01T00:00:00+00:00",
+        "dateCreated": "2026-07-02T00:00:00+00:00",
         "upvoteCount": 0,
         "author": {
           "@type": "Organization",
@@ -11962,7 +11962,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-07-01"
+      "lastUpdated": "2026-07-02"
     },
     {
       "@type": "Question",
@@ -11970,7 +11970,7 @@
       "name": "iPhone या iPad पर HTML file कैसे खोलें?",
       "text": "iPhone या iPad पर HTML file कैसे खोलें?",
       "answerCount": 1,
-      "datePublished": "2026-07-01T00:00:00+00:00",
+      "datePublished": "2026-07-02T00:00:00+00:00",
       "author": {
         "@type": "Organization",
         "name": "CyberGame Limited",
@@ -11981,7 +11981,7 @@
         "@id": "https://html.cybergame.ai/hi/articles/quick-look-cant-preview-html-on-iphone/#troubleshooting-answer",
         "text": "Html Preview को iOS Share Sheet या Files ऐप से खोलें और HTML फाइल को iPhone या iPad पर स्थानीय रूप से देखें।",
         "url": "https://html.cybergame.ai/hi/articles/quick-look-cant-preview-html-on-iphone/",
-        "dateCreated": "2026-07-01T00:00:00+00:00",
+        "dateCreated": "2026-07-02T00:00:00+00:00",
         "upvoteCount": 0,
         "author": {
           "@type": "Organization",
@@ -12219,7 +12219,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-07-01"
+      "lastUpdated": "2026-07-02"
     },
     {
       "@type": "Question",
@@ -12227,7 +12227,7 @@
       "name": "Come aprire un file HTML su iPhone o iPad?",
       "text": "Come aprire un file HTML su iPhone o iPad?",
       "answerCount": 1,
-      "datePublished": "2026-07-01T00:00:00+00:00",
+      "datePublished": "2026-07-02T00:00:00+00:00",
       "author": {
         "@type": "Organization",
         "name": "CyberGame Limited",
@@ -12238,7 +12238,7 @@
         "@id": "https://html.cybergame.ai/it/articles/iphone-cant-open-html-file/#troubleshooting-answer",
         "text": "Apri il file HTML con Html Preview dal foglio di condivisione iOS o dall'app File e visualizzalo localmente su iPhone o iPad.",
         "url": "https://html.cybergame.ai/it/articles/iphone-cant-open-html-file/",
-        "dateCreated": "2026-07-01T00:00:00+00:00",
+        "dateCreated": "2026-07-02T00:00:00+00:00",
         "upvoteCount": 0,
         "author": {
           "@type": "Organization",
@@ -12476,7 +12476,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-07-01"
+      "lastUpdated": "2026-07-02"
     },
     {
       "@type": "Question",
@@ -12484,7 +12484,7 @@
       "name": "Come aprire un file HTML su iPhone o iPad?",
       "text": "Come aprire un file HTML su iPhone o iPad?",
       "answerCount": 1,
-      "datePublished": "2026-07-01T00:00:00+00:00",
+      "datePublished": "2026-07-02T00:00:00+00:00",
       "author": {
         "@type": "Organization",
         "name": "CyberGame Limited",
@@ -12495,7 +12495,7 @@
         "@id": "https://html.cybergame.ai/it/articles/html-file-shows-source-code-on-iphone/#troubleshooting-answer",
         "text": "Apri il file HTML con Html Preview dal foglio di condivisione iOS o dall'app File e visualizzalo localmente su iPhone o iPad.",
         "url": "https://html.cybergame.ai/it/articles/html-file-shows-source-code-on-iphone/",
-        "dateCreated": "2026-07-01T00:00:00+00:00",
+        "dateCreated": "2026-07-02T00:00:00+00:00",
         "upvoteCount": 0,
         "author": {
           "@type": "Organization",
@@ -12733,7 +12733,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-07-01"
+      "lastUpdated": "2026-07-02"
     },
     {
       "@type": "Question",
@@ -12741,7 +12741,7 @@
       "name": "Come aprire un file HTML su iPhone o iPad?",
       "text": "Come aprire un file HTML su iPhone o iPad?",
       "answerCount": 1,
-      "datePublished": "2026-07-01T00:00:00+00:00",
+      "datePublished": "2026-07-02T00:00:00+00:00",
       "author": {
         "@type": "Organization",
         "name": "CyberGame Limited",
@@ -12752,7 +12752,7 @@
         "@id": "https://html.cybergame.ai/it/articles/files-app-cant-preview-html-on-iphone/#troubleshooting-answer",
         "text": "Apri il file HTML con Html Preview dal foglio di condivisione iOS o dall'app File e visualizzalo localmente su iPhone o iPad.",
         "url": "https://html.cybergame.ai/it/articles/files-app-cant-preview-html-on-iphone/",
-        "dateCreated": "2026-07-01T00:00:00+00:00",
+        "dateCreated": "2026-07-02T00:00:00+00:00",
         "upvoteCount": 0,
         "author": {
           "@type": "Organization",
@@ -12990,7 +12990,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-07-01"
+      "lastUpdated": "2026-07-02"
     },
     {
       "@type": "Question",
@@ -12998,7 +12998,7 @@
       "name": "Come aprire un file HTML su iPhone o iPad?",
       "text": "Come aprire un file HTML su iPhone o iPad?",
       "answerCount": 1,
-      "datePublished": "2026-07-01T00:00:00+00:00",
+      "datePublished": "2026-07-02T00:00:00+00:00",
       "author": {
         "@type": "Organization",
         "name": "CyberGame Limited",
@@ -13009,7 +13009,7 @@
         "@id": "https://html.cybergame.ai/it/articles/quick-look-cant-preview-html-on-iphone/#troubleshooting-answer",
         "text": "Apri il file HTML con Html Preview dal foglio di condivisione iOS o dall'app File e visualizzalo localmente su iPhone o iPad.",
         "url": "https://html.cybergame.ai/it/articles/quick-look-cant-preview-html-on-iphone/",
-        "dateCreated": "2026-07-01T00:00:00+00:00",
+        "dateCreated": "2026-07-02T00:00:00+00:00",
         "upvoteCount": 0,
         "author": {
           "@type": "Organization",
@@ -13247,7 +13247,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-07-01"
+      "lastUpdated": "2026-07-02"
     },
     {
       "@type": "Question",
@@ -13255,7 +13255,7 @@
       "name": "iPhone veya iPad'de HTML dosyası nasıl açılır?",
       "text": "iPhone veya iPad'de HTML dosyası nasıl açılır?",
       "answerCount": 1,
-      "datePublished": "2026-07-01T00:00:00+00:00",
+      "datePublished": "2026-07-02T00:00:00+00:00",
       "author": {
         "@type": "Organization",
         "name": "CyberGame Limited",
@@ -13266,7 +13266,7 @@
         "@id": "https://html.cybergame.ai/tr/articles/iphone-cant-open-html-file/#troubleshooting-answer",
         "text": "HTML dosyasını iOS Paylaşım Menusu veya Files uygulamasindan Html Preview ile aç ve iPhone ya da iPad'de yerel olarak önizle.",
         "url": "https://html.cybergame.ai/tr/articles/iphone-cant-open-html-file/",
-        "dateCreated": "2026-07-01T00:00:00+00:00",
+        "dateCreated": "2026-07-02T00:00:00+00:00",
         "upvoteCount": 0,
         "author": {
           "@type": "Organization",
@@ -13504,7 +13504,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-07-01"
+      "lastUpdated": "2026-07-02"
     },
     {
       "@type": "Question",
@@ -13512,7 +13512,7 @@
       "name": "iPhone veya iPad'de HTML dosyası nasıl açılır?",
       "text": "iPhone veya iPad'de HTML dosyası nasıl açılır?",
       "answerCount": 1,
-      "datePublished": "2026-07-01T00:00:00+00:00",
+      "datePublished": "2026-07-02T00:00:00+00:00",
       "author": {
         "@type": "Organization",
         "name": "CyberGame Limited",
@@ -13523,7 +13523,7 @@
         "@id": "https://html.cybergame.ai/tr/articles/html-file-shows-source-code-on-iphone/#troubleshooting-answer",
         "text": "HTML dosyasını iOS Paylaşım Menusu veya Files uygulamasindan Html Preview ile aç ve iPhone ya da iPad'de yerel olarak önizle.",
         "url": "https://html.cybergame.ai/tr/articles/html-file-shows-source-code-on-iphone/",
-        "dateCreated": "2026-07-01T00:00:00+00:00",
+        "dateCreated": "2026-07-02T00:00:00+00:00",
         "upvoteCount": 0,
         "author": {
           "@type": "Organization",
@@ -13761,7 +13761,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-07-01"
+      "lastUpdated": "2026-07-02"
     },
     {
       "@type": "Question",
@@ -13769,7 +13769,7 @@
       "name": "iPhone veya iPad'de HTML dosyası nasıl açılır?",
       "text": "iPhone veya iPad'de HTML dosyası nasıl açılır?",
       "answerCount": 1,
-      "datePublished": "2026-07-01T00:00:00+00:00",
+      "datePublished": "2026-07-02T00:00:00+00:00",
       "author": {
         "@type": "Organization",
         "name": "CyberGame Limited",
@@ -13780,7 +13780,7 @@
         "@id": "https://html.cybergame.ai/tr/articles/files-app-cant-preview-html-on-iphone/#troubleshooting-answer",
         "text": "HTML dosyasını iOS Paylaşım Menusu veya Files uygulamasindan Html Preview ile aç ve iPhone ya da iPad'de yerel olarak önizle.",
         "url": "https://html.cybergame.ai/tr/articles/files-app-cant-preview-html-on-iphone/",
-        "dateCreated": "2026-07-01T00:00:00+00:00",
+        "dateCreated": "2026-07-02T00:00:00+00:00",
         "upvoteCount": 0,
         "author": {
           "@type": "Organization",
@@ -14018,7 +14018,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-07-01"
+      "lastUpdated": "2026-07-02"
     },
     {
       "@type": "Question",
@@ -14026,7 +14026,7 @@
       "name": "iPhone veya iPad'de HTML dosyası nasıl açılır?",
       "text": "iPhone veya iPad'de HTML dosyası nasıl açılır?",
       "answerCount": 1,
-      "datePublished": "2026-07-01T00:00:00+00:00",
+      "datePublished": "2026-07-02T00:00:00+00:00",
       "author": {
         "@type": "Organization",
         "name": "CyberGame Limited",
@@ -14037,7 +14037,7 @@
         "@id": "https://html.cybergame.ai/tr/articles/quick-look-cant-preview-html-on-iphone/#troubleshooting-answer",
         "text": "HTML dosyasını iOS Paylaşım Menusu veya Files uygulamasindan Html Preview ile aç ve iPhone ya da iPad'de yerel olarak önizle.",
         "url": "https://html.cybergame.ai/tr/articles/quick-look-cant-preview-html-on-iphone/",
-        "dateCreated": "2026-07-01T00:00:00+00:00",
+        "dateCreated": "2026-07-02T00:00:00+00:00",
         "upvoteCount": 0,
         "author": {
           "@type": "Organization",
@@ -14275,7 +14275,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-07-01"
+      "lastUpdated": "2026-07-02"
     },
     {
       "@type": "Question",
@@ -14283,7 +14283,7 @@
       "name": "Bagaimana cara membuka file HTML di iPhone atau iPad?",
       "text": "Bagaimana cara membuka file HTML di iPhone atau iPad?",
       "answerCount": 1,
-      "datePublished": "2026-07-01T00:00:00+00:00",
+      "datePublished": "2026-07-02T00:00:00+00:00",
       "author": {
         "@type": "Organization",
         "name": "CyberGame Limited",
@@ -14294,7 +14294,7 @@
         "@id": "https://html.cybergame.ai/id/articles/iphone-cant-open-html-file/#troubleshooting-answer",
         "text": "Buka file HTML dengan Html Preview dari Share Sheet iOS atau app Files, lalu pratinjau secara lokal di iPhone atau iPad.",
         "url": "https://html.cybergame.ai/id/articles/iphone-cant-open-html-file/",
-        "dateCreated": "2026-07-01T00:00:00+00:00",
+        "dateCreated": "2026-07-02T00:00:00+00:00",
         "upvoteCount": 0,
         "author": {
           "@type": "Organization",
@@ -14532,7 +14532,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-07-01"
+      "lastUpdated": "2026-07-02"
     },
     {
       "@type": "Question",
@@ -14540,7 +14540,7 @@
       "name": "Bagaimana cara membuka file HTML di iPhone atau iPad?",
       "text": "Bagaimana cara membuka file HTML di iPhone atau iPad?",
       "answerCount": 1,
-      "datePublished": "2026-07-01T00:00:00+00:00",
+      "datePublished": "2026-07-02T00:00:00+00:00",
       "author": {
         "@type": "Organization",
         "name": "CyberGame Limited",
@@ -14551,7 +14551,7 @@
         "@id": "https://html.cybergame.ai/id/articles/html-file-shows-source-code-on-iphone/#troubleshooting-answer",
         "text": "Buka file HTML dengan Html Preview dari Share Sheet iOS atau app Files, lalu pratinjau secara lokal di iPhone atau iPad.",
         "url": "https://html.cybergame.ai/id/articles/html-file-shows-source-code-on-iphone/",
-        "dateCreated": "2026-07-01T00:00:00+00:00",
+        "dateCreated": "2026-07-02T00:00:00+00:00",
         "upvoteCount": 0,
         "author": {
           "@type": "Organization",
@@ -14789,7 +14789,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-07-01"
+      "lastUpdated": "2026-07-02"
     },
     {
       "@type": "Question",
@@ -14797,7 +14797,7 @@
       "name": "Bagaimana cara membuka file HTML di iPhone atau iPad?",
       "text": "Bagaimana cara membuka file HTML di iPhone atau iPad?",
       "answerCount": 1,
-      "datePublished": "2026-07-01T00:00:00+00:00",
+      "datePublished": "2026-07-02T00:00:00+00:00",
       "author": {
         "@type": "Organization",
         "name": "CyberGame Limited",
@@ -14808,7 +14808,7 @@
         "@id": "https://html.cybergame.ai/id/articles/files-app-cant-preview-html-on-iphone/#troubleshooting-answer",
         "text": "Buka file HTML dengan Html Preview dari Share Sheet iOS atau app Files, lalu pratinjau secara lokal di iPhone atau iPad.",
         "url": "https://html.cybergame.ai/id/articles/files-app-cant-preview-html-on-iphone/",
-        "dateCreated": "2026-07-01T00:00:00+00:00",
+        "dateCreated": "2026-07-02T00:00:00+00:00",
         "upvoteCount": 0,
         "author": {
           "@type": "Organization",
@@ -15046,7 +15046,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-07-01"
+      "lastUpdated": "2026-07-02"
     },
     {
       "@type": "Question",
@@ -15054,7 +15054,7 @@
       "name": "Bagaimana cara membuka file HTML di iPhone atau iPad?",
       "text": "Bagaimana cara membuka file HTML di iPhone atau iPad?",
       "answerCount": 1,
-      "datePublished": "2026-07-01T00:00:00+00:00",
+      "datePublished": "2026-07-02T00:00:00+00:00",
       "author": {
         "@type": "Organization",
         "name": "CyberGame Limited",
@@ -15065,7 +15065,7 @@
         "@id": "https://html.cybergame.ai/id/articles/quick-look-cant-preview-html-on-iphone/#troubleshooting-answer",
         "text": "Buka file HTML dengan Html Preview dari Share Sheet iOS atau app Files, lalu pratinjau secara lokal di iPhone atau iPad.",
         "url": "https://html.cybergame.ai/id/articles/quick-look-cant-preview-html-on-iphone/",
-        "dateCreated": "2026-07-01T00:00:00+00:00",
+        "dateCreated": "2026-07-02T00:00:00+00:00",
         "upvoteCount": 0,
         "author": {
           "@type": "Organization",
@@ -15303,7 +15303,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-07-01"
+      "lastUpdated": "2026-07-02"
     },
     {
       "@type": "Question",
@@ -15311,7 +15311,7 @@
       "name": "Cách mở tệp HTML trên iPhone hoặc iPad?",
       "text": "Cách mở tệp HTML trên iPhone hoặc iPad?",
       "answerCount": 1,
-      "datePublished": "2026-07-01T00:00:00+00:00",
+      "datePublished": "2026-07-02T00:00:00+00:00",
       "author": {
         "@type": "Organization",
         "name": "CyberGame Limited",
@@ -15322,7 +15322,7 @@
         "@id": "https://html.cybergame.ai/vi/articles/iphone-cant-open-html-file/#troubleshooting-answer",
         "text": "Mở tệp HTML bằng Html Preview từ bảng chia sẻ iOS hoặc ứng dụng Files, rồi xem trước trên iPhone hoặc iPad.",
         "url": "https://html.cybergame.ai/vi/articles/iphone-cant-open-html-file/",
-        "dateCreated": "2026-07-01T00:00:00+00:00",
+        "dateCreated": "2026-07-02T00:00:00+00:00",
         "upvoteCount": 0,
         "author": {
           "@type": "Organization",
@@ -15560,7 +15560,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-07-01"
+      "lastUpdated": "2026-07-02"
     },
     {
       "@type": "Question",
@@ -15568,7 +15568,7 @@
       "name": "Cách mở tệp HTML trên iPhone hoặc iPad?",
       "text": "Cách mở tệp HTML trên iPhone hoặc iPad?",
       "answerCount": 1,
-      "datePublished": "2026-07-01T00:00:00+00:00",
+      "datePublished": "2026-07-02T00:00:00+00:00",
       "author": {
         "@type": "Organization",
         "name": "CyberGame Limited",
@@ -15579,7 +15579,7 @@
         "@id": "https://html.cybergame.ai/vi/articles/html-file-shows-source-code-on-iphone/#troubleshooting-answer",
         "text": "Mở tệp HTML bằng Html Preview từ bảng chia sẻ iOS hoặc ứng dụng Files, rồi xem trước trên iPhone hoặc iPad.",
         "url": "https://html.cybergame.ai/vi/articles/html-file-shows-source-code-on-iphone/",
-        "dateCreated": "2026-07-01T00:00:00+00:00",
+        "dateCreated": "2026-07-02T00:00:00+00:00",
         "upvoteCount": 0,
         "author": {
           "@type": "Organization",
@@ -15817,7 +15817,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-07-01"
+      "lastUpdated": "2026-07-02"
     },
     {
       "@type": "Question",
@@ -15825,7 +15825,7 @@
       "name": "Cách mở tệp HTML trên iPhone hoặc iPad?",
       "text": "Cách mở tệp HTML trên iPhone hoặc iPad?",
       "answerCount": 1,
-      "datePublished": "2026-07-01T00:00:00+00:00",
+      "datePublished": "2026-07-02T00:00:00+00:00",
       "author": {
         "@type": "Organization",
         "name": "CyberGame Limited",
@@ -15836,7 +15836,7 @@
         "@id": "https://html.cybergame.ai/vi/articles/files-app-cant-preview-html-on-iphone/#troubleshooting-answer",
         "text": "Mở tệp HTML bằng Html Preview từ bảng chia sẻ iOS hoặc ứng dụng Files, rồi xem trước trên iPhone hoặc iPad.",
         "url": "https://html.cybergame.ai/vi/articles/files-app-cant-preview-html-on-iphone/",
-        "dateCreated": "2026-07-01T00:00:00+00:00",
+        "dateCreated": "2026-07-02T00:00:00+00:00",
         "upvoteCount": 0,
         "author": {
           "@type": "Organization",
@@ -16074,7 +16074,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-07-01"
+      "lastUpdated": "2026-07-02"
     },
     {
       "@type": "Question",
@@ -16082,7 +16082,7 @@
       "name": "Cách mở tệp HTML trên iPhone hoặc iPad?",
       "text": "Cách mở tệp HTML trên iPhone hoặc iPad?",
       "answerCount": 1,
-      "datePublished": "2026-07-01T00:00:00+00:00",
+      "datePublished": "2026-07-02T00:00:00+00:00",
       "author": {
         "@type": "Organization",
         "name": "CyberGame Limited",
@@ -16093,7 +16093,7 @@
         "@id": "https://html.cybergame.ai/vi/articles/quick-look-cant-preview-html-on-iphone/#troubleshooting-answer",
         "text": "Mở tệp HTML bằng Html Preview từ bảng chia sẻ iOS hoặc ứng dụng Files, rồi xem trước trên iPhone hoặc iPad.",
         "url": "https://html.cybergame.ai/vi/articles/quick-look-cant-preview-html-on-iphone/",
-        "dateCreated": "2026-07-01T00:00:00+00:00",
+        "dateCreated": "2026-07-02T00:00:00+00:00",
         "upvoteCount": 0,
         "author": {
           "@type": "Organization",
@@ -16331,7 +16331,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-07-01"
+      "lastUpdated": "2026-07-02"
     },
     {
       "@type": "Question",
@@ -16339,7 +16339,7 @@
       "name": "วิธีเปิดไฟล์ HTML บน iPhone หรือ iPad?",
       "text": "วิธีเปิดไฟล์ HTML บน iPhone หรือ iPad?",
       "answerCount": 1,
-      "datePublished": "2026-07-01T00:00:00+00:00",
+      "datePublished": "2026-07-02T00:00:00+00:00",
       "author": {
         "@type": "Organization",
         "name": "CyberGame Limited",
@@ -16350,7 +16350,7 @@
         "@id": "https://html.cybergame.ai/th/articles/iphone-cant-open-html-file/#troubleshooting-answer",
         "text": "เปิดไฟล์ HTML ด้วย Html Preview จาก Share Sheet ของ iOS หรือแอป Files แล้วพรีวิวบน iPhone หรือ iPad แบบอยู่บนเครื่อง",
         "url": "https://html.cybergame.ai/th/articles/iphone-cant-open-html-file/",
-        "dateCreated": "2026-07-01T00:00:00+00:00",
+        "dateCreated": "2026-07-02T00:00:00+00:00",
         "upvoteCount": 0,
         "author": {
           "@type": "Organization",
@@ -16588,7 +16588,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-07-01"
+      "lastUpdated": "2026-07-02"
     },
     {
       "@type": "Question",
@@ -16596,7 +16596,7 @@
       "name": "วิธีเปิดไฟล์ HTML บน iPhone หรือ iPad?",
       "text": "วิธีเปิดไฟล์ HTML บน iPhone หรือ iPad?",
       "answerCount": 1,
-      "datePublished": "2026-07-01T00:00:00+00:00",
+      "datePublished": "2026-07-02T00:00:00+00:00",
       "author": {
         "@type": "Organization",
         "name": "CyberGame Limited",
@@ -16607,7 +16607,7 @@
         "@id": "https://html.cybergame.ai/th/articles/html-file-shows-source-code-on-iphone/#troubleshooting-answer",
         "text": "เปิดไฟล์ HTML ด้วย Html Preview จาก Share Sheet ของ iOS หรือแอป Files แล้วพรีวิวบน iPhone หรือ iPad แบบอยู่บนเครื่อง",
         "url": "https://html.cybergame.ai/th/articles/html-file-shows-source-code-on-iphone/",
-        "dateCreated": "2026-07-01T00:00:00+00:00",
+        "dateCreated": "2026-07-02T00:00:00+00:00",
         "upvoteCount": 0,
         "author": {
           "@type": "Organization",
@@ -16845,7 +16845,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-07-01"
+      "lastUpdated": "2026-07-02"
     },
     {
       "@type": "Question",
@@ -16853,7 +16853,7 @@
       "name": "วิธีเปิดไฟล์ HTML บน iPhone หรือ iPad?",
       "text": "วิธีเปิดไฟล์ HTML บน iPhone หรือ iPad?",
       "answerCount": 1,
-      "datePublished": "2026-07-01T00:00:00+00:00",
+      "datePublished": "2026-07-02T00:00:00+00:00",
       "author": {
         "@type": "Organization",
         "name": "CyberGame Limited",
@@ -16864,7 +16864,7 @@
         "@id": "https://html.cybergame.ai/th/articles/files-app-cant-preview-html-on-iphone/#troubleshooting-answer",
         "text": "เปิดไฟล์ HTML ด้วย Html Preview จาก Share Sheet ของ iOS หรือแอป Files แล้วพรีวิวบน iPhone หรือ iPad แบบอยู่บนเครื่อง",
         "url": "https://html.cybergame.ai/th/articles/files-app-cant-preview-html-on-iphone/",
-        "dateCreated": "2026-07-01T00:00:00+00:00",
+        "dateCreated": "2026-07-02T00:00:00+00:00",
         "upvoteCount": 0,
         "author": {
           "@type": "Organization",
@@ -17102,7 +17102,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-07-01"
+      "lastUpdated": "2026-07-02"
     },
     {
       "@type": "Question",
@@ -17110,7 +17110,7 @@
       "name": "วิธีเปิดไฟล์ HTML บน iPhone หรือ iPad?",
       "text": "วิธีเปิดไฟล์ HTML บน iPhone หรือ iPad?",
       "answerCount": 1,
-      "datePublished": "2026-07-01T00:00:00+00:00",
+      "datePublished": "2026-07-02T00:00:00+00:00",
       "author": {
         "@type": "Organization",
         "name": "CyberGame Limited",
@@ -17121,7 +17121,7 @@
         "@id": "https://html.cybergame.ai/th/articles/quick-look-cant-preview-html-on-iphone/#troubleshooting-answer",
         "text": "เปิดไฟล์ HTML ด้วย Html Preview จาก Share Sheet ของ iOS หรือแอป Files แล้วพรีวิวบน iPhone หรือ iPad แบบอยู่บนเครื่อง",
         "url": "https://html.cybergame.ai/th/articles/quick-look-cant-preview-html-on-iphone/",
-        "dateCreated": "2026-07-01T00:00:00+00:00",
+        "dateCreated": "2026-07-02T00:00:00+00:00",
         "upvoteCount": 0,
         "author": {
           "@type": "Organization",
@@ -17359,7 +17359,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-07-01"
+      "lastUpdated": "2026-07-02"
     },
     {
       "@type": "Question",
@@ -17367,7 +17367,7 @@
       "name": "Как открыть файл HTML на iPhone или iPad?",
       "text": "Как открыть файл HTML на iPhone или iPad?",
       "answerCount": 1,
-      "datePublished": "2026-07-01T00:00:00+00:00",
+      "datePublished": "2026-07-02T00:00:00+00:00",
       "author": {
         "@type": "Organization",
         "name": "CyberGame Limited",
@@ -17378,7 +17378,7 @@
         "@id": "https://html.cybergame.ai/ru/articles/iphone-cant-open-html-file/#troubleshooting-answer",
         "text": "Откройте файл HTML в Html Preview через меню Поделиться iOS или Files и просматривайте его локально на iPhone или iPad.",
         "url": "https://html.cybergame.ai/ru/articles/iphone-cant-open-html-file/",
-        "dateCreated": "2026-07-01T00:00:00+00:00",
+        "dateCreated": "2026-07-02T00:00:00+00:00",
         "upvoteCount": 0,
         "author": {
           "@type": "Organization",
@@ -17616,7 +17616,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-07-01"
+      "lastUpdated": "2026-07-02"
     },
     {
       "@type": "Question",
@@ -17624,7 +17624,7 @@
       "name": "Как открыть файл HTML на iPhone или iPad?",
       "text": "Как открыть файл HTML на iPhone или iPad?",
       "answerCount": 1,
-      "datePublished": "2026-07-01T00:00:00+00:00",
+      "datePublished": "2026-07-02T00:00:00+00:00",
       "author": {
         "@type": "Organization",
         "name": "CyberGame Limited",
@@ -17635,7 +17635,7 @@
         "@id": "https://html.cybergame.ai/ru/articles/html-file-shows-source-code-on-iphone/#troubleshooting-answer",
         "text": "Откройте файл HTML в Html Preview через меню Поделиться iOS или Files и просматривайте его локально на iPhone или iPad.",
         "url": "https://html.cybergame.ai/ru/articles/html-file-shows-source-code-on-iphone/",
-        "dateCreated": "2026-07-01T00:00:00+00:00",
+        "dateCreated": "2026-07-02T00:00:00+00:00",
         "upvoteCount": 0,
         "author": {
           "@type": "Organization",
@@ -17873,7 +17873,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-07-01"
+      "lastUpdated": "2026-07-02"
     },
     {
       "@type": "Question",
@@ -17881,7 +17881,7 @@
       "name": "Как открыть файл HTML на iPhone или iPad?",
       "text": "Как открыть файл HTML на iPhone или iPad?",
       "answerCount": 1,
-      "datePublished": "2026-07-01T00:00:00+00:00",
+      "datePublished": "2026-07-02T00:00:00+00:00",
       "author": {
         "@type": "Organization",
         "name": "CyberGame Limited",
@@ -17892,7 +17892,7 @@
         "@id": "https://html.cybergame.ai/ru/articles/files-app-cant-preview-html-on-iphone/#troubleshooting-answer",
         "text": "Откройте файл HTML в Html Preview через меню Поделиться iOS или Files и просматривайте его локально на iPhone или iPad.",
         "url": "https://html.cybergame.ai/ru/articles/files-app-cant-preview-html-on-iphone/",
-        "dateCreated": "2026-07-01T00:00:00+00:00",
+        "dateCreated": "2026-07-02T00:00:00+00:00",
         "upvoteCount": 0,
         "author": {
           "@type": "Organization",
@@ -18130,7 +18130,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-07-01"
+      "lastUpdated": "2026-07-02"
     },
     {
       "@type": "Question",
@@ -18138,7 +18138,7 @@
       "name": "Как открыть файл HTML на iPhone или iPad?",
       "text": "Как открыть файл HTML на iPhone или iPad?",
       "answerCount": 1,
-      "datePublished": "2026-07-01T00:00:00+00:00",
+      "datePublished": "2026-07-02T00:00:00+00:00",
       "author": {
         "@type": "Organization",
         "name": "CyberGame Limited",
@@ -18149,7 +18149,7 @@
         "@id": "https://html.cybergame.ai/ru/articles/quick-look-cant-preview-html-on-iphone/#troubleshooting-answer",
         "text": "Откройте файл HTML в Html Preview через меню Поделиться iOS или Files и просматривайте его локально на iPhone или iPad.",
         "url": "https://html.cybergame.ai/ru/articles/quick-look-cant-preview-html-on-iphone/",
-        "dateCreated": "2026-07-01T00:00:00+00:00",
+        "dateCreated": "2026-07-02T00:00:00+00:00",
         "upvoteCount": 0,
         "author": {
           "@type": "Organization",
@@ -18387,7 +18387,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-07-01"
+      "lastUpdated": "2026-07-02"
     },
     {
       "@type": "Question",
@@ -18395,7 +18395,7 @@
       "name": "Hoe open ik een HTML bestand op iPhone of iPad?",
       "text": "Hoe open ik een HTML bestand op iPhone of iPad?",
       "answerCount": 1,
-      "datePublished": "2026-07-01T00:00:00+00:00",
+      "datePublished": "2026-07-02T00:00:00+00:00",
       "author": {
         "@type": "Organization",
         "name": "CyberGame Limited",
@@ -18406,7 +18406,7 @@
         "@id": "https://html.cybergame.ai/nl/articles/iphone-cant-open-html-file/#troubleshooting-answer",
         "text": "Open het HTML bestand met Html Preview vanuit het iOS deelmenu of Files en bekijk het lokaal op iPhone of iPad.",
         "url": "https://html.cybergame.ai/nl/articles/iphone-cant-open-html-file/",
-        "dateCreated": "2026-07-01T00:00:00+00:00",
+        "dateCreated": "2026-07-02T00:00:00+00:00",
         "upvoteCount": 0,
         "author": {
           "@type": "Organization",
@@ -18644,7 +18644,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-07-01"
+      "lastUpdated": "2026-07-02"
     },
     {
       "@type": "Question",
@@ -18652,7 +18652,7 @@
       "name": "Hoe open ik een HTML bestand op iPhone of iPad?",
       "text": "Hoe open ik een HTML bestand op iPhone of iPad?",
       "answerCount": 1,
-      "datePublished": "2026-07-01T00:00:00+00:00",
+      "datePublished": "2026-07-02T00:00:00+00:00",
       "author": {
         "@type": "Organization",
         "name": "CyberGame Limited",
@@ -18663,7 +18663,7 @@
         "@id": "https://html.cybergame.ai/nl/articles/html-file-shows-source-code-on-iphone/#troubleshooting-answer",
         "text": "Open het HTML bestand met Html Preview vanuit het iOS deelmenu of Files en bekijk het lokaal op iPhone of iPad.",
         "url": "https://html.cybergame.ai/nl/articles/html-file-shows-source-code-on-iphone/",
-        "dateCreated": "2026-07-01T00:00:00+00:00",
+        "dateCreated": "2026-07-02T00:00:00+00:00",
         "upvoteCount": 0,
         "author": {
           "@type": "Organization",
@@ -18901,7 +18901,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-07-01"
+      "lastUpdated": "2026-07-02"
     },
     {
       "@type": "Question",
@@ -18909,7 +18909,7 @@
       "name": "Hoe open ik een HTML bestand op iPhone of iPad?",
       "text": "Hoe open ik een HTML bestand op iPhone of iPad?",
       "answerCount": 1,
-      "datePublished": "2026-07-01T00:00:00+00:00",
+      "datePublished": "2026-07-02T00:00:00+00:00",
       "author": {
         "@type": "Organization",
         "name": "CyberGame Limited",
@@ -18920,7 +18920,7 @@
         "@id": "https://html.cybergame.ai/nl/articles/files-app-cant-preview-html-on-iphone/#troubleshooting-answer",
         "text": "Open het HTML bestand met Html Preview vanuit het iOS deelmenu of Files en bekijk het lokaal op iPhone of iPad.",
         "url": "https://html.cybergame.ai/nl/articles/files-app-cant-preview-html-on-iphone/",
-        "dateCreated": "2026-07-01T00:00:00+00:00",
+        "dateCreated": "2026-07-02T00:00:00+00:00",
         "upvoteCount": 0,
         "author": {
           "@type": "Organization",
@@ -19158,7 +19158,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-07-01"
+      "lastUpdated": "2026-07-02"
     },
     {
       "@type": "Question",
@@ -19166,7 +19166,7 @@
       "name": "Hoe open ik een HTML bestand op iPhone of iPad?",
       "text": "Hoe open ik een HTML bestand op iPhone of iPad?",
       "answerCount": 1,
-      "datePublished": "2026-07-01T00:00:00+00:00",
+      "datePublished": "2026-07-02T00:00:00+00:00",
       "author": {
         "@type": "Organization",
         "name": "CyberGame Limited",
@@ -19177,7 +19177,7 @@
         "@id": "https://html.cybergame.ai/nl/articles/quick-look-cant-preview-html-on-iphone/#troubleshooting-answer",
         "text": "Open het HTML bestand met Html Preview vanuit het iOS deelmenu of Files en bekijk het lokaal op iPhone of iPad.",
         "url": "https://html.cybergame.ai/nl/articles/quick-look-cant-preview-html-on-iphone/",
-        "dateCreated": "2026-07-01T00:00:00+00:00",
+        "dateCreated": "2026-07-02T00:00:00+00:00",
         "upvoteCount": 0,
         "author": {
           "@type": "Organization",
@@ -19415,7 +19415,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-07-01"
+      "lastUpdated": "2026-07-02"
     },
     {
       "@type": "Question",
@@ -19423,7 +19423,7 @@
       "name": "Jak otworzyć plik HTML na iPhone lub iPad?",
       "text": "Jak otworzyć plik HTML na iPhone lub iPad?",
       "answerCount": 1,
-      "datePublished": "2026-07-01T00:00:00+00:00",
+      "datePublished": "2026-07-02T00:00:00+00:00",
       "author": {
         "@type": "Organization",
         "name": "CyberGame Limited",
@@ -19434,7 +19434,7 @@
         "@id": "https://html.cybergame.ai/pl/articles/iphone-cant-open-html-file/#troubleshooting-answer",
         "text": "Otwórz plik HTML w Html Preview z arkusza udostępniania iOS albo Files i oglądaj go lokalnie na iPhone lub iPad.",
         "url": "https://html.cybergame.ai/pl/articles/iphone-cant-open-html-file/",
-        "dateCreated": "2026-07-01T00:00:00+00:00",
+        "dateCreated": "2026-07-02T00:00:00+00:00",
         "upvoteCount": 0,
         "author": {
           "@type": "Organization",
@@ -19672,7 +19672,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-07-01"
+      "lastUpdated": "2026-07-02"
     },
     {
       "@type": "Question",
@@ -19680,7 +19680,7 @@
       "name": "Jak otworzyć plik HTML na iPhone lub iPad?",
       "text": "Jak otworzyć plik HTML na iPhone lub iPad?",
       "answerCount": 1,
-      "datePublished": "2026-07-01T00:00:00+00:00",
+      "datePublished": "2026-07-02T00:00:00+00:00",
       "author": {
         "@type": "Organization",
         "name": "CyberGame Limited",
@@ -19691,7 +19691,7 @@
         "@id": "https://html.cybergame.ai/pl/articles/html-file-shows-source-code-on-iphone/#troubleshooting-answer",
         "text": "Otwórz plik HTML w Html Preview z arkusza udostępniania iOS albo Files i oglądaj go lokalnie na iPhone lub iPad.",
         "url": "https://html.cybergame.ai/pl/articles/html-file-shows-source-code-on-iphone/",
-        "dateCreated": "2026-07-01T00:00:00+00:00",
+        "dateCreated": "2026-07-02T00:00:00+00:00",
         "upvoteCount": 0,
         "author": {
           "@type": "Organization",
@@ -19929,7 +19929,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-07-01"
+      "lastUpdated": "2026-07-02"
     },
     {
       "@type": "Question",
@@ -19937,7 +19937,7 @@
       "name": "Jak otworzyć plik HTML na iPhone lub iPad?",
       "text": "Jak otworzyć plik HTML na iPhone lub iPad?",
       "answerCount": 1,
-      "datePublished": "2026-07-01T00:00:00+00:00",
+      "datePublished": "2026-07-02T00:00:00+00:00",
       "author": {
         "@type": "Organization",
         "name": "CyberGame Limited",
@@ -19948,7 +19948,7 @@
         "@id": "https://html.cybergame.ai/pl/articles/files-app-cant-preview-html-on-iphone/#troubleshooting-answer",
         "text": "Otwórz plik HTML w Html Preview z arkusza udostępniania iOS albo Files i oglądaj go lokalnie na iPhone lub iPad.",
         "url": "https://html.cybergame.ai/pl/articles/files-app-cant-preview-html-on-iphone/",
-        "dateCreated": "2026-07-01T00:00:00+00:00",
+        "dateCreated": "2026-07-02T00:00:00+00:00",
         "upvoteCount": 0,
         "author": {
           "@type": "Organization",
@@ -20186,7 +20186,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-07-01"
+      "lastUpdated": "2026-07-02"
     },
     {
       "@type": "Question",
@@ -20194,7 +20194,7 @@
       "name": "Jak otworzyć plik HTML na iPhone lub iPad?",
       "text": "Jak otworzyć plik HTML na iPhone lub iPad?",
       "answerCount": 1,
-      "datePublished": "2026-07-01T00:00:00+00:00",
+      "datePublished": "2026-07-02T00:00:00+00:00",
       "author": {
         "@type": "Organization",
         "name": "CyberGame Limited",
@@ -20205,7 +20205,7 @@
         "@id": "https://html.cybergame.ai/pl/articles/quick-look-cant-preview-html-on-iphone/#troubleshooting-answer",
         "text": "Otwórz plik HTML w Html Preview z arkusza udostępniania iOS albo Files i oglądaj go lokalnie na iPhone lub iPad.",
         "url": "https://html.cybergame.ai/pl/articles/quick-look-cant-preview-html-on-iphone/",
-        "dateCreated": "2026-07-01T00:00:00+00:00",
+        "dateCreated": "2026-07-02T00:00:00+00:00",
         "upvoteCount": 0,
         "author": {
           "@type": "Organization",
@@ -20443,7 +20443,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-07-01"
+      "lastUpdated": "2026-07-02"
     },
     {
       "@type": "Question",
@@ -20451,7 +20451,7 @@
       "name": "Bagaimana membuka fail HTML pada iPhone atau iPad?",
       "text": "Bagaimana membuka fail HTML pada iPhone atau iPad?",
       "answerCount": 1,
-      "datePublished": "2026-07-01T00:00:00+00:00",
+      "datePublished": "2026-07-02T00:00:00+00:00",
       "author": {
         "@type": "Organization",
         "name": "CyberGame Limited",
@@ -20462,7 +20462,7 @@
         "@id": "https://html.cybergame.ai/ms/articles/iphone-cant-open-html-file/#troubleshooting-answer",
         "text": "Buka fail HTML dengan Html Preview daripada Share Sheet iOS atau Files dan preview secara lokal pada iPhone atau iPad.",
         "url": "https://html.cybergame.ai/ms/articles/iphone-cant-open-html-file/",
-        "dateCreated": "2026-07-01T00:00:00+00:00",
+        "dateCreated": "2026-07-02T00:00:00+00:00",
         "upvoteCount": 0,
         "author": {
           "@type": "Organization",
@@ -20700,7 +20700,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-07-01"
+      "lastUpdated": "2026-07-02"
     },
     {
       "@type": "Question",
@@ -20708,7 +20708,7 @@
       "name": "Bagaimana membuka fail HTML pada iPhone atau iPad?",
       "text": "Bagaimana membuka fail HTML pada iPhone atau iPad?",
       "answerCount": 1,
-      "datePublished": "2026-07-01T00:00:00+00:00",
+      "datePublished": "2026-07-02T00:00:00+00:00",
       "author": {
         "@type": "Organization",
         "name": "CyberGame Limited",
@@ -20719,7 +20719,7 @@
         "@id": "https://html.cybergame.ai/ms/articles/html-file-shows-source-code-on-iphone/#troubleshooting-answer",
         "text": "Buka fail HTML dengan Html Preview daripada Share Sheet iOS atau Files dan preview secara lokal pada iPhone atau iPad.",
         "url": "https://html.cybergame.ai/ms/articles/html-file-shows-source-code-on-iphone/",
-        "dateCreated": "2026-07-01T00:00:00+00:00",
+        "dateCreated": "2026-07-02T00:00:00+00:00",
         "upvoteCount": 0,
         "author": {
           "@type": "Organization",
@@ -20957,7 +20957,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-07-01"
+      "lastUpdated": "2026-07-02"
     },
     {
       "@type": "Question",
@@ -20965,7 +20965,7 @@
       "name": "Bagaimana membuka fail HTML pada iPhone atau iPad?",
       "text": "Bagaimana membuka fail HTML pada iPhone atau iPad?",
       "answerCount": 1,
-      "datePublished": "2026-07-01T00:00:00+00:00",
+      "datePublished": "2026-07-02T00:00:00+00:00",
       "author": {
         "@type": "Organization",
         "name": "CyberGame Limited",
@@ -20976,7 +20976,7 @@
         "@id": "https://html.cybergame.ai/ms/articles/files-app-cant-preview-html-on-iphone/#troubleshooting-answer",
         "text": "Buka fail HTML dengan Html Preview daripada Share Sheet iOS atau Files dan preview secara lokal pada iPhone atau iPad.",
         "url": "https://html.cybergame.ai/ms/articles/files-app-cant-preview-html-on-iphone/",
-        "dateCreated": "2026-07-01T00:00:00+00:00",
+        "dateCreated": "2026-07-02T00:00:00+00:00",
         "upvoteCount": 0,
         "author": {
           "@type": "Organization",
@@ -21214,7 +21214,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-07-01"
+      "lastUpdated": "2026-07-02"
     },
     {
       "@type": "Question",
@@ -21222,7 +21222,7 @@
       "name": "Bagaimana membuka fail HTML pada iPhone atau iPad?",
       "text": "Bagaimana membuka fail HTML pada iPhone atau iPad?",
       "answerCount": 1,
-      "datePublished": "2026-07-01T00:00:00+00:00",
+      "datePublished": "2026-07-02T00:00:00+00:00",
       "author": {
         "@type": "Organization",
         "name": "CyberGame Limited",
@@ -21233,7 +21233,7 @@
         "@id": "https://html.cybergame.ai/ms/articles/quick-look-cant-preview-html-on-iphone/#troubleshooting-answer",
         "text": "Buka fail HTML dengan Html Preview daripada Share Sheet iOS atau Files dan preview secara lokal pada iPhone atau iPad.",
         "url": "https://html.cybergame.ai/ms/articles/quick-look-cant-preview-html-on-iphone/",
-        "dateCreated": "2026-07-01T00:00:00+00:00",
+        "dateCreated": "2026-07-02T00:00:00+00:00",
         "upvoteCount": 0,
         "author": {
           "@type": "Organization",
@@ -21471,7 +21471,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-07-01"
+      "lastUpdated": "2026-07-02"
     },
     {
       "@type": "Question",
@@ -21479,7 +21479,7 @@
       "name": "Hur öppnar jag en HTML-fil på iPhone eller iPad?",
       "text": "Hur öppnar jag en HTML-fil på iPhone eller iPad?",
       "answerCount": 1,
-      "datePublished": "2026-07-01T00:00:00+00:00",
+      "datePublished": "2026-07-02T00:00:00+00:00",
       "author": {
         "@type": "Organization",
         "name": "CyberGame Limited",
@@ -21490,7 +21490,7 @@
         "@id": "https://html.cybergame.ai/sv/articles/iphone-cant-open-html-file/#troubleshooting-answer",
         "text": "Öppna HTML-filen med Html Preview från iOS delningsblad eller Files och visa den lokalt på iPhone eller iPad.",
         "url": "https://html.cybergame.ai/sv/articles/iphone-cant-open-html-file/",
-        "dateCreated": "2026-07-01T00:00:00+00:00",
+        "dateCreated": "2026-07-02T00:00:00+00:00",
         "upvoteCount": 0,
         "author": {
           "@type": "Organization",
@@ -21728,7 +21728,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-07-01"
+      "lastUpdated": "2026-07-02"
     },
     {
       "@type": "Question",
@@ -21736,7 +21736,7 @@
       "name": "Hur öppnar jag en HTML-fil på iPhone eller iPad?",
       "text": "Hur öppnar jag en HTML-fil på iPhone eller iPad?",
       "answerCount": 1,
-      "datePublished": "2026-07-01T00:00:00+00:00",
+      "datePublished": "2026-07-02T00:00:00+00:00",
       "author": {
         "@type": "Organization",
         "name": "CyberGame Limited",
@@ -21747,7 +21747,7 @@
         "@id": "https://html.cybergame.ai/sv/articles/html-file-shows-source-code-on-iphone/#troubleshooting-answer",
         "text": "Öppna HTML-filen med Html Preview från iOS delningsblad eller Files och visa den lokalt på iPhone eller iPad.",
         "url": "https://html.cybergame.ai/sv/articles/html-file-shows-source-code-on-iphone/",
-        "dateCreated": "2026-07-01T00:00:00+00:00",
+        "dateCreated": "2026-07-02T00:00:00+00:00",
         "upvoteCount": 0,
         "author": {
           "@type": "Organization",
@@ -21985,7 +21985,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-07-01"
+      "lastUpdated": "2026-07-02"
     },
     {
       "@type": "Question",
@@ -21993,7 +21993,7 @@
       "name": "Hur öppnar jag en HTML-fil på iPhone eller iPad?",
       "text": "Hur öppnar jag en HTML-fil på iPhone eller iPad?",
       "answerCount": 1,
-      "datePublished": "2026-07-01T00:00:00+00:00",
+      "datePublished": "2026-07-02T00:00:00+00:00",
       "author": {
         "@type": "Organization",
         "name": "CyberGame Limited",
@@ -22004,7 +22004,7 @@
         "@id": "https://html.cybergame.ai/sv/articles/files-app-cant-preview-html-on-iphone/#troubleshooting-answer",
         "text": "Öppna HTML-filen med Html Preview från iOS delningsblad eller Files och visa den lokalt på iPhone eller iPad.",
         "url": "https://html.cybergame.ai/sv/articles/files-app-cant-preview-html-on-iphone/",
-        "dateCreated": "2026-07-01T00:00:00+00:00",
+        "dateCreated": "2026-07-02T00:00:00+00:00",
         "upvoteCount": 0,
         "author": {
           "@type": "Organization",
@@ -22242,7 +22242,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-07-01"
+      "lastUpdated": "2026-07-02"
     },
     {
       "@type": "Question",
@@ -22250,7 +22250,7 @@
       "name": "Hur öppnar jag en HTML-fil på iPhone eller iPad?",
       "text": "Hur öppnar jag en HTML-fil på iPhone eller iPad?",
       "answerCount": 1,
-      "datePublished": "2026-07-01T00:00:00+00:00",
+      "datePublished": "2026-07-02T00:00:00+00:00",
       "author": {
         "@type": "Organization",
         "name": "CyberGame Limited",
@@ -22261,7 +22261,7 @@
         "@id": "https://html.cybergame.ai/sv/articles/quick-look-cant-preview-html-on-iphone/#troubleshooting-answer",
         "text": "Öppna HTML-filen med Html Preview från iOS delningsblad eller Files och visa den lokalt på iPhone eller iPad.",
         "url": "https://html.cybergame.ai/sv/articles/quick-look-cant-preview-html-on-iphone/",
-        "dateCreated": "2026-07-01T00:00:00+00:00",
+        "dateCreated": "2026-07-02T00:00:00+00:00",
         "upvoteCount": 0,
         "author": {
           "@type": "Organization",
@@ -22499,7 +22499,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-07-01"
+      "lastUpdated": "2026-07-02"
     },
     {
       "@type": "Question",
@@ -22507,7 +22507,7 @@
       "name": "איך פותחים קובץ HTML ב-iPhone או iPad?",
       "text": "איך פותחים קובץ HTML ב-iPhone או iPad?",
       "answerCount": 1,
-      "datePublished": "2026-07-01T00:00:00+00:00",
+      "datePublished": "2026-07-02T00:00:00+00:00",
       "author": {
         "@type": "Organization",
         "name": "CyberGame Limited",
@@ -22518,7 +22518,7 @@
         "@id": "https://html.cybergame.ai/he/articles/iphone-cant-open-html-file/#troubleshooting-answer",
         "text": "פתח את קובץ HTML עם Html Preview מתפריט השיתוף של iOS או Files והצג אותו מקומית ב-iPhone או iPad.",
         "url": "https://html.cybergame.ai/he/articles/iphone-cant-open-html-file/",
-        "dateCreated": "2026-07-01T00:00:00+00:00",
+        "dateCreated": "2026-07-02T00:00:00+00:00",
         "upvoteCount": 0,
         "author": {
           "@type": "Organization",
@@ -22756,7 +22756,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-07-01"
+      "lastUpdated": "2026-07-02"
     },
     {
       "@type": "Question",
@@ -22764,7 +22764,7 @@
       "name": "איך פותחים קובץ HTML ב-iPhone או iPad?",
       "text": "איך פותחים קובץ HTML ב-iPhone או iPad?",
       "answerCount": 1,
-      "datePublished": "2026-07-01T00:00:00+00:00",
+      "datePublished": "2026-07-02T00:00:00+00:00",
       "author": {
         "@type": "Organization",
         "name": "CyberGame Limited",
@@ -22775,7 +22775,7 @@
         "@id": "https://html.cybergame.ai/he/articles/html-file-shows-source-code-on-iphone/#troubleshooting-answer",
         "text": "פתח את קובץ HTML עם Html Preview מתפריט השיתוף של iOS או Files והצג אותו מקומית ב-iPhone או iPad.",
         "url": "https://html.cybergame.ai/he/articles/html-file-shows-source-code-on-iphone/",
-        "dateCreated": "2026-07-01T00:00:00+00:00",
+        "dateCreated": "2026-07-02T00:00:00+00:00",
         "upvoteCount": 0,
         "author": {
           "@type": "Organization",
@@ -23013,7 +23013,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-07-01"
+      "lastUpdated": "2026-07-02"
     },
     {
       "@type": "Question",
@@ -23021,7 +23021,7 @@
       "name": "איך פותחים קובץ HTML ב-iPhone או iPad?",
       "text": "איך פותחים קובץ HTML ב-iPhone או iPad?",
       "answerCount": 1,
-      "datePublished": "2026-07-01T00:00:00+00:00",
+      "datePublished": "2026-07-02T00:00:00+00:00",
       "author": {
         "@type": "Organization",
         "name": "CyberGame Limited",
@@ -23032,7 +23032,7 @@
         "@id": "https://html.cybergame.ai/he/articles/files-app-cant-preview-html-on-iphone/#troubleshooting-answer",
         "text": "פתח את קובץ HTML עם Html Preview מתפריט השיתוף של iOS או Files והצג אותו מקומית ב-iPhone או iPad.",
         "url": "https://html.cybergame.ai/he/articles/files-app-cant-preview-html-on-iphone/",
-        "dateCreated": "2026-07-01T00:00:00+00:00",
+        "dateCreated": "2026-07-02T00:00:00+00:00",
         "upvoteCount": 0,
         "author": {
           "@type": "Organization",
@@ -23270,7 +23270,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-07-01"
+      "lastUpdated": "2026-07-02"
     },
     {
       "@type": "Question",
@@ -23278,7 +23278,7 @@
       "name": "איך פותחים קובץ HTML ב-iPhone או iPad?",
       "text": "איך פותחים קובץ HTML ב-iPhone או iPad?",
       "answerCount": 1,
-      "datePublished": "2026-07-01T00:00:00+00:00",
+      "datePublished": "2026-07-02T00:00:00+00:00",
       "author": {
         "@type": "Organization",
         "name": "CyberGame Limited",
@@ -23289,7 +23289,7 @@
         "@id": "https://html.cybergame.ai/he/articles/quick-look-cant-preview-html-on-iphone/#troubleshooting-answer",
         "text": "פתח את קובץ HTML עם Html Preview מתפריט השיתוף של iOS או Files והצג אותו מקומית ב-iPhone או iPad.",
         "url": "https://html.cybergame.ai/he/articles/quick-look-cant-preview-html-on-iphone/",
-        "dateCreated": "2026-07-01T00:00:00+00:00",
+        "dateCreated": "2026-07-02T00:00:00+00:00",
         "upvoteCount": 0,
         "author": {
           "@type": "Organization",
@@ -23527,7 +23527,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-07-01"
+      "lastUpdated": "2026-07-02"
     }
   ]
 }
