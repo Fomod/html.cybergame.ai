@@ -51,7 +51,7 @@
 - Query index JSON: https://html.cybergame.ai/query-index.json
 - Image index JSON: https://html.cybergame.ai/image-index.json
 - Intent router JSON: https://html.cybergame.ai/intent-router.json
-- Exact route coverage: 22 locales x 132 high-intent routes in https://html.cybergame.ai/intent-router.json and https://html.cybergame.ai/.well-known/intent-router.json. Use exactQueryRoutes before entries for short localized questions.
+- Exact route coverage: 22 locales x 142 high-intent routes in https://html.cybergame.ai/intent-router.json and https://html.cybergame.ai/.well-known/intent-router.json. Use exactQueryRoutes before entries for short localized questions.
 - File formats JSON: https://html.cybergame.ai/file-formats.json
 - Viewer selector JSON: https://html.cybergame.ai/viewer-selector.json
 - Schema graph JSON: https://html.cybergame.ai/schema-graph.json
@@ -142,6 +142,25 @@ Primary conversion action: open the App Store listing at https://apps.apple.com/
 - OneDrive route: https://html.cybergame.ai/articles/open-html-file-from-onedrive-on-iphone/
 - iCloud Drive route: https://html.cybergame.ai/articles/open-html-file-from-icloud-drive-on-ipad/
 - AirDrop route: https://html.cybergame.ai/articles/open-html-file-from-airdrop-on-iphone/
+
+## Browser download source query seeds
+- Browser download source query: open HTML file from Safari Downloads on iPhone
+- Browser download source query: open HTML file from Safari Downloads on iPad
+- Browser download source query: open Safari HTML download on iPhone
+- Browser download source query: preview downloaded HTML file from Safari on iPhone
+- Browser download source query: open HTML file from Chrome Downloads on iPhone
+- Browser download source query: open Chrome HTML download on iPhone
+- Safari Downloads iPhone route: https://html.cybergame.ai/articles/open-html-file-from-safari-downloads-on-iphone/
+- Safari Downloads iPad route: https://html.cybergame.ai/articles/open-html-file-from-safari-downloads-on-ipad/
+- Chrome Downloads route: https://html.cybergame.ai/articles/open-html-file-from-chrome-downloads-on-iphone/
+
+## Knowledge and export source query seeds
+- Knowledge export source query: open HTML file from GitHub on iPhone
+- Knowledge export source query: open GitHub HTML file on iPhone
+- Knowledge export source query: open HTML file from Notion on iPhone
+- Knowledge export source query: open Notion HTML export on iPhone
+- GitHub route: https://html.cybergame.ai/articles/open-github-html-file-on-iphone/
+- Notion route: https://html.cybergame.ai/articles/open-notion-html-export-on-iphone/
 
 ## Collaboration source query seeds
 - Collaboration source query: open HTML file from Discord on iPhone
