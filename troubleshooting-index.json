@@ -94,12 +94,12 @@
     "answer engine citations"
   ],
   "appStoreUrl": "https://apps.apple.com/app/id6760443436",
-  "appStoreTrackUrl": "https://apps.apple.com/us/app/html-preview-web-file-viewer/id6760443436?uo=4",
+  "appStoreTrackUrl": "https://apps.apple.com/us/app/html-preview-web-file-viewer/id6760443436",
   "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760443436&country=us",
   "iosAppUrl": "itms-apps://itunes.apple.com/app/id6760443436",
   "appStoreId": "6760443436",
   "appStoreDeveloperId": "1778824442",
-  "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+  "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442",
   "bundleId": "CyberGame.App-11",
   "supportedFormats": ".html, .htm, .xhtml",
   "supportedDevices": [
@@ -756,7 +756,7 @@
           "@type": "Organization",
           "name": "CyberGame Limited",
           "url": "https://html.cybergame.ai/",
-          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4"
+          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442"
         },
         "potentialAction": {
           "@type": "InstallAction",
@@ -988,7 +988,7 @@
           "@type": "Organization",
           "name": "CyberGame Limited",
           "url": "https://html.cybergame.ai/",
-          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4"
+          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442"
         },
         "potentialAction": {
           "@type": "InstallAction",
@@ -1220,7 +1220,7 @@
           "@type": "Organization",
           "name": "CyberGame Limited",
           "url": "https://html.cybergame.ai/",
-          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4"
+          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442"
         },
         "potentialAction": {
           "@type": "InstallAction",
@@ -1452,7 +1452,7 @@
           "@type": "Organization",
           "name": "CyberGame Limited",
           "url": "https://html.cybergame.ai/",
-          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4"
+          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442"
         },
         "potentialAction": {
           "@type": "InstallAction",
@@ -1684,7 +1684,7 @@
           "@type": "Organization",
           "name": "CyberGame Limited",
           "url": "https://html.cybergame.ai/",
-          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4"
+          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442"
         },
         "potentialAction": {
           "@type": "InstallAction",
@@ -1916,7 +1916,7 @@
           "@type": "Organization",
           "name": "CyberGame Limited",
           "url": "https://html.cybergame.ai/",
-          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4"
+          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442"
         },
         "potentialAction": {
           "@type": "InstallAction",
@@ -2148,7 +2148,7 @@
           "@type": "Organization",
           "name": "CyberGame Limited",
           "url": "https://html.cybergame.ai/",
-          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4"
+          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442"
         },
         "potentialAction": {
           "@type": "InstallAction",
@@ -2380,7 +2380,7 @@
           "@type": "Organization",
           "name": "CyberGame Limited",
           "url": "https://html.cybergame.ai/",
-          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4"
+          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442"
         },
         "potentialAction": {
           "@type": "InstallAction",
@@ -2612,7 +2612,7 @@
           "@type": "Organization",
           "name": "CyberGame Limited",
           "url": "https://html.cybergame.ai/",
-          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4"
+          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442"
         },
         "potentialAction": {
           "@type": "InstallAction",
@@ -2844,7 +2844,7 @@
           "@type": "Organization",
           "name": "CyberGame Limited",
           "url": "https://html.cybergame.ai/",
-          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4"
+          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442"
         },
         "potentialAction": {
           "@type": "InstallAction",
@@ -3076,7 +3076,7 @@
           "@type": "Organization",
           "name": "CyberGame Limited",
           "url": "https://html.cybergame.ai/",
-          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4"
+          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442"
         },
         "potentialAction": {
           "@type": "InstallAction",
@@ -3308,7 +3308,7 @@
           "@type": "Organization",
           "name": "CyberGame Limited",
           "url": "https://html.cybergame.ai/",
-          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4"
+          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442"
         },
         "potentialAction": {
           "@type": "InstallAction",
@@ -3540,7 +3540,7 @@
           "@type": "Organization",
           "name": "CyberGame Limited",
           "url": "https://html.cybergame.ai/",
-          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4"
+          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442"
         },
         "potentialAction": {
           "@type": "InstallAction",
@@ -3772,7 +3772,7 @@
           "@type": "Organization",
           "name": "CyberGame Limited",
           "url": "https://html.cybergame.ai/",
-          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4"
+          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442"
         },
         "potentialAction": {
           "@type": "InstallAction",
@@ -4004,7 +4004,7 @@
           "@type": "Organization",
           "name": "CyberGame Limited",
           "url": "https://html.cybergame.ai/",
-          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4"
+          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442"
         },
         "potentialAction": {
           "@type": "InstallAction",
@@ -4236,7 +4236,7 @@
           "@type": "Organization",
           "name": "CyberGame Limited",
           "url": "https://html.cybergame.ai/",
-          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4"
+          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442"
         },
         "potentialAction": {
           "@type": "InstallAction",
@@ -4468,7 +4468,7 @@
           "@type": "Organization",
           "name": "CyberGame Limited",
           "url": "https://html.cybergame.ai/",
-          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4"
+          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442"
         },
         "potentialAction": {
           "@type": "InstallAction",
@@ -4700,7 +4700,7 @@
           "@type": "Organization",
           "name": "CyberGame Limited",
           "url": "https://html.cybergame.ai/",
-          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4"
+          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442"
         },
         "potentialAction": {
           "@type": "InstallAction",
@@ -4932,7 +4932,7 @@
           "@type": "Organization",
           "name": "CyberGame Limited",
           "url": "https://html.cybergame.ai/",
-          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4"
+          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442"
         },
         "potentialAction": {
           "@type": "InstallAction",
@@ -5164,7 +5164,7 @@
           "@type": "Organization",
           "name": "CyberGame Limited",
           "url": "https://html.cybergame.ai/",
-          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4"
+          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442"
         },
         "potentialAction": {
           "@type": "InstallAction",
@@ -5396,7 +5396,7 @@
           "@type": "Organization",
           "name": "CyberGame Limited",
           "url": "https://html.cybergame.ai/",
-          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4"
+          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442"
         },
         "potentialAction": {
           "@type": "InstallAction",
@@ -5628,7 +5628,7 @@
           "@type": "Organization",
           "name": "CyberGame Limited",
           "url": "https://html.cybergame.ai/",
-          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4"
+          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442"
         },
         "potentialAction": {
           "@type": "InstallAction",
@@ -5860,7 +5860,7 @@
           "@type": "Organization",
           "name": "CyberGame Limited",
           "url": "https://html.cybergame.ai/",
-          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4"
+          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442"
         },
         "potentialAction": {
           "@type": "InstallAction",
@@ -6092,7 +6092,7 @@
           "@type": "Organization",
           "name": "CyberGame Limited",
           "url": "https://html.cybergame.ai/",
-          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4"
+          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442"
         },
         "potentialAction": {
           "@type": "InstallAction",
@@ -6324,7 +6324,7 @@
           "@type": "Organization",
           "name": "CyberGame Limited",
           "url": "https://html.cybergame.ai/",
-          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4"
+          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442"
         },
         "potentialAction": {
           "@type": "InstallAction",
@@ -6556,7 +6556,7 @@
           "@type": "Organization",
           "name": "CyberGame Limited",
           "url": "https://html.cybergame.ai/",
-          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4"
+          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442"
         },
         "potentialAction": {
           "@type": "InstallAction",
@@ -6788,7 +6788,7 @@
           "@type": "Organization",
           "name": "CyberGame Limited",
           "url": "https://html.cybergame.ai/",
-          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4"
+          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442"
         },
         "potentialAction": {
           "@type": "InstallAction",
@@ -7020,7 +7020,7 @@
           "@type": "Organization",
           "name": "CyberGame Limited",
           "url": "https://html.cybergame.ai/",
-          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4"
+          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442"
         },
         "potentialAction": {
           "@type": "InstallAction",
@@ -7252,7 +7252,7 @@
           "@type": "Organization",
           "name": "CyberGame Limited",
           "url": "https://html.cybergame.ai/",
-          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4"
+          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442"
         },
         "potentialAction": {
           "@type": "InstallAction",
@@ -7484,7 +7484,7 @@
           "@type": "Organization",
           "name": "CyberGame Limited",
           "url": "https://html.cybergame.ai/",
-          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4"
+          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442"
         },
         "potentialAction": {
           "@type": "InstallAction",
@@ -7716,7 +7716,7 @@
           "@type": "Organization",
           "name": "CyberGame Limited",
           "url": "https://html.cybergame.ai/",
-          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4"
+          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442"
         },
         "potentialAction": {
           "@type": "InstallAction",
@@ -7948,7 +7948,7 @@
           "@type": "Organization",
           "name": "CyberGame Limited",
           "url": "https://html.cybergame.ai/",
-          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4"
+          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442"
         },
         "potentialAction": {
           "@type": "InstallAction",
@@ -8180,7 +8180,7 @@
           "@type": "Organization",
           "name": "CyberGame Limited",
           "url": "https://html.cybergame.ai/",
-          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4"
+          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442"
         },
         "potentialAction": {
           "@type": "InstallAction",
@@ -8412,7 +8412,7 @@
           "@type": "Organization",
           "name": "CyberGame Limited",
           "url": "https://html.cybergame.ai/",
-          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4"
+          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442"
         },
         "potentialAction": {
           "@type": "InstallAction",
@@ -8644,7 +8644,7 @@
           "@type": "Organization",
           "name": "CyberGame Limited",
           "url": "https://html.cybergame.ai/",
-          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4"
+          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442"
         },
         "potentialAction": {
           "@type": "InstallAction",
@@ -8876,7 +8876,7 @@
           "@type": "Organization",
           "name": "CyberGame Limited",
           "url": "https://html.cybergame.ai/",
-          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4"
+          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442"
         },
         "potentialAction": {
           "@type": "InstallAction",
@@ -9108,7 +9108,7 @@
           "@type": "Organization",
           "name": "CyberGame Limited",
           "url": "https://html.cybergame.ai/",
-          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4"
+          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442"
         },
         "potentialAction": {
           "@type": "InstallAction",
@@ -9340,7 +9340,7 @@
           "@type": "Organization",
           "name": "CyberGame Limited",
           "url": "https://html.cybergame.ai/",
-          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4"
+          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442"
         },
         "potentialAction": {
           "@type": "InstallAction",
@@ -9572,7 +9572,7 @@
           "@type": "Organization",
           "name": "CyberGame Limited",
           "url": "https://html.cybergame.ai/",
-          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4"
+          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442"
         },
         "potentialAction": {
           "@type": "InstallAction",
@@ -9804,7 +9804,7 @@
           "@type": "Organization",
           "name": "CyberGame Limited",
           "url": "https://html.cybergame.ai/",
-          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4"
+          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442"
         },
         "potentialAction": {
           "@type": "InstallAction",
@@ -10036,7 +10036,7 @@
           "@type": "Organization",
           "name": "CyberGame Limited",
           "url": "https://html.cybergame.ai/",
-          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4"
+          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442"
         },
         "potentialAction": {
           "@type": "InstallAction",
@@ -10268,7 +10268,7 @@
           "@type": "Organization",
           "name": "CyberGame Limited",
           "url": "https://html.cybergame.ai/",
-          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4"
+          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442"
         },
         "potentialAction": {
           "@type": "InstallAction",
@@ -10500,7 +10500,7 @@
           "@type": "Organization",
           "name": "CyberGame Limited",
           "url": "https://html.cybergame.ai/",
-          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4"
+          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442"
         },
         "potentialAction": {
           "@type": "InstallAction",
@@ -10732,7 +10732,7 @@
           "@type": "Organization",
           "name": "CyberGame Limited",
           "url": "https://html.cybergame.ai/",
-          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4"
+          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442"
         },
         "potentialAction": {
           "@type": "InstallAction",
@@ -10964,7 +10964,7 @@
           "@type": "Organization",
           "name": "CyberGame Limited",
           "url": "https://html.cybergame.ai/",
-          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4"
+          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442"
         },
         "potentialAction": {
           "@type": "InstallAction",
@@ -11196,7 +11196,7 @@
           "@type": "Organization",
           "name": "CyberGame Limited",
           "url": "https://html.cybergame.ai/",
-          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4"
+          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442"
         },
         "potentialAction": {
           "@type": "InstallAction",
@@ -11428,7 +11428,7 @@
           "@type": "Organization",
           "name": "CyberGame Limited",
           "url": "https://html.cybergame.ai/",
-          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4"
+          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442"
         },
         "potentialAction": {
           "@type": "InstallAction",
@@ -11660,7 +11660,7 @@
           "@type": "Organization",
           "name": "CyberGame Limited",
           "url": "https://html.cybergame.ai/",
-          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4"
+          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442"
         },
         "potentialAction": {
           "@type": "InstallAction",
@@ -11892,7 +11892,7 @@
           "@type": "Organization",
           "name": "CyberGame Limited",
           "url": "https://html.cybergame.ai/",
-          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4"
+          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442"
         },
         "potentialAction": {
           "@type": "InstallAction",
@@ -12124,7 +12124,7 @@
           "@type": "Organization",
           "name": "CyberGame Limited",
           "url": "https://html.cybergame.ai/",
-          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4"
+          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442"
         },
         "potentialAction": {
           "@type": "InstallAction",
@@ -12356,7 +12356,7 @@
           "@type": "Organization",
           "name": "CyberGame Limited",
           "url": "https://html.cybergame.ai/",
-          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4"
+          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442"
         },
         "potentialAction": {
           "@type": "InstallAction",
@@ -12588,7 +12588,7 @@
           "@type": "Organization",
           "name": "CyberGame Limited",
           "url": "https://html.cybergame.ai/",
-          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4"
+          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442"
         },
         "potentialAction": {
           "@type": "InstallAction",
@@ -12820,7 +12820,7 @@
           "@type": "Organization",
           "name": "CyberGame Limited",
           "url": "https://html.cybergame.ai/",
-          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4"
+          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442"
         },
         "potentialAction": {
           "@type": "InstallAction",
@@ -13052,7 +13052,7 @@
           "@type": "Organization",
           "name": "CyberGame Limited",
           "url": "https://html.cybergame.ai/",
-          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4"
+          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442"
         },
         "potentialAction": {
           "@type": "InstallAction",
@@ -13284,7 +13284,7 @@
           "@type": "Organization",
           "name": "CyberGame Limited",
           "url": "https://html.cybergame.ai/",
-          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4"
+          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442"
         },
         "potentialAction": {
           "@type": "InstallAction",
@@ -13516,7 +13516,7 @@
           "@type": "Organization",
           "name": "CyberGame Limited",
           "url": "https://html.cybergame.ai/",
-          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4"
+          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442"
         },
         "potentialAction": {
           "@type": "InstallAction",
@@ -13748,7 +13748,7 @@
           "@type": "Organization",
           "name": "CyberGame Limited",
           "url": "https://html.cybergame.ai/",
-          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4"
+          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442"
         },
         "potentialAction": {
           "@type": "InstallAction",
@@ -13980,7 +13980,7 @@
           "@type": "Organization",
           "name": "CyberGame Limited",
           "url": "https://html.cybergame.ai/",
-          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4"
+          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442"
         },
         "potentialAction": {
           "@type": "InstallAction",
@@ -14212,7 +14212,7 @@
           "@type": "Organization",
           "name": "CyberGame Limited",
           "url": "https://html.cybergame.ai/",
-          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4"
+          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442"
         },
         "potentialAction": {
           "@type": "InstallAction",
@@ -14444,7 +14444,7 @@
           "@type": "Organization",
           "name": "CyberGame Limited",
           "url": "https://html.cybergame.ai/",
-          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4"
+          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442"
         },
         "potentialAction": {
           "@type": "InstallAction",
@@ -14676,7 +14676,7 @@
           "@type": "Organization",
           "name": "CyberGame Limited",
           "url": "https://html.cybergame.ai/",
-          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4"
+          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442"
         },
         "potentialAction": {
           "@type": "InstallAction",
@@ -14908,7 +14908,7 @@
           "@type": "Organization",
           "name": "CyberGame Limited",
           "url": "https://html.cybergame.ai/",
-          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4"
+          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442"
         },
         "potentialAction": {
           "@type": "InstallAction",
@@ -15140,7 +15140,7 @@
           "@type": "Organization",
           "name": "CyberGame Limited",
           "url": "https://html.cybergame.ai/",
-          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4"
+          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442"
         },
         "potentialAction": {
           "@type": "InstallAction",
@@ -15372,7 +15372,7 @@
           "@type": "Organization",
           "name": "CyberGame Limited",
           "url": "https://html.cybergame.ai/",
-          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4"
+          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442"
         },
         "potentialAction": {
           "@type": "InstallAction",
@@ -15604,7 +15604,7 @@
           "@type": "Organization",
           "name": "CyberGame Limited",
           "url": "https://html.cybergame.ai/",
-          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4"
+          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442"
         },
         "potentialAction": {
           "@type": "InstallAction",
@@ -15836,7 +15836,7 @@
           "@type": "Organization",
           "name": "CyberGame Limited",
           "url": "https://html.cybergame.ai/",
-          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4"
+          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442"
         },
         "potentialAction": {
           "@type": "InstallAction",
@@ -16068,7 +16068,7 @@
           "@type": "Organization",
           "name": "CyberGame Limited",
           "url": "https://html.cybergame.ai/",
-          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4"
+          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442"
         },
         "potentialAction": {
           "@type": "InstallAction",
@@ -16300,7 +16300,7 @@
           "@type": "Organization",
           "name": "CyberGame Limited",
           "url": "https://html.cybergame.ai/",
-          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4"
+          "sameAs": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442"
         },
         "potentialAction": {
           "@type": "InstallAction",
