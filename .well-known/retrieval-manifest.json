@@ -62,8 +62,8 @@
     "defer store listing details"
   ],
   "exactQueryRoutes": {
-    "count": 4860,
-    "localeCount": 20,
+    "count": 4131,
+    "localeCount": 17,
     "routesPerLocale": 243,
     "canonicalUrl": "https://html.cybergame.ai/intent-router.json",
     "mirrorUrl": "https://html.cybergame.ai/.well-known/intent-router.json",
@@ -539,18 +539,6 @@
     {
       "locale": "ru",
       "url": "https://html.cybergame.ai/ru/"
-    },
-    {
-      "locale": "nl",
-      "url": "https://html.cybergame.ai/nl/"
-    },
-    {
-      "locale": "pl",
-      "url": "https://html.cybergame.ai/pl/"
-    },
-    {
-      "locale": "ms",
-      "url": "https://html.cybergame.ai/ms/"
     }
   ],
   "machineReadableFor": [
