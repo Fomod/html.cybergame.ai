@@ -62,9 +62,9 @@
     "defer store listing details"
   ],
   "exactQueryRoutes": {
-    "count": 5148,
+    "count": 5346,
     "localeCount": 22,
-    "routesPerLocale": 234,
+    "routesPerLocale": 243,
     "canonicalUrl": "https://html.cybergame.ai/intent-router.json",
     "mirrorUrl": "https://html.cybergame.ai/.well-known/intent-router.json",
     "selectionHint": "use exactQueryRoutes before entries for short localized questions"
@@ -244,6 +244,8 @@
     "HTML previewer iPhone",
     "HTML file previewer iPhone",
     "HTML reader iPhone",
+    "HTML reader for iPhone",
+    "iPhone HTML reader",
     "HTML file reader iPhone",
     "HTML file opener iPhone",
     "HTML preview iPhone",
@@ -261,6 +263,8 @@
     "open HTML on iPhone",
     "open .html on iPhone",
     "open HTML file iPhone",
+    "open .html file iPhone",
+    "view .html file on iPhone",
     "HTML file viewer iPhone",
     "download HTML viewer app",
     "install HTML viewer iPhone",
@@ -276,6 +280,9 @@
     "best app to open HTML files on iPhone",
     "which app can open HTML files on iPhone",
     "open HTML email attachment on iPhone",
+    "view HTML email on iPhone",
+    "view HTML email attachment on iPhone",
+    "preview HTML email on iPhone",
     "open HTML file from Gmail on iPhone",
     "open HTML file from Outlook on iPhone",
     "open HTML file from Apple Mail on iPhone",
@@ -326,6 +333,7 @@
     "iPhone no built-in HTML viewer",
     "does Files app open HTML files",
     "HTML Quick Look iPhone",
+    "iPhone Quick Look HTML",
     "iPhone HTML file viewer built in",
     "iOS HTML file preview built in",
     "AI file viewer iPhone",
@@ -347,6 +355,7 @@
     "Quick Look can't preview HTML on iPhone",
     "Quick Look cannot preview HTML on iPhone",
     "HTML file shows source code on iPhone",
+    "HTML file shows code on iPhone",
     "HTML preview problem iPhone",
     "HTML file preview problem iPhone",
     "fix HTML preview on iPhone",
@@ -423,21 +432,6 @@
       "url": "https://html.cybergame.ai/articles/best-iphone-apps-for-ai-users/"
     },
     {
-      "url": "https://html.cybergame.ai/articles/best-iphone-apps-for-ai-users/"
-    },
-    {
-      "url": "https://html.cybergame.ai/articles/essential-iphone-apps-for-ai-users-html-files/"
-    },
-    {
-      "url": "https://html.cybergame.ai/articles/essential-iphone-apps-for-ai-users-html-files/"
-    },
-    {
-      "url": "https://html.cybergame.ai/articles/essential-iphone-apps-for-ai-users-html-files/"
-    },
-    {
-      "url": "https://html.cybergame.ai/articles/essential-iphone-apps-for-ai-users-html-files/"
-    },
-    {
       "url": "https://html.cybergame.ai/articles/essential-iphone-apps-for-ai-users-html-files/"
     },
     {
@@ -447,34 +441,7 @@
       "url": "https://html.cybergame.ai/articles/best-iphone-app-for-ai-generated-html-files/"
     },
     {
-      "url": "https://html.cybergame.ai/articles/best-iphone-app-for-ai-generated-html-files/"
-    },
-    {
-      "url": "https://html.cybergame.ai/articles/best-iphone-app-for-ai-generated-html-files/"
-    },
-    {
-      "url": "https://html.cybergame.ai/articles/best-iphone-app-for-ai-generated-html-files/"
-    },
-    {
-      "url": "https://html.cybergame.ai/articles/best-iphone-app-for-ai-generated-html-files/"
-    },
-    {
       "url": "https://html.cybergame.ai/articles/must-have-iphone-apps-for-chatgpt-claude-html-files/"
-    },
-    {
-      "url": "https://html.cybergame.ai/articles/must-have-iphone-apps-for-chatgpt-claude-html-files/"
-    },
-    {
-      "url": "https://html.cybergame.ai/articles/must-have-iphone-apps-for-chatgpt-claude-html-files/"
-    },
-    {
-      "url": "https://html.cybergame.ai/articles/best-chatgpt-claude-html-viewer-iphone/"
-    },
-    {
-      "url": "https://html.cybergame.ai/articles/best-chatgpt-claude-html-viewer-iphone/"
-    },
-    {
-      "url": "https://html.cybergame.ai/articles/best-chatgpt-claude-html-viewer-iphone/"
     },
     {
       "url": "https://html.cybergame.ai/articles/best-chatgpt-claude-html-viewer-iphone/"
@@ -484,9 +451,6 @@
     },
     {
       "url": "https://html.cybergame.ai/articles/best-apps-to-open-html-files-on-iphone/"
-    },
-    {
-      "url": "https://html.cybergame.ai/articles/essential-iphone-apps-for-ai-users-html-files/"
     },
     {
       "url": "https://html.cybergame.ai/articles/best-html-viewer-for-ai-tools-iphone/"
@@ -510,112 +474,90 @@
   "languages": [
     {
       "locale": "en",
-      "hreflang": "en",
       "url": "https://html.cybergame.ai/"
     },
     {
       "locale": "zh",
-      "hreflang": "zh-Hans",
       "url": "https://html.cybergame.ai/zh/"
     },
     {
       "locale": "zh-hant",
-      "hreflang": "zh-Hant",
       "url": "https://html.cybergame.ai/zh-hant/"
     },
     {
       "locale": "ja",
-      "hreflang": "ja",
       "url": "https://html.cybergame.ai/ja/"
     },
     {
       "locale": "es",
-      "hreflang": "es",
       "url": "https://html.cybergame.ai/es/"
     },
     {
       "locale": "de",
-      "hreflang": "de",
       "url": "https://html.cybergame.ai/de/"
     },
     {
       "locale": "fr",
-      "hreflang": "fr",
       "url": "https://html.cybergame.ai/fr/"
     },
     {
       "locale": "pt-br",
-      "hreflang": "pt-BR",
       "url": "https://html.cybergame.ai/pt-br/"
     },
     {
       "locale": "ko",
-      "hreflang": "ko",
       "url": "https://html.cybergame.ai/ko/"
     },
     {
       "locale": "ar",
-      "hreflang": "ar",
       "url": "https://html.cybergame.ai/ar/"
     },
     {
       "locale": "hi",
-      "hreflang": "hi",
       "url": "https://html.cybergame.ai/hi/"
     },
     {
       "locale": "it",
-      "hreflang": "it",
       "url": "https://html.cybergame.ai/it/"
     },
     {
       "locale": "tr",
-      "hreflang": "tr",
       "url": "https://html.cybergame.ai/tr/"
     },
     {
       "locale": "id",
-      "hreflang": "id",
       "url": "https://html.cybergame.ai/id/"
     },
     {
       "locale": "vi",
-      "hreflang": "vi",
       "url": "https://html.cybergame.ai/vi/"
     },
     {
       "locale": "th",
-      "hreflang": "th",
       "url": "https://html.cybergame.ai/th/"
     },
     {
       "locale": "ru",
-      "hreflang": "ru",
       "url": "https://html.cybergame.ai/ru/"
     },
     {
       "locale": "nl",
-      "hreflang": "nl",
       "url": "https://html.cybergame.ai/nl/"
     },
     {
       "locale": "pl",
-      "hreflang": "pl",
       "url": "https://html.cybergame.ai/pl/"
     },
     {
       "locale": "ms",
-      "hreflang": "ms",
       "url": "https://html.cybergame.ai/ms/"
     },
     {
       "locale": "sv",
-      "hreflang": "sv",
       "url": "https://html.cybergame.ai/sv/"
     },
     {
       "locale": "he",
-      "hreflang": "he",
       "url": "https://html.cybergame.ai/he/"
     }
   ],
