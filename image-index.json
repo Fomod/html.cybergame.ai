@@ -262,20 +262,6 @@
           "title": "Buka HTML dengan satu ketikan",
           "alt": "Html Preview App Store screenshot: buka fail HTML di iPhone dengan satu ketikan",
           "pageUrl": "https://html.cybergame.ai/ms/screenshots/"
-        },
-        {
-          "locale": "sv",
-          "hreflang": "sv",
-          "title": "Öppna HTML med ett tryck",
-          "alt": "Html Preview App Store screenshot: öppna HTML fil på iPhone med ett tryck",
-          "pageUrl": "https://html.cybergame.ai/sv/screenshots/"
-        },
-        {
-          "locale": "he",
-          "hreflang": "he",
-          "title": "פתיחת HTML בהקשה אחת",
-          "alt": "Html Preview App Store screenshot: פתיחת קובץ HTML באייפון בהקשה אחת",
-          "pageUrl": "https://html.cybergame.ai/he/screenshots/"
         }
       ]
     },
@@ -434,20 +420,6 @@
           "title": "Pratonton laporan HTML dari AI",
           "alt": "Html Preview App Store screenshot: pratonton laporan AI HTML di iPhone",
           "pageUrl": "https://html.cybergame.ai/ms/screenshots/"
-        },
-        {
-          "locale": "sv",
-          "hreflang": "sv",
-          "title": "Förhandsvisa HTML rapporter från AI",
-          "alt": "Html Preview App Store screenshot: förhandsvisa AI HTML rapport på iPhone",
-          "pageUrl": "https://html.cybergame.ai/sv/screenshots/"
-        },
-        {
-          "locale": "he",
-          "hreflang": "he",
-          "title": "תצוגה מקדימה לדוחות HTML מ-AI",
-          "alt": "Html Preview App Store screenshot: תצוגה מקדימה לדוח AI HTML באייפון",
-          "pageUrl": "https://html.cybergame.ai/he/screenshots/"
         }
       ]
     },
@@ -606,20 +578,6 @@
           "title": "Pratonton HTML pantas dan fokus",
           "alt": "Html Preview App Store screenshot: pratonton HTML pantas di iPhone",
           "pageUrl": "https://html.cybergame.ai/ms/screenshots/"
-        },
-        {
-          "locale": "sv",
-          "hreflang": "sv",
-          "title": "Snabb fokuserad HTML förhandsvisning",
-          "alt": "Html Preview App Store screenshot: snabb HTML förhandsvisning på iPhone",
-          "pageUrl": "https://html.cybergame.ai/sv/screenshots/"
-        },
-        {
-          "locale": "he",
-          "hreflang": "he",
-          "title": "תצוגת HTML מהירה וממוקדת",
-          "alt": "Html Preview App Store screenshot: תצוגת HTML מהירה באייפון",
-          "pageUrl": "https://html.cybergame.ai/he/screenshots/"
         }
       ]
     }
