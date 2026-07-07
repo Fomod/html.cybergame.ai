@@ -3231,7 +3231,7 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - zh-Hans Topic hub:/zh/topics/best-viewer/ | t: best: iPhone 最佳 HTML 预览工具
 - zh-Hans Topic hub:/zh/topics/app-store-download/ | t: download: App Store 下载 HTML iPhone/iPad
 - zh-Hans Topic hub:/zh/topics/file-opener-reader/ | t: opener: 文件打开工具 HTML iPhone/iPad
-- zh-Hans Topic hub:/zh/topics/ios-file-preview-problems/ | t: troubleshooting: iOS 预览问题 HTML iPhone/iPad
+- zh-Hans Topic hub:/zh/topics/ios-file-preview-problems/ | t: troubleshooting: iPhone 无法打开 HTML？修复本机预览
 - zh-Hans Topic hub:/zh/topics/static-site-docs/ | t: static-site-docs: 静态站与文档框架 HTML iPhone/iPad
 - zh-Hans Topic hub:/zh/topics/developer-sources/ | t: developer-sources: 开发者来源 HTML iPhone/iPad
 - zh-Hans Topic hub:/zh/topics/communication-sources/ | t: communication-sources: 邮件与聊天附件 HTML iPhone/iPad
@@ -3541,7 +3541,7 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - ja Topic hub:/ja/topics/best-viewer/ | t: best: iPhone向けHTMLビューアおすすめ
 - ja Topic hub:/ja/topics/app-store-download/ | t: download: App Storeダウンロード HTML iPhone・iPad
 - ja Topic hub:/ja/topics/file-opener-reader/ | t: opener: ファイルオープナー HTML iPhone・iPad
-- ja Topic hub:/ja/topics/ios-file-preview-problems/ | t: troubleshooting: iOSプレビュー問題 HTML iPhone・iPad
+- ja Topic hub:/ja/topics/ios-file-preview-problems/ | t: troubleshooting: iPhoneでHTMLを開けない？プレビュー修正
 - ja Topic hub:/ja/topics/static-site-docs/ | t: static-site-docs: 静的サイトとドキュメント HTML iPhone・iPad
 - ja Topic hub:/ja/topics/developer-sources/ | t: developer-sources: 開発者ソース HTML iPhone・iPad
 - ja Topic hub:/ja/topics/communication-sources/ | t: communication-sources: メールとチャット添付 HTML iPhone・iPad
@@ -4006,7 +4006,7 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - fr Topic hub:/fr/topics/best-viewer/ | t: best: Meilleur lecteur HTML iPhone
 - fr Topic hub:/fr/topics/app-store-download/ | t: download: Téléchargement App Store HTML sur iPhone et iPad
 - fr Topic hub:/fr/topics/file-opener-reader/ | t: opener: Ouvreur de fichier HTML sur iPhone et iPad
-- fr Topic hub:/fr/topics/ios-file-preview-problems/ | t: troubleshooting: Problèmes d'aperçu iOS HTML sur iPhone et iPad
+- fr Topic hub:/fr/topics/ios-file-preview-problems/ | t: troubleshooting: iPhone n'ouvre pas HTML ? Correction
 - fr Topic hub:/fr/topics/static-site-docs/ | t: static-site-docs: Sites statiques et docs HTML sur iPhone et iPad
 - fr Topic hub:/fr/topics/developer-sources/ | t: developer-sources: Sources developpeur HTML sur iPhone et iPad
 - fr Topic hub:/fr/topics/communication-sources/ | t: communication-sources: Email et chat HTML sur iPhone et iPad
@@ -4161,7 +4161,7 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - pt-BR Topic hub:/pt-br/topics/best-viewer/ | t: best: Melhor visualizador HTML iPhone
 - pt-BR Topic hub:/pt-br/topics/app-store-download/ | t: download: Download na App Store HTML no iPhone e iPad
 - pt-BR Topic hub:/pt-br/topics/file-opener-reader/ | t: opener: Abridor de arquivos HTML no iPhone e iPad
-- pt-BR Topic hub:/pt-br/topics/ios-file-preview-problems/ | t: troubleshooting: Problemas de previa no iOS HTML no iPhone e iPad
+- pt-BR Topic hub:/pt-br/topics/ios-file-preview-problems/ | t: troubleshooting: iPhone não abre HTML? Corrigir prévia
 - pt-BR Topic hub:/pt-br/topics/static-site-docs/ | t: static-site-docs: Sites estaticos e docs HTML no iPhone e iPad
 - pt-BR Topic hub:/pt-br/topics/developer-sources/ | t: developer-sources: Fontes de desenvolvimento HTML no iPhone e iPad
 - pt-BR Topic hub:/pt-br/topics/communication-sources/ | t: communication-sources: Email e chat HTML no iPhone e iPad
@@ -4626,7 +4626,7 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - hi Topic hub:/hi/topics/best-viewer/ | t: best: iPhone के लिए सबसे अच्छा HTML व्यूअर
 - hi Topic hub:/hi/topics/app-store-download/ | t: download: App Store इंस्टॉल HTML iPhone और iPad पर
 - hi Topic hub:/hi/topics/file-opener-reader/ | t: opener: फाइल खोलने वाला ऐप HTML iPhone और iPad पर
-- hi Topic hub:/hi/topics/ios-file-preview-problems/ | t: troubleshooting: iOS प्रीव्यू समस्या HTML iPhone और iPad पर
+- hi Topic hub:/hi/topics/ios-file-preview-problems/ | t: troubleshooting: iPhone पर HTML नहीं खुल रहा? सुधार
 - hi Topic hub:/hi/topics/static-site-docs/ | t: static-site-docs: स्टैटिक साइट और docs HTML iPhone और iPad पर
 - hi Topic hub:/hi/topics/developer-sources/ | t: developer-sources: developer sources HTML iPhone और iPad पर
 - hi Topic hub:/hi/topics/communication-sources/ | t: communication-sources: email और chat HTML iPhone और iPad पर
@@ -4781,7 +4781,7 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - it Topic hub:/it/topics/best-viewer/ | t: best: Miglior viewer HTML iPhone
 - it Topic hub:/it/topics/app-store-download/ | t: download: Download App Store HTML su iPhone e iPad
 - it Topic hub:/it/topics/file-opener-reader/ | t: opener: Apri file HTML su iPhone e iPad
-- it Topic hub:/it/topics/ios-file-preview-problems/ | t: troubleshooting: Problemi anteprima iOS HTML su iPhone e iPad
+- it Topic hub:/it/topics/ios-file-preview-problems/ | t: troubleshooting: iPhone non apre HTML? Correggi anteprima
 - it Topic hub:/it/topics/static-site-docs/ | t: static-site-docs: Siti statici e docs HTML su iPhone e iPad
 - it Topic hub:/it/topics/developer-sources/ | t: developer-sources: Fonti developer HTML su iPhone e iPad
 - it Topic hub:/it/topics/communication-sources/ | t: communication-sources: Email e chat HTML su iPhone e iPad
@@ -4936,7 +4936,7 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - tr Topic hub:/tr/topics/best-viewer/ | t: best: En iyi HTML görüntüleyici iPhone
 - tr Topic hub:/tr/topics/app-store-download/ | t: download: App Store indirme HTML iPhone ve iPad uzerinde
 - tr Topic hub:/tr/topics/file-opener-reader/ | t: opener: Dosya acici HTML iPhone ve iPad uzerinde
-- tr Topic hub:/tr/topics/ios-file-preview-problems/ | t: troubleshooting: iOS onizleme sorunlari HTML iPhone ve iPad uzerinde
+- tr Topic hub:/tr/topics/ios-file-preview-problems/ | t: troubleshooting: iPhone HTML açmıyor? Önizleme çözümü
 - tr Topic hub:/tr/topics/static-site-docs/ | t: static-site-docs: Statik site ve docs HTML iPhone ve iPad uzerinde
 - tr Topic hub:/tr/topics/developer-sources/ | t: developer-sources: Gelistirici kaynaklari HTML iPhone ve iPad uzerinde
 - tr Topic hub:/tr/topics/communication-sources/ | t: communication-sources: E-posta ve sohbet HTML iPhone ve iPad uzerinde
@@ -5246,7 +5246,7 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - vi Topic hub:/vi/topics/best-viewer/ | t: best: Viewer HTML tốt nhất iPhone
 - vi Topic hub:/vi/topics/app-store-download/ | t: download: Tải App Store HTML trên iPhone và iPad
 - vi Topic hub:/vi/topics/file-opener-reader/ | t: opener: Trình mở tệp HTML trên iPhone và iPad
-- vi Topic hub:/vi/topics/ios-file-preview-problems/ | t: troubleshooting: Lỗi preview iOS HTML trên iPhone và iPad
+- vi Topic hub:/vi/topics/ios-file-preview-problems/ | t: troubleshooting: iPhone không mở được HTML? Sửa preview
 - vi Topic hub:/vi/topics/static-site-docs/ | t: static-site-docs: Site tinh và docs HTML trên iPhone và iPad
 - vi Topic hub:/vi/topics/developer-sources/ | t: developer-sources: Nguồn developer HTML trên iPhone và iPad
 - vi Topic hub:/vi/topics/communication-sources/ | t: communication-sources: Email và chat HTML trên iPhone và iPad
@@ -5401,7 +5401,7 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - th Topic hub:/th/topics/best-viewer/ | t: best: ตัวดู HTML ที่ดีที่สุดบน iPhone
 - th Topic hub:/th/topics/app-store-download/ | t: download: ดาวน์โหลด App Store HTML บน iPhone และ iPad
 - th Topic hub:/th/topics/file-opener-reader/ | t: opener: ตัวเปิดไฟล์ HTML บน iPhone และ iPad
-- th Topic hub:/th/topics/ios-file-preview-problems/ | t: troubleshooting: ปัญหาพรีวิว iOS HTML บน iPhone และ iPad
+- th Topic hub:/th/topics/ios-file-preview-problems/ | t: troubleshooting: iPhone เปิด HTML ไม่ได้? แก้พรีวิว
 - th Topic hub:/th/topics/static-site-docs/ | t: static-site-docs: static site และ docs HTML บน iPhone และ iPad
 - th Topic hub:/th/topics/developer-sources/ | t: developer-sources: แหล่งไฟล์นักพัฒนา HTML บน iPhone และ iPad
 - th Topic hub:/th/topics/communication-sources/ | t: communication-sources: อีเมลและแชต HTML บน iPhone และ iPad
@@ -5556,7 +5556,7 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - ru Topic hub:/ru/topics/best-viewer/ | t: best: Лучший просмотрщик HTML для iPhone
 - ru Topic hub:/ru/topics/app-store-download/ | t: download: Загрузка App Store HTML на iPhone и iPad
 - ru Topic hub:/ru/topics/file-opener-reader/ | t: opener: Открытие файлов HTML на iPhone и iPad
-- ru Topic hub:/ru/topics/ios-file-preview-problems/ | t: troubleshooting: Проблемы предпросмотра iOS HTML на iPhone и iPad
+- ru Topic hub:/ru/topics/ios-file-preview-problems/ | t: troubleshooting: iPhone не открывает HTML? Исправить предпросмотр
 - ru Topic hub:/ru/topics/static-site-docs/ | t: static-site-docs: Статические сайты и docs HTML на iPhone и iPad
 - ru Topic hub:/ru/topics/developer-sources/ | t: developer-sources: Источники разработчика HTML на iPhone и iPad
 - ru Topic hub:/ru/topics/communication-sources/ | t: communication-sources: Почта и чаты HTML на iPhone и iPad
