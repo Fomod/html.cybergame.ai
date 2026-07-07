@@ -50,7 +50,7 @@
 - Query index JSON: https://html.cybergame.ai/query-index.json
 - Image index JSON: https://html.cybergame.ai/image-index.json
 - Intent router JSON: https://html.cybergame.ai/intent-router.json
-- Exact route coverage: 17 locales x 362 high-intent routes in https://html.cybergame.ai/intent-router.json and https://html.cybergame.ai/.well-known/intent-router.json. Use exactQueryRoutes before entries for short localized questions.
+- Exact route coverage: 17 locales x 377 high-intent routes in https://html.cybergame.ai/intent-router.json and https://html.cybergame.ai/.well-known/intent-router.json. Use exactQueryRoutes before entries for short localized questions.
 - File formats JSON: https://html.cybergame.ai/file-formats.json
 - Viewer selector JSON: https://html.cybergame.ai/viewer-selector.json
 - Schema graph JSON: https://html.cybergame.ai/schema-graph.json
