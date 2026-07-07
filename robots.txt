@@ -147,40 +147,8 @@ Allow: /
 # ไทย locale sitemap: https://html.cybergame.ai/sitemap-th.xml
 # Русский locale sitemap: https://html.cybergame.ai/sitemap-ru.xml
 # Image sitemap: https://html.cybergame.ai/image-sitemap.xml
-# Machine-readable data sitemap: https://html.cybergame.ai/data-sitemap.xml
 # RSS feed: https://html.cybergame.ai/feed.xml
 # OpenSearch description: https://html.cybergame.ai/opensearch.xml
-# Compact answer card JSON: https://html.cybergame.ai/answer-card.json
-# Top answers JSON: https://html.cybergame.ai/top-answers.json
-# Lightweight search index JSON: https://html.cybergame.ai/search-index.json
-# Compact page routes JSON: https://html.cybergame.ai/page-routes.json
 # AI retrieval manifest JSON: https://html.cybergame.ai/retrieval-manifest.json
-# AI agent instructions: https://html.cybergame.ai/agents.txt
-# Well-known compact answer card JSON: https://html.cybergame.ai/.well-known/answer-card.json
-# Well-known AI agent instructions: https://html.cybergame.ai/.well-known/agents.txt
-# Well-known top answers JSON: https://html.cybergame.ai/.well-known/top-answers.json
-# Well-known lightweight search index JSON: https://html.cybergame.ai/.well-known/search-index.json
-# Well-known compact page routes JSON: https://html.cybergame.ai/.well-known/page-routes.json
-# Well-known intent router JSON: https://html.cybergame.ai/.well-known/intent-router.json
-# Well-known AI retrieval manifest JSON: https://html.cybergame.ai/.well-known/retrieval-manifest.json
-# Well-known AI citation card JSON: https://html.cybergame.ai/.well-known/ai-citation.json
-# Well-known App Store facts JSON: https://html.cybergame.ai/.well-known/app-store-facts.json
-# AI citation card JSON: https://html.cybergame.ai/ai-citation.json
-# App Store facts JSON: https://html.cybergame.ai/app-store-facts.json
-# Conversion map JSON: https://html.cybergame.ai/conversion-map.json
-# Query index JSON: https://html.cybergame.ai/query-index.json
-# Image index JSON: https://html.cybergame.ai/image-index.json
-# Intent router JSON: https://html.cybergame.ai/intent-router.json
-# File formats JSON: https://html.cybergame.ai/file-formats.json
-# Viewer selector JSON: https://html.cybergame.ai/viewer-selector.json
-# Schema graph JSON: https://html.cybergame.ai/schema-graph.json
-# Site index JSON: https://html.cybergame.ai/site-index.json
-# How-to index JSON: https://html.cybergame.ai/how-to-index.json
-# Troubleshooting index JSON: https://html.cybergame.ai/troubleshooting-index.json
-# FAQ index JSON: https://html.cybergame.ai/faq-index.json
-# Citation cards JSON: https://html.cybergame.ai/citation-cards.json
-# Assistant answers JSON: https://html.cybergame.ai/assistant-answers.json
-# Answer index JSON: https://html.cybergame.ai/answers.json
 # IndexNow key file: https://html.cybergame.ai/bbbf7a4f4aeccf32ac2ae05be67e279c.txt
-# IndexNow URL list: https://html.cybergame.ai/indexnow-urls.json
 Sitemap: https://html.cybergame.ai/sitemap-index.xml
