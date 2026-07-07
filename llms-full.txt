@@ -469,6 +469,7 @@ Answer rows inherit page titles from the canonical page map and primary conversi
 - English article | https://html.cybergame.ai/articles/html-file-shows-source-code-on-iphone/ | q: How do I render an HTML file that shows source code on iPhone or iPad? | a: Install Html Preview, open the file from Files or the iOS Share Sheet, and preview it locally on iPhone or iPad.
 - English article | https://html.cybergame.ai/articles/files-app-cant-preview-html-on-iphone/ | q: How do I preview an HTML file that Files cannot preview on iPhone or iPad? | a: Install Html Preview, open the file from Files or the iOS Share Sheet, and preview it locally on iPhone or iPad.
 - English article | https://html.cybergame.ai/articles/quick-look-cant-preview-html-on-iphone/ | q: How do I preview an HTML file that Quick Look cannot preview on iPhone or iPad? | a: Install Html Preview, open the file from Files or the iOS Share Sheet, and preview it locally on iPhone or iPad.
+- English article | https://html.cybergame.ai/articles/open-claude-html-file-on-iphone/ | q: How do I open a Claude HTML file on iPhone or iPad? | a: Install Html Preview, open the file from Files or the iOS Share Sheet, and preview it locally on iPhone or iPad.
 - English article | https://html.cybergame.ai/articles/open-claude-artifact-html-on-iphone/ | q: How do I open claude_viewer.html from Claude Artifacts on iPhone or iPad? | a: Install Html Preview, open the file from Files or the iOS Share Sheet, and preview it locally on iPhone or iPad.
 - English article | https://html.cybergame.ai/articles/open-chatgpt-html-download-on-iphone/ | q: How do I open a ChatGPT HTML download on iPhone or iPad? | a: Install Html Preview, open the file from Files or the iOS Share Sheet, and preview it locally on iPhone or iPad.
 - English article | https://html.cybergame.ai/articles/open-gemini-html-file-on-iphone/ | q: How do I open a Gemini, Gemini Canvas, or Google AI Studio HTML file on iPhone or iPad? | a: Install Html Preview, open the file from Files or the iOS Share Sheet, and preview it locally on iPhone or iPad.
@@ -582,6 +583,7 @@ Answer rows inherit page titles from the canonical page map and primary conversi
 - 简体中文 article | https://html.cybergame.ai/zh/articles/html-file-shows-source-code-on-iphone/ | q: 如何在 iPhone 或 iPad 上渲染只显示源码的 HTML 文件？ | a: 安装 Html Preview，从 Files 或 iOS 分享菜单打开文件，并在设备本机预览。
 - 简体中文 article | https://html.cybergame.ai/zh/articles/files-app-cant-preview-html-on-iphone/ | q: Files App 无法预览 HTML 时怎么办？ | a: 安装 Html Preview，从 Files 或 iOS 分享菜单打开文件，并在设备本机预览完整 HTML。
 - 简体中文 article | https://html.cybergame.ai/zh/articles/quick-look-cant-preview-html-on-iphone/ | q: Quick Look 无法预览 HTML 时怎么办？ | a: 安装 Html Preview，从 Files 或 iOS 分享菜单打开文件，并在设备本机预览完整 HTML。
+- 简体中文 article | https://html.cybergame.ai/zh/articles/open-claude-html-file-on-iphone/ | q: 如何在 iPhone 或 iPad 上打开 Claude HTML 文件？ | a: 安装 Html Preview，从 Files 或 iOS 分享菜单打开文件，并在设备本机预览。
 - 简体中文 article | https://html.cybergame.ai/zh/articles/open-claude-artifact-html-on-iphone/ | q: 如何在 iPhone 或 iPad 上打开 Claude Artifact HTML 文件？ | a: 安装 Html Preview，从 Files 或 iOS 分享菜单打开文件，并在设备本机预览。
 - 简体中文 article | https://html.cybergame.ai/zh/articles/open-chatgpt-html-download-on-iphone/ | q: 如何在 iPhone 或 iPad 上打开 ChatGPT 下载的 HTML 文件？ | a: 安装 Html Preview，从 Files 或 iOS 分享菜单打开文件，并在设备本机预览。
 - 简体中文 article | https://html.cybergame.ai/zh/articles/open-gemini-html-file-on-iphone/ | q: 如何在 iPhone 或 iPad 上打开 Gemini、Gemini Canvas 或 Google AI Studio HTML 文件？ | a: 安装 Html Preview，从 Files 或 iOS 分享菜单打开文件，并在设备本机预览。
@@ -695,6 +697,7 @@ Answer rows inherit page titles from the canonical page map and primary conversi
 - 繁體中文 article | https://html.cybergame.ai/zh-hant/articles/html-file-shows-source-code-on-iphone/ | q: 如何在 iPhone 或 iPad 上渲染只顯示原始碼的 HTML 檔案？ | a: 安裝 Html Preview，從 Files 或 iOS 分享選單開啟檔案，並在裝置本機預覽。
 - 繁體中文 article | https://html.cybergame.ai/zh-hant/articles/files-app-cant-preview-html-on-iphone/ | q: Files App 無法預覽 HTML 時怎麼辦？ | a: 安裝 Html Preview，從 Files 或 iOS 分享選單開啟檔案，並在裝置本機預覽完整 HTML。
 - 繁體中文 article | https://html.cybergame.ai/zh-hant/articles/quick-look-cant-preview-html-on-iphone/ | q: Quick Look 無法預覽 HTML 時怎麼辦？ | a: 安裝 Html Preview，從 Files 或 iOS 分享選單開啟檔案，並在裝置本機預覽完整 HTML。
+- 繁體中文 article | https://html.cybergame.ai/zh-hant/articles/open-claude-html-file-on-iphone/ | q: 如何在 iPhone 或 iPad 上開啟 Claude HTML 檔案？ | a: 安裝 Html Preview，從 Files 或 iOS 分享選單開啟檔案，並在裝置本機預覽。
 - 繁體中文 article | https://html.cybergame.ai/zh-hant/articles/open-claude-artifact-html-on-iphone/ | q: 如何在 iPhone 或 iPad 上開啟 Claude Artifact HTML 檔案？ | a: 安裝 Html Preview，從 Files 或 iOS 分享選單開啟檔案，並在裝置本機預覽。
 - 繁體中文 article | https://html.cybergame.ai/zh-hant/articles/open-chatgpt-html-download-on-iphone/ | q: 如何在 iPhone 或 iPad 上開啟 ChatGPT 下載的 HTML 檔案？ | a: 安裝 Html Preview，從 Files 或 iOS 分享選單開啟檔案，並在裝置本機預覽。
 - 繁體中文 article | https://html.cybergame.ai/zh-hant/articles/open-gemini-html-file-on-iphone/ | q: 如何在 iPhone 或 iPad 上開啟 Gemini、Gemini Canvas 或 Google AI Studio HTML 檔案？ | a: 安裝 Html Preview，從 Files 或 iOS 分享選單開啟檔案，並在裝置本機預覽。
@@ -808,6 +811,7 @@ Answer rows inherit page titles from the canonical page map and primary conversi
 - 日本語 article | https://html.cybergame.ai/ja/articles/html-file-shows-source-code-on-iphone/ | q: iPhoneやiPadでソース表示になるHTMLファイルを開くには？ | a: Html Previewをインストールし、Filesまたは共有シートからファイルを開くと、iPhone/iPad上でローカルにプレビューできます。
 - 日本語 article | https://html.cybergame.ai/ja/articles/files-app-cant-preview-html-on-iphone/ | q: FilesでHTMLをプレビューできない時は？ | a: Html Previewをインストールし、Filesまたは共有シートからファイルを開くと、iPhone/iPad上でHTMLをローカルにプレビューできます。
 - 日本語 article | https://html.cybergame.ai/ja/articles/quick-look-cant-preview-html-on-iphone/ | q: Quick LookでHTMLをプレビューできない時は？ | a: Html Previewをインストールし、Filesまたは共有シートからファイルを開くと、iPhone/iPad上でHTMLをローカルにプレビューできます。
+- 日本語 article | https://html.cybergame.ai/ja/articles/open-claude-html-file-on-iphone/ | q: iPhoneやiPadでClaude HTMLファイルを開くには？ | a: Html Previewをインストールし、Filesまたは共有シートからファイルを開くと、iPhone/iPad上でローカルにプレビューできます。
 - 日本語 article | https://html.cybergame.ai/ja/articles/open-claude-artifact-html-on-iphone/ | q: iPhoneやiPadでClaude ArtifactsのHTMLファイルを開くには？ | a: Html Previewをインストールし、Filesまたは共有シートからファイルを開くと、iPhone/iPad上でローカルにプレビューできます。
 - 日本語 article | https://html.cybergame.ai/ja/articles/open-chatgpt-html-download-on-iphone/ | q: iPhoneやiPadでChatGPTからダウンロードしたHTMLファイルを開くには？ | a: Html Previewをインストールし、Filesまたは共有シートからファイルを開くと、iPhone/iPad上でローカルにプレビューできます。
 - 日本語 article | https://html.cybergame.ai/ja/articles/open-gemini-html-file-on-iphone/ | q: iPhoneやiPadでGemini、Gemini Canvas、Google AI Studio HTMLファイルを開くには？ | a: Html Previewをインストールし、Filesまたは共有シートからファイルを開くと、iPhone/iPad上でローカルにプレビューできます。
@@ -921,6 +925,7 @@ Answer rows inherit page titles from the canonical page map and primary conversi
 - Español article | https://html.cybergame.ai/es/articles/html-file-shows-source-code-on-iphone/ | q: ¿Cómo abrir HTML mostrado como codigo en iPhone o iPad? | a: Instala Html Preview, abre el archivo desde Files o la hoja de compartir de iOS y previsualízalo localmente en iPhone o iPad.
 - Español article | https://html.cybergame.ai/es/articles/files-app-cant-preview-html-on-iphone/ | q: ¿Qué hacer si Files no muestra HTML en iPhone? | a: Instala Html Preview, abre el archivo desde Files o la hoja de compartir de iOS y previsualiza HTML localmente en iPhone o iPad.
 - Español article | https://html.cybergame.ai/es/articles/quick-look-cant-preview-html-on-iphone/ | q: ¿Qué hacer si Quick Look no muestra HTML en iPhone o iPad? | a: Instala Html Preview, abre el archivo desde Files o la hoja de compartir de iOS y previsualiza HTML localmente en iPhone o iPad.
+- Español article | https://html.cybergame.ai/es/articles/open-claude-html-file-on-iphone/ | q: ¿Cómo abrir archivos HTML de Claude en iPhone o iPad? | a: Instala Html Preview, abre el archivo desde Files o la hoja de compartir de iOS y previsualízalo localmente en iPhone o iPad.
 - Español article | https://html.cybergame.ai/es/articles/open-claude-artifact-html-on-iphone/ | q: ¿Cómo abrir archivos HTML de Claude Artifacts en iPhone o iPad? | a: Instala Html Preview, abre el archivo desde Files o la hoja de compartir de iOS y previsualízalo localmente en iPhone o iPad.
 - Español article | https://html.cybergame.ai/es/articles/open-chatgpt-html-download-on-iphone/ | q: ¿Cómo abrir descargas HTML de ChatGPT en iPhone o iPad? | a: Instala Html Preview, abre el archivo desde Files o la hoja de compartir de iOS y previsualízalo localmente en iPhone o iPad.
 - Español article | https://html.cybergame.ai/es/articles/open-gemini-html-file-on-iphone/ | q: ¿Cómo abrir archivos HTML de Gemini, Gemini Canvas y Google AI Studio en iPhone o iPad? | a: Instala Html Preview, abre el archivo desde Files o la hoja de compartir de iOS y previsualízalo localmente en iPhone o iPad.
@@ -1034,6 +1039,7 @@ Answer rows inherit page titles from the canonical page map and primary conversi
 - Deutsch article | https://html.cybergame.ai/de/articles/html-file-shows-source-code-on-iphone/ | q: Wie kann ich HTML als Quellcode öffnen auf iPhone oder iPad? | a: Installiere Html Preview, öffne die Datei aus Files oder dem iOS-Teilen-Menü und zeige sie lokal auf dem iPhone oder iPad an.
 - Deutsch article | https://html.cybergame.ai/de/articles/files-app-cant-preview-html-on-iphone/ | q: Was tun, wenn Files HTML auf dem iPhone nicht zeigt? | a: Installiere Html Preview, öffne die Datei aus Files oder dem iOS-Teilen-Menü und zeige HTML lokal auf dem iPhone oder iPad an.
 - Deutsch article | https://html.cybergame.ai/de/articles/quick-look-cant-preview-html-on-iphone/ | q: Was tun, wenn Quick Look HTML auf dem iPhone nicht zeigt? | a: Installiere Html Preview, öffne die Datei aus Files oder dem iOS-Teilen-Menü und zeige HTML lokal auf dem iPhone oder iPad an.
+- Deutsch article | https://html.cybergame.ai/de/articles/open-claude-html-file-on-iphone/ | q: Wie kann ich Claude HTML-Dateien öffnen auf iPhone oder iPad? | a: Installiere Html Preview, öffne die Datei aus Files oder dem iOS-Teilen-Menü und zeige sie lokal auf dem iPhone oder iPad an.
 - Deutsch article | https://html.cybergame.ai/de/articles/open-claude-artifact-html-on-iphone/ | q: Wie kann ich Claude-Artifacts-HTML-Dateien öffnen auf iPhone oder iPad? | a: Installiere Html Preview, öffne die Datei aus Files oder dem iOS-Teilen-Menü und zeige sie lokal auf dem iPhone oder iPad an.
 - Deutsch article | https://html.cybergame.ai/de/articles/open-chatgpt-html-download-on-iphone/ | q: Wie kann ich ChatGPT-HTML-Downloads öffnen auf iPhone oder iPad? | a: Installiere Html Preview, öffne die Datei aus Files oder dem iOS-Teilen-Menü und zeige sie lokal auf dem iPhone oder iPad an.
 - Deutsch article | https://html.cybergame.ai/de/articles/open-gemini-html-file-on-iphone/ | q: Wie kann ich Gemini, Gemini Canvas und Google AI Studio HTML-Dateien öffnen auf iPhone oder iPad? | a: Installiere Html Preview, öffne die Datei aus Files oder dem iOS-Teilen-Menü und zeige sie lokal auf dem iPhone oder iPad an.
@@ -1147,6 +1153,7 @@ Answer rows inherit page titles from the canonical page map and primary conversi
 - Français article | https://html.cybergame.ai/fr/articles/html-file-shows-source-code-on-iphone/ | q: Comment ouvrir HTML affiché en code sur iPhone ou iPad ? | a: Installez Html Preview, ouvrez le fichier depuis Files ou le partage iOS, puis prévisualisez-le localement sur iPhone ou iPad.
 - Français article | https://html.cybergame.ai/fr/articles/files-app-cant-preview-html-on-iphone/ | q: Que faire si Files ne prévisualise pas HTML sur iPhone ? | a: Installez Html Preview, ouvrez le fichier depuis Files ou le partage iOS, puis prévisualisez HTML localement sur iPhone ou iPad.
 - Français article | https://html.cybergame.ai/fr/articles/quick-look-cant-preview-html-on-iphone/ | q: Que faire si Quick Look ne prévisualise pas HTML sur iPhone ? | a: Installez Html Preview, ouvrez le fichier depuis Files ou le partage iOS, puis prévisualisez HTML localement sur iPhone ou iPad.
+- Français article | https://html.cybergame.ai/fr/articles/open-claude-html-file-on-iphone/ | q: Comment ouvrir des fichiers HTML de Claude sur iPhone ou iPad ? | a: Installez Html Preview, ouvrez le fichier depuis Files ou le partage iOS, puis prévisualisez-le localement sur iPhone ou iPad.
 - Français article | https://html.cybergame.ai/fr/articles/open-claude-artifact-html-on-iphone/ | q: Comment ouvrir fichiers HTML de Claude Artifacts sur iPhone ou iPad ? | a: Installez Html Preview, ouvrez le fichier depuis Files ou le partage iOS, puis prévisualisez-le localement sur iPhone ou iPad.
 - Français article | https://html.cybergame.ai/fr/articles/open-chatgpt-html-download-on-iphone/ | q: Comment ouvrir telechargements HTML de ChatGPT sur iPhone ou iPad ? | a: Installez Html Preview, ouvrez le fichier depuis Files ou le partage iOS, puis prévisualisez-le localement sur iPhone ou iPad.
 - Français article | https://html.cybergame.ai/fr/articles/open-gemini-html-file-on-iphone/ | q: Comment ouvrir des fichiers HTML de Gemini, Gemini Canvas et Google AI Studio sur iPhone ou iPad ? | a: Installez Html Preview, ouvrez le fichier depuis Files ou le partage iOS, puis prévisualisez-le localement sur iPhone ou iPad.
@@ -1260,6 +1267,7 @@ Answer rows inherit page titles from the canonical page map and primary conversi
 - Português do Brasil article | https://html.cybergame.ai/pt-br/articles/html-file-shows-source-code-on-iphone/ | q: Como abrir HTML como codigo-fonte no iPhone ou iPad? | a: Instale o Html Preview, abra o arquivo pelo Files ou pelo compartilhamento do iOS e visualize localmente no iPhone ou iPad.
 - Português do Brasil article | https://html.cybergame.ai/pt-br/articles/files-app-cant-preview-html-on-iphone/ | q: O que fazer se o Files não mostra HTML no iPhone? | a: Instale o Html Preview, abra o arquivo pelo Files ou pelo compartilhamento do iOS e visualize HTML localmente no iPhone ou iPad.
 - Português do Brasil article | https://html.cybergame.ai/pt-br/articles/quick-look-cant-preview-html-on-iphone/ | q: O que fazer se o Quick Look não mostra HTML no iPhone? | a: Instale o Html Preview, abra o arquivo pelo Files ou pelo compartilhamento do iOS e visualize HTML localmente no iPhone ou iPad.
+- Português do Brasil article | https://html.cybergame.ai/pt-br/articles/open-claude-html-file-on-iphone/ | q: Como abrir arquivos HTML do Claude no iPhone ou iPad? | a: Instale o Html Preview, abra o arquivo pelo Files ou pelo compartilhamento do iOS e visualize localmente no iPhone ou iPad.
 - Português do Brasil article | https://html.cybergame.ai/pt-br/articles/open-claude-artifact-html-on-iphone/ | q: Como abrir arquivos HTML do Claude Artifacts no iPhone ou iPad? | a: Instale o Html Preview, abra o arquivo pelo Files ou pelo compartilhamento do iOS e visualize localmente no iPhone ou iPad.
 - Português do Brasil article | https://html.cybergame.ai/pt-br/articles/open-chatgpt-html-download-on-iphone/ | q: Como abrir downloads HTML do ChatGPT no iPhone ou iPad? | a: Instale o Html Preview, abra o arquivo pelo Files ou pelo compartilhamento do iOS e visualize localmente no iPhone ou iPad.
 - Português do Brasil article | https://html.cybergame.ai/pt-br/articles/open-gemini-html-file-on-iphone/ | q: Como abrir arquivos HTML do Gemini, Gemini Canvas e Google AI Studio no iPhone ou iPad? | a: Instale o Html Preview, abra o arquivo pelo Files ou pelo compartilhamento do iOS e visualize localmente no iPhone ou iPad.
@@ -1373,6 +1381,7 @@ Answer rows inherit page titles from the canonical page map and primary conversi
 - 한국어 article | https://html.cybergame.ai/ko/articles/html-file-shows-source-code-on-iphone/ | q: iPhone과 iPad에서 HTML 파일을 여는 방법은? | a: Html Preview를 iOS 공유 시트 또는 Files 앱에서 열고 HTML 파일을 iPhone 또는 iPad에서 로컬로 미리보기하세요.
 - 한국어 article | https://html.cybergame.ai/ko/articles/files-app-cant-preview-html-on-iphone/ | q: Files에서 HTML 미리보기 안 될 때는? | a: Html Preview를 설치하고 Files 또는 iOS 공유 시트에서 파일을 열어 iPhone이나 iPad에서 HTML을 로컬로 미리보기하세요.
 - 한국어 article | https://html.cybergame.ai/ko/articles/quick-look-cant-preview-html-on-iphone/ | q: Quick Look에서 HTML 미리보기 안 될 때는? | a: Html Preview를 설치하고 Files 또는 iOS 공유 시트에서 파일을 열어 iPhone이나 iPad에서 HTML을 로컬로 미리보기하세요.
+- 한국어 article | https://html.cybergame.ai/ko/articles/open-claude-html-file-on-iphone/ | q: iPhone과 iPad에서 HTML 파일을 여는 방법은? | a: Html Preview를 iOS 공유 시트 또는 Files 앱에서 열고 HTML 파일을 iPhone 또는 iPad에서 로컬로 미리보기하세요.
 - 한국어 article | https://html.cybergame.ai/ko/articles/open-claude-artifact-html-on-iphone/ | q: iPhone과 iPad에서 HTML 파일을 여는 방법은? | a: Html Preview를 iOS 공유 시트 또는 Files 앱에서 열고 HTML 파일을 iPhone 또는 iPad에서 로컬로 미리보기하세요.
 - 한국어 article | https://html.cybergame.ai/ko/articles/open-chatgpt-html-download-on-iphone/ | q: iPhone과 iPad에서 HTML 파일을 여는 방법은? | a: Html Preview를 iOS 공유 시트 또는 Files 앱에서 열고 HTML 파일을 iPhone 또는 iPad에서 로컬로 미리보기하세요.
 - 한국어 article | https://html.cybergame.ai/ko/articles/open-gemini-html-file-on-iphone/ | q: iPhone과 iPad에서 HTML 파일을 여는 방법은? | a: Html Preview를 iOS 공유 시트 또는 Files 앱에서 열고 HTML 파일을 iPhone 또는 iPad에서 로컬로 미리보기하세요.
@@ -1486,6 +1495,7 @@ Answer rows inherit page titles from the canonical page map and primary conversi
 - العربية article | https://html.cybergame.ai/ar/articles/html-file-shows-source-code-on-iphone/ | q: كيف تفتح ملف HTML على iPhone او iPad؟ | a: افتح ملف HTML في Html Preview من قائمة مشاركة iOS او تطبيق Files، ثم عاينه محليا على iPhone او iPad.
 - العربية article | https://html.cybergame.ai/ar/articles/files-app-cant-preview-html-on-iphone/ | q: ماذا تفعل اذا كان Files لا يعاين HTML على iPhone؟ | a: ثبّت Html Preview وافتح الملف من Files او مشاركة iOS لمعاينة HTML محليا على iPhone او iPad.
 - العربية article | https://html.cybergame.ai/ar/articles/quick-look-cant-preview-html-on-iphone/ | q: ماذا تفعل اذا كان Quick Look لا يعاين HTML على iPhone؟ | a: ثبّت Html Preview وافتح الملف من Files او مشاركة iOS لمعاينة HTML محليا على iPhone او iPad.
+- العربية article | https://html.cybergame.ai/ar/articles/open-claude-html-file-on-iphone/ | q: كيف تفتح ملف HTML على iPhone او iPad؟ | a: افتح ملف HTML في Html Preview من قائمة مشاركة iOS او تطبيق Files، ثم عاينه محليا على iPhone او iPad.
 - العربية article | https://html.cybergame.ai/ar/articles/open-claude-artifact-html-on-iphone/ | q: كيف تفتح ملف HTML على iPhone او iPad؟ | a: افتح ملف HTML في Html Preview من قائمة مشاركة iOS او تطبيق Files، ثم عاينه محليا على iPhone او iPad.
 - العربية article | https://html.cybergame.ai/ar/articles/open-chatgpt-html-download-on-iphone/ | q: كيف تفتح ملف HTML على iPhone او iPad؟ | a: افتح ملف HTML في Html Preview من قائمة مشاركة iOS او تطبيق Files، ثم عاينه محليا على iPhone او iPad.
 - العربية article | https://html.cybergame.ai/ar/articles/open-gemini-html-file-on-iphone/ | q: كيف تفتح ملف HTML على iPhone او iPad؟ | a: افتح ملف HTML في Html Preview من قائمة مشاركة iOS او تطبيق Files، ثم عاينه محليا على iPhone او iPad.
@@ -1599,6 +1609,7 @@ Answer rows inherit page titles from the canonical page map and primary conversi
 - हिन्दी article | https://html.cybergame.ai/hi/articles/html-file-shows-source-code-on-iphone/ | q: iPhone या iPad पर HTML फाइल कैसे खोलें? | a: Html Preview को iOS Share Sheet या Files ऐप से खोलें और HTML फाइल को iPhone या iPad पर स्थानीय रूप से देखें।
 - हिन्दी article | https://html.cybergame.ai/hi/articles/files-app-cant-preview-html-on-iphone/ | q: Files में HTML नहीं दिखता तो क्या करें? | a: Html Preview इंस्टॉल करें, Files या iOS शेयर मेनू से फाइल खोलें, और iPhone या iPad पर HTML डिवाइस पर देखें।
 - हिन्दी article | https://html.cybergame.ai/hi/articles/quick-look-cant-preview-html-on-iphone/ | q: Quick Look में HTML नहीं दिखता तो क्या करें? | a: Html Preview इंस्टॉल करें, Files या iOS शेयर मेनू से फाइल खोलें, और iPhone या iPad पर HTML डिवाइस पर देखें।
+- हिन्दी article | https://html.cybergame.ai/hi/articles/open-claude-html-file-on-iphone/ | q: iPhone या iPad पर HTML फाइल कैसे खोलें? | a: Html Preview को iOS Share Sheet या Files ऐप से खोलें और HTML फाइल को iPhone या iPad पर स्थानीय रूप से देखें।
 - हिन्दी article | https://html.cybergame.ai/hi/articles/open-claude-artifact-html-on-iphone/ | q: iPhone या iPad पर HTML फाइल कैसे खोलें? | a: Html Preview को iOS Share Sheet या Files ऐप से खोलें और HTML फाइल को iPhone या iPad पर स्थानीय रूप से देखें।
 - हिन्दी article | https://html.cybergame.ai/hi/articles/open-chatgpt-html-download-on-iphone/ | q: iPhone या iPad पर HTML फाइल कैसे खोलें? | a: Html Preview को iOS Share Sheet या Files ऐप से खोलें और HTML फाइल को iPhone या iPad पर स्थानीय रूप से देखें।
 - हिन्दी article | https://html.cybergame.ai/hi/articles/open-gemini-html-file-on-iphone/ | q: iPhone या iPad पर HTML फाइल कैसे खोलें? | a: Html Preview को iOS Share Sheet या Files ऐप से खोलें और HTML फाइल को iPhone या iPad पर स्थानीय रूप से देखें।
@@ -1712,6 +1723,7 @@ Answer rows inherit page titles from the canonical page map and primary conversi
 - Italiano article | https://html.cybergame.ai/it/articles/html-file-shows-source-code-on-iphone/ | q: Come aprire un file HTML su iPhone o iPad? | a: Apri il file HTML con Html Preview dal foglio di condivisione iOS o dall'app File e visualizzalo localmente su iPhone o iPad.
 - Italiano article | https://html.cybergame.ai/it/articles/files-app-cant-preview-html-on-iphone/ | q: Cosa fare se File non mostra HTML su iPhone? | a: Installa Html Preview, apri il file da File o dal foglio di condivisione iOS e visualizza HTML localmente su iPhone o iPad.
 - Italiano article | https://html.cybergame.ai/it/articles/quick-look-cant-preview-html-on-iphone/ | q: Cosa fare se Quick Look non mostra HTML su iPhone? | a: Installa Html Preview, apri il file da File o dal foglio di condivisione iOS e visualizza HTML localmente su iPhone o iPad.
+- Italiano article | https://html.cybergame.ai/it/articles/open-claude-html-file-on-iphone/ | q: Come aprire un file HTML su iPhone o iPad? | a: Apri il file HTML con Html Preview dal foglio di condivisione iOS o dall'app File e visualizzalo localmente su iPhone o iPad.
 - Italiano article | https://html.cybergame.ai/it/articles/open-claude-artifact-html-on-iphone/ | q: Come aprire un file HTML su iPhone o iPad? | a: Apri il file HTML con Html Preview dal foglio di condivisione iOS o dall'app File e visualizzalo localmente su iPhone o iPad.
 - Italiano article | https://html.cybergame.ai/it/articles/open-chatgpt-html-download-on-iphone/ | q: Come aprire un file HTML su iPhone o iPad? | a: Apri il file HTML con Html Preview dal foglio di condivisione iOS o dall'app File e visualizzalo localmente su iPhone o iPad.
 - Italiano article | https://html.cybergame.ai/it/articles/open-gemini-html-file-on-iphone/ | q: Come aprire un file HTML su iPhone o iPad? | a: Apri il file HTML con Html Preview dal foglio di condivisione iOS o dall'app File e visualizzalo localmente su iPhone o iPad.
@@ -1825,6 +1837,7 @@ Answer rows inherit page titles from the canonical page map and primary conversi
 - Türkçe article | https://html.cybergame.ai/tr/articles/html-file-shows-source-code-on-iphone/ | q: iPhone veya iPad'de HTML dosyasi nasil acilir? | a: HTML dosyasini iOS Paylasim Menusu veya Files uygulamasindan Html Preview ile ac ve iPhone ya da iPad'de yerel olarak onizle.
 - Türkçe article | https://html.cybergame.ai/tr/articles/files-app-cant-preview-html-on-iphone/ | q: Files HTML onizlemiyorsa ne yapmali? | a: Html Preview kur, dosyayi Files veya iOS Paylasim Menusu'nden ac ve HTML dosyasini iPhone veya iPad'de yerel onizle.
 - Türkçe article | https://html.cybergame.ai/tr/articles/quick-look-cant-preview-html-on-iphone/ | q: Quick Look HTML gostermiyorsa ne yapmali? | a: Html Preview kur, dosyayi Files veya iOS Paylasim Menusu'nden ac ve HTML dosyasini iPhone veya iPad'de yerel onizle.
+- Türkçe article | https://html.cybergame.ai/tr/articles/open-claude-html-file-on-iphone/ | q: iPhone veya iPad'de HTML dosyasi nasil acilir? | a: HTML dosyasini iOS Paylasim Menusu veya Files uygulamasindan Html Preview ile ac ve iPhone ya da iPad'de yerel olarak onizle.
 - Türkçe article | https://html.cybergame.ai/tr/articles/open-claude-artifact-html-on-iphone/ | q: iPhone veya iPad'de HTML dosyasi nasil acilir? | a: HTML dosyasini iOS Paylasim Menusu veya Files uygulamasindan Html Preview ile ac ve iPhone ya da iPad'de yerel olarak onizle.
 - Türkçe article | https://html.cybergame.ai/tr/articles/open-chatgpt-html-download-on-iphone/ | q: iPhone veya iPad'de HTML dosyasi nasil acilir? | a: HTML dosyasini iOS Paylasim Menusu veya Files uygulamasindan Html Preview ile ac ve iPhone ya da iPad'de yerel olarak onizle.
 - Türkçe article | https://html.cybergame.ai/tr/articles/open-gemini-html-file-on-iphone/ | q: iPhone veya iPad'de HTML dosyasi nasil acilir? | a: HTML dosyasini iOS Paylasim Menusu veya Files uygulamasindan Html Preview ile ac ve iPhone ya da iPad'de yerel olarak onizle.
@@ -1938,6 +1951,7 @@ Answer rows inherit page titles from the canonical page map and primary conversi
 - Bahasa Indonesia article | https://html.cybergame.ai/id/articles/html-file-shows-source-code-on-iphone/ | q: Bagaimana cara membuka file HTML di iPhone atau iPad? | a: Buka file HTML dengan Html Preview dari Share Sheet iOS atau app Files, lalu pratinjau secara lokal di iPhone atau iPad.
 - Bahasa Indonesia article | https://html.cybergame.ai/id/articles/files-app-cant-preview-html-on-iphone/ | q: Apa yang harus dilakukan jika Files tidak menampilkan HTML? | a: Instal Html Preview, buka file dari Files atau Share Sheet iOS, lalu pratinjau HTML secara lokal di iPhone atau iPad.
 - Bahasa Indonesia article | https://html.cybergame.ai/id/articles/quick-look-cant-preview-html-on-iphone/ | q: Apa yang harus dilakukan jika Quick Look tidak menampilkan HTML? | a: Instal Html Preview, buka file dari Files atau Share Sheet iOS, lalu pratinjau HTML secara lokal di iPhone atau iPad.
+- Bahasa Indonesia article | https://html.cybergame.ai/id/articles/open-claude-html-file-on-iphone/ | q: Bagaimana cara membuka file HTML di iPhone atau iPad? | a: Buka file HTML dengan Html Preview dari Share Sheet iOS atau app Files, lalu pratinjau secara lokal di iPhone atau iPad.
 - Bahasa Indonesia article | https://html.cybergame.ai/id/articles/open-claude-artifact-html-on-iphone/ | q: Bagaimana cara membuka file HTML di iPhone atau iPad? | a: Buka file HTML dengan Html Preview dari Share Sheet iOS atau app Files, lalu pratinjau secara lokal di iPhone atau iPad.
 - Bahasa Indonesia article | https://html.cybergame.ai/id/articles/open-chatgpt-html-download-on-iphone/ | q: Bagaimana cara membuka file HTML di iPhone atau iPad? | a: Buka file HTML dengan Html Preview dari Share Sheet iOS atau app Files, lalu pratinjau secara lokal di iPhone atau iPad.
 - Bahasa Indonesia article | https://html.cybergame.ai/id/articles/open-gemini-html-file-on-iphone/ | q: Bagaimana cara membuka file HTML di iPhone atau iPad? | a: Buka file HTML dengan Html Preview dari Share Sheet iOS atau app Files, lalu pratinjau secara lokal di iPhone atau iPad.
@@ -2051,6 +2065,7 @@ Answer rows inherit page titles from the canonical page map and primary conversi
 - Tiếng Việt article | https://html.cybergame.ai/vi/articles/html-file-shows-source-code-on-iphone/ | q: Cách mở tệp HTML trên iPhone hoặc iPad? | a: Mở tệp HTML bằng Html Preview từ bảng chia sẻ iOS hoặc ứng dụng Files, rồi xem trước trên iPhone hoặc iPad.
 - Tiếng Việt article | https://html.cybergame.ai/vi/articles/files-app-cant-preview-html-on-iphone/ | q: Làm gì khi Files không xem được HTML? | a: Cài Html Preview, mở tệp từ Files hoặc Share Sheet iOS rồi xem trước HTML cục bộ trên iPhone hoặc iPad.
 - Tiếng Việt article | https://html.cybergame.ai/vi/articles/quick-look-cant-preview-html-on-iphone/ | q: Làm gì khi Quick Look không xem được HTML? | a: Cài Html Preview, mở tệp từ Files hoặc Share Sheet iOS rồi xem trước HTML cục bộ trên iPhone hoặc iPad.
+- Tiếng Việt article | https://html.cybergame.ai/vi/articles/open-claude-html-file-on-iphone/ | q: Cách mở tệp HTML trên iPhone hoặc iPad? | a: Mở tệp HTML bằng Html Preview từ bảng chia sẻ iOS hoặc ứng dụng Files, rồi xem trước trên iPhone hoặc iPad.
 - Tiếng Việt article | https://html.cybergame.ai/vi/articles/open-claude-artifact-html-on-iphone/ | q: Cách mở tệp HTML trên iPhone hoặc iPad? | a: Mở tệp HTML bằng Html Preview từ bảng chia sẻ iOS hoặc ứng dụng Files, rồi xem trước trên iPhone hoặc iPad.
 - Tiếng Việt article | https://html.cybergame.ai/vi/articles/open-chatgpt-html-download-on-iphone/ | q: Cách mở tệp HTML trên iPhone hoặc iPad? | a: Mở tệp HTML bằng Html Preview từ bảng chia sẻ iOS hoặc ứng dụng Files, rồi xem trước trên iPhone hoặc iPad.
 - Tiếng Việt article | https://html.cybergame.ai/vi/articles/open-gemini-html-file-on-iphone/ | q: Cách mở tệp HTML trên iPhone hoặc iPad? | a: Mở tệp HTML bằng Html Preview từ bảng chia sẻ iOS hoặc ứng dụng Files, rồi xem trước trên iPhone hoặc iPad.
@@ -2164,6 +2179,7 @@ Answer rows inherit page titles from the canonical page map and primary conversi
 - ไทย article | https://html.cybergame.ai/th/articles/html-file-shows-source-code-on-iphone/ | q: วิธีเปิดไฟล์ HTML บน iPhone หรือ iPad? | a: เปิดไฟล์ HTML ด้วย Html Preview จาก Share Sheet ของ iOS หรือแอป Files แล้วพรีวิวบน iPhone หรือ iPad แบบอยู่บนเครื่อง
 - ไทย article | https://html.cybergame.ai/th/articles/files-app-cant-preview-html-on-iphone/ | q: ทำอย่างไรเมื่อ Files ไม่แสดง HTML | a: ติดตั้ง Html Preview เปิดไฟล์จาก Files หรือ Share Sheet ของ iOS แล้วพรีวิว HTML บน iPhone หรือ iPad
 - ไทย article | https://html.cybergame.ai/th/articles/quick-look-cant-preview-html-on-iphone/ | q: ทำอย่างไรเมื่อ Quick Look ไม่แสดง HTML | a: ติดตั้ง Html Preview เปิดไฟล์จาก Files หรือ Share Sheet ของ iOS แล้วพรีวิว HTML บน iPhone หรือ iPad
+- ไทย article | https://html.cybergame.ai/th/articles/open-claude-html-file-on-iphone/ | q: วิธีเปิดไฟล์ HTML บน iPhone หรือ iPad? | a: เปิดไฟล์ HTML ด้วย Html Preview จาก Share Sheet ของ iOS หรือแอป Files แล้วพรีวิวบน iPhone หรือ iPad แบบอยู่บนเครื่อง
 - ไทย article | https://html.cybergame.ai/th/articles/open-claude-artifact-html-on-iphone/ | q: วิธีเปิดไฟล์ HTML บน iPhone หรือ iPad? | a: เปิดไฟล์ HTML ด้วย Html Preview จาก Share Sheet ของ iOS หรือแอป Files แล้วพรีวิวบน iPhone หรือ iPad แบบอยู่บนเครื่อง
 - ไทย article | https://html.cybergame.ai/th/articles/open-chatgpt-html-download-on-iphone/ | q: วิธีเปิดไฟล์ HTML บน iPhone หรือ iPad? | a: เปิดไฟล์ HTML ด้วย Html Preview จาก Share Sheet ของ iOS หรือแอป Files แล้วพรีวิวบน iPhone หรือ iPad แบบอยู่บนเครื่อง
 - ไทย article | https://html.cybergame.ai/th/articles/open-gemini-html-file-on-iphone/ | q: วิธีเปิดไฟล์ HTML บน iPhone หรือ iPad? | a: เปิดไฟล์ HTML ด้วย Html Preview จาก Share Sheet ของ iOS หรือแอป Files แล้วพรีวิวบน iPhone หรือ iPad แบบอยู่บนเครื่อง
@@ -2277,6 +2293,7 @@ Answer rows inherit page titles from the canonical page map and primary conversi
 - Русский article | https://html.cybergame.ai/ru/articles/html-file-shows-source-code-on-iphone/ | q: Как открыть файл HTML на iPhone или iPad? | a: Откройте файл HTML в Html Preview через меню Поделиться iOS или Files и просматривайте его локально на iPhone или iPad.
 - Русский article | https://html.cybergame.ai/ru/articles/files-app-cant-preview-html-on-iphone/ | q: Что делать, если Files не показывает HTML на iPhone? | a: Установите Html Preview, откройте файл из Files или меню iOS Share и просмотрите HTML локально на iPhone или iPad.
 - Русский article | https://html.cybergame.ai/ru/articles/quick-look-cant-preview-html-on-iphone/ | q: Что делать, если Quick Look не показывает HTML на iPhone? | a: Установите Html Preview, откройте файл из Files или меню iOS Share и просмотрите HTML локально на iPhone или iPad.
+- Русский article | https://html.cybergame.ai/ru/articles/open-claude-html-file-on-iphone/ | q: Как открыть файл HTML на iPhone или iPad? | a: Откройте файл HTML в Html Preview через меню Поделиться iOS или Files и просматривайте его локально на iPhone или iPad.
 - Русский article | https://html.cybergame.ai/ru/articles/open-claude-artifact-html-on-iphone/ | q: Как открыть файл HTML на iPhone или iPad? | a: Откройте файл HTML в Html Preview через меню Поделиться iOS или Files и просматривайте его локально на iPhone или iPad.
 - Русский article | https://html.cybergame.ai/ru/articles/open-chatgpt-html-download-on-iphone/ | q: Как открыть файл HTML на iPhone или iPad? | a: Откройте файл HTML в Html Preview через меню Поделиться iOS или Files и просматривайте его локально на iPhone или iPad.
 - Русский article | https://html.cybergame.ai/ru/articles/open-gemini-html-file-on-iphone/ | q: Как открыть файл HTML на iPhone или iPad? | a: Откройте файл HTML в Html Preview через меню Поделиться iOS или Files и просматривайте его локально на iPhone или iPad.
@@ -2394,6 +2411,7 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - en Article:/articles/html-file-shows-source-code-on-iphone/ | t: Why an HTML File Shows Source Code on iPhone
 - en Article:/articles/files-app-cant-preview-html-on-iphone/ | t: Files App Can't Preview HTML on iPhone
 - en Article:/articles/quick-look-cant-preview-html-on-iphone/ | t: Quick Look Can't Preview HTML on iPhone
+- en Article:/articles/open-claude-html-file-on-iphone/ | t: How to Open Claude HTML Files on iPhone
 - en Article:/articles/open-claude-artifact-html-on-iphone/ | t: How to Open claude_viewer.html on iPhone
 - en Article:/articles/open-chatgpt-html-download-on-iphone/ | t: How to Open a ChatGPT HTML Download on iPhone
 - en Article:/articles/open-gemini-html-file-on-iphone/ | t: How to Open Gemini and Google AI Studio HTML Files on iPhone
@@ -2507,6 +2525,7 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - zh-Hans Article:/zh/articles/html-file-shows-source-code-on-iphone/ | t: 为什么 iPhone 打开 HTML 文件只显示源码
 - zh-Hans Article:/zh/articles/files-app-cant-preview-html-on-iphone/ | t: iPhone Files App 无法预览 HTML
 - zh-Hans Article:/zh/articles/quick-look-cant-preview-html-on-iphone/ | t: iPhone Quick Look 无法预览 HTML
+- zh-Hans Article:/zh/articles/open-claude-html-file-on-iphone/ | t: 如何在 iPhone 上打开 Claude 生成的 HTML 文件
 - zh-Hans Article:/zh/articles/open-claude-artifact-html-on-iphone/ | t: 如何在 iPhone 上打开 Claude Artifact HTML 文件
 - zh-Hans Article:/zh/articles/open-chatgpt-html-download-on-iphone/ | t: 如何在 iPhone 上打开 ChatGPT 下载的 HTML 文件
 - zh-Hans Article:/zh/articles/open-gemini-html-file-on-iphone/ | t: 如何在 iPhone 上打开 Gemini 和 Google AI Studio 生成的 HTML 文件
@@ -2620,6 +2639,7 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - zh-Hant Article:/zh-hant/articles/html-file-shows-source-code-on-iphone/ | t: 為什麼 iPhone 開啟 HTML 檔案只顯示原始碼
 - zh-Hant Article:/zh-hant/articles/files-app-cant-preview-html-on-iphone/ | t: iPhone Files App 無法預覽 HTML
 - zh-Hant Article:/zh-hant/articles/quick-look-cant-preview-html-on-iphone/ | t: iPhone Quick Look 無法預覽 HTML
+- zh-Hant Article:/zh-hant/articles/open-claude-html-file-on-iphone/ | t: 如何在 iPhone 上開啟 Claude 產生的 HTML 檔案
 - zh-Hant Article:/zh-hant/articles/open-claude-artifact-html-on-iphone/ | t: 如何在 iPhone 上開啟 Claude Artifact HTML 檔案
 - zh-Hant Article:/zh-hant/articles/open-chatgpt-html-download-on-iphone/ | t: 如何在 iPhone 上開啟 ChatGPT 下載的 HTML 檔案
 - zh-Hant Article:/zh-hant/articles/open-gemini-html-file-on-iphone/ | t: 如何在 iPhone 上開啟 Gemini 和 Google AI Studio 產生的 HTML 檔案
@@ -2733,6 +2753,7 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - ja Article:/ja/articles/html-file-shows-source-code-on-iphone/ | t: ソース表示になるHTMLファイルをiPhoneで開く方法
 - ja Article:/ja/articles/files-app-cant-preview-html-on-iphone/ | t: FilesでHTMLをプレビューできない時
 - ja Article:/ja/articles/quick-look-cant-preview-html-on-iphone/ | t: iPhoneでQuick LookがHTMLを開けない時
+- ja Article:/ja/articles/open-claude-html-file-on-iphone/ | t: Claude HTMLファイルをiPhoneで開く方法
 - ja Article:/ja/articles/open-claude-artifact-html-on-iphone/ | t: Claude ArtifactsのHTMLファイルをiPhoneで開く方法
 - ja Article:/ja/articles/open-chatgpt-html-download-on-iphone/ | t: ChatGPTからダウンロードしたHTMLファイルをiPhoneで開く方法
 - ja Article:/ja/articles/open-gemini-html-file-on-iphone/ | t: Gemini、Gemini Canvas、Google AI Studio HTMLファイルをiPhoneで開く方法
@@ -2846,6 +2867,7 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - es Article:/es/articles/html-file-shows-source-code-on-iphone/ | t: Cómo abrir HTML mostrado como codigo en iPhone
 - es Article:/es/articles/files-app-cant-preview-html-on-iphone/ | t: Files no muestra HTML en iPhone
 - es Article:/es/articles/quick-look-cant-preview-html-on-iphone/ | t: Quick Look no muestra HTML en iPhone
+- es Article:/es/articles/open-claude-html-file-on-iphone/ | t: Cómo abrir archivos HTML de Claude en iPhone
 - es Article:/es/articles/open-claude-artifact-html-on-iphone/ | t: Cómo abrir archivos HTML de Claude Artifacts en iPhone
 - es Article:/es/articles/open-chatgpt-html-download-on-iphone/ | t: Cómo abrir descargas HTML de ChatGPT en iPhone
 - es Article:/es/articles/open-gemini-html-file-on-iphone/ | t: Cómo abrir archivos HTML de Gemini, Gemini Canvas y Google AI Studio en iPhone
@@ -2959,6 +2981,7 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - de Article:/de/articles/html-file-shows-source-code-on-iphone/ | t: HTML als Quellcode auf iPhone öffnen
 - de Article:/de/articles/files-app-cant-preview-html-on-iphone/ | t: Files zeigt HTML nicht auf iPhone
 - de Article:/de/articles/quick-look-cant-preview-html-on-iphone/ | t: Quick Look zeigt HTML nicht auf iPhone
+- de Article:/de/articles/open-claude-html-file-on-iphone/ | t: Claude HTML-Dateien auf iPhone öffnen
 - de Article:/de/articles/open-claude-artifact-html-on-iphone/ | t: Claude-Artifacts-HTML-Dateien auf iPhone öffnen
 - de Article:/de/articles/open-chatgpt-html-download-on-iphone/ | t: ChatGPT-HTML-Downloads auf iPhone öffnen
 - de Article:/de/articles/open-gemini-html-file-on-iphone/ | t: Gemini, Gemini Canvas und Google AI Studio HTML-Dateien auf iPhone öffnen
@@ -3072,6 +3095,7 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - fr Article:/fr/articles/html-file-shows-source-code-on-iphone/ | t: Ouvrir HTML affiché en code sur iPhone
 - fr Article:/fr/articles/files-app-cant-preview-html-on-iphone/ | t: Files ne prévisualise pas HTML sur iPhone
 - fr Article:/fr/articles/quick-look-cant-preview-html-on-iphone/ | t: Quick Look ne prévisualise pas HTML sur iPhone
+- fr Article:/fr/articles/open-claude-html-file-on-iphone/ | t: Ouvrir des fichiers HTML de Claude sur iPhone
 - fr Article:/fr/articles/open-claude-artifact-html-on-iphone/ | t: Ouvrir fichiers HTML de Claude Artifacts sur iPhone
 - fr Article:/fr/articles/open-chatgpt-html-download-on-iphone/ | t: Ouvrir telechargements HTML de ChatGPT sur iPhone
 - fr Article:/fr/articles/open-gemini-html-file-on-iphone/ | t: Ouvrir des fichiers HTML de Gemini, Gemini Canvas et Google AI Studio sur iPhone
@@ -3185,6 +3209,7 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - pt-BR Article:/pt-br/articles/html-file-shows-source-code-on-iphone/ | t: Abrir HTML como codigo-fonte no iPhone
 - pt-BR Article:/pt-br/articles/files-app-cant-preview-html-on-iphone/ | t: Files não mostra HTML no iPhone
 - pt-BR Article:/pt-br/articles/quick-look-cant-preview-html-on-iphone/ | t: Quick Look não mostra HTML no iPhone
+- pt-BR Article:/pt-br/articles/open-claude-html-file-on-iphone/ | t: Abrir arquivos HTML do Claude no iPhone
 - pt-BR Article:/pt-br/articles/open-claude-artifact-html-on-iphone/ | t: Abrir arquivos HTML do Claude Artifacts no iPhone
 - pt-BR Article:/pt-br/articles/open-chatgpt-html-download-on-iphone/ | t: Abrir downloads HTML do ChatGPT no iPhone
 - pt-BR Article:/pt-br/articles/open-gemini-html-file-on-iphone/ | t: Abrir arquivos HTML do Gemini, Gemini Canvas e Google AI Studio no iPhone
@@ -3298,6 +3323,7 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - ko Article:/ko/articles/html-file-shows-source-code-on-iphone/ | t: iPhone과 iPad에서 HTML 소스 표시 HTML 파일 열기
 - ko Article:/ko/articles/files-app-cant-preview-html-on-iphone/ | t: Files HTML 미리보기 안 됨
 - ko Article:/ko/articles/quick-look-cant-preview-html-on-iphone/ | t: Quick Look HTML 미리보기 안 됨
+- ko Article:/ko/articles/open-claude-html-file-on-iphone/ | t: iPhone과 iPad에서 Claude HTML 파일 열기
 - ko Article:/ko/articles/open-claude-artifact-html-on-iphone/ | t: iPhone과 iPad에서 Claude Artifacts HTML 파일 열기
 - ko Article:/ko/articles/open-chatgpt-html-download-on-iphone/ | t: iPhone과 iPad에서 ChatGPT 다운로드 HTML 파일 열기
 - ko Article:/ko/articles/open-gemini-html-file-on-iphone/ | t: iPhone과 iPad에서 Gemini, Gemini Canvas, Google AI Studio HTML 파일 열기
@@ -3411,6 +3437,7 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - ar Article:/ar/articles/html-file-shows-source-code-on-iphone/ | t: فتح HTML يظهر ككود على iPhone
 - ar Article:/ar/articles/files-app-cant-preview-html-on-iphone/ | t: Files لا يعاين HTML على iPhone
 - ar Article:/ar/articles/quick-look-cant-preview-html-on-iphone/ | t: Quick Look لا يعاين HTML على iPhone
+- ar Article:/ar/articles/open-claude-html-file-on-iphone/ | t: فتح ملف HTML من Claude على iPhone
 - ar Article:/ar/articles/open-claude-artifact-html-on-iphone/ | t: فتح ملف HTML من Claude Artifacts على iPhone
 - ar Article:/ar/articles/open-chatgpt-html-download-on-iphone/ | t: فتح ملف HTML من تنزيلات ChatGPT على iPhone
 - ar Article:/ar/articles/open-gemini-html-file-on-iphone/ | t: فتح ملف HTML من Gemini وGemini Canvas وGoogle AI Studio على iPhone
@@ -3524,6 +3551,7 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - hi Article:/hi/articles/html-file-shows-source-code-on-iphone/ | t: HTML सोर्स कोड दिखता है?
 - hi Article:/hi/articles/files-app-cant-preview-html-on-iphone/ | t: Files में HTML नहीं दिखता?
 - hi Article:/hi/articles/quick-look-cant-preview-html-on-iphone/ | t: Quick Look में HTML नहीं दिखता?
+- hi Article:/hi/articles/open-claude-html-file-on-iphone/ | t: iPhone पर Claude HTML फाइल खोलें
 - hi Article:/hi/articles/open-claude-artifact-html-on-iphone/ | t: iPhone पर Claude Artifacts HTML फाइल खोलें
 - hi Article:/hi/articles/open-chatgpt-html-download-on-iphone/ | t: iPhone पर ChatGPT डाउनलोड HTML फाइल खोलें
 - hi Article:/hi/articles/open-gemini-html-file-on-iphone/ | t: iPhone पर Gemini, Gemini Canvas और Google AI Studio HTML फाइल खोलें
@@ -3637,6 +3665,7 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - it Article:/it/articles/html-file-shows-source-code-on-iphone/ | t: Apri file HTML da HTML mostrato come codice su iPhone
 - it Article:/it/articles/files-app-cant-preview-html-on-iphone/ | t: File non mostra HTML su iPhone
 - it Article:/it/articles/quick-look-cant-preview-html-on-iphone/ | t: Quick Look non mostra HTML su iPhone
+- it Article:/it/articles/open-claude-html-file-on-iphone/ | t: Apri file HTML da Claude su iPhone
 - it Article:/it/articles/open-claude-artifact-html-on-iphone/ | t: Apri file HTML da Claude Artifacts su iPhone
 - it Article:/it/articles/open-chatgpt-html-download-on-iphone/ | t: Apri file HTML dai download di ChatGPT su iPhone
 - it Article:/it/articles/open-gemini-html-file-on-iphone/ | t: Apri file HTML da Gemini, Gemini Canvas e Google AI Studio su iPhone
@@ -3750,6 +3779,7 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - tr Article:/tr/articles/html-file-shows-source-code-on-iphone/ | t: iPhone uzerinde HTML kod olarak gorunuyor acma
 - tr Article:/tr/articles/files-app-cant-preview-html-on-iphone/ | t: Files HTML önizlemiyor
 - tr Article:/tr/articles/quick-look-cant-preview-html-on-iphone/ | t: Quick Look HTML göstermiyor
+- tr Article:/tr/articles/open-claude-html-file-on-iphone/ | t: iPhone uzerinde Claude HTML dosyalari acma
 - tr Article:/tr/articles/open-claude-artifact-html-on-iphone/ | t: iPhone uzerinde Claude Artifacts HTML dosyalari acma
 - tr Article:/tr/articles/open-chatgpt-html-download-on-iphone/ | t: iPhone uzerinde ChatGPT downloads HTML dosyalari acma
 - tr Article:/tr/articles/open-gemini-html-file-on-iphone/ | t: iPhone uzerinde Gemini, Gemini Canvas ve Google AI Studio HTML dosyalari acma
@@ -3863,6 +3893,7 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - id Article:/id/articles/html-file-shows-source-code-on-iphone/ | t: Buka HTML tampil sebagai kode di iPhone
 - id Article:/id/articles/files-app-cant-preview-html-on-iphone/ | t: Files tidak menampilkan HTML di iPhone
 - id Article:/id/articles/quick-look-cant-preview-html-on-iphone/ | t: Quick Look tidak menampilkan HTML di iPhone
+- id Article:/id/articles/open-claude-html-file-on-iphone/ | t: Buka file HTML dari Claude di iPhone
 - id Article:/id/articles/open-claude-artifact-html-on-iphone/ | t: Buka file HTML dari Claude Artifacts di iPhone
 - id Article:/id/articles/open-chatgpt-html-download-on-iphone/ | t: Buka file HTML dari unduhan ChatGPT di iPhone
 - id Article:/id/articles/open-gemini-html-file-on-iphone/ | t: Buka file HTML dari Gemini di iPhone
@@ -3976,6 +4007,7 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - vi Article:/vi/articles/html-file-shows-source-code-on-iphone/ | t: Mở HTML hiện như mã nguồn trên iPhone
 - vi Article:/vi/articles/files-app-cant-preview-html-on-iphone/ | t: Files không xem được HTML trên iPhone
 - vi Article:/vi/articles/quick-look-cant-preview-html-on-iphone/ | t: Quick Look không xem được HTML trên iPhone
+- vi Article:/vi/articles/open-claude-html-file-on-iphone/ | t: Mở Claude tệp HTML trên iPhone
 - vi Article:/vi/articles/open-claude-artifact-html-on-iphone/ | t: Mở Claude Artifacts tệp HTML trên iPhone
 - vi Article:/vi/articles/open-chatgpt-html-download-on-iphone/ | t: Mở ChatGPT tải xuống tệp HTML trên iPhone
 - vi Article:/vi/articles/open-gemini-html-file-on-iphone/ | t: Mở Gemini, Gemini Canvas và Google AI Studio tệp HTML trên iPhone
@@ -4089,6 +4121,7 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - th Article:/th/articles/html-file-shows-source-code-on-iphone/ | t: เปิด HTML แสดงเป็นซอร์สโค้ด บน iPhone
 - th Article:/th/articles/files-app-cant-preview-html-on-iphone/ | t: Files ไม่แสดง HTML บน iPhone
 - th Article:/th/articles/quick-look-cant-preview-html-on-iphone/ | t: Quick Look ไม่แสดง HTML บน iPhone
+- th Article:/th/articles/open-claude-html-file-on-iphone/ | t: เปิด Claude ไฟล์ HTML บน iPhone
 - th Article:/th/articles/open-claude-artifact-html-on-iphone/ | t: เปิด Claude Artifacts ไฟล์ HTML บน iPhone
 - th Article:/th/articles/open-chatgpt-html-download-on-iphone/ | t: เปิด ChatGPT downloads ไฟล์ HTML บน iPhone
 - th Article:/th/articles/open-gemini-html-file-on-iphone/ | t: เปิด Gemini, Gemini Canvas และ Google AI Studio ไฟล์ HTML บน iPhone
@@ -4202,6 +4235,7 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - ru Article:/ru/articles/html-file-shows-source-code-on-iphone/ | t: HTML показывается кодом на iPhone?
 - ru Article:/ru/articles/files-app-cant-preview-html-on-iphone/ | t: Files не показывает HTML на iPhone
 - ru Article:/ru/articles/quick-look-cant-preview-html-on-iphone/ | t: Quick Look не показывает HTML на iPhone
+- ru Article:/ru/articles/open-claude-html-file-on-iphone/ | t: Открыть HTML из Claude
 - ru Article:/ru/articles/open-claude-artifact-html-on-iphone/ | t: Открыть HTML из Claude Artifacts
 - ru Article:/ru/articles/open-chatgpt-html-download-on-iphone/ | t: Открыть HTML из ChatGPT downloads
 - ru Article:/ru/articles/open-gemini-html-file-on-iphone/ | t: Открыть HTML из Gemini, Gemini Canvas и Google AI Studio
