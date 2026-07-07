@@ -50,7 +50,7 @@
 - Query index JSON: https://html.cybergame.ai/query-index.json
 - Image index JSON: https://html.cybergame.ai/image-index.json
 - Intent router JSON: https://html.cybergame.ai/intent-router.json
-- Exact route coverage: 17 locales x 377 high-intent routes in https://html.cybergame.ai/intent-router.json and https://html.cybergame.ai/.well-known/intent-router.json. Use exactQueryRoutes before entries for short localized questions.
+- Exact route coverage: 17 locales x 410 high-intent routes in https://html.cybergame.ai/intent-router.json and https://html.cybergame.ai/.well-known/intent-router.json. Use exactQueryRoutes before entries for short localized questions.
 - File formats JSON: https://html.cybergame.ai/file-formats.json
 - Viewer selector JSON: https://html.cybergame.ai/viewer-selector.json
 - Schema graph JSON: https://html.cybergame.ai/schema-graph.json
@@ -3084,7 +3084,7 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - en Topic hub:/topics/browser-download-sources/ | t: browser-download-sources: Open Downloaded HTML Files on iPhone
 - en Topic hub:/topics/ios-import-workflows/ | t: ios-import-workflows: Import HTML Files on iPhone
 - en Article:/articles/open-chatgpt-html-file-on-iphone/ | t: How to Open ChatGPT, Claude, Gemini HTML Files on iPhone
-- en Article:/articles/open-chatgpt-canvas-html-on-iphone/ | t: How to Open ChatGPT Canvas HTML Files on iPhone
+- en Article:/articles/open-chatgpt-canvas-html-on-iphone/ | t: How to Open ChatGPT Canvas HTML on iPhone or iPad
 - en Article:/articles/open-ai-generated-html-file-on-iphone/ | t: How to Open AI-Generated HTML Files on iPhone
 - en Article:/articles/open-ai-generated-html-file-on-ipad/ | t: How to Open AI-Generated HTML Files on iPad
 - en Article:/articles/open-chatgpt-html-file-on-ipad/ | t: How to Open ChatGPT HTML Files on iPad
@@ -3155,38 +3155,38 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - en Article:/articles/html-file-shows-source-code-on-iphone/ | t: Why an HTML File Shows Source Code on iPhone
 - en Article:/articles/files-app-cant-preview-html-on-iphone/ | t: Files App Can't Preview HTML on iPhone
 - en Article:/articles/quick-look-cant-preview-html-on-iphone/ | t: Quick Look Can't Preview HTML on iPhone
-- en Article:/articles/open-claude-html-file-on-iphone/ | t: How to Open Claude HTML Files on iPhone
+- en Article:/articles/open-claude-html-file-on-iphone/ | t: How to Open Claude HTML on iPhone or iPad
 - en Article:/articles/open-claude-artifact-html-on-iphone/ | t: How to Open claude_viewer.html on iPhone
-- en Article:/articles/open-chatgpt-html-download-on-iphone/ | t: How to Open a ChatGPT HTML Download on iPhone
-- en Article:/articles/open-gemini-html-file-on-iphone/ | t: How to Open Gemini and Google AI Studio HTML Files on iPhone
-- en Article:/articles/open-google-ai-studio-html-file-on-iphone/ | t: How to Open Google AI Studio HTML Files on iPhone
-- en Article:/articles/open-perplexity-html-file-on-iphone/ | t: How to Open Perplexity HTML Files on iPhone
-- en Article:/articles/open-copilot-html-file-on-iphone/ | t: How to Open Copilot HTML Files on iPhone
-- en Article:/articles/open-github-copilot-html-file-on-iphone/ | t: How to Open GitHub Copilot HTML Files on iPhone
-- en Article:/articles/open-deepseek-html-file-on-iphone/ | t: How to Open DeepSeek HTML Files on iPhone
-- en Article:/articles/open-grok-html-file-on-iphone/ | t: How to Open Grok HTML Files on iPhone
-- en Article:/articles/open-notebooklm-html-file-on-iphone/ | t: How to Open NotebookLM HTML Files on iPhone
-- en Article:/articles/open-qwen-html-file-on-iphone/ | t: How to Open Qwen HTML Files on iPhone
-- en Article:/articles/open-kimi-html-file-on-iphone/ | t: How to Open Kimi HTML Files on iPhone
-- en Article:/articles/open-poe-html-file-on-iphone/ | t: How to Open Poe HTML Files on iPhone
-- en Article:/articles/open-mistral-le-chat-html-file-on-iphone/ | t: How to Open Mistral Le Chat HTML Files on iPhone
-- en Article:/articles/open-cursor-html-file-on-iphone/ | t: How to Open Cursor HTML Files on iPhone
-- en Article:/articles/open-claude-code-html-file-on-iphone/ | t: How to Open Claude Code HTML Files on iPhone
-- en Article:/articles/open-codex-html-file-on-iphone/ | t: How to Open Codex HTML Files on iPhone
-- en Article:/articles/open-v0-html-file-on-iphone/ | t: How to Open v0 HTML Files on iPhone
-- en Article:/articles/open-bolt-html-file-on-iphone/ | t: How to Open Bolt HTML Files on iPhone
-- en Article:/articles/open-replit-html-file-on-iphone/ | t: How to Open Replit HTML Files on iPhone
-- en Article:/articles/open-lovable-html-file-on-iphone/ | t: How to Open Lovable HTML Files on iPhone
-- en Article:/articles/open-windsurf-html-file-on-iphone/ | t: How to Open Windsurf HTML Files on iPhone
-- en Article:/articles/open-manus-html-file-on-iphone/ | t: How to Open Manus HTML Files on iPhone
-- en Article:/articles/open-devin-html-file-on-iphone/ | t: How to Open Devin HTML Files on iPhone
-- en Article:/articles/open-figma-make-html-file-on-iphone/ | t: How to Open Figma Make HTML Files on iPhone
-- en Article:/articles/open-firebase-studio-html-file-on-iphone/ | t: How to Open Firebase Studio HTML Files on iPhone
-- en Article:/articles/open-google-antigravity-html-file-on-iphone/ | t: How to Open Google Antigravity HTML Files on iPhone
-- en Article:/articles/open-trae-html-file-on-iphone/ | t: How to Open Trae HTML Files on iPhone
-- en Article:/articles/open-cline-html-file-on-iphone/ | t: How to Open Cline HTML Files on iPhone
-- en Article:/articles/open-base44-html-file-on-iphone/ | t: How to Open Base44 HTML Files on iPhone
-- en Article:/articles/open-kilo-code-html-file-on-iphone/ | t: How to Open Kilo Code HTML Files on iPhone
+- en Article:/articles/open-chatgpt-html-download-on-iphone/ | t: How to Open ChatGPT HTML Downloads on iPhone or iPad
+- en Article:/articles/open-gemini-html-file-on-iphone/ | t: How to Open Gemini HTML on iPhone or iPad
+- en Article:/articles/open-google-ai-studio-html-file-on-iphone/ | t: How to Open Google AI Studio HTML on iPhone or iPad
+- en Article:/articles/open-perplexity-html-file-on-iphone/ | t: How to Open Perplexity HTML on iPhone or iPad
+- en Article:/articles/open-copilot-html-file-on-iphone/ | t: How to Open Copilot HTML on iPhone or iPad
+- en Article:/articles/open-github-copilot-html-file-on-iphone/ | t: How to Open GitHub Copilot HTML on iPhone or iPad
+- en Article:/articles/open-deepseek-html-file-on-iphone/ | t: How to Open DeepSeek HTML on iPhone or iPad
+- en Article:/articles/open-grok-html-file-on-iphone/ | t: How to Open Grok HTML on iPhone or iPad
+- en Article:/articles/open-notebooklm-html-file-on-iphone/ | t: How to Open NotebookLM HTML on iPhone or iPad
+- en Article:/articles/open-qwen-html-file-on-iphone/ | t: How to Open Qwen HTML on iPhone or iPad
+- en Article:/articles/open-kimi-html-file-on-iphone/ | t: How to Open Kimi HTML on iPhone or iPad
+- en Article:/articles/open-poe-html-file-on-iphone/ | t: How to Open Poe HTML on iPhone or iPad
+- en Article:/articles/open-mistral-le-chat-html-file-on-iphone/ | t: How to Open Mistral Le Chat HTML on iPhone or iPad
+- en Article:/articles/open-cursor-html-file-on-iphone/ | t: How to Open Cursor HTML on iPhone or iPad
+- en Article:/articles/open-claude-code-html-file-on-iphone/ | t: How to Open Claude Code HTML on iPhone or iPad
+- en Article:/articles/open-codex-html-file-on-iphone/ | t: How to Open Codex HTML on iPhone or iPad
+- en Article:/articles/open-v0-html-file-on-iphone/ | t: How to Open v0 HTML on iPhone or iPad
+- en Article:/articles/open-bolt-html-file-on-iphone/ | t: How to Open Bolt HTML on iPhone or iPad
+- en Article:/articles/open-replit-html-file-on-iphone/ | t: How to Open Replit HTML on iPhone or iPad
+- en Article:/articles/open-lovable-html-file-on-iphone/ | t: How to Open Lovable HTML on iPhone or iPad
+- en Article:/articles/open-windsurf-html-file-on-iphone/ | t: How to Open Windsurf HTML on iPhone or iPad
+- en Article:/articles/open-manus-html-file-on-iphone/ | t: How to Open Manus HTML on iPhone or iPad
+- en Article:/articles/open-devin-html-file-on-iphone/ | t: How to Open Devin HTML on iPhone or iPad
+- en Article:/articles/open-figma-make-html-file-on-iphone/ | t: How to Open Figma Make HTML on iPhone or iPad
+- en Article:/articles/open-firebase-studio-html-file-on-iphone/ | t: How to Open Firebase Studio HTML on iPhone or iPad
+- en Article:/articles/open-google-antigravity-html-file-on-iphone/ | t: How to Open Google Antigravity HTML on iPhone or iPad
+- en Article:/articles/open-trae-html-file-on-iphone/ | t: How to Open Trae HTML on iPhone or iPad
+- en Article:/articles/open-cline-html-file-on-iphone/ | t: How to Open Cline HTML on iPhone or iPad
+- en Article:/articles/open-base44-html-file-on-iphone/ | t: How to Open Base44 HTML on iPhone or iPad
+- en Article:/articles/open-kilo-code-html-file-on-iphone/ | t: How to Open Kilo Code HTML on iPhone or iPad
 - en Article:/articles/open-notion-html-export-on-iphone/ | t: How to Open a Notion HTML Export on iPhone
 - en Article:/articles/open-google-docs-html-export-on-iphone/ | t: How to Open a Google Docs HTML export on iPhone
 - en Article:/articles/open-microsoft-word-html-file-on-iphone/ | t: How to Open a Microsoft Word HTML file on iPhone
@@ -3239,7 +3239,7 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - zh-Hans Topic hub:/zh/topics/browser-download-sources/ | t: browser-download-sources: 浏览器下载 HTML iPhone/iPad
 - zh-Hans Topic hub:/zh/topics/ios-import-workflows/ | t: ios-import-workflows: iOS 导入 HTML iPhone/iPad
 - zh-Hans Article:/zh/articles/open-chatgpt-html-file-on-iphone/ | t: 如何在 iPhone 上打开 ChatGPT、Claude、Gemini 的 HTML 文件
-- zh-Hans Article:/zh/articles/open-chatgpt-canvas-html-on-iphone/ | t: 如何在 iPhone 上打开 ChatGPT Canvas 生成的 HTML 文件
+- zh-Hans Article:/zh/articles/open-chatgpt-canvas-html-on-iphone/ | t: 如何在 iPhone 或 iPad 上打开 ChatGPT Canvas 生成的 HTML 文件
 - zh-Hans Article:/zh/articles/open-ai-generated-html-file-on-iphone/ | t: 如何在 iPhone 上打开 AI 生成的 HTML 文件
 - zh-Hans Article:/zh/articles/open-ai-generated-html-file-on-ipad/ | t: 如何在 iPad 上打开 AI 生成的 HTML 文件
 - zh-Hans Article:/zh/articles/open-chatgpt-html-file-on-ipad/ | t: 如何在 iPad 上打开 ChatGPT HTML 文件
@@ -3310,38 +3310,38 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - zh-Hans Article:/zh/articles/html-file-shows-source-code-on-iphone/ | t: 为什么 iPhone 打开 HTML 文件只显示源码
 - zh-Hans Article:/zh/articles/files-app-cant-preview-html-on-iphone/ | t: iPhone Files App 无法预览 HTML
 - zh-Hans Article:/zh/articles/quick-look-cant-preview-html-on-iphone/ | t: iPhone Quick Look 无法预览 HTML
-- zh-Hans Article:/zh/articles/open-claude-html-file-on-iphone/ | t: 如何在 iPhone 上打开 Claude 生成的 HTML 文件
+- zh-Hans Article:/zh/articles/open-claude-html-file-on-iphone/ | t: 如何在 iPhone 或 iPad 上打开 Claude 生成的 HTML 文件
 - zh-Hans Article:/zh/articles/open-claude-artifact-html-on-iphone/ | t: 如何在 iPhone 上打开 Claude Artifact HTML 文件
-- zh-Hans Article:/zh/articles/open-chatgpt-html-download-on-iphone/ | t: 如何在 iPhone 上打开 ChatGPT 下载的 HTML 文件
-- zh-Hans Article:/zh/articles/open-gemini-html-file-on-iphone/ | t: 如何在 iPhone 上打开 Gemini 和 Google AI Studio 生成的 HTML 文件
-- zh-Hans Article:/zh/articles/open-google-ai-studio-html-file-on-iphone/ | t: 如何在 iPhone 上打开 Google AI Studio 生成的 HTML 文件
-- zh-Hans Article:/zh/articles/open-perplexity-html-file-on-iphone/ | t: 如何在 iPhone 上打开 Perplexity 生成的 HTML 文件
-- zh-Hans Article:/zh/articles/open-copilot-html-file-on-iphone/ | t: 如何在 iPhone 上打开 Copilot 生成的 HTML 文件
-- zh-Hans Article:/zh/articles/open-github-copilot-html-file-on-iphone/ | t: 如何在 iPhone 上打开 GitHub Copilot 生成的 HTML 文件
-- zh-Hans Article:/zh/articles/open-deepseek-html-file-on-iphone/ | t: 如何在 iPhone 上打开 DeepSeek 生成的 HTML 文件
-- zh-Hans Article:/zh/articles/open-grok-html-file-on-iphone/ | t: 如何在 iPhone 上打开 Grok 生成的 HTML 文件
-- zh-Hans Article:/zh/articles/open-notebooklm-html-file-on-iphone/ | t: 如何在 iPhone 上打开 NotebookLM 生成的 HTML 文件
-- zh-Hans Article:/zh/articles/open-qwen-html-file-on-iphone/ | t: 如何在 iPhone 上打开 Qwen 生成的 HTML 文件
-- zh-Hans Article:/zh/articles/open-kimi-html-file-on-iphone/ | t: 如何在 iPhone 上打开 Kimi 生成的 HTML 文件
-- zh-Hans Article:/zh/articles/open-poe-html-file-on-iphone/ | t: 如何在 iPhone 上打开 Poe 生成的 HTML 文件
-- zh-Hans Article:/zh/articles/open-mistral-le-chat-html-file-on-iphone/ | t: 如何在 iPhone 上打开 Mistral Le Chat 生成的 HTML 文件
-- zh-Hans Article:/zh/articles/open-cursor-html-file-on-iphone/ | t: 如何在 iPhone 上打开 Cursor 生成的 HTML 文件
-- zh-Hans Article:/zh/articles/open-claude-code-html-file-on-iphone/ | t: 如何在 iPhone 上打开 Claude Code 生成的 HTML 文件
-- zh-Hans Article:/zh/articles/open-codex-html-file-on-iphone/ | t: 如何在 iPhone 上打开 Codex 生成的 HTML 文件
-- zh-Hans Article:/zh/articles/open-v0-html-file-on-iphone/ | t: 如何在 iPhone 上打开 v0 生成的 HTML 文件
-- zh-Hans Article:/zh/articles/open-bolt-html-file-on-iphone/ | t: 如何在 iPhone 上打开 Bolt 生成的 HTML 文件
-- zh-Hans Article:/zh/articles/open-replit-html-file-on-iphone/ | t: 如何在 iPhone 上打开 Replit 生成的 HTML 文件
-- zh-Hans Article:/zh/articles/open-lovable-html-file-on-iphone/ | t: 如何在 iPhone 上打开 Lovable 生成的 HTML 文件
-- zh-Hans Article:/zh/articles/open-windsurf-html-file-on-iphone/ | t: 如何在 iPhone 上打开 Windsurf 生成的 HTML 文件
-- zh-Hans Article:/zh/articles/open-manus-html-file-on-iphone/ | t: 如何在 iPhone 上打开 Manus 生成的 HTML 文件
-- zh-Hans Article:/zh/articles/open-devin-html-file-on-iphone/ | t: 如何在 iPhone 上打开 Devin 生成的 HTML 文件
-- zh-Hans Article:/zh/articles/open-figma-make-html-file-on-iphone/ | t: 如何在 iPhone 上打开 Figma Make 生成的 HTML 文件
-- zh-Hans Article:/zh/articles/open-firebase-studio-html-file-on-iphone/ | t: 如何在 iPhone 上打开 Firebase Studio 生成的 HTML 文件
-- zh-Hans Article:/zh/articles/open-google-antigravity-html-file-on-iphone/ | t: 如何在 iPhone 上打开 Google Antigravity 生成的 HTML 文件
-- zh-Hans Article:/zh/articles/open-trae-html-file-on-iphone/ | t: 如何在 iPhone 上打开 Trae 生成的 HTML 文件
-- zh-Hans Article:/zh/articles/open-cline-html-file-on-iphone/ | t: 如何在 iPhone 上打开 Cline 生成的 HTML 文件
-- zh-Hans Article:/zh/articles/open-base44-html-file-on-iphone/ | t: 如何在 iPhone 上打开 Base44 生成的 HTML 文件
-- zh-Hans Article:/zh/articles/open-kilo-code-html-file-on-iphone/ | t: 如何在 iPhone 上打开 Kilo Code 生成的 HTML 文件
+- zh-Hans Article:/zh/articles/open-chatgpt-html-download-on-iphone/ | t: 如何在 iPhone 或 iPad 上打开 ChatGPT 下载的 HTML 文件
+- zh-Hans Article:/zh/articles/open-gemini-html-file-on-iphone/ | t: 如何在 iPhone 或 iPad 上打开 Gemini 和 Google AI Studio 生成的 HTML 文件
+- zh-Hans Article:/zh/articles/open-google-ai-studio-html-file-on-iphone/ | t: 如何在 iPhone 或 iPad 上打开 Google AI Studio 生成的 HTML 文件
+- zh-Hans Article:/zh/articles/open-perplexity-html-file-on-iphone/ | t: 如何在 iPhone 或 iPad 上打开 Perplexity 生成的 HTML 文件
+- zh-Hans Article:/zh/articles/open-copilot-html-file-on-iphone/ | t: 如何在 iPhone 或 iPad 上打开 Copilot 生成的 HTML 文件
+- zh-Hans Article:/zh/articles/open-github-copilot-html-file-on-iphone/ | t: 如何在 iPhone 或 iPad 上打开 GitHub Copilot 生成的 HTML 文件
+- zh-Hans Article:/zh/articles/open-deepseek-html-file-on-iphone/ | t: 如何在 iPhone 或 iPad 上打开 DeepSeek 生成的 HTML 文件
+- zh-Hans Article:/zh/articles/open-grok-html-file-on-iphone/ | t: 如何在 iPhone 或 iPad 上打开 Grok 生成的 HTML 文件
+- zh-Hans Article:/zh/articles/open-notebooklm-html-file-on-iphone/ | t: 如何在 iPhone 或 iPad 上打开 NotebookLM 生成的 HTML 文件
+- zh-Hans Article:/zh/articles/open-qwen-html-file-on-iphone/ | t: 如何在 iPhone 或 iPad 上打开 Qwen 生成的 HTML 文件
+- zh-Hans Article:/zh/articles/open-kimi-html-file-on-iphone/ | t: 如何在 iPhone 或 iPad 上打开 Kimi 生成的 HTML 文件
+- zh-Hans Article:/zh/articles/open-poe-html-file-on-iphone/ | t: 如何在 iPhone 或 iPad 上打开 Poe 生成的 HTML 文件
+- zh-Hans Article:/zh/articles/open-mistral-le-chat-html-file-on-iphone/ | t: 如何在 iPhone 或 iPad 上打开 Mistral Le Chat 生成的 HTML 文件
+- zh-Hans Article:/zh/articles/open-cursor-html-file-on-iphone/ | t: 如何在 iPhone 或 iPad 上打开 Cursor 生成的 HTML 文件
+- zh-Hans Article:/zh/articles/open-claude-code-html-file-on-iphone/ | t: 如何在 iPhone 或 iPad 上打开 Claude Code 生成的 HTML 文件
+- zh-Hans Article:/zh/articles/open-codex-html-file-on-iphone/ | t: 如何在 iPhone 或 iPad 上打开 Codex 生成的 HTML 文件
+- zh-Hans Article:/zh/articles/open-v0-html-file-on-iphone/ | t: 如何在 iPhone 或 iPad 上打开 v0 生成的 HTML 文件
+- zh-Hans Article:/zh/articles/open-bolt-html-file-on-iphone/ | t: 如何在 iPhone 或 iPad 上打开 Bolt 生成的 HTML 文件
+- zh-Hans Article:/zh/articles/open-replit-html-file-on-iphone/ | t: 如何在 iPhone 或 iPad 上打开 Replit 生成的 HTML 文件
+- zh-Hans Article:/zh/articles/open-lovable-html-file-on-iphone/ | t: 如何在 iPhone 或 iPad 上打开 Lovable 生成的 HTML 文件
+- zh-Hans Article:/zh/articles/open-windsurf-html-file-on-iphone/ | t: 如何在 iPhone 或 iPad 上打开 Windsurf 生成的 HTML 文件
+- zh-Hans Article:/zh/articles/open-manus-html-file-on-iphone/ | t: 如何在 iPhone 或 iPad 上打开 Manus 生成的 HTML 文件
+- zh-Hans Article:/zh/articles/open-devin-html-file-on-iphone/ | t: 如何在 iPhone 或 iPad 上打开 Devin 生成的 HTML 文件
+- zh-Hans Article:/zh/articles/open-figma-make-html-file-on-iphone/ | t: 如何在 iPhone 或 iPad 上打开 Figma Make 生成的 HTML 文件
+- zh-Hans Article:/zh/articles/open-firebase-studio-html-file-on-iphone/ | t: 如何在 iPhone 或 iPad 上打开 Firebase Studio 生成的 HTML 文件
+- zh-Hans Article:/zh/articles/open-google-antigravity-html-file-on-iphone/ | t: 如何在 iPhone 或 iPad 上打开 Google Antigravity 生成的 HTML 文件
+- zh-Hans Article:/zh/articles/open-trae-html-file-on-iphone/ | t: 如何在 iPhone 或 iPad 上打开 Trae 生成的 HTML 文件
+- zh-Hans Article:/zh/articles/open-cline-html-file-on-iphone/ | t: 如何在 iPhone 或 iPad 上打开 Cline 生成的 HTML 文件
+- zh-Hans Article:/zh/articles/open-base44-html-file-on-iphone/ | t: 如何在 iPhone 或 iPad 上打开 Base44 生成的 HTML 文件
+- zh-Hans Article:/zh/articles/open-kilo-code-html-file-on-iphone/ | t: 如何在 iPhone 或 iPad 上打开 Kilo Code 生成的 HTML 文件
 - zh-Hans Article:/zh/articles/open-notion-html-export-on-iphone/ | t: 如何在 iPhone 上打开 Notion 导出的 HTML 文件
 - zh-Hans Article:/zh/articles/open-google-docs-html-export-on-iphone/ | t: 如何在 iPhone 上打开 Google Docs HTML 导出
 - zh-Hans Article:/zh/articles/open-microsoft-word-html-file-on-iphone/ | t: 如何在 iPhone 上打开 Microsoft Word HTML 文件
@@ -3394,7 +3394,7 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - zh-Hant Topic hub:/zh-hant/topics/browser-download-sources/ | t: browser-download-sources: 瀏覽器下載 HTML iPhone/iPad
 - zh-Hant Topic hub:/zh-hant/topics/ios-import-workflows/ | t: ios-import-workflows: iOS 匯入 HTML iPhone/iPad
 - zh-Hant Article:/zh-hant/articles/open-chatgpt-html-file-on-iphone/ | t: 如何在 iPhone 上開啟 ChatGPT、Claude、Gemini 的 HTML 檔案
-- zh-Hant Article:/zh-hant/articles/open-chatgpt-canvas-html-on-iphone/ | t: 如何在 iPhone 上開啟 ChatGPT Canvas 產生的 HTML 檔案
+- zh-Hant Article:/zh-hant/articles/open-chatgpt-canvas-html-on-iphone/ | t: 如何在 iPhone 或 iPad 上開啟 ChatGPT Canvas 產生的 HTML 檔案
 - zh-Hant Article:/zh-hant/articles/open-ai-generated-html-file-on-iphone/ | t: 如何在 iPhone 上開啟 AI 產生的 HTML 檔案
 - zh-Hant Article:/zh-hant/articles/open-ai-generated-html-file-on-ipad/ | t: 如何在 iPad 上開啟 AI 產生的 HTML 檔案
 - zh-Hant Article:/zh-hant/articles/open-chatgpt-html-file-on-ipad/ | t: 如何在 iPad 上開啟 ChatGPT HTML 檔案
@@ -3465,38 +3465,38 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - zh-Hant Article:/zh-hant/articles/html-file-shows-source-code-on-iphone/ | t: 為什麼 iPhone 開啟 HTML 檔案只顯示原始碼
 - zh-Hant Article:/zh-hant/articles/files-app-cant-preview-html-on-iphone/ | t: iPhone Files App 無法預覽 HTML
 - zh-Hant Article:/zh-hant/articles/quick-look-cant-preview-html-on-iphone/ | t: iPhone Quick Look 無法預覽 HTML
-- zh-Hant Article:/zh-hant/articles/open-claude-html-file-on-iphone/ | t: 如何在 iPhone 上開啟 Claude 產生的 HTML 檔案
+- zh-Hant Article:/zh-hant/articles/open-claude-html-file-on-iphone/ | t: 如何在 iPhone 或 iPad 上開啟 Claude 產生的 HTML 檔案
 - zh-Hant Article:/zh-hant/articles/open-claude-artifact-html-on-iphone/ | t: 如何在 iPhone 上開啟 Claude Artifact HTML 檔案
-- zh-Hant Article:/zh-hant/articles/open-chatgpt-html-download-on-iphone/ | t: 如何在 iPhone 上開啟 ChatGPT 下載的 HTML 檔案
-- zh-Hant Article:/zh-hant/articles/open-gemini-html-file-on-iphone/ | t: 如何在 iPhone 上開啟 Gemini 和 Google AI Studio 產生的 HTML 檔案
-- zh-Hant Article:/zh-hant/articles/open-google-ai-studio-html-file-on-iphone/ | t: 如何在 iPhone 上開啟 Google AI Studio 產生的 HTML 檔案
-- zh-Hant Article:/zh-hant/articles/open-perplexity-html-file-on-iphone/ | t: 如何在 iPhone 上開啟 Perplexity 產生的 HTML 檔案
-- zh-Hant Article:/zh-hant/articles/open-copilot-html-file-on-iphone/ | t: 如何在 iPhone 上開啟 Copilot 產生的 HTML 檔案
-- zh-Hant Article:/zh-hant/articles/open-github-copilot-html-file-on-iphone/ | t: 如何在 iPhone 上開啟 GitHub Copilot 產生的 HTML 檔案
-- zh-Hant Article:/zh-hant/articles/open-deepseek-html-file-on-iphone/ | t: 如何在 iPhone 上開啟 DeepSeek 產生的 HTML 檔案
-- zh-Hant Article:/zh-hant/articles/open-grok-html-file-on-iphone/ | t: 如何在 iPhone 上開啟 Grok 產生的 HTML 檔案
-- zh-Hant Article:/zh-hant/articles/open-notebooklm-html-file-on-iphone/ | t: 如何在 iPhone 上開啟 NotebookLM 產生的 HTML 檔案
-- zh-Hant Article:/zh-hant/articles/open-qwen-html-file-on-iphone/ | t: 如何在 iPhone 上開啟 Qwen 產生的 HTML 檔案
-- zh-Hant Article:/zh-hant/articles/open-kimi-html-file-on-iphone/ | t: 如何在 iPhone 上開啟 Kimi 產生的 HTML 檔案
-- zh-Hant Article:/zh-hant/articles/open-poe-html-file-on-iphone/ | t: 如何在 iPhone 上開啟 Poe 產生的 HTML 檔案
-- zh-Hant Article:/zh-hant/articles/open-mistral-le-chat-html-file-on-iphone/ | t: 如何在 iPhone 上開啟 Mistral Le Chat 產生的 HTML 檔案
-- zh-Hant Article:/zh-hant/articles/open-cursor-html-file-on-iphone/ | t: 如何在 iPhone 上開啟 Cursor 產生的 HTML 檔案
-- zh-Hant Article:/zh-hant/articles/open-claude-code-html-file-on-iphone/ | t: 如何在 iPhone 上開啟 Claude Code 產生的 HTML 檔案
-- zh-Hant Article:/zh-hant/articles/open-codex-html-file-on-iphone/ | t: 如何在 iPhone 上開啟 Codex 產生的 HTML 檔案
-- zh-Hant Article:/zh-hant/articles/open-v0-html-file-on-iphone/ | t: 如何在 iPhone 上開啟 v0 產生的 HTML 檔案
-- zh-Hant Article:/zh-hant/articles/open-bolt-html-file-on-iphone/ | t: 如何在 iPhone 上開啟 Bolt 產生的 HTML 檔案
-- zh-Hant Article:/zh-hant/articles/open-replit-html-file-on-iphone/ | t: 如何在 iPhone 上開啟 Replit 產生的 HTML 檔案
-- zh-Hant Article:/zh-hant/articles/open-lovable-html-file-on-iphone/ | t: 如何在 iPhone 上開啟 Lovable 產生的 HTML 檔案
-- zh-Hant Article:/zh-hant/articles/open-windsurf-html-file-on-iphone/ | t: 如何在 iPhone 上開啟 Windsurf 產生的 HTML 檔案
-- zh-Hant Article:/zh-hant/articles/open-manus-html-file-on-iphone/ | t: 如何在 iPhone 上開啟 Manus 產生的 HTML 檔案
-- zh-Hant Article:/zh-hant/articles/open-devin-html-file-on-iphone/ | t: 如何在 iPhone 上開啟 Devin 產生的 HTML 檔案
-- zh-Hant Article:/zh-hant/articles/open-figma-make-html-file-on-iphone/ | t: 如何在 iPhone 上開啟 Figma Make 產生的 HTML 檔案
-- zh-Hant Article:/zh-hant/articles/open-firebase-studio-html-file-on-iphone/ | t: 如何在 iPhone 上開啟 Firebase Studio 產生的 HTML 檔案
-- zh-Hant Article:/zh-hant/articles/open-google-antigravity-html-file-on-iphone/ | t: 如何在 iPhone 上開啟 Google Antigravity 產生的 HTML 檔案
-- zh-Hant Article:/zh-hant/articles/open-trae-html-file-on-iphone/ | t: 如何在 iPhone 上開啟 Trae 產生的 HTML 檔案
-- zh-Hant Article:/zh-hant/articles/open-cline-html-file-on-iphone/ | t: 如何在 iPhone 上開啟 Cline 產生的 HTML 檔案
-- zh-Hant Article:/zh-hant/articles/open-base44-html-file-on-iphone/ | t: 如何在 iPhone 上開啟 Base44 產生的 HTML 檔案
-- zh-Hant Article:/zh-hant/articles/open-kilo-code-html-file-on-iphone/ | t: 如何在 iPhone 上開啟 Kilo Code 產生的 HTML 檔案
+- zh-Hant Article:/zh-hant/articles/open-chatgpt-html-download-on-iphone/ | t: 如何在 iPhone 或 iPad 上開啟 ChatGPT 下載的 HTML 檔案
+- zh-Hant Article:/zh-hant/articles/open-gemini-html-file-on-iphone/ | t: 如何在 iPhone 或 iPad 上開啟 Gemini 和 Google AI Studio 產生的 HTML 檔案
+- zh-Hant Article:/zh-hant/articles/open-google-ai-studio-html-file-on-iphone/ | t: 如何在 iPhone 或 iPad 上開啟 Google AI Studio 產生的 HTML 檔案
+- zh-Hant Article:/zh-hant/articles/open-perplexity-html-file-on-iphone/ | t: 如何在 iPhone 或 iPad 上開啟 Perplexity 產生的 HTML 檔案
+- zh-Hant Article:/zh-hant/articles/open-copilot-html-file-on-iphone/ | t: 如何在 iPhone 或 iPad 上開啟 Copilot 產生的 HTML 檔案
+- zh-Hant Article:/zh-hant/articles/open-github-copilot-html-file-on-iphone/ | t: 如何在 iPhone 或 iPad 上開啟 GitHub Copilot 產生的 HTML 檔案
+- zh-Hant Article:/zh-hant/articles/open-deepseek-html-file-on-iphone/ | t: 如何在 iPhone 或 iPad 上開啟 DeepSeek 產生的 HTML 檔案
+- zh-Hant Article:/zh-hant/articles/open-grok-html-file-on-iphone/ | t: 如何在 iPhone 或 iPad 上開啟 Grok 產生的 HTML 檔案
+- zh-Hant Article:/zh-hant/articles/open-notebooklm-html-file-on-iphone/ | t: 如何在 iPhone 或 iPad 上開啟 NotebookLM 產生的 HTML 檔案
+- zh-Hant Article:/zh-hant/articles/open-qwen-html-file-on-iphone/ | t: 如何在 iPhone 或 iPad 上開啟 Qwen 產生的 HTML 檔案
+- zh-Hant Article:/zh-hant/articles/open-kimi-html-file-on-iphone/ | t: 如何在 iPhone 或 iPad 上開啟 Kimi 產生的 HTML 檔案
+- zh-Hant Article:/zh-hant/articles/open-poe-html-file-on-iphone/ | t: 如何在 iPhone 或 iPad 上開啟 Poe 產生的 HTML 檔案
+- zh-Hant Article:/zh-hant/articles/open-mistral-le-chat-html-file-on-iphone/ | t: 如何在 iPhone 或 iPad 上開啟 Mistral Le Chat 產生的 HTML 檔案
+- zh-Hant Article:/zh-hant/articles/open-cursor-html-file-on-iphone/ | t: 如何在 iPhone 或 iPad 上開啟 Cursor 產生的 HTML 檔案
+- zh-Hant Article:/zh-hant/articles/open-claude-code-html-file-on-iphone/ | t: 如何在 iPhone 或 iPad 上開啟 Claude Code 產生的 HTML 檔案
+- zh-Hant Article:/zh-hant/articles/open-codex-html-file-on-iphone/ | t: 如何在 iPhone 或 iPad 上開啟 Codex 產生的 HTML 檔案
+- zh-Hant Article:/zh-hant/articles/open-v0-html-file-on-iphone/ | t: 如何在 iPhone 或 iPad 上開啟 v0 產生的 HTML 檔案
+- zh-Hant Article:/zh-hant/articles/open-bolt-html-file-on-iphone/ | t: 如何在 iPhone 或 iPad 上開啟 Bolt 產生的 HTML 檔案
+- zh-Hant Article:/zh-hant/articles/open-replit-html-file-on-iphone/ | t: 如何在 iPhone 或 iPad 上開啟 Replit 產生的 HTML 檔案
+- zh-Hant Article:/zh-hant/articles/open-lovable-html-file-on-iphone/ | t: 如何在 iPhone 或 iPad 上開啟 Lovable 產生的 HTML 檔案
+- zh-Hant Article:/zh-hant/articles/open-windsurf-html-file-on-iphone/ | t: 如何在 iPhone 或 iPad 上開啟 Windsurf 產生的 HTML 檔案
+- zh-Hant Article:/zh-hant/articles/open-manus-html-file-on-iphone/ | t: 如何在 iPhone 或 iPad 上開啟 Manus 產生的 HTML 檔案
+- zh-Hant Article:/zh-hant/articles/open-devin-html-file-on-iphone/ | t: 如何在 iPhone 或 iPad 上開啟 Devin 產生的 HTML 檔案
+- zh-Hant Article:/zh-hant/articles/open-figma-make-html-file-on-iphone/ | t: 如何在 iPhone 或 iPad 上開啟 Figma Make 產生的 HTML 檔案
+- zh-Hant Article:/zh-hant/articles/open-firebase-studio-html-file-on-iphone/ | t: 如何在 iPhone 或 iPad 上開啟 Firebase Studio 產生的 HTML 檔案
+- zh-Hant Article:/zh-hant/articles/open-google-antigravity-html-file-on-iphone/ | t: 如何在 iPhone 或 iPad 上開啟 Google Antigravity 產生的 HTML 檔案
+- zh-Hant Article:/zh-hant/articles/open-trae-html-file-on-iphone/ | t: 如何在 iPhone 或 iPad 上開啟 Trae 產生的 HTML 檔案
+- zh-Hant Article:/zh-hant/articles/open-cline-html-file-on-iphone/ | t: 如何在 iPhone 或 iPad 上開啟 Cline 產生的 HTML 檔案
+- zh-Hant Article:/zh-hant/articles/open-base44-html-file-on-iphone/ | t: 如何在 iPhone 或 iPad 上開啟 Base44 產生的 HTML 檔案
+- zh-Hant Article:/zh-hant/articles/open-kilo-code-html-file-on-iphone/ | t: 如何在 iPhone 或 iPad 上開啟 Kilo Code 產生的 HTML 檔案
 - zh-Hant Article:/zh-hant/articles/open-notion-html-export-on-iphone/ | t: 如何在 iPhone 上開啟 Notion 匯出的 HTML 檔案
 - zh-Hant Article:/zh-hant/articles/open-google-docs-html-export-on-iphone/ | t: 如何在 iPhone 上開啟 Google Docs HTML 匯出
 - zh-Hant Article:/zh-hant/articles/open-microsoft-word-html-file-on-iphone/ | t: 如何在 iPhone 上開啟 Microsoft Word HTML 檔案
@@ -3549,7 +3549,7 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - ja Topic hub:/ja/topics/browser-download-sources/ | t: browser-download-sources: ブラウザダウンロード HTML iPhone・iPad
 - ja Topic hub:/ja/topics/ios-import-workflows/ | t: ios-import-workflows: iOS取り込み HTML iPhone・iPad
 - ja Article:/ja/articles/open-chatgpt-html-file-on-iphone/ | t: ChatGPTやClaudeのHTMLファイルをiPhoneで開く方法
-- ja Article:/ja/articles/open-chatgpt-canvas-html-on-iphone/ | t: ChatGPT Canvas HTMLファイルをiPhoneで開く方法
+- ja Article:/ja/articles/open-chatgpt-canvas-html-on-iphone/ | t: ChatGPT Canvas HTMLファイルをiPadで開く方法
 - ja Article:/ja/articles/open-ai-generated-html-file-on-iphone/ | t: AI生成HTMLファイルをiPhoneで開く方法
 - ja Article:/ja/articles/open-ai-generated-html-file-on-ipad/ | t: iPadのAI生成HTMLファイルを開く方法
 - ja Article:/ja/articles/open-chatgpt-html-file-on-ipad/ | t: ChatGPT HTMLファイルをiPadで開く方法
@@ -3620,38 +3620,38 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - ja Article:/ja/articles/html-file-shows-source-code-on-iphone/ | t: ソース表示になるHTMLファイルをiPhoneで開く方法
 - ja Article:/ja/articles/files-app-cant-preview-html-on-iphone/ | t: FilesでHTMLをプレビューできない時
 - ja Article:/ja/articles/quick-look-cant-preview-html-on-iphone/ | t: iPhoneでQuick LookがHTMLを開けない時
-- ja Article:/ja/articles/open-claude-html-file-on-iphone/ | t: Claude HTMLファイルをiPhoneで開く方法
+- ja Article:/ja/articles/open-claude-html-file-on-iphone/ | t: Claude HTMLファイルをiPadで開く方法
 - ja Article:/ja/articles/open-claude-artifact-html-on-iphone/ | t: Claude ArtifactsのHTMLファイルをiPhoneで開く方法
-- ja Article:/ja/articles/open-chatgpt-html-download-on-iphone/ | t: ChatGPTからダウンロードしたHTMLファイルをiPhoneで開く方法
-- ja Article:/ja/articles/open-gemini-html-file-on-iphone/ | t: Gemini、Gemini Canvas、Google AI Studio HTMLファイルをiPhoneで開く方法
-- ja Article:/ja/articles/open-google-ai-studio-html-file-on-iphone/ | t: Google AI Studio HTMLファイルをiPhoneで開く方法
-- ja Article:/ja/articles/open-perplexity-html-file-on-iphone/ | t: Perplexity HTMLファイルをiPhoneで開く方法
-- ja Article:/ja/articles/open-copilot-html-file-on-iphone/ | t: Copilot HTMLファイルをiPhoneで開く方法
-- ja Article:/ja/articles/open-github-copilot-html-file-on-iphone/ | t: GitHub Copilot HTMLファイルをiPhoneで開く方法
-- ja Article:/ja/articles/open-deepseek-html-file-on-iphone/ | t: DeepSeek HTMLファイルをiPhoneで開く方法
-- ja Article:/ja/articles/open-grok-html-file-on-iphone/ | t: Grok HTMLファイルをiPhoneで開く方法
-- ja Article:/ja/articles/open-notebooklm-html-file-on-iphone/ | t: NotebookLM HTMLファイルをiPhoneで開く方法
-- ja Article:/ja/articles/open-qwen-html-file-on-iphone/ | t: Qwen HTMLファイルをiPhoneで開く方法
-- ja Article:/ja/articles/open-kimi-html-file-on-iphone/ | t: Kimi HTMLファイルをiPhoneで開く方法
-- ja Article:/ja/articles/open-poe-html-file-on-iphone/ | t: Poe HTMLファイルをiPhoneで開く方法
-- ja Article:/ja/articles/open-mistral-le-chat-html-file-on-iphone/ | t: Mistral Le Chat HTMLファイルをiPhoneで開く方法
-- ja Article:/ja/articles/open-cursor-html-file-on-iphone/ | t: Cursor HTMLファイルをiPhoneで開く方法
-- ja Article:/ja/articles/open-claude-code-html-file-on-iphone/ | t: Claude Code HTMLファイルをiPhoneで開く方法
-- ja Article:/ja/articles/open-codex-html-file-on-iphone/ | t: Codex HTMLファイルをiPhoneで開く方法
-- ja Article:/ja/articles/open-v0-html-file-on-iphone/ | t: v0 HTMLファイルをiPhoneで開く方法
-- ja Article:/ja/articles/open-bolt-html-file-on-iphone/ | t: Bolt HTMLファイルをiPhoneで開く方法
-- ja Article:/ja/articles/open-replit-html-file-on-iphone/ | t: Replit HTMLファイルをiPhoneで開く方法
-- ja Article:/ja/articles/open-lovable-html-file-on-iphone/ | t: Lovable HTMLファイルをiPhoneで開く方法
-- ja Article:/ja/articles/open-windsurf-html-file-on-iphone/ | t: Windsurf HTMLファイルをiPhoneで開く方法
-- ja Article:/ja/articles/open-manus-html-file-on-iphone/ | t: Manus HTMLファイルをiPhoneで開く方法
-- ja Article:/ja/articles/open-devin-html-file-on-iphone/ | t: Devin HTMLファイルをiPhoneで開く方法
-- ja Article:/ja/articles/open-figma-make-html-file-on-iphone/ | t: Figma Make HTMLファイルをiPhoneで開く方法
-- ja Article:/ja/articles/open-firebase-studio-html-file-on-iphone/ | t: Firebase Studio HTMLファイルをiPhoneで開く方法
-- ja Article:/ja/articles/open-google-antigravity-html-file-on-iphone/ | t: Google Antigravity HTMLファイルをiPhoneで開く方法
-- ja Article:/ja/articles/open-trae-html-file-on-iphone/ | t: Trae HTMLファイルをiPhoneで開く方法
-- ja Article:/ja/articles/open-cline-html-file-on-iphone/ | t: Cline HTMLファイルをiPhoneで開く方法
-- ja Article:/ja/articles/open-base44-html-file-on-iphone/ | t: Base44 HTMLファイルをiPhoneで開く方法
-- ja Article:/ja/articles/open-kilo-code-html-file-on-iphone/ | t: Kilo Code HTMLファイルをiPhoneで開く方法
+- ja Article:/ja/articles/open-chatgpt-html-download-on-iphone/ | t: ChatGPTからダウンロードしたHTMLファイルをiPadで開く方法
+- ja Article:/ja/articles/open-gemini-html-file-on-iphone/ | t: Gemini、Gemini Canvas、Google AI Studio HTMLファイルをiPadで開く方法
+- ja Article:/ja/articles/open-google-ai-studio-html-file-on-iphone/ | t: Google AI Studio HTMLファイルをiPadで開く方法
+- ja Article:/ja/articles/open-perplexity-html-file-on-iphone/ | t: Perplexity HTMLファイルをiPadで開く方法
+- ja Article:/ja/articles/open-copilot-html-file-on-iphone/ | t: Copilot HTMLファイルをiPadで開く方法
+- ja Article:/ja/articles/open-github-copilot-html-file-on-iphone/ | t: GitHub Copilot HTMLファイルをiPadで開く方法
+- ja Article:/ja/articles/open-deepseek-html-file-on-iphone/ | t: DeepSeek HTMLファイルをiPadで開く方法
+- ja Article:/ja/articles/open-grok-html-file-on-iphone/ | t: Grok HTMLファイルをiPadで開く方法
+- ja Article:/ja/articles/open-notebooklm-html-file-on-iphone/ | t: NotebookLM HTMLファイルをiPadで開く方法
+- ja Article:/ja/articles/open-qwen-html-file-on-iphone/ | t: Qwen HTMLファイルをiPadで開く方法
+- ja Article:/ja/articles/open-kimi-html-file-on-iphone/ | t: Kimi HTMLファイルをiPadで開く方法
+- ja Article:/ja/articles/open-poe-html-file-on-iphone/ | t: Poe HTMLファイルをiPadで開く方法
+- ja Article:/ja/articles/open-mistral-le-chat-html-file-on-iphone/ | t: Mistral Le Chat HTMLファイルをiPadで開く方法
+- ja Article:/ja/articles/open-cursor-html-file-on-iphone/ | t: Cursor HTMLファイルをiPadで開く方法
+- ja Article:/ja/articles/open-claude-code-html-file-on-iphone/ | t: Claude Code HTMLファイルをiPadで開く方法
+- ja Article:/ja/articles/open-codex-html-file-on-iphone/ | t: Codex HTMLファイルをiPadで開く方法
+- ja Article:/ja/articles/open-v0-html-file-on-iphone/ | t: v0 HTMLファイルをiPadで開く方法
+- ja Article:/ja/articles/open-bolt-html-file-on-iphone/ | t: Bolt HTMLファイルをiPadで開く方法
+- ja Article:/ja/articles/open-replit-html-file-on-iphone/ | t: Replit HTMLファイルをiPadで開く方法
+- ja Article:/ja/articles/open-lovable-html-file-on-iphone/ | t: Lovable HTMLファイルをiPadで開く方法
+- ja Article:/ja/articles/open-windsurf-html-file-on-iphone/ | t: Windsurf HTMLファイルをiPadで開く方法
+- ja Article:/ja/articles/open-manus-html-file-on-iphone/ | t: Manus HTMLファイルをiPadで開く方法
+- ja Article:/ja/articles/open-devin-html-file-on-iphone/ | t: Devin HTMLファイルをiPadで開く方法
+- ja Article:/ja/articles/open-figma-make-html-file-on-iphone/ | t: Figma Make HTMLファイルをiPadで開く方法
+- ja Article:/ja/articles/open-firebase-studio-html-file-on-iphone/ | t: Firebase Studio HTMLファイルをiPadで開く方法
+- ja Article:/ja/articles/open-google-antigravity-html-file-on-iphone/ | t: Google Antigravity HTMLファイルをiPadで開く方法
+- ja Article:/ja/articles/open-trae-html-file-on-iphone/ | t: Trae HTMLファイルをiPadで開く方法
+- ja Article:/ja/articles/open-cline-html-file-on-iphone/ | t: Cline HTMLファイルをiPadで開く方法
+- ja Article:/ja/articles/open-base44-html-file-on-iphone/ | t: Base44 HTMLファイルをiPadで開く方法
+- ja Article:/ja/articles/open-kilo-code-html-file-on-iphone/ | t: Kilo Code HTMLファイルをiPadで開く方法
 - ja Article:/ja/articles/open-notion-html-export-on-iphone/ | t: NotionエクスポートHTMLファイルをiPhoneで開く方法
 - ja Article:/ja/articles/open-google-docs-html-export-on-iphone/ | t: Google DocsのHTMLファイルをiPhoneで開く方法
 - ja Article:/ja/articles/open-microsoft-word-html-file-on-iphone/ | t: WordのHTMLファイルをiPhoneで開く方法
@@ -3704,7 +3704,7 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - es Topic hub:/es/topics/browser-download-sources/ | t: browser-download-sources: Descargas del navegador HTML en iPhone y iPad
 - es Topic hub:/es/topics/ios-import-workflows/ | t: ios-import-workflows: Importacion iOS HTML en iPhone y iPad
 - es Article:/es/articles/open-chatgpt-html-file-on-iphone/ | t: Cómo abrir archivos HTML de ChatGPT y Claude en iPhone
-- es Article:/es/articles/open-chatgpt-canvas-html-on-iphone/ | t: Cómo abrir archivos HTML de ChatGPT Canvas en iPhone
+- es Article:/es/articles/open-chatgpt-canvas-html-on-iphone/ | t: Cómo abrir archivos HTML de ChatGPT Canvas en iPad
 - es Article:/es/articles/open-ai-generated-html-file-on-iphone/ | t: Cómo abrir archivos HTML generados por IA en iPhone
 - es Article:/es/articles/open-ai-generated-html-file-on-ipad/ | t: Cómo abrir archivos HTML generados por IA en iPad
 - es Article:/es/articles/open-chatgpt-html-file-on-ipad/ | t: Cómo abrir archivos HTML de ChatGPT en iPad
@@ -3775,38 +3775,38 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - es Article:/es/articles/html-file-shows-source-code-on-iphone/ | t: Cómo abrir HTML mostrado como codigo en iPhone
 - es Article:/es/articles/files-app-cant-preview-html-on-iphone/ | t: Files no muestra HTML en iPhone
 - es Article:/es/articles/quick-look-cant-preview-html-on-iphone/ | t: Quick Look no muestra HTML en iPhone
-- es Article:/es/articles/open-claude-html-file-on-iphone/ | t: Cómo abrir archivos HTML de Claude en iPhone
+- es Article:/es/articles/open-claude-html-file-on-iphone/ | t: Cómo abrir archivos HTML de Claude en iPad
 - es Article:/es/articles/open-claude-artifact-html-on-iphone/ | t: Cómo abrir archivos HTML de Claude Artifacts en iPhone
-- es Article:/es/articles/open-chatgpt-html-download-on-iphone/ | t: Cómo abrir descargas HTML de ChatGPT en iPhone
-- es Article:/es/articles/open-gemini-html-file-on-iphone/ | t: Cómo abrir archivos HTML de Gemini, Gemini Canvas y Google AI Studio en iPhone
-- es Article:/es/articles/open-google-ai-studio-html-file-on-iphone/ | t: Cómo abrir archivos HTML de Google AI Studio en iPhone
-- es Article:/es/articles/open-perplexity-html-file-on-iphone/ | t: Cómo abrir archivos HTML de Perplexity en iPhone
-- es Article:/es/articles/open-copilot-html-file-on-iphone/ | t: Cómo abrir archivos HTML de Copilot en iPhone
-- es Article:/es/articles/open-github-copilot-html-file-on-iphone/ | t: Cómo abrir archivos HTML de GitHub Copilot en iPhone
-- es Article:/es/articles/open-deepseek-html-file-on-iphone/ | t: Cómo abrir archivos HTML de DeepSeek en iPhone
-- es Article:/es/articles/open-grok-html-file-on-iphone/ | t: Cómo abrir archivos HTML de Grok en iPhone
-- es Article:/es/articles/open-notebooklm-html-file-on-iphone/ | t: Cómo abrir archivos HTML de NotebookLM en iPhone
-- es Article:/es/articles/open-qwen-html-file-on-iphone/ | t: Cómo abrir archivos HTML de Qwen en iPhone
-- es Article:/es/articles/open-kimi-html-file-on-iphone/ | t: Cómo abrir archivos HTML de Kimi en iPhone
-- es Article:/es/articles/open-poe-html-file-on-iphone/ | t: Cómo abrir archivos HTML de Poe en iPhone
-- es Article:/es/articles/open-mistral-le-chat-html-file-on-iphone/ | t: Cómo abrir archivos HTML de Mistral Le Chat en iPhone
-- es Article:/es/articles/open-cursor-html-file-on-iphone/ | t: Cómo abrir archivos HTML de Cursor en iPhone
-- es Article:/es/articles/open-claude-code-html-file-on-iphone/ | t: Cómo abrir archivos HTML de Claude Code en iPhone
-- es Article:/es/articles/open-codex-html-file-on-iphone/ | t: Cómo abrir archivos HTML de Codex en iPhone
-- es Article:/es/articles/open-v0-html-file-on-iphone/ | t: Cómo abrir archivos HTML de v0 en iPhone
-- es Article:/es/articles/open-bolt-html-file-on-iphone/ | t: Cómo abrir archivos HTML de Bolt en iPhone
-- es Article:/es/articles/open-replit-html-file-on-iphone/ | t: Cómo abrir archivos HTML de Replit en iPhone
-- es Article:/es/articles/open-lovable-html-file-on-iphone/ | t: Cómo abrir archivos HTML de Lovable en iPhone
-- es Article:/es/articles/open-windsurf-html-file-on-iphone/ | t: Cómo abrir archivos HTML de Windsurf en iPhone
-- es Article:/es/articles/open-manus-html-file-on-iphone/ | t: Cómo abrir archivos HTML de Manus en iPhone
-- es Article:/es/articles/open-devin-html-file-on-iphone/ | t: Cómo abrir archivos HTML de Devin en iPhone
-- es Article:/es/articles/open-figma-make-html-file-on-iphone/ | t: Cómo abrir archivos HTML de Figma Make en iPhone
-- es Article:/es/articles/open-firebase-studio-html-file-on-iphone/ | t: Cómo abrir archivos HTML de Firebase Studio en iPhone
-- es Article:/es/articles/open-google-antigravity-html-file-on-iphone/ | t: Cómo abrir archivos HTML de Google Antigravity en iPhone
-- es Article:/es/articles/open-trae-html-file-on-iphone/ | t: Cómo abrir archivos HTML de Trae en iPhone
-- es Article:/es/articles/open-cline-html-file-on-iphone/ | t: Cómo abrir archivos HTML de Cline en iPhone
-- es Article:/es/articles/open-base44-html-file-on-iphone/ | t: Cómo abrir archivos HTML de Base44 en iPhone
-- es Article:/es/articles/open-kilo-code-html-file-on-iphone/ | t: Cómo abrir archivos HTML de Kilo Code en iPhone
+- es Article:/es/articles/open-chatgpt-html-download-on-iphone/ | t: Cómo abrir descargas HTML de ChatGPT en iPad
+- es Article:/es/articles/open-gemini-html-file-on-iphone/ | t: Cómo abrir archivos HTML de Gemini, Gemini Canvas y Google AI Studio en iPad
+- es Article:/es/articles/open-google-ai-studio-html-file-on-iphone/ | t: Cómo abrir archivos HTML de Google AI Studio en iPad
+- es Article:/es/articles/open-perplexity-html-file-on-iphone/ | t: Cómo abrir archivos HTML de Perplexity en iPad
+- es Article:/es/articles/open-copilot-html-file-on-iphone/ | t: Cómo abrir archivos HTML de Copilot en iPad
+- es Article:/es/articles/open-github-copilot-html-file-on-iphone/ | t: Cómo abrir archivos HTML de GitHub Copilot en iPad
+- es Article:/es/articles/open-deepseek-html-file-on-iphone/ | t: Cómo abrir archivos HTML de DeepSeek en iPad
+- es Article:/es/articles/open-grok-html-file-on-iphone/ | t: Cómo abrir archivos HTML de Grok en iPad
+- es Article:/es/articles/open-notebooklm-html-file-on-iphone/ | t: Cómo abrir archivos HTML de NotebookLM en iPad
+- es Article:/es/articles/open-qwen-html-file-on-iphone/ | t: Cómo abrir archivos HTML de Qwen en iPad
+- es Article:/es/articles/open-kimi-html-file-on-iphone/ | t: Cómo abrir archivos HTML de Kimi en iPad
+- es Article:/es/articles/open-poe-html-file-on-iphone/ | t: Cómo abrir archivos HTML de Poe en iPad
+- es Article:/es/articles/open-mistral-le-chat-html-file-on-iphone/ | t: Cómo abrir archivos HTML de Mistral Le Chat en iPad
+- es Article:/es/articles/open-cursor-html-file-on-iphone/ | t: Cómo abrir archivos HTML de Cursor en iPad
+- es Article:/es/articles/open-claude-code-html-file-on-iphone/ | t: Cómo abrir archivos HTML de Claude Code en iPad
+- es Article:/es/articles/open-codex-html-file-on-iphone/ | t: Cómo abrir archivos HTML de Codex en iPad
+- es Article:/es/articles/open-v0-html-file-on-iphone/ | t: Cómo abrir archivos HTML de v0 en iPad
+- es Article:/es/articles/open-bolt-html-file-on-iphone/ | t: Cómo abrir archivos HTML de Bolt en iPad
+- es Article:/es/articles/open-replit-html-file-on-iphone/ | t: Cómo abrir archivos HTML de Replit en iPad
+- es Article:/es/articles/open-lovable-html-file-on-iphone/ | t: Cómo abrir archivos HTML de Lovable en iPad
+- es Article:/es/articles/open-windsurf-html-file-on-iphone/ | t: Cómo abrir archivos HTML de Windsurf en iPad
+- es Article:/es/articles/open-manus-html-file-on-iphone/ | t: Cómo abrir archivos HTML de Manus en iPad
+- es Article:/es/articles/open-devin-html-file-on-iphone/ | t: Cómo abrir archivos HTML de Devin en iPad
+- es Article:/es/articles/open-figma-make-html-file-on-iphone/ | t: Cómo abrir archivos HTML de Figma Make en iPad
+- es Article:/es/articles/open-firebase-studio-html-file-on-iphone/ | t: Cómo abrir archivos HTML de Firebase Studio en iPad
+- es Article:/es/articles/open-google-antigravity-html-file-on-iphone/ | t: Cómo abrir archivos HTML de Google Antigravity en iPad
+- es Article:/es/articles/open-trae-html-file-on-iphone/ | t: Cómo abrir archivos HTML de Trae en iPad
+- es Article:/es/articles/open-cline-html-file-on-iphone/ | t: Cómo abrir archivos HTML de Cline en iPad
+- es Article:/es/articles/open-base44-html-file-on-iphone/ | t: Cómo abrir archivos HTML de Base44 en iPad
+- es Article:/es/articles/open-kilo-code-html-file-on-iphone/ | t: Cómo abrir archivos HTML de Kilo Code en iPad
 - es Article:/es/articles/open-notion-html-export-on-iphone/ | t: Cómo abrir exportaciones HTML de Notion en iPhone
 - es Article:/es/articles/open-google-docs-html-export-on-iphone/ | t: Cómo abrir archivo HTML de Google Docs en iPhone
 - es Article:/es/articles/open-microsoft-word-html-file-on-iphone/ | t: Cómo abrir archivo HTML de Word en iPhone
@@ -3859,7 +3859,7 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - de Topic hub:/de/topics/browser-download-sources/ | t: browser-download-sources: Browser-Downloads HTML auf iPhone und iPad
 - de Topic hub:/de/topics/ios-import-workflows/ | t: ios-import-workflows: iOS-Import HTML auf iPhone und iPad
 - de Article:/de/articles/open-chatgpt-html-file-on-iphone/ | t: ChatGPT- und Claude-HTML-Dateien auf dem iPhone öffnen
-- de Article:/de/articles/open-chatgpt-canvas-html-on-iphone/ | t: ChatGPT Canvas HTML-Dateien auf iPhone öffnen
+- de Article:/de/articles/open-chatgpt-canvas-html-on-iphone/ | t: ChatGPT Canvas HTML-Dateien auf iPad öffnen
 - de Article:/de/articles/open-ai-generated-html-file-on-iphone/ | t: KI-generierte HTML-Dateien auf iPhone öffnen
 - de Article:/de/articles/open-ai-generated-html-file-on-ipad/ | t: KI-generierte HTML-Dateien auf dem iPad öffnen
 - de Article:/de/articles/open-chatgpt-html-file-on-ipad/ | t: ChatGPT HTML-Dateien auf iPad öffnen
@@ -3930,38 +3930,38 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - de Article:/de/articles/html-file-shows-source-code-on-iphone/ | t: HTML als Quellcode auf iPhone öffnen
 - de Article:/de/articles/files-app-cant-preview-html-on-iphone/ | t: Files zeigt HTML nicht auf iPhone
 - de Article:/de/articles/quick-look-cant-preview-html-on-iphone/ | t: Quick Look zeigt HTML nicht auf iPhone
-- de Article:/de/articles/open-claude-html-file-on-iphone/ | t: Claude HTML-Dateien auf iPhone öffnen
+- de Article:/de/articles/open-claude-html-file-on-iphone/ | t: Claude HTML-Dateien auf iPad öffnen
 - de Article:/de/articles/open-claude-artifact-html-on-iphone/ | t: Claude-Artifacts-HTML-Dateien auf iPhone öffnen
-- de Article:/de/articles/open-chatgpt-html-download-on-iphone/ | t: ChatGPT-HTML-Downloads auf iPhone öffnen
-- de Article:/de/articles/open-gemini-html-file-on-iphone/ | t: Gemini, Gemini Canvas und Google AI Studio HTML-Dateien auf iPhone öffnen
-- de Article:/de/articles/open-google-ai-studio-html-file-on-iphone/ | t: Google AI Studio HTML-Dateien auf iPhone öffnen
-- de Article:/de/articles/open-perplexity-html-file-on-iphone/ | t: Perplexity HTML-Dateien auf iPhone öffnen
-- de Article:/de/articles/open-copilot-html-file-on-iphone/ | t: Copilot HTML-Dateien auf iPhone öffnen
-- de Article:/de/articles/open-github-copilot-html-file-on-iphone/ | t: GitHub Copilot HTML-Dateien auf iPhone öffnen
-- de Article:/de/articles/open-deepseek-html-file-on-iphone/ | t: DeepSeek HTML-Dateien auf iPhone öffnen
-- de Article:/de/articles/open-grok-html-file-on-iphone/ | t: Grok HTML-Dateien auf iPhone öffnen
-- de Article:/de/articles/open-notebooklm-html-file-on-iphone/ | t: NotebookLM HTML-Dateien auf iPhone öffnen
-- de Article:/de/articles/open-qwen-html-file-on-iphone/ | t: Qwen HTML-Dateien auf iPhone öffnen
-- de Article:/de/articles/open-kimi-html-file-on-iphone/ | t: Kimi HTML-Dateien auf iPhone öffnen
-- de Article:/de/articles/open-poe-html-file-on-iphone/ | t: Poe HTML-Dateien auf iPhone öffnen
-- de Article:/de/articles/open-mistral-le-chat-html-file-on-iphone/ | t: Mistral Le Chat HTML-Dateien auf iPhone öffnen
-- de Article:/de/articles/open-cursor-html-file-on-iphone/ | t: Cursor HTML-Dateien auf iPhone öffnen
-- de Article:/de/articles/open-claude-code-html-file-on-iphone/ | t: Claude Code HTML-Dateien auf iPhone öffnen
-- de Article:/de/articles/open-codex-html-file-on-iphone/ | t: Codex HTML-Dateien auf iPhone öffnen
-- de Article:/de/articles/open-v0-html-file-on-iphone/ | t: v0 HTML-Dateien auf iPhone öffnen
-- de Article:/de/articles/open-bolt-html-file-on-iphone/ | t: Bolt HTML-Dateien auf iPhone öffnen
-- de Article:/de/articles/open-replit-html-file-on-iphone/ | t: Replit HTML-Dateien auf iPhone öffnen
-- de Article:/de/articles/open-lovable-html-file-on-iphone/ | t: Lovable HTML-Dateien auf iPhone öffnen
-- de Article:/de/articles/open-windsurf-html-file-on-iphone/ | t: Windsurf HTML-Dateien auf iPhone öffnen
-- de Article:/de/articles/open-manus-html-file-on-iphone/ | t: Manus HTML-Dateien auf iPhone öffnen
-- de Article:/de/articles/open-devin-html-file-on-iphone/ | t: Devin HTML-Dateien auf iPhone öffnen
-- de Article:/de/articles/open-figma-make-html-file-on-iphone/ | t: Figma Make HTML-Dateien auf iPhone öffnen
-- de Article:/de/articles/open-firebase-studio-html-file-on-iphone/ | t: Firebase Studio HTML-Dateien auf iPhone öffnen
-- de Article:/de/articles/open-google-antigravity-html-file-on-iphone/ | t: Google Antigravity HTML-Dateien auf iPhone öffnen
-- de Article:/de/articles/open-trae-html-file-on-iphone/ | t: Trae HTML-Dateien auf iPhone öffnen
-- de Article:/de/articles/open-cline-html-file-on-iphone/ | t: Cline HTML-Dateien auf iPhone öffnen
-- de Article:/de/articles/open-base44-html-file-on-iphone/ | t: Base44 HTML-Dateien auf iPhone öffnen
-- de Article:/de/articles/open-kilo-code-html-file-on-iphone/ | t: Kilo Code HTML-Dateien auf iPhone öffnen
+- de Article:/de/articles/open-chatgpt-html-download-on-iphone/ | t: ChatGPT-HTML-Downloads auf iPad öffnen
+- de Article:/de/articles/open-gemini-html-file-on-iphone/ | t: Gemini, Gemini Canvas und Google AI Studio HTML-Dateien auf iPad öffnen
+- de Article:/de/articles/open-google-ai-studio-html-file-on-iphone/ | t: Google AI Studio HTML-Dateien auf iPad öffnen
+- de Article:/de/articles/open-perplexity-html-file-on-iphone/ | t: Perplexity HTML-Dateien auf iPad öffnen
+- de Article:/de/articles/open-copilot-html-file-on-iphone/ | t: Copilot HTML-Dateien auf iPad öffnen
+- de Article:/de/articles/open-github-copilot-html-file-on-iphone/ | t: GitHub Copilot HTML-Dateien auf iPad öffnen
+- de Article:/de/articles/open-deepseek-html-file-on-iphone/ | t: DeepSeek HTML-Dateien auf iPad öffnen
+- de Article:/de/articles/open-grok-html-file-on-iphone/ | t: Grok HTML-Dateien auf iPad öffnen
+- de Article:/de/articles/open-notebooklm-html-file-on-iphone/ | t: NotebookLM HTML-Dateien auf iPad öffnen
+- de Article:/de/articles/open-qwen-html-file-on-iphone/ | t: Qwen HTML-Dateien auf iPad öffnen
+- de Article:/de/articles/open-kimi-html-file-on-iphone/ | t: Kimi HTML-Dateien auf iPad öffnen
+- de Article:/de/articles/open-poe-html-file-on-iphone/ | t: Poe HTML-Dateien auf iPad öffnen
+- de Article:/de/articles/open-mistral-le-chat-html-file-on-iphone/ | t: Mistral Le Chat HTML-Dateien auf iPad öffnen
+- de Article:/de/articles/open-cursor-html-file-on-iphone/ | t: Cursor HTML-Dateien auf iPad öffnen
+- de Article:/de/articles/open-claude-code-html-file-on-iphone/ | t: Claude Code HTML-Dateien auf iPad öffnen
+- de Article:/de/articles/open-codex-html-file-on-iphone/ | t: Codex HTML-Dateien auf iPad öffnen
+- de Article:/de/articles/open-v0-html-file-on-iphone/ | t: v0 HTML-Dateien auf iPad öffnen
+- de Article:/de/articles/open-bolt-html-file-on-iphone/ | t: Bolt HTML-Dateien auf iPad öffnen
+- de Article:/de/articles/open-replit-html-file-on-iphone/ | t: Replit HTML-Dateien auf iPad öffnen
+- de Article:/de/articles/open-lovable-html-file-on-iphone/ | t: Lovable HTML-Dateien auf iPad öffnen
+- de Article:/de/articles/open-windsurf-html-file-on-iphone/ | t: Windsurf HTML-Dateien auf iPad öffnen
+- de Article:/de/articles/open-manus-html-file-on-iphone/ | t: Manus HTML-Dateien auf iPad öffnen
+- de Article:/de/articles/open-devin-html-file-on-iphone/ | t: Devin HTML-Dateien auf iPad öffnen
+- de Article:/de/articles/open-figma-make-html-file-on-iphone/ | t: Figma Make HTML-Dateien auf iPad öffnen
+- de Article:/de/articles/open-firebase-studio-html-file-on-iphone/ | t: Firebase Studio HTML-Dateien auf iPad öffnen
+- de Article:/de/articles/open-google-antigravity-html-file-on-iphone/ | t: Google Antigravity HTML-Dateien auf iPad öffnen
+- de Article:/de/articles/open-trae-html-file-on-iphone/ | t: Trae HTML-Dateien auf iPad öffnen
+- de Article:/de/articles/open-cline-html-file-on-iphone/ | t: Cline HTML-Dateien auf iPad öffnen
+- de Article:/de/articles/open-base44-html-file-on-iphone/ | t: Base44 HTML-Dateien auf iPad öffnen
+- de Article:/de/articles/open-kilo-code-html-file-on-iphone/ | t: Kilo Code HTML-Dateien auf iPad öffnen
 - de Article:/de/articles/open-notion-html-export-on-iphone/ | t: Notion-HTML-Exporte auf iPhone öffnen
 - de Article:/de/articles/open-google-docs-html-export-on-iphone/ | t: HTML-Datei aus Google Docs auf iPhone öffnen
 - de Article:/de/articles/open-microsoft-word-html-file-on-iphone/ | t: HTML-Datei aus Word auf iPhone öffnen
@@ -4014,7 +4014,7 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - fr Topic hub:/fr/topics/browser-download-sources/ | t: browser-download-sources: Téléchargements navigateur HTML sur iPhone et iPad
 - fr Topic hub:/fr/topics/ios-import-workflows/ | t: ios-import-workflows: Import iOS HTML sur iPhone et iPad
 - fr Article:/fr/articles/open-chatgpt-html-file-on-iphone/ | t: Ouvrir des fichiers HTML de ChatGPT et Claude sur iPhone
-- fr Article:/fr/articles/open-chatgpt-canvas-html-on-iphone/ | t: Ouvrir des fichiers HTML de ChatGPT Canvas sur iPhone
+- fr Article:/fr/articles/open-chatgpt-canvas-html-on-iphone/ | t: Ouvrir des fichiers HTML de ChatGPT Canvas sur iPad
 - fr Article:/fr/articles/open-ai-generated-html-file-on-iphone/ | t: Ouvrir fichiers HTML générés par IA sur iPhone
 - fr Article:/fr/articles/open-ai-generated-html-file-on-ipad/ | t: Ouvrir fichiers HTML générés par IA sur iPad
 - fr Article:/fr/articles/open-chatgpt-html-file-on-ipad/ | t: Ouvrir des fichiers HTML de ChatGPT sur iPad
@@ -4085,38 +4085,38 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - fr Article:/fr/articles/html-file-shows-source-code-on-iphone/ | t: Ouvrir HTML affiché en code sur iPhone
 - fr Article:/fr/articles/files-app-cant-preview-html-on-iphone/ | t: Files ne prévisualise pas HTML sur iPhone
 - fr Article:/fr/articles/quick-look-cant-preview-html-on-iphone/ | t: Quick Look ne prévisualise pas HTML sur iPhone
-- fr Article:/fr/articles/open-claude-html-file-on-iphone/ | t: Ouvrir des fichiers HTML de Claude sur iPhone
+- fr Article:/fr/articles/open-claude-html-file-on-iphone/ | t: Ouvrir des fichiers HTML de Claude sur iPad
 - fr Article:/fr/articles/open-claude-artifact-html-on-iphone/ | t: Ouvrir fichiers HTML de Claude Artifacts sur iPhone
-- fr Article:/fr/articles/open-chatgpt-html-download-on-iphone/ | t: Ouvrir telechargements HTML de ChatGPT sur iPhone
-- fr Article:/fr/articles/open-gemini-html-file-on-iphone/ | t: Ouvrir des fichiers HTML de Gemini, Gemini Canvas et Google AI Studio sur iPhone
-- fr Article:/fr/articles/open-google-ai-studio-html-file-on-iphone/ | t: Ouvrir des fichiers HTML de Google AI Studio sur iPhone
-- fr Article:/fr/articles/open-perplexity-html-file-on-iphone/ | t: Ouvrir des fichiers HTML de Perplexity sur iPhone
-- fr Article:/fr/articles/open-copilot-html-file-on-iphone/ | t: Ouvrir des fichiers HTML de Copilot sur iPhone
-- fr Article:/fr/articles/open-github-copilot-html-file-on-iphone/ | t: Ouvrir des fichiers HTML de GitHub Copilot sur iPhone
-- fr Article:/fr/articles/open-deepseek-html-file-on-iphone/ | t: Ouvrir des fichiers HTML de DeepSeek sur iPhone
-- fr Article:/fr/articles/open-grok-html-file-on-iphone/ | t: Ouvrir des fichiers HTML de Grok sur iPhone
-- fr Article:/fr/articles/open-notebooklm-html-file-on-iphone/ | t: Ouvrir des fichiers HTML de NotebookLM sur iPhone
-- fr Article:/fr/articles/open-qwen-html-file-on-iphone/ | t: Ouvrir des fichiers HTML de Qwen sur iPhone
-- fr Article:/fr/articles/open-kimi-html-file-on-iphone/ | t: Ouvrir des fichiers HTML de Kimi sur iPhone
-- fr Article:/fr/articles/open-poe-html-file-on-iphone/ | t: Ouvrir des fichiers HTML de Poe sur iPhone
-- fr Article:/fr/articles/open-mistral-le-chat-html-file-on-iphone/ | t: Ouvrir des fichiers HTML de Mistral Le Chat sur iPhone
-- fr Article:/fr/articles/open-cursor-html-file-on-iphone/ | t: Ouvrir des fichiers HTML de Cursor sur iPhone
-- fr Article:/fr/articles/open-claude-code-html-file-on-iphone/ | t: Ouvrir des fichiers HTML de Claude Code sur iPhone
-- fr Article:/fr/articles/open-codex-html-file-on-iphone/ | t: Ouvrir des fichiers HTML de Codex sur iPhone
-- fr Article:/fr/articles/open-v0-html-file-on-iphone/ | t: Ouvrir des fichiers HTML de v0 sur iPhone
-- fr Article:/fr/articles/open-bolt-html-file-on-iphone/ | t: Ouvrir des fichiers HTML de Bolt sur iPhone
-- fr Article:/fr/articles/open-replit-html-file-on-iphone/ | t: Ouvrir des fichiers HTML de Replit sur iPhone
-- fr Article:/fr/articles/open-lovable-html-file-on-iphone/ | t: Ouvrir des fichiers HTML de Lovable sur iPhone
-- fr Article:/fr/articles/open-windsurf-html-file-on-iphone/ | t: Ouvrir des fichiers HTML de Windsurf sur iPhone
-- fr Article:/fr/articles/open-manus-html-file-on-iphone/ | t: Ouvrir des fichiers HTML de Manus sur iPhone
-- fr Article:/fr/articles/open-devin-html-file-on-iphone/ | t: Ouvrir des fichiers HTML de Devin sur iPhone
-- fr Article:/fr/articles/open-figma-make-html-file-on-iphone/ | t: Ouvrir des fichiers HTML de Figma Make sur iPhone
-- fr Article:/fr/articles/open-firebase-studio-html-file-on-iphone/ | t: Ouvrir des fichiers HTML de Firebase Studio sur iPhone
-- fr Article:/fr/articles/open-google-antigravity-html-file-on-iphone/ | t: Ouvrir des fichiers HTML de Google Antigravity sur iPhone
-- fr Article:/fr/articles/open-trae-html-file-on-iphone/ | t: Ouvrir des fichiers HTML de Trae sur iPhone
-- fr Article:/fr/articles/open-cline-html-file-on-iphone/ | t: Ouvrir des fichiers HTML de Cline sur iPhone
-- fr Article:/fr/articles/open-base44-html-file-on-iphone/ | t: Ouvrir des fichiers HTML de Base44 sur iPhone
-- fr Article:/fr/articles/open-kilo-code-html-file-on-iphone/ | t: Ouvrir des fichiers HTML de Kilo Code sur iPhone
+- fr Article:/fr/articles/open-chatgpt-html-download-on-iphone/ | t: Ouvrir telechargements HTML de ChatGPT sur iPad
+- fr Article:/fr/articles/open-gemini-html-file-on-iphone/ | t: Ouvrir des fichiers HTML de Gemini, Gemini Canvas et Google AI Studio sur iPad
+- fr Article:/fr/articles/open-google-ai-studio-html-file-on-iphone/ | t: Ouvrir des fichiers HTML de Google AI Studio sur iPad
+- fr Article:/fr/articles/open-perplexity-html-file-on-iphone/ | t: Ouvrir des fichiers HTML de Perplexity sur iPad
+- fr Article:/fr/articles/open-copilot-html-file-on-iphone/ | t: Ouvrir des fichiers HTML de Copilot sur iPad
+- fr Article:/fr/articles/open-github-copilot-html-file-on-iphone/ | t: Ouvrir des fichiers HTML de GitHub Copilot sur iPad
+- fr Article:/fr/articles/open-deepseek-html-file-on-iphone/ | t: Ouvrir des fichiers HTML de DeepSeek sur iPad
+- fr Article:/fr/articles/open-grok-html-file-on-iphone/ | t: Ouvrir des fichiers HTML de Grok sur iPad
+- fr Article:/fr/articles/open-notebooklm-html-file-on-iphone/ | t: Ouvrir des fichiers HTML de NotebookLM sur iPad
+- fr Article:/fr/articles/open-qwen-html-file-on-iphone/ | t: Ouvrir des fichiers HTML de Qwen sur iPad
+- fr Article:/fr/articles/open-kimi-html-file-on-iphone/ | t: Ouvrir des fichiers HTML de Kimi sur iPad
+- fr Article:/fr/articles/open-poe-html-file-on-iphone/ | t: Ouvrir des fichiers HTML de Poe sur iPad
+- fr Article:/fr/articles/open-mistral-le-chat-html-file-on-iphone/ | t: Ouvrir des fichiers HTML de Mistral Le Chat sur iPad
+- fr Article:/fr/articles/open-cursor-html-file-on-iphone/ | t: Ouvrir des fichiers HTML de Cursor sur iPad
+- fr Article:/fr/articles/open-claude-code-html-file-on-iphone/ | t: Ouvrir des fichiers HTML de Claude Code sur iPad
+- fr Article:/fr/articles/open-codex-html-file-on-iphone/ | t: Ouvrir des fichiers HTML de Codex sur iPad
+- fr Article:/fr/articles/open-v0-html-file-on-iphone/ | t: Ouvrir des fichiers HTML de v0 sur iPad
+- fr Article:/fr/articles/open-bolt-html-file-on-iphone/ | t: Ouvrir des fichiers HTML de Bolt sur iPad
+- fr Article:/fr/articles/open-replit-html-file-on-iphone/ | t: Ouvrir des fichiers HTML de Replit sur iPad
+- fr Article:/fr/articles/open-lovable-html-file-on-iphone/ | t: Ouvrir des fichiers HTML de Lovable sur iPad
+- fr Article:/fr/articles/open-windsurf-html-file-on-iphone/ | t: Ouvrir des fichiers HTML de Windsurf sur iPad
+- fr Article:/fr/articles/open-manus-html-file-on-iphone/ | t: Ouvrir des fichiers HTML de Manus sur iPad
+- fr Article:/fr/articles/open-devin-html-file-on-iphone/ | t: Ouvrir des fichiers HTML de Devin sur iPad
+- fr Article:/fr/articles/open-figma-make-html-file-on-iphone/ | t: Ouvrir des fichiers HTML de Figma Make sur iPad
+- fr Article:/fr/articles/open-firebase-studio-html-file-on-iphone/ | t: Ouvrir des fichiers HTML de Firebase Studio sur iPad
+- fr Article:/fr/articles/open-google-antigravity-html-file-on-iphone/ | t: Ouvrir des fichiers HTML de Google Antigravity sur iPad
+- fr Article:/fr/articles/open-trae-html-file-on-iphone/ | t: Ouvrir des fichiers HTML de Trae sur iPad
+- fr Article:/fr/articles/open-cline-html-file-on-iphone/ | t: Ouvrir des fichiers HTML de Cline sur iPad
+- fr Article:/fr/articles/open-base44-html-file-on-iphone/ | t: Ouvrir des fichiers HTML de Base44 sur iPad
+- fr Article:/fr/articles/open-kilo-code-html-file-on-iphone/ | t: Ouvrir des fichiers HTML de Kilo Code sur iPad
 - fr Article:/fr/articles/open-notion-html-export-on-iphone/ | t: Ouvrir exports HTML Notion sur iPhone
 - fr Article:/fr/articles/open-google-docs-html-export-on-iphone/ | t: Ouvrir fichier HTML de Google Docs sur iPhone
 - fr Article:/fr/articles/open-microsoft-word-html-file-on-iphone/ | t: Ouvrir fichier HTML de Word sur iPhone
@@ -4169,7 +4169,7 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - pt-BR Topic hub:/pt-br/topics/browser-download-sources/ | t: browser-download-sources: Downloads do navegador HTML no iPhone e iPad
 - pt-BR Topic hub:/pt-br/topics/ios-import-workflows/ | t: ios-import-workflows: Importacao iOS HTML no iPhone e iPad
 - pt-BR Article:/pt-br/articles/open-chatgpt-html-file-on-iphone/ | t: Como abrir arquivos HTML do ChatGPT e Claude no iPhone
-- pt-BR Article:/pt-br/articles/open-chatgpt-canvas-html-on-iphone/ | t: Abrir arquivos HTML do ChatGPT Canvas no iPhone
+- pt-BR Article:/pt-br/articles/open-chatgpt-canvas-html-on-iphone/ | t: Abrir arquivos HTML do ChatGPT Canvas no iPad
 - pt-BR Article:/pt-br/articles/open-ai-generated-html-file-on-iphone/ | t: Abrir arquivos HTML gerados por IA no iPhone
 - pt-BR Article:/pt-br/articles/open-ai-generated-html-file-on-ipad/ | t: Abrir arquivos HTML gerados por IA no iPad
 - pt-BR Article:/pt-br/articles/open-chatgpt-html-file-on-ipad/ | t: Abrir arquivos HTML do ChatGPT no iPad
@@ -4240,38 +4240,38 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - pt-BR Article:/pt-br/articles/html-file-shows-source-code-on-iphone/ | t: Abrir HTML como codigo-fonte no iPhone
 - pt-BR Article:/pt-br/articles/files-app-cant-preview-html-on-iphone/ | t: Files não mostra HTML no iPhone
 - pt-BR Article:/pt-br/articles/quick-look-cant-preview-html-on-iphone/ | t: Quick Look não mostra HTML no iPhone
-- pt-BR Article:/pt-br/articles/open-claude-html-file-on-iphone/ | t: Abrir arquivos HTML do Claude no iPhone
+- pt-BR Article:/pt-br/articles/open-claude-html-file-on-iphone/ | t: Abrir arquivos HTML do Claude no iPad
 - pt-BR Article:/pt-br/articles/open-claude-artifact-html-on-iphone/ | t: Abrir arquivos HTML do Claude Artifacts no iPhone
-- pt-BR Article:/pt-br/articles/open-chatgpt-html-download-on-iphone/ | t: Abrir downloads HTML do ChatGPT no iPhone
-- pt-BR Article:/pt-br/articles/open-gemini-html-file-on-iphone/ | t: Abrir arquivos HTML do Gemini, Gemini Canvas e Google AI Studio no iPhone
-- pt-BR Article:/pt-br/articles/open-google-ai-studio-html-file-on-iphone/ | t: Abrir arquivos HTML do Google AI Studio no iPhone
-- pt-BR Article:/pt-br/articles/open-perplexity-html-file-on-iphone/ | t: Abrir arquivos HTML do Perplexity no iPhone
-- pt-BR Article:/pt-br/articles/open-copilot-html-file-on-iphone/ | t: Abrir arquivos HTML do Copilot no iPhone
-- pt-BR Article:/pt-br/articles/open-github-copilot-html-file-on-iphone/ | t: Abrir arquivos HTML do GitHub Copilot no iPhone
-- pt-BR Article:/pt-br/articles/open-deepseek-html-file-on-iphone/ | t: Abrir arquivos HTML do DeepSeek no iPhone
-- pt-BR Article:/pt-br/articles/open-grok-html-file-on-iphone/ | t: Abrir arquivos HTML do Grok no iPhone
-- pt-BR Article:/pt-br/articles/open-notebooklm-html-file-on-iphone/ | t: Abrir arquivos HTML do NotebookLM no iPhone
-- pt-BR Article:/pt-br/articles/open-qwen-html-file-on-iphone/ | t: Abrir arquivos HTML do Qwen no iPhone
-- pt-BR Article:/pt-br/articles/open-kimi-html-file-on-iphone/ | t: Abrir arquivos HTML do Kimi no iPhone
-- pt-BR Article:/pt-br/articles/open-poe-html-file-on-iphone/ | t: Abrir arquivos HTML do Poe no iPhone
-- pt-BR Article:/pt-br/articles/open-mistral-le-chat-html-file-on-iphone/ | t: Abrir arquivos HTML do Mistral Le Chat no iPhone
-- pt-BR Article:/pt-br/articles/open-cursor-html-file-on-iphone/ | t: Abrir arquivos HTML do Cursor no iPhone
-- pt-BR Article:/pt-br/articles/open-claude-code-html-file-on-iphone/ | t: Abrir arquivos HTML do Claude Code no iPhone
-- pt-BR Article:/pt-br/articles/open-codex-html-file-on-iphone/ | t: Abrir arquivos HTML do Codex no iPhone
-- pt-BR Article:/pt-br/articles/open-v0-html-file-on-iphone/ | t: Abrir arquivos HTML do v0 no iPhone
-- pt-BR Article:/pt-br/articles/open-bolt-html-file-on-iphone/ | t: Abrir arquivos HTML do Bolt no iPhone
-- pt-BR Article:/pt-br/articles/open-replit-html-file-on-iphone/ | t: Abrir arquivos HTML do Replit no iPhone
-- pt-BR Article:/pt-br/articles/open-lovable-html-file-on-iphone/ | t: Abrir arquivos HTML do Lovable no iPhone
-- pt-BR Article:/pt-br/articles/open-windsurf-html-file-on-iphone/ | t: Abrir arquivos HTML do Windsurf no iPhone
-- pt-BR Article:/pt-br/articles/open-manus-html-file-on-iphone/ | t: Abrir arquivos HTML do Manus no iPhone
-- pt-BR Article:/pt-br/articles/open-devin-html-file-on-iphone/ | t: Abrir arquivos HTML do Devin no iPhone
-- pt-BR Article:/pt-br/articles/open-figma-make-html-file-on-iphone/ | t: Abrir arquivos HTML do Figma Make no iPhone
-- pt-BR Article:/pt-br/articles/open-firebase-studio-html-file-on-iphone/ | t: Abrir arquivos HTML do Firebase Studio no iPhone
-- pt-BR Article:/pt-br/articles/open-google-antigravity-html-file-on-iphone/ | t: Abrir arquivos HTML do Google Antigravity no iPhone
-- pt-BR Article:/pt-br/articles/open-trae-html-file-on-iphone/ | t: Abrir arquivos HTML do Trae no iPhone
-- pt-BR Article:/pt-br/articles/open-cline-html-file-on-iphone/ | t: Abrir arquivos HTML do Cline no iPhone
-- pt-BR Article:/pt-br/articles/open-base44-html-file-on-iphone/ | t: Abrir arquivos HTML do Base44 no iPhone
-- pt-BR Article:/pt-br/articles/open-kilo-code-html-file-on-iphone/ | t: Abrir arquivos HTML do Kilo Code no iPhone
+- pt-BR Article:/pt-br/articles/open-chatgpt-html-download-on-iphone/ | t: Abrir downloads HTML do ChatGPT no iPad
+- pt-BR Article:/pt-br/articles/open-gemini-html-file-on-iphone/ | t: Abrir arquivos HTML do Gemini, Gemini Canvas e Google AI Studio no iPad
+- pt-BR Article:/pt-br/articles/open-google-ai-studio-html-file-on-iphone/ | t: Abrir arquivos HTML do Google AI Studio no iPad
+- pt-BR Article:/pt-br/articles/open-perplexity-html-file-on-iphone/ | t: Abrir arquivos HTML do Perplexity no iPad
+- pt-BR Article:/pt-br/articles/open-copilot-html-file-on-iphone/ | t: Abrir arquivos HTML do Copilot no iPad
+- pt-BR Article:/pt-br/articles/open-github-copilot-html-file-on-iphone/ | t: Abrir arquivos HTML do GitHub Copilot no iPad
+- pt-BR Article:/pt-br/articles/open-deepseek-html-file-on-iphone/ | t: Abrir arquivos HTML do DeepSeek no iPad
+- pt-BR Article:/pt-br/articles/open-grok-html-file-on-iphone/ | t: Abrir arquivos HTML do Grok no iPad
+- pt-BR Article:/pt-br/articles/open-notebooklm-html-file-on-iphone/ | t: Abrir arquivos HTML do NotebookLM no iPad
+- pt-BR Article:/pt-br/articles/open-qwen-html-file-on-iphone/ | t: Abrir arquivos HTML do Qwen no iPad
+- pt-BR Article:/pt-br/articles/open-kimi-html-file-on-iphone/ | t: Abrir arquivos HTML do Kimi no iPad
+- pt-BR Article:/pt-br/articles/open-poe-html-file-on-iphone/ | t: Abrir arquivos HTML do Poe no iPad
+- pt-BR Article:/pt-br/articles/open-mistral-le-chat-html-file-on-iphone/ | t: Abrir arquivos HTML do Mistral Le Chat no iPad
+- pt-BR Article:/pt-br/articles/open-cursor-html-file-on-iphone/ | t: Abrir arquivos HTML do Cursor no iPad
+- pt-BR Article:/pt-br/articles/open-claude-code-html-file-on-iphone/ | t: Abrir arquivos HTML do Claude Code no iPad
+- pt-BR Article:/pt-br/articles/open-codex-html-file-on-iphone/ | t: Abrir arquivos HTML do Codex no iPad
+- pt-BR Article:/pt-br/articles/open-v0-html-file-on-iphone/ | t: Abrir arquivos HTML do v0 no iPad
+- pt-BR Article:/pt-br/articles/open-bolt-html-file-on-iphone/ | t: Abrir arquivos HTML do Bolt no iPad
+- pt-BR Article:/pt-br/articles/open-replit-html-file-on-iphone/ | t: Abrir arquivos HTML do Replit no iPad
+- pt-BR Article:/pt-br/articles/open-lovable-html-file-on-iphone/ | t: Abrir arquivos HTML do Lovable no iPad
+- pt-BR Article:/pt-br/articles/open-windsurf-html-file-on-iphone/ | t: Abrir arquivos HTML do Windsurf no iPad
+- pt-BR Article:/pt-br/articles/open-manus-html-file-on-iphone/ | t: Abrir arquivos HTML do Manus no iPad
+- pt-BR Article:/pt-br/articles/open-devin-html-file-on-iphone/ | t: Abrir arquivos HTML do Devin no iPad
+- pt-BR Article:/pt-br/articles/open-figma-make-html-file-on-iphone/ | t: Abrir arquivos HTML do Figma Make no iPad
+- pt-BR Article:/pt-br/articles/open-firebase-studio-html-file-on-iphone/ | t: Abrir arquivos HTML do Firebase Studio no iPad
+- pt-BR Article:/pt-br/articles/open-google-antigravity-html-file-on-iphone/ | t: Abrir arquivos HTML do Google Antigravity no iPad
+- pt-BR Article:/pt-br/articles/open-trae-html-file-on-iphone/ | t: Abrir arquivos HTML do Trae no iPad
+- pt-BR Article:/pt-br/articles/open-cline-html-file-on-iphone/ | t: Abrir arquivos HTML do Cline no iPad
+- pt-BR Article:/pt-br/articles/open-base44-html-file-on-iphone/ | t: Abrir arquivos HTML do Base44 no iPad
+- pt-BR Article:/pt-br/articles/open-kilo-code-html-file-on-iphone/ | t: Abrir arquivos HTML do Kilo Code no iPad
 - pt-BR Article:/pt-br/articles/open-notion-html-export-on-iphone/ | t: Abrir exportacoes HTML do Notion no iPhone
 - pt-BR Article:/pt-br/articles/open-google-docs-html-export-on-iphone/ | t: Abrir arquivo HTML do Google Docs no iPhone
 - pt-BR Article:/pt-br/articles/open-microsoft-word-html-file-on-iphone/ | t: Abrir arquivo HTML do Word no iPhone
@@ -4944,7 +4944,7 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - tr Topic hub:/tr/topics/browser-download-sources/ | t: browser-download-sources: Tarayici indirmeleri HTML iPhone ve iPad uzerinde
 - tr Topic hub:/tr/topics/ios-import-workflows/ | t: ios-import-workflows: iOS ice aktarma HTML iPhone ve iPad uzerinde
 - tr Article:/tr/articles/open-chatgpt-html-file-on-iphone/ | t: iPhone uzerinde ChatGPT, Claude, Gemini HTML dosyalari acma
-- tr Article:/tr/articles/open-chatgpt-canvas-html-on-iphone/ | t: iPhone uzerinde ChatGPT Canvas HTML dosyalari acma
+- tr Article:/tr/articles/open-chatgpt-canvas-html-on-iphone/ | t: iPad uzerinde ChatGPT Canvas HTML dosyalari acma
 - tr Article:/tr/articles/open-ai-generated-html-file-on-iphone/ | t: iPhone uzerinde AI tarafindan uretilen HTML dosyalari acma
 - tr Article:/tr/articles/open-ai-generated-html-file-on-ipad/ | t: iPad'de AI tarafindan uretilen HTML dosyalari acma
 - tr Article:/tr/articles/open-chatgpt-html-file-on-ipad/ | t: iPad uzerinde ChatGPT HTML dosyalari acma
@@ -5015,38 +5015,38 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - tr Article:/tr/articles/html-file-shows-source-code-on-iphone/ | t: iPhone uzerinde HTML kod olarak gorunuyor acma
 - tr Article:/tr/articles/files-app-cant-preview-html-on-iphone/ | t: Files HTML önizlemiyor
 - tr Article:/tr/articles/quick-look-cant-preview-html-on-iphone/ | t: Quick Look HTML göstermiyor
-- tr Article:/tr/articles/open-claude-html-file-on-iphone/ | t: iPhone uzerinde Claude HTML dosyalari acma
+- tr Article:/tr/articles/open-claude-html-file-on-iphone/ | t: iPad uzerinde Claude HTML dosyalari acma
 - tr Article:/tr/articles/open-claude-artifact-html-on-iphone/ | t: iPhone uzerinde Claude Artifacts HTML dosyalari acma
-- tr Article:/tr/articles/open-chatgpt-html-download-on-iphone/ | t: iPhone uzerinde ChatGPT downloads HTML dosyalari acma
-- tr Article:/tr/articles/open-gemini-html-file-on-iphone/ | t: iPhone uzerinde Gemini, Gemini Canvas ve Google AI Studio HTML dosyalari acma
-- tr Article:/tr/articles/open-google-ai-studio-html-file-on-iphone/ | t: iPhone uzerinde Google AI Studio HTML dosyalari acma
-- tr Article:/tr/articles/open-perplexity-html-file-on-iphone/ | t: iPhone uzerinde Perplexity HTML dosyalari acma
-- tr Article:/tr/articles/open-copilot-html-file-on-iphone/ | t: iPhone uzerinde Copilot HTML dosyalari acma
-- tr Article:/tr/articles/open-github-copilot-html-file-on-iphone/ | t: iPhone uzerinde GitHub Copilot HTML dosyalari acma
-- tr Article:/tr/articles/open-deepseek-html-file-on-iphone/ | t: iPhone uzerinde DeepSeek HTML dosyalari acma
-- tr Article:/tr/articles/open-grok-html-file-on-iphone/ | t: iPhone uzerinde Grok HTML dosyalari acma
-- tr Article:/tr/articles/open-notebooklm-html-file-on-iphone/ | t: iPhone uzerinde NotebookLM HTML dosyalari acma
-- tr Article:/tr/articles/open-qwen-html-file-on-iphone/ | t: iPhone uzerinde Qwen HTML dosyalari acma
-- tr Article:/tr/articles/open-kimi-html-file-on-iphone/ | t: iPhone uzerinde Kimi HTML dosyalari acma
-- tr Article:/tr/articles/open-poe-html-file-on-iphone/ | t: iPhone uzerinde Poe HTML dosyalari acma
-- tr Article:/tr/articles/open-mistral-le-chat-html-file-on-iphone/ | t: iPhone uzerinde Mistral Le Chat HTML dosyalari acma
-- tr Article:/tr/articles/open-cursor-html-file-on-iphone/ | t: iPhone uzerinde Cursor HTML dosyalari acma
-- tr Article:/tr/articles/open-claude-code-html-file-on-iphone/ | t: iPhone uzerinde Claude Code HTML dosyalari acma
-- tr Article:/tr/articles/open-codex-html-file-on-iphone/ | t: iPhone uzerinde Codex HTML dosyalari acma
-- tr Article:/tr/articles/open-v0-html-file-on-iphone/ | t: iPhone uzerinde v0 HTML dosyalari acma
-- tr Article:/tr/articles/open-bolt-html-file-on-iphone/ | t: iPhone uzerinde Bolt HTML dosyalari acma
-- tr Article:/tr/articles/open-replit-html-file-on-iphone/ | t: iPhone uzerinde Replit HTML dosyalari acma
-- tr Article:/tr/articles/open-lovable-html-file-on-iphone/ | t: iPhone uzerinde Lovable HTML dosyalari acma
-- tr Article:/tr/articles/open-windsurf-html-file-on-iphone/ | t: iPhone uzerinde Windsurf HTML dosyalari acma
-- tr Article:/tr/articles/open-manus-html-file-on-iphone/ | t: iPhone uzerinde Manus HTML dosyalari acma
-- tr Article:/tr/articles/open-devin-html-file-on-iphone/ | t: iPhone uzerinde Devin HTML dosyalari acma
-- tr Article:/tr/articles/open-figma-make-html-file-on-iphone/ | t: iPhone uzerinde Figma Make HTML dosyalari acma
-- tr Article:/tr/articles/open-firebase-studio-html-file-on-iphone/ | t: iPhone uzerinde Firebase Studio HTML dosyalari acma
-- tr Article:/tr/articles/open-google-antigravity-html-file-on-iphone/ | t: iPhone uzerinde Google Antigravity HTML dosyalari acma
-- tr Article:/tr/articles/open-trae-html-file-on-iphone/ | t: iPhone uzerinde Trae HTML dosyalari acma
-- tr Article:/tr/articles/open-cline-html-file-on-iphone/ | t: iPhone uzerinde Cline HTML dosyalari acma
-- tr Article:/tr/articles/open-base44-html-file-on-iphone/ | t: iPhone uzerinde Base44 HTML dosyalari acma
-- tr Article:/tr/articles/open-kilo-code-html-file-on-iphone/ | t: iPhone uzerinde Kilo Code HTML dosyalari acma
+- tr Article:/tr/articles/open-chatgpt-html-download-on-iphone/ | t: iPad uzerinde ChatGPT downloads HTML dosyalari acma
+- tr Article:/tr/articles/open-gemini-html-file-on-iphone/ | t: iPad uzerinde Gemini, Gemini Canvas ve Google AI Studio HTML dosyalari acma
+- tr Article:/tr/articles/open-google-ai-studio-html-file-on-iphone/ | t: iPad uzerinde Google AI Studio HTML dosyalari acma
+- tr Article:/tr/articles/open-perplexity-html-file-on-iphone/ | t: iPad uzerinde Perplexity HTML dosyalari acma
+- tr Article:/tr/articles/open-copilot-html-file-on-iphone/ | t: iPad uzerinde Copilot HTML dosyalari acma
+- tr Article:/tr/articles/open-github-copilot-html-file-on-iphone/ | t: iPad uzerinde GitHub Copilot HTML dosyalari acma
+- tr Article:/tr/articles/open-deepseek-html-file-on-iphone/ | t: iPad uzerinde DeepSeek HTML dosyalari acma
+- tr Article:/tr/articles/open-grok-html-file-on-iphone/ | t: iPad uzerinde Grok HTML dosyalari acma
+- tr Article:/tr/articles/open-notebooklm-html-file-on-iphone/ | t: iPad uzerinde NotebookLM HTML dosyalari acma
+- tr Article:/tr/articles/open-qwen-html-file-on-iphone/ | t: iPad uzerinde Qwen HTML dosyalari acma
+- tr Article:/tr/articles/open-kimi-html-file-on-iphone/ | t: iPad uzerinde Kimi HTML dosyalari acma
+- tr Article:/tr/articles/open-poe-html-file-on-iphone/ | t: iPad uzerinde Poe HTML dosyalari acma
+- tr Article:/tr/articles/open-mistral-le-chat-html-file-on-iphone/ | t: iPad uzerinde Mistral Le Chat HTML dosyalari acma
+- tr Article:/tr/articles/open-cursor-html-file-on-iphone/ | t: iPad uzerinde Cursor HTML dosyalari acma
+- tr Article:/tr/articles/open-claude-code-html-file-on-iphone/ | t: iPad uzerinde Claude Code HTML dosyalari acma
+- tr Article:/tr/articles/open-codex-html-file-on-iphone/ | t: iPad uzerinde Codex HTML dosyalari acma
+- tr Article:/tr/articles/open-v0-html-file-on-iphone/ | t: iPad uzerinde v0 HTML dosyalari acma
+- tr Article:/tr/articles/open-bolt-html-file-on-iphone/ | t: iPad uzerinde Bolt HTML dosyalari acma
+- tr Article:/tr/articles/open-replit-html-file-on-iphone/ | t: iPad uzerinde Replit HTML dosyalari acma
+- tr Article:/tr/articles/open-lovable-html-file-on-iphone/ | t: iPad uzerinde Lovable HTML dosyalari acma
+- tr Article:/tr/articles/open-windsurf-html-file-on-iphone/ | t: iPad uzerinde Windsurf HTML dosyalari acma
+- tr Article:/tr/articles/open-manus-html-file-on-iphone/ | t: iPad uzerinde Manus HTML dosyalari acma
+- tr Article:/tr/articles/open-devin-html-file-on-iphone/ | t: iPad uzerinde Devin HTML dosyalari acma
+- tr Article:/tr/articles/open-figma-make-html-file-on-iphone/ | t: iPad uzerinde Figma Make HTML dosyalari acma
+- tr Article:/tr/articles/open-firebase-studio-html-file-on-iphone/ | t: iPad uzerinde Firebase Studio HTML dosyalari acma
+- tr Article:/tr/articles/open-google-antigravity-html-file-on-iphone/ | t: iPad uzerinde Google Antigravity HTML dosyalari acma
+- tr Article:/tr/articles/open-trae-html-file-on-iphone/ | t: iPad uzerinde Trae HTML dosyalari acma
+- tr Article:/tr/articles/open-cline-html-file-on-iphone/ | t: iPad uzerinde Cline HTML dosyalari acma
+- tr Article:/tr/articles/open-base44-html-file-on-iphone/ | t: iPad uzerinde Base44 HTML dosyalari acma
+- tr Article:/tr/articles/open-kilo-code-html-file-on-iphone/ | t: iPad uzerinde Kilo Code HTML dosyalari acma
 - tr Article:/tr/articles/open-notion-html-export-on-iphone/ | t: iPhone uzerinde Notion dis aktarimi HTML dosyalari acma
 - tr Article:/tr/articles/open-google-docs-html-export-on-iphone/ | t: Google Docs HTML dosyasi iPhone'da acma
 - tr Article:/tr/articles/open-microsoft-word-html-file-on-iphone/ | t: Word HTML dosyasi iPhone'da acma
@@ -5254,7 +5254,7 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - vi Topic hub:/vi/topics/browser-download-sources/ | t: browser-download-sources: Tải ve trình duyệt HTML trên iPhone và iPad
 - vi Topic hub:/vi/topics/ios-import-workflows/ | t: ios-import-workflows: Nhập iOS HTML trên iPhone và iPad
 - vi Article:/vi/articles/open-chatgpt-html-file-on-iphone/ | t: Mở ChatGPT, Claude, Gemini tệp HTML trên iPhone
-- vi Article:/vi/articles/open-chatgpt-canvas-html-on-iphone/ | t: Mở ChatGPT Canvas tệp HTML trên iPhone
+- vi Article:/vi/articles/open-chatgpt-canvas-html-on-iphone/ | t: Mở ChatGPT Canvas tệp HTML trên iPad
 - vi Article:/vi/articles/open-ai-generated-html-file-on-iphone/ | t: Mở tệp HTML do AI tạo trên iPhone
 - vi Article:/vi/articles/open-ai-generated-html-file-on-ipad/ | t: Mở tệp HTML do AI tạo trên iPad
 - vi Article:/vi/articles/open-chatgpt-html-file-on-ipad/ | t: Mở ChatGPT tệp HTML trên iPad
@@ -5325,38 +5325,38 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - vi Article:/vi/articles/html-file-shows-source-code-on-iphone/ | t: Mở HTML hiện như mã nguồn trên iPhone
 - vi Article:/vi/articles/files-app-cant-preview-html-on-iphone/ | t: Files không xem được HTML trên iPhone
 - vi Article:/vi/articles/quick-look-cant-preview-html-on-iphone/ | t: Quick Look không xem được HTML trên iPhone
-- vi Article:/vi/articles/open-claude-html-file-on-iphone/ | t: Mở Claude tệp HTML trên iPhone
+- vi Article:/vi/articles/open-claude-html-file-on-iphone/ | t: Mở Claude tệp HTML trên iPad
 - vi Article:/vi/articles/open-claude-artifact-html-on-iphone/ | t: Mở Claude Artifacts tệp HTML trên iPhone
-- vi Article:/vi/articles/open-chatgpt-html-download-on-iphone/ | t: Mở ChatGPT tải xuống tệp HTML trên iPhone
-- vi Article:/vi/articles/open-gemini-html-file-on-iphone/ | t: Mở Gemini, Gemini Canvas và Google AI Studio tệp HTML trên iPhone
-- vi Article:/vi/articles/open-google-ai-studio-html-file-on-iphone/ | t: Mở Google AI Studio tệp HTML trên iPhone
-- vi Article:/vi/articles/open-perplexity-html-file-on-iphone/ | t: Mở Perplexity tệp HTML trên iPhone
-- vi Article:/vi/articles/open-copilot-html-file-on-iphone/ | t: Mở Copilot tệp HTML trên iPhone
-- vi Article:/vi/articles/open-github-copilot-html-file-on-iphone/ | t: Mở GitHub Copilot tệp HTML trên iPhone
-- vi Article:/vi/articles/open-deepseek-html-file-on-iphone/ | t: Mở DeepSeek tệp HTML trên iPhone
-- vi Article:/vi/articles/open-grok-html-file-on-iphone/ | t: Mở Grok tệp HTML trên iPhone
-- vi Article:/vi/articles/open-notebooklm-html-file-on-iphone/ | t: Mở NotebookLM tệp HTML trên iPhone
-- vi Article:/vi/articles/open-qwen-html-file-on-iphone/ | t: Mở Qwen tệp HTML trên iPhone
-- vi Article:/vi/articles/open-kimi-html-file-on-iphone/ | t: Mở Kimi tệp HTML trên iPhone
-- vi Article:/vi/articles/open-poe-html-file-on-iphone/ | t: Mở Poe tệp HTML trên iPhone
-- vi Article:/vi/articles/open-mistral-le-chat-html-file-on-iphone/ | t: Mở Mistral Le Chat tệp HTML trên iPhone
-- vi Article:/vi/articles/open-cursor-html-file-on-iphone/ | t: Mở Cursor tệp HTML trên iPhone
-- vi Article:/vi/articles/open-claude-code-html-file-on-iphone/ | t: Mở Claude Code tệp HTML trên iPhone
-- vi Article:/vi/articles/open-codex-html-file-on-iphone/ | t: Mở Codex tệp HTML trên iPhone
-- vi Article:/vi/articles/open-v0-html-file-on-iphone/ | t: Mở v0 tệp HTML trên iPhone
-- vi Article:/vi/articles/open-bolt-html-file-on-iphone/ | t: Mở Bolt tệp HTML trên iPhone
-- vi Article:/vi/articles/open-replit-html-file-on-iphone/ | t: Mở Replit tệp HTML trên iPhone
-- vi Article:/vi/articles/open-lovable-html-file-on-iphone/ | t: Mở Lovable tệp HTML trên iPhone
-- vi Article:/vi/articles/open-windsurf-html-file-on-iphone/ | t: Mở Windsurf tệp HTML trên iPhone
-- vi Article:/vi/articles/open-manus-html-file-on-iphone/ | t: Mở Manus tệp HTML trên iPhone
-- vi Article:/vi/articles/open-devin-html-file-on-iphone/ | t: Mở Devin tệp HTML trên iPhone
-- vi Article:/vi/articles/open-figma-make-html-file-on-iphone/ | t: Mở Figma Make tệp HTML trên iPhone
-- vi Article:/vi/articles/open-firebase-studio-html-file-on-iphone/ | t: Mở Firebase Studio tệp HTML trên iPhone
-- vi Article:/vi/articles/open-google-antigravity-html-file-on-iphone/ | t: Mở Google Antigravity tệp HTML trên iPhone
-- vi Article:/vi/articles/open-trae-html-file-on-iphone/ | t: Mở Trae tệp HTML trên iPhone
-- vi Article:/vi/articles/open-cline-html-file-on-iphone/ | t: Mở Cline tệp HTML trên iPhone
-- vi Article:/vi/articles/open-base44-html-file-on-iphone/ | t: Mở Base44 tệp HTML trên iPhone
-- vi Article:/vi/articles/open-kilo-code-html-file-on-iphone/ | t: Mở Kilo Code tệp HTML trên iPhone
+- vi Article:/vi/articles/open-chatgpt-html-download-on-iphone/ | t: Mở ChatGPT tải xuống tệp HTML trên iPad
+- vi Article:/vi/articles/open-gemini-html-file-on-iphone/ | t: Mở Gemini, Gemini Canvas và Google AI Studio tệp HTML trên iPad
+- vi Article:/vi/articles/open-google-ai-studio-html-file-on-iphone/ | t: Mở Google AI Studio tệp HTML trên iPad
+- vi Article:/vi/articles/open-perplexity-html-file-on-iphone/ | t: Mở Perplexity tệp HTML trên iPad
+- vi Article:/vi/articles/open-copilot-html-file-on-iphone/ | t: Mở Copilot tệp HTML trên iPad
+- vi Article:/vi/articles/open-github-copilot-html-file-on-iphone/ | t: Mở GitHub Copilot tệp HTML trên iPad
+- vi Article:/vi/articles/open-deepseek-html-file-on-iphone/ | t: Mở DeepSeek tệp HTML trên iPad
+- vi Article:/vi/articles/open-grok-html-file-on-iphone/ | t: Mở Grok tệp HTML trên iPad
+- vi Article:/vi/articles/open-notebooklm-html-file-on-iphone/ | t: Mở NotebookLM tệp HTML trên iPad
+- vi Article:/vi/articles/open-qwen-html-file-on-iphone/ | t: Mở Qwen tệp HTML trên iPad
+- vi Article:/vi/articles/open-kimi-html-file-on-iphone/ | t: Mở Kimi tệp HTML trên iPad
+- vi Article:/vi/articles/open-poe-html-file-on-iphone/ | t: Mở Poe tệp HTML trên iPad
+- vi Article:/vi/articles/open-mistral-le-chat-html-file-on-iphone/ | t: Mở Mistral Le Chat tệp HTML trên iPad
+- vi Article:/vi/articles/open-cursor-html-file-on-iphone/ | t: Mở Cursor tệp HTML trên iPad
+- vi Article:/vi/articles/open-claude-code-html-file-on-iphone/ | t: Mở Claude Code tệp HTML trên iPad
+- vi Article:/vi/articles/open-codex-html-file-on-iphone/ | t: Mở Codex tệp HTML trên iPad
+- vi Article:/vi/articles/open-v0-html-file-on-iphone/ | t: Mở v0 tệp HTML trên iPad
+- vi Article:/vi/articles/open-bolt-html-file-on-iphone/ | t: Mở Bolt tệp HTML trên iPad
+- vi Article:/vi/articles/open-replit-html-file-on-iphone/ | t: Mở Replit tệp HTML trên iPad
+- vi Article:/vi/articles/open-lovable-html-file-on-iphone/ | t: Mở Lovable tệp HTML trên iPad
+- vi Article:/vi/articles/open-windsurf-html-file-on-iphone/ | t: Mở Windsurf tệp HTML trên iPad
+- vi Article:/vi/articles/open-manus-html-file-on-iphone/ | t: Mở Manus tệp HTML trên iPad
+- vi Article:/vi/articles/open-devin-html-file-on-iphone/ | t: Mở Devin tệp HTML trên iPad
+- vi Article:/vi/articles/open-figma-make-html-file-on-iphone/ | t: Mở Figma Make tệp HTML trên iPad
+- vi Article:/vi/articles/open-firebase-studio-html-file-on-iphone/ | t: Mở Firebase Studio tệp HTML trên iPad
+- vi Article:/vi/articles/open-google-antigravity-html-file-on-iphone/ | t: Mở Google Antigravity tệp HTML trên iPad
+- vi Article:/vi/articles/open-trae-html-file-on-iphone/ | t: Mở Trae tệp HTML trên iPad
+- vi Article:/vi/articles/open-cline-html-file-on-iphone/ | t: Mở Cline tệp HTML trên iPad
+- vi Article:/vi/articles/open-base44-html-file-on-iphone/ | t: Mở Base44 tệp HTML trên iPad
+- vi Article:/vi/articles/open-kilo-code-html-file-on-iphone/ | t: Mở Kilo Code tệp HTML trên iPad
 - vi Article:/vi/articles/open-notion-html-export-on-iphone/ | t: Mở tệp HTML từ xuất Notion trên iPhone
 - vi Article:/vi/articles/open-google-docs-html-export-on-iphone/ | t: Mở tệp HTML từ Google Docs trên iPhone
 - vi Article:/vi/articles/open-microsoft-word-html-file-on-iphone/ | t: Mở tệp HTML từ Word trên iPhone
@@ -5409,7 +5409,7 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - th Topic hub:/th/topics/browser-download-sources/ | t: browser-download-sources: ดาวน์โหลดจากเบราว์เซอร์ HTML บน iPhone และ iPad
 - th Topic hub:/th/topics/ios-import-workflows/ | t: ios-import-workflows: นำเข้า iOS HTML บน iPhone และ iPad
 - th Article:/th/articles/open-chatgpt-html-file-on-iphone/ | t: เปิด ChatGPT, Claude, Gemini ไฟล์ HTML บน iPhone
-- th Article:/th/articles/open-chatgpt-canvas-html-on-iphone/ | t: เปิด ChatGPT Canvas ไฟล์ HTML บน iPhone
+- th Article:/th/articles/open-chatgpt-canvas-html-on-iphone/ | t: เปิด ChatGPT Canvas ไฟล์ HTML บน iPad
 - th Article:/th/articles/open-ai-generated-html-file-on-iphone/ | t: เปิด ไฟล์ HTML ที่ AI สร้าง บน iPhone
 - th Article:/th/articles/open-ai-generated-html-file-on-ipad/ | t: เปิด HTML ที่ AI สร้างบน iPad
 - th Article:/th/articles/open-chatgpt-html-file-on-ipad/ | t: เปิด ChatGPT ไฟล์ HTML บน iPad
@@ -5480,38 +5480,38 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - th Article:/th/articles/html-file-shows-source-code-on-iphone/ | t: เปิด HTML แสดงเป็นซอร์สโค้ด บน iPhone
 - th Article:/th/articles/files-app-cant-preview-html-on-iphone/ | t: Files ไม่แสดง HTML บน iPhone
 - th Article:/th/articles/quick-look-cant-preview-html-on-iphone/ | t: Quick Look ไม่แสดง HTML บน iPhone
-- th Article:/th/articles/open-claude-html-file-on-iphone/ | t: เปิด Claude ไฟล์ HTML บน iPhone
+- th Article:/th/articles/open-claude-html-file-on-iphone/ | t: เปิด Claude ไฟล์ HTML บน iPad
 - th Article:/th/articles/open-claude-artifact-html-on-iphone/ | t: เปิด Claude Artifacts ไฟล์ HTML บน iPhone
-- th Article:/th/articles/open-chatgpt-html-download-on-iphone/ | t: เปิด ChatGPT downloads ไฟล์ HTML บน iPhone
-- th Article:/th/articles/open-gemini-html-file-on-iphone/ | t: เปิด Gemini, Gemini Canvas และ Google AI Studio ไฟล์ HTML บน iPhone
-- th Article:/th/articles/open-google-ai-studio-html-file-on-iphone/ | t: เปิด Google AI Studio ไฟล์ HTML บน iPhone
-- th Article:/th/articles/open-perplexity-html-file-on-iphone/ | t: เปิด Perplexity ไฟล์ HTML บน iPhone
-- th Article:/th/articles/open-copilot-html-file-on-iphone/ | t: เปิด Copilot ไฟล์ HTML บน iPhone
-- th Article:/th/articles/open-github-copilot-html-file-on-iphone/ | t: เปิด GitHub Copilot ไฟล์ HTML บน iPhone
-- th Article:/th/articles/open-deepseek-html-file-on-iphone/ | t: เปิด DeepSeek ไฟล์ HTML บน iPhone
-- th Article:/th/articles/open-grok-html-file-on-iphone/ | t: เปิด Grok ไฟล์ HTML บน iPhone
-- th Article:/th/articles/open-notebooklm-html-file-on-iphone/ | t: เปิด NotebookLM ไฟล์ HTML บน iPhone
-- th Article:/th/articles/open-qwen-html-file-on-iphone/ | t: เปิด Qwen ไฟล์ HTML บน iPhone
-- th Article:/th/articles/open-kimi-html-file-on-iphone/ | t: เปิด Kimi ไฟล์ HTML บน iPhone
-- th Article:/th/articles/open-poe-html-file-on-iphone/ | t: เปิด Poe ไฟล์ HTML บน iPhone
-- th Article:/th/articles/open-mistral-le-chat-html-file-on-iphone/ | t: เปิด Mistral Le Chat ไฟล์ HTML บน iPhone
-- th Article:/th/articles/open-cursor-html-file-on-iphone/ | t: เปิด Cursor ไฟล์ HTML บน iPhone
-- th Article:/th/articles/open-claude-code-html-file-on-iphone/ | t: เปิด Claude Code ไฟล์ HTML บน iPhone
-- th Article:/th/articles/open-codex-html-file-on-iphone/ | t: เปิด Codex ไฟล์ HTML บน iPhone
-- th Article:/th/articles/open-v0-html-file-on-iphone/ | t: เปิด v0 ไฟล์ HTML บน iPhone
-- th Article:/th/articles/open-bolt-html-file-on-iphone/ | t: เปิด Bolt ไฟล์ HTML บน iPhone
-- th Article:/th/articles/open-replit-html-file-on-iphone/ | t: เปิด Replit ไฟล์ HTML บน iPhone
-- th Article:/th/articles/open-lovable-html-file-on-iphone/ | t: เปิด Lovable ไฟล์ HTML บน iPhone
-- th Article:/th/articles/open-windsurf-html-file-on-iphone/ | t: เปิด Windsurf ไฟล์ HTML บน iPhone
-- th Article:/th/articles/open-manus-html-file-on-iphone/ | t: เปิด Manus ไฟล์ HTML บน iPhone
-- th Article:/th/articles/open-devin-html-file-on-iphone/ | t: เปิด Devin ไฟล์ HTML บน iPhone
-- th Article:/th/articles/open-figma-make-html-file-on-iphone/ | t: เปิด Figma Make ไฟล์ HTML บน iPhone
-- th Article:/th/articles/open-firebase-studio-html-file-on-iphone/ | t: เปิด Firebase Studio ไฟล์ HTML บน iPhone
-- th Article:/th/articles/open-google-antigravity-html-file-on-iphone/ | t: เปิด Google Antigravity ไฟล์ HTML บน iPhone
-- th Article:/th/articles/open-trae-html-file-on-iphone/ | t: เปิด Trae ไฟล์ HTML บน iPhone
-- th Article:/th/articles/open-cline-html-file-on-iphone/ | t: เปิด Cline ไฟล์ HTML บน iPhone
-- th Article:/th/articles/open-base44-html-file-on-iphone/ | t: เปิด Base44 ไฟล์ HTML บน iPhone
-- th Article:/th/articles/open-kilo-code-html-file-on-iphone/ | t: เปิด Kilo Code ไฟล์ HTML บน iPhone
+- th Article:/th/articles/open-chatgpt-html-download-on-iphone/ | t: เปิด ChatGPT downloads ไฟล์ HTML บน iPad
+- th Article:/th/articles/open-gemini-html-file-on-iphone/ | t: เปิด Gemini, Gemini Canvas และ Google AI Studio ไฟล์ HTML บน iPad
+- th Article:/th/articles/open-google-ai-studio-html-file-on-iphone/ | t: เปิด Google AI Studio ไฟล์ HTML บน iPad
+- th Article:/th/articles/open-perplexity-html-file-on-iphone/ | t: เปิด Perplexity ไฟล์ HTML บน iPad
+- th Article:/th/articles/open-copilot-html-file-on-iphone/ | t: เปิด Copilot ไฟล์ HTML บน iPad
+- th Article:/th/articles/open-github-copilot-html-file-on-iphone/ | t: เปิด GitHub Copilot ไฟล์ HTML บน iPad
+- th Article:/th/articles/open-deepseek-html-file-on-iphone/ | t: เปิด DeepSeek ไฟล์ HTML บน iPad
+- th Article:/th/articles/open-grok-html-file-on-iphone/ | t: เปิด Grok ไฟล์ HTML บน iPad
+- th Article:/th/articles/open-notebooklm-html-file-on-iphone/ | t: เปิด NotebookLM ไฟล์ HTML บน iPad
+- th Article:/th/articles/open-qwen-html-file-on-iphone/ | t: เปิด Qwen ไฟล์ HTML บน iPad
+- th Article:/th/articles/open-kimi-html-file-on-iphone/ | t: เปิด Kimi ไฟล์ HTML บน iPad
+- th Article:/th/articles/open-poe-html-file-on-iphone/ | t: เปิด Poe ไฟล์ HTML บน iPad
+- th Article:/th/articles/open-mistral-le-chat-html-file-on-iphone/ | t: เปิด Mistral Le Chat ไฟล์ HTML บน iPad
+- th Article:/th/articles/open-cursor-html-file-on-iphone/ | t: เปิด Cursor ไฟล์ HTML บน iPad
+- th Article:/th/articles/open-claude-code-html-file-on-iphone/ | t: เปิด Claude Code ไฟล์ HTML บน iPad
+- th Article:/th/articles/open-codex-html-file-on-iphone/ | t: เปิด Codex ไฟล์ HTML บน iPad
+- th Article:/th/articles/open-v0-html-file-on-iphone/ | t: เปิด v0 ไฟล์ HTML บน iPad
+- th Article:/th/articles/open-bolt-html-file-on-iphone/ | t: เปิด Bolt ไฟล์ HTML บน iPad
+- th Article:/th/articles/open-replit-html-file-on-iphone/ | t: เปิด Replit ไฟล์ HTML บน iPad
+- th Article:/th/articles/open-lovable-html-file-on-iphone/ | t: เปิด Lovable ไฟล์ HTML บน iPad
+- th Article:/th/articles/open-windsurf-html-file-on-iphone/ | t: เปิด Windsurf ไฟล์ HTML บน iPad
+- th Article:/th/articles/open-manus-html-file-on-iphone/ | t: เปิด Manus ไฟล์ HTML บน iPad
+- th Article:/th/articles/open-devin-html-file-on-iphone/ | t: เปิด Devin ไฟล์ HTML บน iPad
+- th Article:/th/articles/open-figma-make-html-file-on-iphone/ | t: เปิด Figma Make ไฟล์ HTML บน iPad
+- th Article:/th/articles/open-firebase-studio-html-file-on-iphone/ | t: เปิด Firebase Studio ไฟล์ HTML บน iPad
+- th Article:/th/articles/open-google-antigravity-html-file-on-iphone/ | t: เปิด Google Antigravity ไฟล์ HTML บน iPad
+- th Article:/th/articles/open-trae-html-file-on-iphone/ | t: เปิด Trae ไฟล์ HTML บน iPad
+- th Article:/th/articles/open-cline-html-file-on-iphone/ | t: เปิด Cline ไฟล์ HTML บน iPad
+- th Article:/th/articles/open-base44-html-file-on-iphone/ | t: เปิด Base44 ไฟล์ HTML บน iPad
+- th Article:/th/articles/open-kilo-code-html-file-on-iphone/ | t: เปิด Kilo Code ไฟล์ HTML บน iPad
 - th Article:/th/articles/open-notion-html-export-on-iphone/ | t: เปิด ไฟล์ส่งออก Notion ไฟล์ HTML บน iPhone
 - th Article:/th/articles/open-google-docs-html-export-on-iphone/ | t: เปิด ไฟล์ HTML จาก Google Docs บน iPhone
 - th Article:/th/articles/open-microsoft-word-html-file-on-iphone/ | t: เปิด ไฟล์ HTML จาก Word บน iPhone
