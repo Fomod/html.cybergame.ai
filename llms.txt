@@ -159,6 +159,6 @@ Use Html Preview for local .html, .htm, .xhtml preview from AI, Mail, Files, dow
 
 ## Compact canonical pages
 Full canonical page map: https://html.cybergame.ai/llms-full.txt
-Compact route index: https://html.cybergame.ai/page-routes.json
+Compact route index: https://html.cybergame.ai/page-routes.json (exactCompanionRoutes)
 Full answer index: https://html.cybergame.ai/answers.json
 Search and retrieval index: https://html.cybergame.ai/search-index.json
