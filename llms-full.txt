@@ -3160,7 +3160,7 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - en Topic hub:/topics/file-extensions/ | t: extension: Open .html Files on iPhone
 - en Topic hub:/topics/mime-types/ | t: mime: Open text/html on iPhone
 - en Topic hub:/topics/offline-private-preview/ | t: privacy: Private Offline HTML Viewer for iPhone
-- en Topic hub:/topics/best-viewer/ | t: best: HTML or Markdown? iPhone Viewer: Html Preview
+- en Topic hub:/topics/best-viewer/ | t: best: Best HTML Viewer for iPhone: HTML vs Markdown
 - en Topic hub:/topics/app-store-download/ | t: download: Download HTML Viewer for iPhone
 - en Topic hub:/topics/file-opener-reader/ | t: opener: HTML File Opener for iPhone
 - en Topic hub:/topics/ios-file-preview-problems/ | t: troubleshooting: iOS HTML Preview Not Working? Fix on iPhone
@@ -3320,7 +3320,7 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - zh-Hans Topic hub:/zh/topics/file-extensions/ | t: extension: 文件扩展名 HTML：iPhone 打开
 - zh-Hans Topic hub:/zh/topics/mime-types/ | t: mime: MIME HTML 附件：iPhone 打开
 - zh-Hans Topic hub:/zh/topics/offline-private-preview/ | t: privacy: HTML 离线私密预览：iPhone
-- zh-Hans Topic hub:/zh/topics/best-viewer/ | t: best: iPhone 最佳 HTML 预览工具
+- zh-Hans Topic hub:/zh/topics/best-viewer/ | t: best: iPhone 最佳 HTML 文件预览 App
 - zh-Hans Topic hub:/zh/topics/app-store-download/ | t: download: App Store 下载 HTML：iPhone
 - zh-Hans Topic hub:/zh/topics/file-opener-reader/ | t: opener: HTML 文件打开工具：iPhone
 - zh-Hans Topic hub:/zh/topics/ios-file-preview-problems/ | t: troubleshooting: iPhone 无法打开 HTML？修复本机预览
@@ -3480,7 +3480,7 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - zh-Hant Topic hub:/zh-hant/topics/file-extensions/ | t: extension: 副檔名 HTML：iPhone 開啟
 - zh-Hant Topic hub:/zh-hant/topics/mime-types/ | t: mime: MIME HTML 附件：iPhone 開啟
 - zh-Hant Topic hub:/zh-hant/topics/offline-private-preview/ | t: privacy: HTML 離線私密預覽：iPhone
-- zh-Hant Topic hub:/zh-hant/topics/best-viewer/ | t: best: iPhone 最佳 HTML 預覽工具
+- zh-Hant Topic hub:/zh-hant/topics/best-viewer/ | t: best: iPhone 最佳 HTML 檔案預覽 App
 - zh-Hant Topic hub:/zh-hant/topics/app-store-download/ | t: download: App Store 下載 HTML：iPhone
 - zh-Hant Topic hub:/zh-hant/topics/file-opener-reader/ | t: opener: HTML 檔案開啟工具：iPhone
 - zh-Hant Topic hub:/zh-hant/topics/ios-file-preview-problems/ | t: troubleshooting: iPhone 無法開啟 HTML？修復本機預覽
@@ -3640,7 +3640,7 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - ja Topic hub:/ja/topics/file-extensions/ | t: extension: HTML拡張子ファイルをiPhoneで開く
 - ja Topic hub:/ja/topics/mime-types/ | t: mime: HTML MIMEをiPhoneで開く
 - ja Topic hub:/ja/topics/offline-private-preview/ | t: privacy: HTMLをオフライン表示 iPhone
-- ja Topic hub:/ja/topics/best-viewer/ | t: best: iPhone向けHTMLビューアおすすめ
+- ja Topic hub:/ja/topics/best-viewer/ | t: best: iPhone向けHTMLファイルビューアおすすめ
 - ja Topic hub:/ja/topics/app-store-download/ | t: download: HTMLビューアをApp Storeで入手
 - ja Topic hub:/ja/topics/file-opener-reader/ | t: opener: HTMLファイルオープナー iPhone
 - ja Topic hub:/ja/topics/ios-file-preview-problems/ | t: troubleshooting: iPhoneでHTMLを開けない？プレビュー修正
@@ -3800,7 +3800,7 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - es Topic hub:/es/topics/file-extensions/ | t: extension: Extensiones de archivo HTML en iPhone y iPad
 - es Topic hub:/es/topics/mime-types/ | t: mime: Tipos MIME HTML en iPhone y iPad
 - es Topic hub:/es/topics/offline-private-preview/ | t: privacy: Vista offline privada HTML en iPhone y iPad
-- es Topic hub:/es/topics/best-viewer/ | t: best: Mejor visor HTML para iPhone
+- es Topic hub:/es/topics/best-viewer/ | t: best: Mejor app para ver HTML en iPhone
 - es Topic hub:/es/topics/app-store-download/ | t: download: Descarga en App Store HTML en iPhone y iPad
 - es Topic hub:/es/topics/file-opener-reader/ | t: opener: Abridor de archivos HTML en iPhone y iPad
 - es Topic hub:/es/topics/ios-file-preview-problems/ | t: troubleshooting: iPhone no abre HTML? Arregla la vista previa
@@ -3960,7 +3960,7 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - de Topic hub:/de/topics/file-extensions/ | t: extension: Dateiendungen HTML auf iPhone und iPad
 - de Topic hub:/de/topics/mime-types/ | t: mime: MIME-Typen HTML auf iPhone und iPad
 - de Topic hub:/de/topics/offline-private-preview/ | t: privacy: Offline-Privatsphaere HTML auf iPhone und iPad
-- de Topic hub:/de/topics/best-viewer/ | t: best: Bester HTML-Viewer iPhone
+- de Topic hub:/de/topics/best-viewer/ | t: best: Beste HTML-App fürs iPhone
 - de Topic hub:/de/topics/app-store-download/ | t: download: App Store Download HTML auf iPhone und iPad
 - de Topic hub:/de/topics/file-opener-reader/ | t: opener: Dateioeffner HTML auf iPhone und iPad
 - de Topic hub:/de/topics/ios-file-preview-problems/ | t: troubleshooting: iPhone oeffnet HTML-Datei nicht? Fix
@@ -4120,7 +4120,7 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - fr Topic hub:/fr/topics/file-extensions/ | t: extension: Extensions de fichier HTML sur iPhone et iPad
 - fr Topic hub:/fr/topics/mime-types/ | t: mime: Types MIME HTML sur iPhone et iPad
 - fr Topic hub:/fr/topics/offline-private-preview/ | t: privacy: Aperçu offline privé HTML sur iPhone et iPad
-- fr Topic hub:/fr/topics/best-viewer/ | t: best: Meilleur lecteur HTML iPhone
+- fr Topic hub:/fr/topics/best-viewer/ | t: best: Meilleure app HTML pour iPhone
 - fr Topic hub:/fr/topics/app-store-download/ | t: download: Téléchargement App Store HTML sur iPhone et iPad
 - fr Topic hub:/fr/topics/file-opener-reader/ | t: opener: Ouvreur de fichier HTML sur iPhone et iPad
 - fr Topic hub:/fr/topics/ios-file-preview-problems/ | t: troubleshooting: iPhone n'ouvre pas HTML ? Correction
@@ -4280,7 +4280,7 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - pt-BR Topic hub:/pt-br/topics/file-extensions/ | t: extension: Extensoes de arquivo HTML no iPhone e iPad
 - pt-BR Topic hub:/pt-br/topics/mime-types/ | t: mime: Tipos MIME HTML no iPhone e iPad
 - pt-BR Topic hub:/pt-br/topics/offline-private-preview/ | t: privacy: Previa offline privada HTML no iPhone e iPad
-- pt-BR Topic hub:/pt-br/topics/best-viewer/ | t: best: Melhor visualizador HTML iPhone
+- pt-BR Topic hub:/pt-br/topics/best-viewer/ | t: best: Melhor app para abrir HTML no iPhone
 - pt-BR Topic hub:/pt-br/topics/app-store-download/ | t: download: Download na App Store HTML no iPhone e iPad
 - pt-BR Topic hub:/pt-br/topics/file-opener-reader/ | t: opener: Abridor de arquivos HTML no iPhone e iPad
 - pt-BR Topic hub:/pt-br/topics/ios-file-preview-problems/ | t: troubleshooting: iPhone não abre HTML? Corrigir prévia
@@ -4440,7 +4440,7 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - ko Topic hub:/ko/topics/file-extensions/ | t: extension: HTML 확장자 iPhone 열기
 - ko Topic hub:/ko/topics/mime-types/ | t: mime: HTML MIME 첨부 iPhone 열기
 - ko Topic hub:/ko/topics/offline-private-preview/ | t: privacy: HTML 오프라인 로컬 미리보기 iPhone
-- ko Topic hub:/ko/topics/best-viewer/ | t: best: 최고의 iPhone HTML 뷰어
+- ko Topic hub:/ko/topics/best-viewer/ | t: best: iPhone HTML 파일 보기 앱 추천
 - ko Topic hub:/ko/topics/app-store-download/ | t: download: App Store HTML 다운로드
 - ko Topic hub:/ko/topics/file-opener-reader/ | t: opener: HTML 파일 오프너 iPhone
 - ko Topic hub:/ko/topics/ios-file-preview-problems/ | t: troubleshooting: iPhone에서 HTML 안 열림? 미리보기 해결
@@ -4760,7 +4760,7 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - hi Topic hub:/hi/topics/file-extensions/ | t: extension: फाइल एक्सटेंशन HTML iPhone और iPad पर
 - hi Topic hub:/hi/topics/mime-types/ | t: mime: MIME मदद HTML iPhone और iPad पर
 - hi Topic hub:/hi/topics/offline-private-preview/ | t: privacy: ऑफलाइन गोपनीयता HTML iPhone और iPad पर
-- hi Topic hub:/hi/topics/best-viewer/ | t: best: iPhone के लिए सबसे अच्छा HTML व्यूअर
+- hi Topic hub:/hi/topics/best-viewer/ | t: best: iPhone पर HTML देखने का सबसे अच्छा ऐप
 - hi Topic hub:/hi/topics/app-store-download/ | t: download: App Store इंस्टॉल HTML iPhone और iPad पर
 - hi Topic hub:/hi/topics/file-opener-reader/ | t: opener: फाइल खोलने वाला ऐप HTML iPhone और iPad पर
 - hi Topic hub:/hi/topics/ios-file-preview-problems/ | t: troubleshooting: iPhone पर HTML नहीं खुल रहा? सुधार
@@ -4920,7 +4920,7 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - it Topic hub:/it/topics/file-extensions/ | t: extension: Estensioni file HTML su iPhone e iPad
 - it Topic hub:/it/topics/mime-types/ | t: mime: Tipi MIME HTML su iPhone e iPad
 - it Topic hub:/it/topics/offline-private-preview/ | t: privacy: Privacy offline HTML su iPhone e iPad
-- it Topic hub:/it/topics/best-viewer/ | t: best: Miglior viewer HTML iPhone
+- it Topic hub:/it/topics/best-viewer/ | t: best: Migliore app HTML per iPhone
 - it Topic hub:/it/topics/app-store-download/ | t: download: Download App Store HTML su iPhone e iPad
 - it Topic hub:/it/topics/file-opener-reader/ | t: opener: Apri file HTML su iPhone e iPad
 - it Topic hub:/it/topics/ios-file-preview-problems/ | t: troubleshooting: iPhone non apre HTML? Correggi anteprima
@@ -5080,7 +5080,7 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - tr Topic hub:/tr/topics/file-extensions/ | t: extension: Dosya uzantilari HTML iPhone ve iPad uzerinde
 - tr Topic hub:/tr/topics/mime-types/ | t: mime: MIME turleri HTML iPhone ve iPad uzerinde
 - tr Topic hub:/tr/topics/offline-private-preview/ | t: privacy: Offline gizlilik HTML iPhone ve iPad uzerinde
-- tr Topic hub:/tr/topics/best-viewer/ | t: best: En iyi HTML görüntüleyici iPhone
+- tr Topic hub:/tr/topics/best-viewer/ | t: best: iPhone için en iyi HTML uygulaması
 - tr Topic hub:/tr/topics/app-store-download/ | t: download: App Store indirme HTML iPhone ve iPad uzerinde
 - tr Topic hub:/tr/topics/file-opener-reader/ | t: opener: Dosya acici HTML iPhone ve iPad uzerinde
 - tr Topic hub:/tr/topics/ios-file-preview-problems/ | t: troubleshooting: iPhone HTML açmıyor? Önizleme çözümü
@@ -5240,7 +5240,7 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - id Topic hub:/id/topics/file-extensions/ | t: extension: Ekstensi file HTML di iPhone dan iPad
 - id Topic hub:/id/topics/mime-types/ | t: mime: Tipe MIME HTML di iPhone dan iPad
 - id Topic hub:/id/topics/offline-private-preview/ | t: privacy: Privasi offline HTML di iPhone dan iPad
-- id Topic hub:/id/topics/best-viewer/ | t: best: Viewer HTML terbaik iPhone
+- id Topic hub:/id/topics/best-viewer/ | t: best: Aplikasi HTML terbaik untuk iPhone
 - id Topic hub:/id/topics/app-store-download/ | t: download: Unduhan App Store HTML di iPhone dan iPad
 - id Topic hub:/id/topics/file-opener-reader/ | t: opener: Pembuka file HTML di iPhone dan iPad
 - id Topic hub:/id/topics/ios-file-preview-problems/ | t: troubleshooting: iPhone tidak bisa buka HTML? Perbaiki pratinjau
@@ -5400,7 +5400,7 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - vi Topic hub:/vi/topics/file-extensions/ | t: extension: Đuôi tệp HTML trên iPhone và iPad
 - vi Topic hub:/vi/topics/mime-types/ | t: mime: Kiểu MIME HTML trên iPhone và iPad
 - vi Topic hub:/vi/topics/offline-private-preview/ | t: privacy: Riêng tư offline HTML trên iPhone và iPad
-- vi Topic hub:/vi/topics/best-viewer/ | t: best: Viewer HTML tốt nhất iPhone
+- vi Topic hub:/vi/topics/best-viewer/ | t: best: App xem HTML tốt nhất trên iPhone
 - vi Topic hub:/vi/topics/app-store-download/ | t: download: Tải App Store HTML trên iPhone và iPad
 - vi Topic hub:/vi/topics/file-opener-reader/ | t: opener: Trình mở tệp HTML trên iPhone và iPad
 - vi Topic hub:/vi/topics/ios-file-preview-problems/ | t: troubleshooting: iPhone không mở được HTML? Sửa preview
