@@ -3311,25 +3311,25 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - zh-Hans Article hub:/zh/articles/ | t: HTML iPhone/iPad 打开指南：AI 文件本机预览
 - zh-Hans Support:/zh/privacy-support/ | t: Html Preview HTML iPhone 隐私与支持
 - zh-Hans Screenshots:/zh/screenshots/ | t: Html Preview HTML iPhone 截图
-- zh-Hans Topic hub:/zh/topics/ai-generated-files/ | t: ai: AI 生成文件 HTML iPhone/iPad
-- zh-Hans Topic hub:/zh/topics/ai-chatbot-files/ | t: ai-chatbots: AI 聊天机器人 HTML iPhone/iPad
-- zh-Hans Topic hub:/zh/topics/ai-coding-tools/ | t: ai-coding: AI 编程工具 HTML iPhone/iPad
-- zh-Hans Topic hub:/zh/topics/files-share-sheet/ | t: workflow: Files 与分享菜单 HTML iPhone/iPad
+- zh-Hans Topic hub:/zh/topics/ai-generated-files/ | t: ai: AI 生成文件 HTML：iPhone 打开
+- zh-Hans Topic hub:/zh/topics/ai-chatbot-files/ | t: ai-chatbots: AI 聊天机器人 HTML：iPhone 打开
+- zh-Hans Topic hub:/zh/topics/ai-coding-tools/ | t: ai-coding: AI 编程工具 HTML：iPhone 打开
+- zh-Hans Topic hub:/zh/topics/files-share-sheet/ | t: workflow: Files 分享 HTML：iPhone 打开
 - zh-Hans Topic hub:/zh/topics/cloud-drives/ | t: cloud: 网盘文件 HTML iPhone/iPad
 - zh-Hans Topic hub:/zh/topics/project-file-bundles/ | t: project-file-bundles: iPhone 打开项目 HTML 文件
-- zh-Hans Topic hub:/zh/topics/file-extensions/ | t: extension: 文件扩展名 HTML iPhone/iPad
-- zh-Hans Topic hub:/zh/topics/mime-types/ | t: mime: MIME 类型 HTML iPhone/iPad
-- zh-Hans Topic hub:/zh/topics/offline-private-preview/ | t: privacy: 离线私密预览 HTML iPhone/iPad
+- zh-Hans Topic hub:/zh/topics/file-extensions/ | t: extension: 文件扩展名 HTML：iPhone 打开
+- zh-Hans Topic hub:/zh/topics/mime-types/ | t: mime: MIME HTML 附件：iPhone 打开
+- zh-Hans Topic hub:/zh/topics/offline-private-preview/ | t: privacy: HTML 离线私密预览：iPhone
 - zh-Hans Topic hub:/zh/topics/best-viewer/ | t: best: iPhone 最佳 HTML 预览工具
-- zh-Hans Topic hub:/zh/topics/app-store-download/ | t: download: App Store 下载 HTML iPhone/iPad
-- zh-Hans Topic hub:/zh/topics/file-opener-reader/ | t: opener: 文件打开工具 HTML iPhone/iPad
+- zh-Hans Topic hub:/zh/topics/app-store-download/ | t: download: App Store 下载 HTML：iPhone
+- zh-Hans Topic hub:/zh/topics/file-opener-reader/ | t: opener: HTML 文件打开工具：iPhone
 - zh-Hans Topic hub:/zh/topics/ios-file-preview-problems/ | t: troubleshooting: iPhone 无法打开 HTML？修复本机预览
-- zh-Hans Topic hub:/zh/topics/static-site-docs/ | t: static-site-docs: 静态站与文档框架 HTML iPhone/iPad
-- zh-Hans Topic hub:/zh/topics/developer-sources/ | t: developer-sources: 开发者来源 HTML iPhone/iPad
-- zh-Hans Topic hub:/zh/topics/communication-sources/ | t: communication-sources: 邮件与聊天附件 HTML iPhone/iPad
-- zh-Hans Topic hub:/zh/topics/notes-docs-sources/ | t: notes-docs-sources: 笔记与文档 HTML iPhone/iPad
-- zh-Hans Topic hub:/zh/topics/browser-download-sources/ | t: browser-download-sources: 浏览器下载 HTML iPhone/iPad
-- zh-Hans Topic hub:/zh/topics/ios-import-workflows/ | t: ios-import-workflows: iOS 导入 HTML iPhone/iPad
+- zh-Hans Topic hub:/zh/topics/static-site-docs/ | t: static-site-docs: 静态站 HTML：iPhone 打开
+- zh-Hans Topic hub:/zh/topics/developer-sources/ | t: developer-sources: 开发工具 HTML：iPhone 打开
+- zh-Hans Topic hub:/zh/topics/communication-sources/ | t: communication-sources: 邮件聊天 HTML：iPhone 打开
+- zh-Hans Topic hub:/zh/topics/notes-docs-sources/ | t: notes-docs-sources: 笔记文档 HTML：iPhone 打开
+- zh-Hans Topic hub:/zh/topics/browser-download-sources/ | t: browser-download-sources: 浏览器下载 HTML：iPhone 打开
+- zh-Hans Topic hub:/zh/topics/ios-import-workflows/ | t: ios-import-workflows: iOS 导入 HTML：iPhone 打开
 - zh-Hans Article:/zh/articles/open-chatgpt-html-file-on-iphone/ | t: 如何在 iPhone 上打开 ChatGPT、Claude、Gemini 的 HTML 文件
 - zh-Hans Article:/zh/articles/open-chatgpt-canvas-html-on-iphone/ | t: 如何在 iPhone 或 iPad 上打开 ChatGPT Canvas 生成的 HTML 文件
 - zh-Hans Article:/zh/articles/open-ai-generated-html-file-on-iphone/ | t: 如何在 iPhone 上打开 AI 生成的 HTML 文件
@@ -3471,25 +3471,25 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - zh-Hant Article hub:/zh-hant/articles/ | t: HTML iPhone/iPad 開啟指南：AI 檔案本機預覽
 - zh-Hant Support:/zh-hant/privacy-support/ | t: Html Preview HTML iPhone 隱私與支援
 - zh-Hant Screenshots:/zh-hant/screenshots/ | t: Html Preview HTML iPhone 截圖
-- zh-Hant Topic hub:/zh-hant/topics/ai-generated-files/ | t: ai: AI 產生檔案 HTML iPhone/iPad
-- zh-Hant Topic hub:/zh-hant/topics/ai-chatbot-files/ | t: ai-chatbots: AI 聊天機器人 HTML iPhone/iPad
-- zh-Hant Topic hub:/zh-hant/topics/ai-coding-tools/ | t: ai-coding: AI 程式設計工具 HTML iPhone/iPad
-- zh-Hant Topic hub:/zh-hant/topics/files-share-sheet/ | t: workflow: Files 與分享選單 HTML iPhone/iPad
+- zh-Hant Topic hub:/zh-hant/topics/ai-generated-files/ | t: ai: AI 產生檔案 HTML：iPhone 開啟
+- zh-Hant Topic hub:/zh-hant/topics/ai-chatbot-files/ | t: ai-chatbots: AI 聊天機器人 HTML：iPhone 開啟
+- zh-Hant Topic hub:/zh-hant/topics/ai-coding-tools/ | t: ai-coding: AI 程式工具 HTML：iPhone 開啟
+- zh-Hant Topic hub:/zh-hant/topics/files-share-sheet/ | t: workflow: Files 分享 HTML：iPhone 開啟
 - zh-Hant Topic hub:/zh-hant/topics/cloud-drives/ | t: cloud: 雲端硬碟檔案 HTML iPhone/iPad
 - zh-Hant Topic hub:/zh-hant/topics/project-file-bundles/ | t: project-file-bundles: iPhone 開啟專案 HTML 檔案
-- zh-Hant Topic hub:/zh-hant/topics/file-extensions/ | t: extension: 副檔名 HTML iPhone/iPad
-- zh-Hant Topic hub:/zh-hant/topics/mime-types/ | t: mime: MIME 類型 HTML iPhone/iPad
-- zh-Hant Topic hub:/zh-hant/topics/offline-private-preview/ | t: privacy: 離線私密預覽 HTML iPhone/iPad
+- zh-Hant Topic hub:/zh-hant/topics/file-extensions/ | t: extension: 副檔名 HTML：iPhone 開啟
+- zh-Hant Topic hub:/zh-hant/topics/mime-types/ | t: mime: MIME HTML 附件：iPhone 開啟
+- zh-Hant Topic hub:/zh-hant/topics/offline-private-preview/ | t: privacy: HTML 離線私密預覽：iPhone
 - zh-Hant Topic hub:/zh-hant/topics/best-viewer/ | t: best: iPhone 最佳 HTML 預覽工具
-- zh-Hant Topic hub:/zh-hant/topics/app-store-download/ | t: download: App Store 下載 HTML iPhone/iPad
-- zh-Hant Topic hub:/zh-hant/topics/file-opener-reader/ | t: opener: 檔案開啟工具 HTML iPhone/iPad
+- zh-Hant Topic hub:/zh-hant/topics/app-store-download/ | t: download: App Store 下載 HTML：iPhone
+- zh-Hant Topic hub:/zh-hant/topics/file-opener-reader/ | t: opener: HTML 檔案開啟工具：iPhone
 - zh-Hant Topic hub:/zh-hant/topics/ios-file-preview-problems/ | t: troubleshooting: iPhone 無法開啟 HTML？修復本機預覽
-- zh-Hant Topic hub:/zh-hant/topics/static-site-docs/ | t: static-site-docs: 靜態站與文件框架 HTML iPhone/iPad
-- zh-Hant Topic hub:/zh-hant/topics/developer-sources/ | t: developer-sources: 開發者來源 HTML iPhone/iPad
-- zh-Hant Topic hub:/zh-hant/topics/communication-sources/ | t: communication-sources: 郵件與聊天附件 HTML iPhone/iPad
-- zh-Hant Topic hub:/zh-hant/topics/notes-docs-sources/ | t: notes-docs-sources: 筆記與文件 HTML iPhone/iPad
-- zh-Hant Topic hub:/zh-hant/topics/browser-download-sources/ | t: browser-download-sources: 瀏覽器下載 HTML iPhone/iPad
-- zh-Hant Topic hub:/zh-hant/topics/ios-import-workflows/ | t: ios-import-workflows: iOS 匯入 HTML iPhone/iPad
+- zh-Hant Topic hub:/zh-hant/topics/static-site-docs/ | t: static-site-docs: 靜態站 HTML：iPhone 開啟
+- zh-Hant Topic hub:/zh-hant/topics/developer-sources/ | t: developer-sources: 開發工具 HTML：iPhone 開啟
+- zh-Hant Topic hub:/zh-hant/topics/communication-sources/ | t: communication-sources: 郵件聊天 HTML：iPhone 開啟
+- zh-Hant Topic hub:/zh-hant/topics/notes-docs-sources/ | t: notes-docs-sources: 筆記文件 HTML：iPhone 開啟
+- zh-Hant Topic hub:/zh-hant/topics/browser-download-sources/ | t: browser-download-sources: 瀏覽器下載 HTML：iPhone 開啟
+- zh-Hant Topic hub:/zh-hant/topics/ios-import-workflows/ | t: ios-import-workflows: iOS 匯入 HTML：iPhone 開啟
 - zh-Hant Article:/zh-hant/articles/open-chatgpt-html-file-on-iphone/ | t: 如何在 iPhone 上開啟 ChatGPT、Claude、Gemini 的 HTML 檔案
 - zh-Hant Article:/zh-hant/articles/open-chatgpt-canvas-html-on-iphone/ | t: 如何在 iPhone 或 iPad 上開啟 ChatGPT Canvas 產生的 HTML 檔案
 - zh-Hant Article:/zh-hant/articles/open-ai-generated-html-file-on-iphone/ | t: 如何在 iPhone 上開啟 AI 產生的 HTML 檔案
@@ -3631,25 +3631,25 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - ja Article hub:/ja/articles/ | t: HTML iPhone/iPad ガイド
 - ja Support:/ja/privacy-support/ | t: Html Preview HTML iPhoneプライバシーとサポート
 - ja Screenshots:/ja/screenshots/ | t: Html Preview HTML iPhoneスクリーンショット
-- ja Topic hub:/ja/topics/ai-generated-files/ | t: ai: AI生成ファイル HTML iPhone・iPad
-- ja Topic hub:/ja/topics/ai-chatbot-files/ | t: ai-chatbots: AIチャットボット HTML iPhone・iPad
-- ja Topic hub:/ja/topics/ai-coding-tools/ | t: ai-coding: AIコーディングツール HTML iPhone・iPad
-- ja Topic hub:/ja/topics/files-share-sheet/ | t: workflow: Filesと共有シート HTML iPhone・iPad
+- ja Topic hub:/ja/topics/ai-generated-files/ | t: ai: AI生成HTMLをiPhoneで開く
+- ja Topic hub:/ja/topics/ai-chatbot-files/ | t: ai-chatbots: AIチャットのHTMLをiPhoneで開く
+- ja Topic hub:/ja/topics/ai-coding-tools/ | t: ai-coding: AIコードHTMLをiPhoneで開く
+- ja Topic hub:/ja/topics/files-share-sheet/ | t: workflow: Files共有のHTMLをiPhoneで開く
 - ja Topic hub:/ja/topics/cloud-drives/ | t: cloud: クラウドドライブのHTMLファイルをiPhoneで開く
 - ja Topic hub:/ja/topics/project-file-bundles/ | t: project-file-bundles: プロジェクトのHTMLファイルをiPhoneで開く
-- ja Topic hub:/ja/topics/file-extensions/ | t: extension: ファイル拡張子 HTML iPhone・iPad
-- ja Topic hub:/ja/topics/mime-types/ | t: mime: MIMEタイプ HTML iPhone・iPad
-- ja Topic hub:/ja/topics/offline-private-preview/ | t: privacy: オフライン私的プレビュー HTML iPhone・iPad
+- ja Topic hub:/ja/topics/file-extensions/ | t: extension: HTML拡張子をiPhoneで開く
+- ja Topic hub:/ja/topics/mime-types/ | t: mime: HTML MIMEをiPhoneで開く
+- ja Topic hub:/ja/topics/offline-private-preview/ | t: privacy: HTMLをオフライン表示 iPhone
 - ja Topic hub:/ja/topics/best-viewer/ | t: best: iPhone向けHTMLビューアおすすめ
-- ja Topic hub:/ja/topics/app-store-download/ | t: download: App Storeダウンロード HTML iPhone・iPad
-- ja Topic hub:/ja/topics/file-opener-reader/ | t: opener: ファイルオープナー HTML iPhone・iPad
+- ja Topic hub:/ja/topics/app-store-download/ | t: download: HTMLビューアをApp Storeで入手
+- ja Topic hub:/ja/topics/file-opener-reader/ | t: opener: HTMLオープナー iPhone
 - ja Topic hub:/ja/topics/ios-file-preview-problems/ | t: troubleshooting: iPhoneでHTMLを開けない？プレビュー修正
-- ja Topic hub:/ja/topics/static-site-docs/ | t: static-site-docs: 静的サイトとドキュメント HTML iPhone・iPad
-- ja Topic hub:/ja/topics/developer-sources/ | t: developer-sources: 開発者ソース HTML iPhone・iPad
-- ja Topic hub:/ja/topics/communication-sources/ | t: communication-sources: メールとチャット添付 HTML iPhone・iPad
-- ja Topic hub:/ja/topics/notes-docs-sources/ | t: notes-docs-sources: ノートとドキュメント HTML iPhone・iPad
-- ja Topic hub:/ja/topics/browser-download-sources/ | t: browser-download-sources: ブラウザダウンロード HTML iPhone・iPad
-- ja Topic hub:/ja/topics/ios-import-workflows/ | t: ios-import-workflows: iOS取り込み HTML iPhone・iPad
+- ja Topic hub:/ja/topics/static-site-docs/ | t: static-site-docs: 静的サイトHTMLをiPhoneで開く
+- ja Topic hub:/ja/topics/developer-sources/ | t: developer-sources: 開発ツールHTMLをiPhoneで開く
+- ja Topic hub:/ja/topics/communication-sources/ | t: communication-sources: メール添付HTMLをiPhoneで開く
+- ja Topic hub:/ja/topics/notes-docs-sources/ | t: notes-docs-sources: ノート文書HTMLをiPhoneで開く
+- ja Topic hub:/ja/topics/browser-download-sources/ | t: browser-download-sources: ブラウザHTMLをiPhoneで開く
+- ja Topic hub:/ja/topics/ios-import-workflows/ | t: ios-import-workflows: iOSでHTMLを取り込む
 - ja Article:/ja/articles/open-chatgpt-html-file-on-iphone/ | t: ChatGPTやClaudeのHTMLファイルをiPhoneで開く方法
 - ja Article:/ja/articles/open-chatgpt-canvas-html-on-iphone/ | t: ChatGPT Canvas HTMLファイルをiPadで開く方法
 - ja Article:/ja/articles/open-ai-generated-html-file-on-iphone/ | t: AI生成HTMLファイルをiPhoneで開く方法
@@ -4431,25 +4431,25 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - ko Article hub:/ko/articles/ | t: HTML iPhone iPad 가이드
 - ko Support:/ko/privacy-support/ | t: Html Preview HTML iPhone 개인정보 지원
 - ko Screenshots:/ko/screenshots/ | t: Html Preview HTML iPhone 스크린샷
-- ko Topic hub:/ko/topics/ai-generated-files/ | t: ai: AI 생성 파일 HTML iPhone과 iPad
-- ko Topic hub:/ko/topics/ai-chatbot-files/ | t: ai-chatbots: AI 챗봇 HTML iPhone과 iPad
-- ko Topic hub:/ko/topics/ai-coding-tools/ | t: ai-coding: AI 코딩 도구 HTML iPhone과 iPad
-- ko Topic hub:/ko/topics/files-share-sheet/ | t: workflow: Files와 공유 시트 HTML iPhone과 iPad
+- ko Topic hub:/ko/topics/ai-generated-files/ | t: ai: AI 생성 HTML iPhone 미리보기
+- ko Topic hub:/ko/topics/ai-chatbot-files/ | t: ai-chatbots: ChatGPT HTML iPhone 열기
+- ko Topic hub:/ko/topics/ai-coding-tools/ | t: ai-coding: AI 코딩 HTML iPhone 열기
+- ko Topic hub:/ko/topics/files-share-sheet/ | t: workflow: Files 공유 HTML iPhone 열기
 - ko Topic hub:/ko/topics/cloud-drives/ | t: cloud: 클라우드 파일 HTML iPhone과 iPad
 - ko Topic hub:/ko/topics/project-file-bundles/ | t: project-file-bundles: iPhone에서 프로젝트 HTML 파일 열기
-- ko Topic hub:/ko/topics/file-extensions/ | t: extension: 파일 확장자 HTML iPhone과 iPad
-- ko Topic hub:/ko/topics/mime-types/ | t: mime: MIME 유형 HTML iPhone과 iPad
-- ko Topic hub:/ko/topics/offline-private-preview/ | t: privacy: 오프라인 비공개 미리보기 HTML iPhone과 iPad
+- ko Topic hub:/ko/topics/file-extensions/ | t: extension: HTML 확장자 iPhone 열기
+- ko Topic hub:/ko/topics/mime-types/ | t: mime: HTML MIME 첨부 iPhone 열기
+- ko Topic hub:/ko/topics/offline-private-preview/ | t: privacy: HTML 오프라인 미리보기
 - ko Topic hub:/ko/topics/best-viewer/ | t: best: 최고의 iPhone HTML 뷰어
-- ko Topic hub:/ko/topics/app-store-download/ | t: download: App Store 다운로드 HTML iPhone과 iPad
-- ko Topic hub:/ko/topics/file-opener-reader/ | t: opener: 파일 오프너 HTML iPhone과 iPad
+- ko Topic hub:/ko/topics/app-store-download/ | t: download: App Store HTML 다운로드
+- ko Topic hub:/ko/topics/file-opener-reader/ | t: opener: HTML 파일 오프너 iPhone
 - ko Topic hub:/ko/topics/ios-file-preview-problems/ | t: troubleshooting: iPhone에서 HTML 안 열림? 미리보기 해결
-- ko Topic hub:/ko/topics/static-site-docs/ | t: static-site-docs: 정적 사이트·문서 프레임워크 HTML iPhone과 iPad
-- ko Topic hub:/ko/topics/developer-sources/ | t: developer-sources: 개발자 소스 HTML iPhone과 iPad
-- ko Topic hub:/ko/topics/communication-sources/ | t: communication-sources: 이메일·채팅 첨부 HTML iPhone과 iPad
-- ko Topic hub:/ko/topics/notes-docs-sources/ | t: notes-docs-sources: 노트·문서 HTML iPhone과 iPad
-- ko Topic hub:/ko/topics/browser-download-sources/ | t: browser-download-sources: 브라우저 다운로드 HTML iPhone과 iPad
-- ko Topic hub:/ko/topics/ios-import-workflows/ | t: ios-import-workflows: iOS 가져오기 HTML iPhone과 iPad
+- ko Topic hub:/ko/topics/static-site-docs/ | t: static-site-docs: 정적 사이트 HTML iPhone 열기
+- ko Topic hub:/ko/topics/developer-sources/ | t: developer-sources: 개발 도구 HTML iPhone 열기
+- ko Topic hub:/ko/topics/communication-sources/ | t: communication-sources: 메일·채팅 HTML iPhone 열기
+- ko Topic hub:/ko/topics/notes-docs-sources/ | t: notes-docs-sources: 노트·문서 HTML iPhone 열기
+- ko Topic hub:/ko/topics/browser-download-sources/ | t: browser-download-sources: 브라우저 HTML iPhone 열기
+- ko Topic hub:/ko/topics/ios-import-workflows/ | t: ios-import-workflows: iOS HTML 가져오기
 - ko Article:/ko/articles/open-chatgpt-html-file-on-iphone/ | t: iPhone과 iPad에서 ChatGPT, Claude, Gemini HTML 파일 열기
 - ko Article:/ko/articles/open-chatgpt-canvas-html-on-iphone/ | t: iPhone과 iPad에서 ChatGPT Canvas HTML 파일 열기
 - ko Article:/ko/articles/open-ai-generated-html-file-on-iphone/ | t: iPhone과 iPad에서 AI 생성 파일 HTML 파일 열기
@@ -4948,7 +4948,7 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - it Article:/it/articles/download-html-viewer-for-iphone/ | t: Apri file HTML da ricerche su App Store su iPhone
 - it Article:/it/articles/html-file-opener-for-iphone/ | t: Aprire file .html su iPhone
 - it Article:/it/articles/html-reader-for-iphone/ | t: Apri file HTML da reader HTML su iPhone
-- it Article:/it/articles/html-file-opener-for-ipad/ | t: Apri file HTML da app iPad per aprire file HTML su iPad
+- it Article:/it/articles/html-file-opener-for-ipad/ | t: Aprire HTML su iPad con app locale
 - it Article:/it/articles/html-viewer-for-ipad/ | t: Visualizzare HTML su iPad
 - it Article:/it/articles/app-to-open-html-file-on-ipad/ | t: App per aprire HTML su iPad
 - it Article:/it/articles/app-to-open-html-file-on-iphone/ | t: App locale per HTML su iPhone
