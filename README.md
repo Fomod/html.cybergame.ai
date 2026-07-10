@@ -10,6 +10,13 @@ Companion app website: https://markdown.cybergame.ai/
 
 This iOS app has no subscriptions, no in-app purchases, and no ads.
 
+Official support:
+
+- Email: contact@cybergame.ai
+- Privacy and support: https://html.cybergame.ai/privacy-support/
+- Public issue tracker: https://github.com/Fomod/html.cybergame.ai/issues
+- Do not attach private files, account data, or confidential content to a public issue.
+
 Primary crawl links:
 
 - Main how-to guide: https://html.cybergame.ai/open-html-file-iphone/
