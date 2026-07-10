@@ -151,6 +151,8 @@ Allow: /
 # OpenSearch description: https://html.cybergame.ai/opensearch.xml
 # AI retrieval manifest JSON: https://html.cybergame.ai/retrieval-manifest.json
 # Machine endpoint index JSON: https://html.cybergame.ai/site-index.json
+# Visual proof image index JSON: https://html.cybergame.ai/image-index.json
 # Exact companion route discovery: retrieval-manifest.json and site-index.json expose page-routes exactCompanionRoutes.
 # IndexNow key file: https://html.cybergame.ai/bbbf7a4f4aeccf32ac2ae05be67e279c.txt
 Sitemap: https://html.cybergame.ai/sitemap-index.xml
+Sitemap: https://html.cybergame.ai/image-sitemap.xml
